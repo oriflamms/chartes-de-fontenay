@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1189_d1e230148">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 108@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 59<hi rend="superscript">v</hi>-60<hi rend="superscript">r</hi> (<hi rend="italic">Estormer</hi>,
+                            41)</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps background(lightGray)">Inventaire  </hi>
+                            <hi rend="smallcaps" xml:space="preserve">: </hi>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1171" notAfter="1189">[1171-1189]</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e157258">Stephanus Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e157260">Eduensis</placeName>
+                        episcopus</persName>, notum fieri volo tam futuris quam presentibus
+                        <persName key="d1e25164" xml:id="d1e157264">Guichardus</persName> et
+                        <persName key="d1e25170" xml:id="d1e157267">Renaudus frater ejus</persName>
+                    et <persName key="d1e25176" xml:id="d1e157270">Warnerius sororius
+                        eorum</persName> dimittunt ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e157273">Fonteneti</orgName> quicquid habebant in territorio
+                        <placeName key="stutzmann_himanis#324449" xml:id="d1e157277">
+                        <foreign>Estormer</foreign>
+                    </placeName> et in finagio ejus in decimis et in terris et in omnibus commodis.
+                    Hujus rei testes sunt <persName key="d1e25182" xml:id="d1e157281">Humbertus
+                        magister de <placeName key="stutzmann_himanis#324904" xml:id="d1e157283">Ponte
+                            Arberti</placeName>
+                    </persName> et <persName key="d1e25188" xml:id="d1e157286">Bernardus confrater
+                        ejus</persName>, <persName key="d1e25194" xml:id="d1e157289">frater Garinus
+                        magister Sancti Aniani</persName>, <persName key="d1e25201" xml:id="d1e157292">Lambertus de <placeName key="stutzmann_himanis#324432" xml:id="d1e157294">
+                            <foreign>Corfergeol</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e25207" xml:id="d1e157298">Girardus capellanus
+                        noster</persName>. Hoc donum laudavit et ex parte sua fecit <persName key="d1e25213" xml:id="d1e157302">Hulduidis, uxor <persName key="d1e25219" xml:id="d1e157304">Warnerii</persName>, soror videlicet predictorum
+                        fratrum <persName key="d1e25225" xml:id="d1e157307">Guichardi</persName> et
+                            <persName key="d1e25231" xml:id="d1e157310">Renaudi</persName>
+                    </persName>. Hoc donum etiam laudaverunt <persName key="d1e25238" xml:id="d1e157313">Gaufridus filius prefati <persName key="d1e25244" xml:id="d1e157315">Warnerii</persName>
+                    </persName> et <persName key="d1e25250" xml:id="d1e157318">filia ejus
+                        Adelina</persName>. Hujus rei testes sunt <persName key="d1e25256" xml:id="d1e157321">Dodo capellanus <placeName key="stutzmann_himanis#324475" xml:id="d1e157323">Marmanie</placeName>
+                    </persName>, <persName key="d1e25262" xml:id="d1e157326">Oilerius</persName>,
+                        <persName key="d1e25268" xml:id="d1e157329">Martinus</persName>, <persName key="d1e25275" xml:id="d1e157333">Stephanus forestarius</persName>.</p>
+            </body>
+        </text>
+    </TEI>

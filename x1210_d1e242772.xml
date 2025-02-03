@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1210_d1e242772">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original *262@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 257, pièce 14, fol. 5<hi rend="superscript">v </hi>: « L’an
+                            1210, Thibault d’Eschalo donna a Fontenay la moitié d’un champ de Ochiis
+                            et eut 20 £ dijonnoises de recompense et une vache et la robbe du
+                            maistre des freres convers de Poseulz nommé Orric »</bibl>
+                        <bibl>ADCO 15 H 1, <hi rend="background(red)">fol. @</hi>
+                            <hi rend="superscript background(red)">@</hi> (Poiseul. R)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 95<hi rend="superscript">r</hi> (Poiseul. R) :
+                            « Donation fait par le seigneur de Chalot a Fontenet de la moitie du
+                            Champ des ouches. 1210 »</bibl>
+                        <bibl>ADCO 15 H 4, p. 319-320 (XV. 12. 5) : « […] en date de 1210 […]
+                            donnation faite […] par Thibault d’Eschalot de la moitié du Champs des
+                            Ouches, comme il l’avoit par droit d’hérédité avec son frère Viard, etc.
+                            et scellé d’un sceau qui y étoit autrefois, à queue de parchemin
+                            pendant »</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1210-12-31">1210</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p/>
+            </body>
+        </text>
+    </TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1200_d1e237600">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 189@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Copie partielle : ADCO 15 H 13* (cart. 204), fol. 28<hi rend="superscript">v</hi>-29<hi rend="superscript">r</hi> (Papes,
+                            B) : « <hi rend="italic">Hoc instrumentum sine bulla eadem continet ac
+                                ea quae notata est littera A, ex adverso folii septimi. Restat etiam
+                                sigillum plumbeum.</hi> »</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps" xml:space="preserve">Inventaire </hi> : ADCO
+                            15 H 1, fol. III<hi rend="superscript">r</hi> (Papes, B) : « Bulle du
+                            pape Innocent, concernant la mesme chose que dessus, avec a permission
+                            aux abbés de pouvroir faire touttes les bénédictions et de prendre
+                            gratis le saint cresme des evesques les plus voisins, 1200 » <hi rend="background(red)">(noter la présence de la date,
+                                inhabituelle)</hi></bibl>
+                        <bibl>ADCO 15 H 4, p. 433-434 (XXIII. 2. 11) : « … en date de 1246 est une
+                            bulle d’Innocent IV du nom, lequel confirme toutes les indulgences et
+                            priviléges accordés par les papes ses prédécesseurs, ainsi que toutes
+                            les donnations faites à l’Eglise de de Fontenet, donnant permission aux
+                            abbés de lad. Eglise de prendre gratis le Saint Chrême chez les évêques
+                            les plus voisins, etc. et scellé d’un sceau qui y étoit autrefois. » <hi rend="background(red)">(la perte de la bulle explique l’erreur)</hi>
+                            <hi rend="bold background(red)" xml:space="preserve">[Acte 47] </hi>
+                            <hi rend="background(red)">B.</hi>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1200">[1200]</date>
+                </creation>
+                <abstract>
+                    <p>Innocent [III] </p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <persName key="stutzmann_himanis#324639" xml:id="d1e162581">Innocentius episcopus, servus
+                        servorum Dei</persName>, dilectis filiis <persName key="d1e27902" xml:id="d1e162584">Bernardo abbati monasterii de <orgName key="stutzmann_himanis#282689" xml:id="d1e162586">Fontaneto</orgName>
+                    </persName> ejusque fratribus tam presentibus quam futuris regularem vitam
+                    professis. <app>
+                        <lem wit="#a">in perpetuum</lem>
+                        <rdg wit="#B">in pontificatu pontifex maximus</rdg>
+                        <note>Variante issue de l’abréviation ‘in ppm’ et corrigée silencieusement
+                            par Wiederhold</note>
+                    </app>. Religiosam vitam eligentibus etc.</p>
+            </body>
+        </text>
+    </TEI>

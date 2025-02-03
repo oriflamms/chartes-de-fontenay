@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1170_d1e246723">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 55@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <head>Est-ce un faux ?</head>
+                        <witness n="A">Original perdu.</witness>
+                        <witness n="B">Copie perdue. — Parchemin</witness>
+                        <witness n="C">ADCO 15 H 70, pièce 2. — Copie collationnée du 2 mars 1703
+                                <hi rend="background(red)">(contenant un autre acte) d’une copie
+                                collationnée du 8 mars 1441</hi>, après l’introduction et avant
+                            l’acte « Ego Guichardus… ». De la même main que les actes copiés : * En
+                            tête : « En ce [pré]sent cayer sont conscriptes [partie lésée] tres des
+                            instrumens et autres qui collationé [partie lésée] téz par la main de la
+                            cour et desquelz transc[ripti]ons des originaux des religieux, abbé et
+                            co[uvent] de Nostre Dame de Fontenet au pays de Bourgogne, au dioceze
+                            d’Autun a l’encontre des religieux abbé et couvent de St Martin d’Autun,
+                            en la cause mue et pendante par devant monseigneur le prevost de Paris,
+                            en la cause pendant en jugement du Chatelet de Paris entre lesdites
+                            parties ». Et, de la même main, à la fin : « Collation faite par la
+                            [main] de la cour en la maniere et selon [partie lésée] l’est contenu en
+                            l’acte fait en jugement en ce jour, ce present cayer, le mardy huictieme
+                            jour du mois de mars l’an mil quatre cens quarente et un. Ita est. Signé
+                            Doulzne ». D’une autre main, à la suite : « Collationné a un tiltre en
+                            parchemin au carré en douze feuillets aux articles premier, deux, cinq
+                            et dernier, representé et a l’instant retiré par discrette personne
+                            Marie-François Chamereau, prebtre, agent des affaires de Monsieur l’abbé
+                            de Fontenay sans adjonction ny diminution par moy Jean Daubenton,
+                            notaire et tabellion royal hereditaire de la residance de Mombard au
+                            château de Sainct Remy, a la requisition du sieur Chamereau pour valoir
+                            et servir audit seigneur de Fontenay ce qu’il appartiendra, dont acte et
+                            me suis soussigné avec ledit sieur Chamereau, ce jour d’huy deux mars
+                            mil sept cens trois. [signatures originales :] Daubenton ; Chamereau.
+                            [d’une autre main] Controllé et sellé a Monbard le 7<hi rend="superscript">e</hi> mars 1703 , receu onze sous. [signé :]
+                            Siret. Au dos : « Collationné du titre par lequel l’abbaye de Fontenet
+                            est chargée de payer annuellement 4 muids de froment a celle de St
+                            Martin d’Autun. Bongrain et bona fide ». Au dos : « Premier » ;
+                            « Authimant » Au dos : « Trente-trois. / Alex. Derepas ».</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. @ (@@@@, @)</bibl>
+                        <bibl>ADCO 15 H 3 / 4, p. @ (@. @. @) <hi rend="background(red)">non vu dans
+                                les inventaires pour Etormay</hi>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1170-12-31">1169 ou 1170</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324577" xml:id="d1e168861">Dei gratia dux <placeName key="stutzmann_himanis#325098" xml:id="d1e168863">Burgundiae</placeName>,
+                        Hugo</persName>, pro salute animae meae et sacrorum locorum desiderio
+                        <placeName key="stutzmann_himanis#317554" xml:id="d1e168867">Hyerosolimam</placeName>
+                    profecturus, donavi Deo et ecclesiae sanctae Mariae de <orgName key="stutzmann_himanis#282689" xml:id="d1e168870">Fonteneto</orgName> in elemosinam,
+                    quidquid juris habebam in <placeName key="stutzmann_himanis#324449" xml:id="d1e168873">
+                        <foreign>Estormet</foreign>
+                    </placeName> et in toto finagio ejusdem et in terris circumjacentibus, tam in
+                    planis quam in nemoribus, nichil ibi penitus retinens, dedi etiam quidquid de
+                    casamento meo erat apud <placeName key="stutzmann_himanis#324335" xml:id="d1e168877">Noville Montem</placeName> et concessi praefatae ecclesiae fratribus
+                    acquirendum quidquid in villa acquirere possint. Huic testis est <persName key="d1e30023" xml:id="d1e168881">mater mea ducissa, ..,</persName> prece
+                    maxime hoc feci et <persName key="d1e30030" xml:id="d1e168884">Girardus de
+                            <placeName key="stutzmann_himanis#324995" xml:id="d1e168886">
+                            <foreign>Reum</foreign>
+                        </placeName>
+                    </persName> et <persName key="d1e30036" xml:id="d1e168890">Guilelmus de
+                            <placeName key="stutzmann_himanis#324336" xml:id="d1e168892">
+                            <foreign>Orgul</foreign>
+                        </placeName>
+                    </persName>. Hoc laudavit <persName key="d1e30042" xml:id="d1e168896">ducissa
+                        conjux mea Aalidis</persName>. Unde testes sunt <persName key="d1e30048" xml:id="d1e168899">Nicolaus capellanus ducis</persName>, <persName key="d1e30054" xml:id="d1e168902">Henricus capellanus de <placeName key="stutzmann_himanis#324896" xml:id="d1e168904">
+                            <foreign>Argille</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e30060" xml:id="d1e168909">Hugo de <placeName key="stutzmann_himanis#324476" xml:id="d1e168911">
+                            <foreign>Marmeesse</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e30067" xml:id="d1e168915">Robertus de <placeName key="stutzmann_himanis#324896" xml:id="d1e168917">
+                            <foreign>Argille</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e30073" xml:id="d1e168921">Petrus
+                        Viqaratus</persName>. Ne qua igitur ex his in posterum ecclesiae <orgName key="stutzmann_himanis#282689" xml:id="d1e168924">Fonteneti</orgName> calumnia surgat,
+                    cartae praesentis scripto haec posterorum memoriae tradere et tam meo quam
+                    ducissae sigillo firmare volui. Anno <num>m° c° lx<add>i</add>x</num>.</p>
+            </body>
+        </text>
+    </TEI>

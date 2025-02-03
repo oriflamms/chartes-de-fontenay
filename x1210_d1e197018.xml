@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1210_d1e197018">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 778 + Access n° 779</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A1">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 148, pièce 8</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>145</height>
+                                                  <width>157</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>85</height>
+                                                  <width>157</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="10">réglure à la
+                                                pointe sèche (rectrices uniquement : 7 (devise), 85
+                                                (10 ur), 30 mm) ; repli de 20 mm à une simple
+                                                entaille centrale, restes de parch. de l’attache.
+                                                Mention hors teneur : (en marge supérieure, bas des
+                                                lettres, à l’endroit) « CYROGRAPHUM ».</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Desmoraux. 9 » ;
+                                        [effacé] « Carta Radulfi, Laurencii de Luceniaco / de
+                                        finagio des […] et Sancti Martini » ; [barré et gratté]
+                                        « destormer XLIX » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Les Moraux. Don fait par
+                                        Raoul de Lucenay et ses freres de l’usage qu’il avoit aux
+                                        Moraux et de la terre de Martin, l’an 1209. Cotte DD. Deux
+                                        titres pareils » ; (1787) « N° 6 / 1209 au mois
+                                        d’avril »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1209 / 04 ou 1210 / 04 / 1-17 [n. st.]</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="A2">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 148, pièce 9</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>156</height>
+                                                  <width>155</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>102</height>
+                                                  <width>150</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="11">réglure à la
+                                                pointe sèche (rectrices uniquement : 10 (devise),
+                                                105 (11 ur), 23 mm) ; repli de 18 mm à une simple
+                                                entaille centrale, avec bande de parchemin pour
+                                                sceau appendu. Mention hors teneur : (en marge
+                                                supérieure, haut des lettres, à l’envers)
+                                                « CYROGRAPHUM ». </layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) [effacé] « Carta Radulfi,
+                                        Laurencii » ; [gratté] « XLIX » ; « Desmoraux. 9. 9.
+                                        I. »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1209 / 04 ou 1210 / 04 / 1-17 [n. st.]</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="B">Cartulaire 1, fol. 63<hi rend="superscript">r</hi> (<hi rend="italic">Estormer</hi>, 49)</witness>
+                        <witness n="C">ADCO 15 H 10* (cart. 201<hi rend="superscript">bis</hi>),
+                            fol. 162<hi rend="superscript">r-v</hi> (Fontaines-en-Duesmois -
+                            Emorots. DD) : « <hi rend="italic">Duo sunt instrumenta ejusdem tenoris
+                                et ambo vix legi possum propter deletionem plurium
+                            litterarum</hi> ».</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 85<hi rend="superscript">r</hi>
+                            (Fontaines-en-Duesmois - Emorots. DD)</bibl>
+                        <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">@</hi>
+                            (Fontaines-en-Duesmois - Emorots. DD)</bibl>
+                        <bibl>ADCO 15 H 5, <hi rend="background(red)">p. 230 et suiv.</hi>
+                        </bibl>
+                        <bibl>ADCO 15 H 4, p. 258 (XIII. 6. 6) : « deux titres joints ensemble …
+                            scellés des sceaux qu’il y avoit autrefois, ne restant plus que des
+                            queues de parchemin pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1209-04" notAfter="1210-04-17">
+                        1209, avril ou 1210, 1-17 avril [n. st.]</date>
+                </creation>
+                <abstract>
+                    <p>Chirographe</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0016.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0017.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0018.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0019.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body><p>Noverint omnes presentes <app>
+                            <lem wit="#A1 #A2" type="vacat"/>
+                            <rdg wit="#B">pariter</rdg>
+                        </app> et futuri quod <persName key="d1e12540" xml:id="d1e133659">
+                            <app>
+                                <lem wit="#A1 #A2">Radulfus</lem>
+                                <rdg wit="#B">Radulphus</rdg>
+                            </app>
+                        </persName>, <persName key="d1e12547" xml:id="d1e133666">Laurentius</persName> et <persName key="d1e12553" xml:id="d1e133669">Robertus, fratres de <placeName key="stutzmann_himanis#324470" xml:id="d1e133671">
+                                <app>
+                                    <lem wit="#A1 #A2">Luceniaco</lem>
+                                    <rdg wit="#B">
+                                        <foreign>Lucenai</foreign>
+                                    </rdg>
+                                </app>
+                            </placeName>
+                        </persName> quitaverunt domui <orgName key="stutzmann_himanis#282689" xml:id="d1e133679">Fonteneti</orgName> usuarium et omnes calumpnias quas
+                        antea habebant in finagio de <placeName key="stutzmann_himanis#324488" xml:id="d1e133683">
+                            <foreign>
+                                <app>
+                                    <lem wit="#A1 #A2">Moraus</lem>
+                                    <rdg wit="#B">Moraux</rdg>
+                                </app>
+                            </foreign>
+                        </placeName> de terris <placeName key="stutzmann_himanis#325011" xml:id="d1e133691">Sancti Martini</placeName>. Promiserunt etiam quod si aliquis
+                        calumpniare vellet in ipso finagio fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e133694">Fontenetenses</orgName>
+                        <app>
+                            <lem wit="#A1 #A2">garantirent</lem>
+                            <rdg wit="#B">guarantirent</rdg>
+                        </app> eos ac defenderent. Et propter hanc quitationem, Fontenetenses
+                        promiserunt eis in domum suam locum suum <app>
+                            <lem wit="#A1 #A2">et societatem</lem>
+                            <rdg wit="#B" type="omission"/>
+                        </app> cum de seculo venire voluerint et in seculo quamdiu erunt tam eos
+                        quam res eorum pro posse suo custodirent. Testes sunt hujus rei <persName key="d1e12559" xml:id="d1e133707">Hugo cellerarius</persName>, <persName key="d1e12565" xml:id="d1e133711">Odo de <placeName key="stutzmann_himanis#324459" xml:id="d1e133713">
+                                <foreign>Grinun</foreign>
+                            </placeName>
+                        </persName>, monachi de Fonteneto, frater <persName key="d1e12571" xml:id="d1e133717">Bernardus magister <placeName key="stutzmann_himanis#324489" xml:id="d1e133719">Morville</placeName>
+                        </persName>, <persName key="d1e12577" xml:id="d1e133722">Robertus major de
+                                <placeName key="stutzmann_himanis#324421" xml:id="d1e133724">Buxeio</placeName>
+                        </persName>, <persName key="d1e12584" xml:id="d1e133727">Renaudus de
+                                <placeName key="stutzmann_himanis#324449" xml:id="d1e133729">
+                                <foreign>Estormer</foreign>
+                            </placeName>
+                        </persName>. Et ut hoc totum firmum permaneat et ratum, ego <persName key="d1e12590" xml:id="d1e133733">Willermus, abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e133735">Fonteneti</orgName>
+                        </persName>, presens scriptum sigillo <app>
+                            <lem wit="#A1 #A2">meo</lem>
+                            <rdg wit="#B">nostro</rdg>
+                        </app> roboravi. Actum anno incarnati verbi <num>
+                            <app>
+                                <lem wit="#A1 #B">m° cc° ix°</lem>
+                                <rdg wit="#A2">milesimo ducentesimo nono</rdg>
+                            </app>
+                        </num>, mense aprili.</p>
+
+                
+            </body>
+        </text>
+    </TEI>

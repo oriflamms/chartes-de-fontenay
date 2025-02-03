@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1195_d1e232344">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 141@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 63<hi rend="superscript">v</hi>-64<hi rend="superscript">r</hi> (<hi rend="italic">Estormer</hi>,
+                            51)</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps background(lightGray)" xml:space="preserve">Inventaire </hi>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1195-11-22">1195, 22 novembre. —
+                        Fontenay</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="d1e26212" xml:id="d1e158894">H. dictus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e158896">Fonteneti</orgName>
+                    </persName>, notum facio presentibus et futuris quod <persName key="d1e26219" xml:id="d1e158899">Rainaudus de <placeName key="stutzmann_himanis#324449" xml:id="d1e158901">
+                            <foreign>Estormer</foreign>
+                        </placeName>
+                    </persName> laudavit et concessit omnia dona et elemosinas quas predecessores
+                    sui contulerant pro remedio aniamrum suarum Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e158905">Fonteneti</orgName> et universas
+                    quitavit quierelas de quibus fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e158908">Fonteneti</orgName> sepius inquietaverat et plurima
+                    gravamina intulerat, tali conditione ut quando habitum religionis in memorata
+                    domo suscipere voluerit aut etiam pro corporali infirmitate se in ipsam deferri
+                    fecerit, benigne a fratribus sicut domesticus suscipietur, excepto si lepra
+                    perfusus vel morbo caduco fuerit infectus que omnimodis non recipiuntur in
+                    ordine. Quod si forte in posterum idem <persName key="d1e26225" xml:id="d1e158911">Renaudus</persName> pravo ductus consilio aliquam moverit
+                    predictis fratribus denuo calumpniam, nullomodo ei ab aliquo credatur sed erit
+                    omnibus tanquam fidei sue transgressor deinceps sicut ethnicus et publicanus qui
+                    coram his testibus ea que predicta sunt sub jurejurando penitus abrenunciavit :
+                        <persName key="d1e26231" xml:id="d1e158915">Willermo videlicet <orgName key="stutzmann_himanis#282689" xml:id="d1e158917">Fonteneti</orgName>
+                        priore</persName>, <persName key="d1e26237" xml:id="d1e158921">Andrea de
+                            <placeName key="stutzmann_himanis#324421" xml:id="d1e158923">
+                            <foreign>Buxi</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e26243" xml:id="d1e158927">Bernardo magistro de
+                            <placeName key="stutzmann_himanis#324449" xml:id="d1e158929">
+                            <foreign>Estormer</foreign>
+                        </placeName>
+                    </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e158933">Odone <placeName key="stutzmann_himanis#324370" xml:id="d1e158935">Tullionis</placeName>
+                        archipresbitero</persName>, <persName key="d1e26249" xml:id="d1e158939">Alberico de <placeName key="stutzmann_himanis#324449" xml:id="d1e158941">
+                            <foreign>Estormer</foreign>
+                        </placeName>
+                    </persName> et <persName key="d1e26256" xml:id="d1e158945">Radulpho filio
+                        ejus</persName>. Acta sunt enim hec in die sancte Cecilie apud <placeName key="stutzmann_himanis#324453" xml:id="d1e158949">Fontenetum</placeName>, anno ab
+                    incarnatione Domini <num>m° c° xc° v°</num>. et ut rata habeantur in posterum
+                    pesentem cartam cyrographo signari precepi et sigilli mei munimine roboravi.</p>
+            </body>
+        </text>
+    </TEI>

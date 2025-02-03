@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1162_d1e223366">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 37@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">A. Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 25<hi rend="superscript">r-v</hi> (<hi rend="italic">Abbatia</hi>, 10 ; annotation marginale : « <hi rend="italic">Villenarum</hi> ») ; table : « <hi rend="italic">Carta
+                                de decimis Villenarum</hi> »</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl sameAs="#Watanabe1991">
+                            <biblScope>p. 290, note 66, p. 291 note 73 (compréhension contestable)
+                                et p. 292 note 78</biblScope>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1154" notAfter="1162">[1154-1162]<note>Date d'après l'abbatiat
+                            d'Arnaud</note></date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <persName key="stutzmann_himanis#324555" xml:id="d1e152394">Godefridus, Dei gratia
+                            <placeName key="stutzmann_himanis#317574" xml:id="d1e152396">Lingonensis</placeName> episcopus</persName>, <persName key="stutzmann_himanis#324660" xml:id="d1e152400">Arnaudo venerabili <orgName key="stutzmann_himanis#282689" xml:id="d1e152402">Fontenetensium</orgName>
+                        abbati</persName> salutem. Petitio vestra quia rationabilis est <sic corresp="#B">grantanter</sic> a nobis effectui data est. Ut ergo postulastis
+                    decimam vinearum vestrarum quas apud <placeName key="stutzmann_himanis#325059" xml:id="d1e152409">Villanias</placeName> habetis sive habebitis damus vobis
+                    ex hoc et deinceps. Quicquid de eadem decima <persName key="d1e22740" xml:id="d1e152412">Rainaldus <placeName key="stutzmann_himanis#324487" xml:id="d1e152414">Montis Barri</placeName> decanus</persName>
+                    calumpniabatur, seu presbiter ecclesiam de <placeName key="stutzmann_himanis#325059" xml:id="d1e152418">Villaniis</placeName> tenens, jure perpetuo concedimus
+                    ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e152422">Fonteneti</orgName>
+                    cum laude <persName key="d1e22746" xml:id="d1e152425">Girardi earumdem partium
+                        archidiaconi</persName> et cum laude prefati <persName key="d1e22752" xml:id="d1e152428">Rainaldi</persName> cujus <term>decanie</term> predicta
+                    subjacet parrochia. Hoc autem donum presenti carta firmamus quam etiam sigilli
+                    nostri appensione munimus ut quicumque vobis amodo de eadem decima injuriam seu
+                    dampnum aliquid fecerit donec vobis satisfaciat excommunicamus. De hoc testes
+                    sumus, ego ipse <persName key="d1e22759" xml:id="d1e152434">Godefridus</persName> et duo prenominati <persName key="d1e22765" xml:id="d1e152437">Girardus archidiaconus</persName> et <persName key="d1e22771" xml:id="d1e152441">Rainaldus decanus</persName>, <persName key="d1e22777" xml:id="d1e152444">Christianus monachus de <orgName key="stutzmann_himanis#284255" xml:id="d1e152446">Alba Ripa</orgName>
+                    </persName>, <persName key="d1e22783" xml:id="d1e152449">
+                        <hi rend="background(green)">Acelinus monachus de <orgName key="stutzmann_himanis#282689" xml:id="d1e152452">Fonteneto</orgName>
+                        </hi>
+                    </persName>, <persName key="d1e22789" xml:id="d1e152455">Petrus abbas <orgName key="stutzmann_himanis#283938" xml:id="d1e152457">monasterii sancti
+                            Johannis</orgName>
+                    </persName>, <persName key="stutzmann_himanis#324566" xml:id="d1e152460">Galterius
+                        canonicus frater <persName key="himanis_324670" xml:id="d1e152462">ducis</persName>
+                    </persName>, <persName key="d1e22796" xml:id="d1e152465">Hugo de <placeName key="stutzmann_himanis#325002" xml:id="d1e152467">Riveriis</placeName>
+                        archidiaconus</persName>.</p>
+            </body>
+        </text>
+    </TEI>

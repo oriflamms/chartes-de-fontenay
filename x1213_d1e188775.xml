@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e188775">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 113</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 100, pièce 1</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>140/135 (repli 20 mm)</height>
+                                                  <width>153</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>100</height>
+                                                  <width>150</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="10">pas de réglure ;
+                                                repli de 20 mm, avec 1 simple entaille
+                                                centrale</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Flaci » ; « Confirmatio
+                                        ecclesie de Curcellis » ; « Flace. VI<hi rend="superscript">a</hi> » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Courcelles. I ». Sur la
+                                        chemise de l’acte, où l’acte est transcrit : (1787) « N° 2 /
+                                        Sans date »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1189-1213</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="B">
+                            <desc>Copie partiellement mutilée dans Cartulaire 1, fol. 41<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>,
+                                6) ; table : « <hi rend="italic">Confirmatio Gauterii de
+                                eodem</hi> »</desc>
+                        </witness>
+                        <witness n="C">
+                            <desc>Cartulaire 2, fol. 98<hi rend="superscript">v</hi>-99<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>,
+                                6) ; table mutilée</desc>
+                        </witness>
+                        <witness n="D">
+                            <desc>ADCO 15 H 13* (cart. 204), fol. 172<hi rend="superscript">v</hi>
+                            </desc>
+                        </witness>
+                        <witness n="E">
+                            <desc>ADCO 15 H 100, chemise de la pièce 1. — Copie de 1787</desc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 38<hi rend="superscript">v</hi> (Courcelles. I) :
+                            « … il est joint à H » <hi rend="background(red)">(acte Courcelles, H,
+                                auj. perdu)</hi>
+                        </bibl>
+                        <bibl>ADCO 15 H 4, p. 27 (V. 2. 2) : « … scellé d’un sceau de cire verte où
+                            est imprimée la figure d’un évêque… »</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1189" notAfter="1213">[1189-1213]</date>.  [Cet acte renvoie à l’original de Cartulaire 1, fol. 40<hi rend="superscript">v</hi>-41<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 5) 
+                    
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_100_0002.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_100_0003.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                    <p>
+                        <persName key="stutzmann_himanis#324610" xml:id="d1e128066">Gauterius, Dei gratia
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e128068">Eduensis</placeName> episcopus</persName>, omnibus tam presenbus
+                        quam futuris ad quos <lb n="2"/> littere presentes pervenerint in perpetuum.
+                        Ordinationes et institutiones ante<lb n="3" break="no"/>cessorum nostrorum
+                        tanto ferventius observare tenemur, quanto attentius desi<lb n="4" break="no"/>deramus que a nobis ordinata sunt a successoribus nostris
+                        manere inconcus<lb n="5" break="no"/>sa. Quapropter universitati vestre per
+                        presentes litteras notificamus quod nos donati<lb n="6" break="no"/>onem
+                        illam quam bone memorie <persName key="stutzmann_himanis#324654" xml:id="d1e128083">Humbertus <placeName key="stutzmann_himanis#319548" xml:id="d1e128085">Eduensis</placeName> episcopus</persName>, antecessor noster, cum
+                            con<lb n="7" break="no"/>sensu capituli sui de <app>
+                            <lem wit="#A">ecclesia</lem>
+                            <rdg type="omission" wit="#B" cause="lacuna"/>
+                        </app> de <placeName key="stutzmann_himanis#325264" xml:id="d1e128096">Curcellis</placeName> domui <orgName key="stutzmann_himanis#282689" xml:id="d1e128099">Fonteneti</orgName> fecit, sicut <lb n="8"/> in
+                        illius <app>
+                            <lem wit="#A">autentico</lem>
+                            <rdg wit="#B">auten||</rdg>
+                        </app> continetur, ratam habemus et firmam. Et ut donatio illa <lb n="9"/>
+                        perpetuam habeat firmitatem, presentem cartam sigilli nostri auctoritate <lb n="10"/> confirmamus.</p>
+                
+            </body>
+        </text>
+    </TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1173_d1e226955">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 69@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 35<hi rend="superscript">r-v</hi> (Papes, DD) : « <hi rend="italic">Restat sigillum
+                                plumbeum</hi>. »</witness>
+                        <witness n="a">a. <bibl sameAs="#Wiederhold1985"><biblScope>t. I,
+                                    p. 201-202, d’après B</biblScope></bibl></witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps" xml:space="preserve">Inventaire </hi> : ADCO
+                            15 H 1, fol. IV<hi rend="superscript">r</hi> (Papes, DD)</bibl>
+                        <bibl>ADCO 15 H 4, p. 435 (XXIII. 3. 2) : « scellé d’un sceau de plomb à
+                            queue de ficelle pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1160-06-17" notAfter="1173-06-17">[1160
+                        ou 1173], 17 juin. — Anagni <note>L'itinéraire d'Alexandre III autorise le
+                            17 juin 1160, mais aussi les années 1173, 1174, 1176. "R. abbas
+                            Flaviniaci" désigne l'abbé Renaud (av. 1152-ap. 1160), dont le
+                            successeur Gaucher est attesté en 1173-85 (DHGE, XVII, 403-405). La date
+                            de 1160 est la plus probable.</note>
+                    </date>
+                    <hi rend="background(red)">Voir <bibl>JL 13314</bibl></hi>
+                </creation>
+                <abstract>
+                    <p>Alexandre [III]ordonne aux abbé, religieux et habitants de Flavigny de rendre
+                        incessamment les vignes et dîmes prises à l’abbaye de Fontenay, et de rendre
+                        les dommages à celle-ci, sauf à en répondre devant les évêque de Belley et
+                        de Saint-Jean de Maurienne.</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <persName key="d1e24041" xml:id="d1e154979">Alexander episcopus</persName>,
+                    servus servorum Dei, dilectis filiis abbati et fratribus <orgName key="stutzmann_himanis#284217" xml:id="d1e154982">Flaviniacensibus</orgName> et
+                    burgensibus ejusdem loci salutem et apostolicam benedictionem. Ex parte
+                    dilectorum filiorum nostrorum abbatis et fratrum <orgName key="stutzmann_himanis#282689" xml:id="d1e154985">
+                        <app>
+                            <lem>
+                                <sic corresp="#B">Fontanentensium</sic>
+                            </lem>
+                            <rdg wit="#a">Fontanectensium</rdg>
+                        </app>
+                    </orgName> gravis est ad nos querela perlata quod vineas, quas eis cum decimis
+                    apostolicae sedis privilegio confirmavimus et de quibus annuum censum partim
+                    vobis, filii monachi, partim burgensibus more aliorum vicinorum tam clericorum
+                    quam laicorum annis pluribus reddiderunt, tempore vindemiarum dissipantes,
+                    quosdam de fratribus ipsis ausu nefario invasistis et ipsis dampnum non modicum
+                    inferentes, decimas vinearum suarum auferre non dubitastis ; terram quoque, quam
+                    in eodem territorio vacantem sub annuo censu cum vineis longo tempore
+                    possederant, de palmitibus earumdem vinearum plantari fecistis. Cumque vobis,
+                    filii monachi, et <persName key="d1e24047" xml:id="d1e154993">R., quondam abbati
+                        vestro</persName>, scripta nostra miserimus, mandantes ut decimas
+                    prescriptarum vinearum restitueretis et de cetero super eisdem decimis nullam
+                    inferretis molestiam, nec ille nec vos mandato nostro, sicut decuit,
+                    obtemperastis nec ab eorum gravamine vestras voluistis manus aliquatenus
+                    continere. Quia igitur, quanto predicti abbas et fratres majoris religionis et
+                    honestatis habentur et beato Petro et nobis magis sunt devoti, tanto gravius et
+                    molestius reputamus, si quod eis incommodi vel detrimenti super vineis aut
+                    decimis, quae sibi auctoritate privilegiorum Romanae ecclesiae confirmatae sunt,
+                    intulistis per apostolica vobis scripta precipiendo mandamus et in virtute
+                    obedientiae precipimus ut ab indebita molestia et infestatione predictorum
+                    abbatis et fratrum penitus desistentes eis prescriptam terram plantatam cum
+                    prelibatis vineis et earum decimis sine mora et difficultate qualibet
+                    restituatis et quiete ac pacifice dimittatis, de dampnis vero et injuriis
+                    illatis congrue satisfaciatis aut super his omnibus in presentia venerabilium
+                    fratrum nostrorum <persName key="d1e24054" xml:id="d1e154996">
+                        <placeName key="stutzmann_himanis#325020" xml:id="d1e154997">Bellicensis</placeName>
+                    </persName> et <persName key="d1e24060" xml:id="d1e155000">
+                        <placeName key="stutzmann_himanis#324948" xml:id="d1e155001">Maurianensis</placeName>
+                    </persName> episcoporum plenam justitiam appellatione remota exhibeatis. Nos
+                    enim eis dedimus in mandatis, ut vos ad alterum horum efficiendum aucthoritate
+                    nostra moneant et districte compellant. Datum <placeName key="stutzmann_himanis#324921" xml:id="d1e155005">Anagniae</placeName>, decimo <app>
+                        <lem>quinto</lem>
+                        <rdg wit="#a">XV°</rdg>
+                    </app> calendas julii.</p>
+            </body>
+        </text>
+    </TEI>

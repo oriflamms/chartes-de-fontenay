@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1198_d1e235678">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 172@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">A. <hi rend="background(red)">Original perdu</hi>
+                        </witness>
+                        <witness n="B">B. Cartulaire 1, fol. 43<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, <hi rend="smallcaps">11</hi>) ; table
+                                (fol. 38[bis]<hi rend="superscript">r</hi>) : « <hi rend="italic">XI. Carta filiorum ejus</hi> », suivant « <hi rend="italic">Carta
+                                Renerii de Cerille</hi> ».</witness>
+                        <witness n="C">Cartulaire 2, fol. 100<hi rend="superscript">v</hi>-101<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 11) ;
+                            table mutilée</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. @<hi rend="superscript">@</hi> (Grignon. TT)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 79<hi rend="superscript">v</hi> (Grignon. TT)</bibl>
+                        <bibl>ADCO 15 H 3 / 4, p. @ (@. @. @)</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1198-12-31">1198</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e161202">Gauterius, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e161204">Eduensis</placeName>
+                        episcopus</persName>, notum fieri volo presentibus et futuris quod <persName key="d1e27193" xml:id="d1e161208">Willermus de <placeName key="stutzmann_himanis#324429" xml:id="d1e161210">Cerilliaco</placeName>
+                    </persName> et <persName key="d1e27199" xml:id="d1e161213">Petrus frater
+                        ejus</persName> et <persName key="d1e27205" xml:id="d1e161216">Edelina
+                        eorumdem soror</persName> dederunt ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e161219">Fonteneti</orgName> in perpetuam elemosinam quicquid
+                    juris habebant per totam vallem a <placeName key="stutzmann_himanis#325226" xml:id="d1e161223">via <placeName key="stutzmann_himanis#324356" xml:id="d1e161225">Saigniaci</placeName> que appellatur Waudina</placeName> que ducit in
+                    montem usque ad <placeName key="stutzmann_himanis#324450" xml:id="d1e161229">Fanum</placeName>. Hujus rei testes sunt <persName key="d1e27211" xml:id="d1e161232">Willermus de <placeName key="stutzmann_himanis#324429" xml:id="d1e161234">Cerilliaco</placeName>, monachus de <orgName key="stutzmann_himanis#284243" xml:id="d1e161237">Pulteriis</orgName>
+                    </persName>, <persName key="d1e27218" xml:id="d1e161240">Andreas de <placeName key="stutzmann_himanis#324421" xml:id="d1e161242">
+                            <foreign>Bussi</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e27224" xml:id="d1e161246">Hugo de <placeName key="stutzmann_himanis#325036" xml:id="d1e161248">Turre</placeName>
+                    </persName> monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e161251">Fonteneti</orgName>, <persName key="d1e27230" xml:id="d1e161255">Johannes
+                        tunc magister <placeName key="stutzmann_himanis#324451" xml:id="d1e161257">Flaciaci</placeName>
+                    </persName>, <persName key="d1e27236" xml:id="d1e161260">Hugo capellanus de
+                            <placeName key="stutzmann_himanis#324421" xml:id="d1e161262">
+                            <foreign>Buxi</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e27242" xml:id="d1e161266">Robertus major de
+                            <placeName key="stutzmann_himanis#324421" xml:id="d1e161268">
+                            <foreign>Buxi</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e27248" xml:id="d1e161272">Folcoinus de <placeName key="stutzmann_himanis#324421" xml:id="d1e161274">
+                            <foreign>Buxi</foreign>
+                        </placeName>
+                    </persName>. Quod totum ut ratum sit in perpetuum sigillo meo roboravi. Anno
+                    incarnationis dominice <num>m° c° xc° viii°</num>.</p>
+            </body>
+        </text>
+    </TEI>

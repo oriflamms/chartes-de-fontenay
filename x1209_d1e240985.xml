@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1209_d1e240985">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 238@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">ADCO 15 H 59, pièce 1. — 1<hi rend="superscript">er</hi> mars
+                            1700, papier, 2 ff., 250 x 180 mm. Copie collationnée de quatre actes
+                            par Doublot, notaire de la résidence royale de Montbard, à la demande de
+                            François-Marie Chamereau. Analyse marginale : « Don fait par André et
+                            Jean de Fontaine a M<hi rend="superscript">rs</hi> de Fontenet de la
+                            part en dizme qu’ilz avoient a Flavigny et a Alize. 1208 ».</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. @<hi rend="superscript">@</hi> (Flavigny. I)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 61<hi rend="superscript">v</hi> (Flavigny. I) :
+                            « Exemption des dixmes des terres de Fontenet au finage d’Alise et
+                            Flavigny »</bibl>
+                        <bibl>ADCO 15 H 3, p. 343 (XXIII. 3. 3) : « scellé d’une portion de cire
+                            jaune à queue de parchemin pendant ».</bibl>
+                        <bibl sameAs="#Le_Gall1980">
+                            <biblScope>p. 166, n° 5</biblScope>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1209-02-28">1209, février [n. st.]</date>
+                </creation>
+                <abstract>
+                    <p>Régeste Gauthier, évêque d’Autun, notifie que Jean de Fontaine [-en-Duesmois]
+                        et son frère André, ont cédé en aumône à l’église de Fontenay la dîme qu’ils
+                        possédaient sur les vignes de Flavigny et d’Alise et qui leur venait du chef
+                        de leur mère.</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e164936">Galterius, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e164938">Æduensis</placeName>
+                        episcopus</persName>, notum facimus omnibus presentes litteras inspecturis
+                    quod <persName key="d1e28753" xml:id="d1e164942">Joannes de <placeName key="stutzmann_himanis#324452" xml:id="d1e164944">Fontanis</placeName>
+                    </persName> et <persName key="d1e28759" xml:id="d1e164947">Andreas, frater
+                        ejus</persName>, concesserunt et donaverunt in elemosinam ecclesiæ <orgName key="stutzmann_himanis#282689" xml:id="d1e164950">Fontenetensi</orgName> pro remedio
+                    animæ <persName key="d1e28765" xml:id="d1e164953">matris suæ</persName> et
+                    antecessorum suorum decimam quam habebant in vineis de <placeName key="stutzmann_himanis#322865" xml:id="d1e164957">Flavigniaco</placeName> et de
+                        <placeName key="stutzmann_himanis#324424" xml:id="d1e164960">Alizia</placeName>, quæ
+                    erat de capite <persName key="d1e28772" xml:id="d1e164963">dictæ matris
+                        eorumdem</persName>. Facta est autem hæc donatio ab ipsis de assensu et
+                    voluntate <persName key="d1e28778" xml:id="d1e164966">Huei patris
+                    sui</persName>, in <placeName key="stutzmann_himanis#324453" xml:id="d1e164969">capitulo
+                        dictæ ecclesiæ</placeName>, nobis præsentibus, et multis viris venerabilibus
+                    abbatibus et aliis qui ad piæ recordationis <persName key="d1e28784" xml:id="d1e164972">Bernardi abbatis</persName> convenerant sepulturam. Nos
+                    vero ad instantiam prædictorum fratrum et patris eorum præsenti cartulæ
+                    aposuimus sigilli nostri firmamentum. Actum anno gratiæ millesimo ducentesimo
+                    octavo mense februario.</p>
+            </body>
+        </text>
+    </TEI>

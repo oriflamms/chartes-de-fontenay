@@ -1,0 +1,130 @@
+@import "tei.css";
+
+abbr {
+  display:none;
+  font-size:smaller;
+  color:gray;
+  }
+
+lb {
+    content:"[" attr(n) "] ";
+    display:block;
+}
+
+
+expan{
+    background-color: inherit;
+    font-style:italic;
+    color:blue;
+    }
+
+witDetail:before {
+  content: attr(wit) " : "; 
+  }
+
+witDetail{
+    display:block
+}
+
+p{
+    text-transform:lowercase;
+    font-size:larger;
+        }
+witDetail{
+    display:inline;
+    font-size:x-small;
+    color:grey;
+}
+p, persName, orgName, placeName{
+    oxy_replace: "ſ " "s";
+    text-replace: " " "s";
+    text-replace: "ꝛ" "r";
+    text-replace: "ɼ" "r";
+}
+
+lb {
+    display:inline;
+}
+
+lem{
+    color:blue
+}
+lem:after{
+    content: " [" attr(wit) "] ";
+    background-color: inherit;
+  font-size:xx-small;
+  color:gray;
+
+}
+
+hi[rend="suscrit"]{
+    vertical-align:super
+}
+
+pb{
+    font-weight:bold;
+    display:block;
+    
+}
+
+note,
+rdg {
+    font-size:smaller;
+  color:green;
+}
+
+note:before,
+space:before {
+  content: "["; 
+  background-color: inherit;
+  font-size:smaller;
+  color:gray;
+}
+
+lem[type="nihil"], rdg[type="nihil"] {
+    content: "[Ø]";
+    color: purple;
+}
+
+rdg:before {
+    content: " ] ";
+    color:gray;
+}
+rdg:after {
+  content: "(" attr(wit) attr(hand) ")"; 
+  background-color: inherit;
+  font-size:xx-small;
+  color:gray;
+}
+
+app{
+    display:block;
+    padding: 10px 0px 10px 50px;
+    border-style: dotted;
+}
+note:after,
+space:after {
+    content: "] ";
+    font-size:smaller;
+  color:gray;
+}
+
+space {
+    content: "espace blanc";
+font-size:smaller;
+  color:gray;
+   
+}
+
+persName {
+    background-color:#FF1493;
+}
+
+placeName {
+    background-color:#FF1493;
+}
+
+persName, placeName, orgName, addName {
+    text-transform:capitalize
+   
+}

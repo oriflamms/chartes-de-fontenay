@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1199_d1e237001">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 182@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 49<hi rend="superscript">r-v</hi> (<hi rend="italic">Flaciacum</hi>, 35) ; table mutilée</witness>
+                        <witness n="C">Cartulaire 2, fol.
+                                110<hi rend="superscript" xml:space="preserve">r-v </hi>(<hi rend="italic">Flaciacum</hi>, 35) ; table mutilée</witness>
+                        <witness n="a">a. <bibl sameAs="#Petit1885"><biblScope>t. III, p. 373-374,
+                                    n° 1010</biblScope></bibl></witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, <hi rend="background(red)">fol. 24</hi>
+                            <hi rend="superscript background(red)">r</hi>
+                            <hi rend="background(red)" xml:space="preserve"> (Buffon, I)</hi></bibl>
+                        <bibl>ADCO 15 H 4, p. 31 (V. 3. 4)</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1199-12-31">1199</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+            <encodingDesc>
+                <ab>COLLATION A FAIRE</ab>
+            </encodingDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e162161">O. dux <placeName key="stutzmann_himanis#325098" xml:id="d1e162163">Burgundie</placeName>
+                    </persName>, presentibus et futuris notum fieri volo quod cum <persName key="d1e27717" xml:id="d1e162166">Osmundus miles de <placeName key="stutzmann_himanis#324355" xml:id="d1e162168">Rubeo Monte</placeName>
+                    </persName> dedisset in elemosinam piscaturam in aquis suis pasturas et
+                    aasentias in omni terra sua in bosco et plano, in monte et valle ecclesie
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e162171">sancte Marie de
+                        Fonteneto</orgName>, <persName key="d1e27723" xml:id="d1e162174">Humbaudus
+                        filius ejus</persName>, cum eamdem elemosinam diu reclamasset, tandem
+                    prudentum virorum usus consilio supra dictam elemosinam et laudavit et donavit
+                    tam ipse quam <persName key="d1e27729" xml:id="d1e162177">uxor ejus <name>
+                            <foreign>Demeruns</foreign>
+                        </name>
+                    </persName>. Superaddidit etiam idem <persName key="d1e27736" xml:id="d1e162184">Humbaudus</persName> predicte elemosine quecumque necessaria fuerint
+                    pastoribus ibidem ad pascenda pecora commorantibus, ligna scilicet ad faciendum
+                    focum et ad construendam bordam et rameriam. Si vero ipsi vel animalia eorum
+                    aliquod dampnum intulerint ubi dampnum probamen fuerit reddentes capitale liberi
+                    erunt et quiti. Et ut ratum permaneat sigilli mei auctoritate presentem paginam
+                    roboravi. Hujus doni et elemosine testes sunt <persName key="d1e27742" xml:id="d1e162187">Bernardus abbas</persName>, <persName key="d1e27748" xml:id="d1e162190">Johannes</persName> et <persName key="d1e27754" xml:id="d1e162193">Andreas</persName> monachi de <orgName key="stutzmann_himanis#282689" xml:id="d1e162196">Fonteneto</orgName>, <persName key="d1e27760" xml:id="d1e162199">Josbertus de <placeName key="stutzmann_himanis#324953" xml:id="d1e162201">
+                            <foreign>Mise</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e27766" xml:id="d1e162208">Garinus <addName>
+                            <foreign>Alirez</foreign>
+                        </addName>
+                    </persName>, <persName key="d1e27773" xml:id="d1e162214">Bernardus
+                            <addName>Pautinus</addName>
+                    </persName>. Actum est anno ab incarnatione Domini <num>m° c° xc° ix°.</num>
+                </p>
+            </body>
+        </text>
+    </TEI>

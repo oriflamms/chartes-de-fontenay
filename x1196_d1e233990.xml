@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1196_d1e233990">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 151@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">A. Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 36<hi rend="superscript">v</hi> (<hi rend="italic">Abbatia</hi>, 36) ; table :
+                            « <hi rend="italic" xml:space="preserve">Carta Bartholomei </hi>Corboille »</witness>
+                    </listWit>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1196-12-31">1196</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324623" xml:id="d1e160049">Odo, archipresbiter
+                        Tullionis</persName>, notum facio tam futuris quam presentibus quod
+                        <persName key="d1e26761" xml:id="d1e160052">Bartholomeus <addName>
+                            <foreign>Corboille</foreign>
+                        </addName>
+                    </persName> in <placeName key="stutzmann_himanis#324453" xml:id="d1e160058">capitulo
+                        Fonteneti</placeName> quitavit omnes querelas quas adversum <orgName key="stutzmann_himanis#282689" xml:id="d1e160061">Fontenetum</orgName> habuerat et
+                    juravit super sanctas reliquias quod ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e160064">Fonteneti</orgName> nec per se nec per alium amplius
+                    vexaret vel dampnificaret. Presentibus istis : <persName key="d1e26767" xml:id="d1e160068">Bernardo de <placeName key="stutzmann_himanis#324459" xml:id="d1e160070">Grinione</placeName> cellerario</persName>, <persName key="d1e26774" xml:id="d1e160074">Andrea de <placeName key="stutzmann_himanis#324421" xml:id="d1e160076">
+                            <foreign>Buxi</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e26780" xml:id="d1e160080">Arnaudo decano de
+                            <placeName key="stutzmann_himanis#325240" xml:id="d1e160082">Chasneio</placeName>
+                    </persName>, <persName key="d1e26786" xml:id="d1e160085">Berardo de <placeName key="stutzmann_himanis#324447" xml:id="d1e160087">Espessa</placeName>
+                    </persName>, <persName key="d1e26792" xml:id="d1e160090">Herveio de <placeName key="stutzmann_himanis#324452" xml:id="d1e160092">Fontanis</placeName>
+                    </persName>. Quod totum ut ratum habeatur in posterum sigilli mei impressione
+                    confirmavi, anno ab incarnatione Domini <num>m° c° xc° vi°</num>.</p>
+            </body>
+        </text>
+    </TEI>

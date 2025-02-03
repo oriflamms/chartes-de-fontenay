@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1144_d1e214001">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 12@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 16<hi rend="superscript">r</hi>-17<hi rend="superscript">r</hi> (Papes, DDD) : « Restat
+                            sigillum plumbeum. ». </witness>
+                        <witness n="a">a. <bibl sameAs="#Wiederhold1985"><biblScope>t. I, p.
+                                    175-177, d’après B</biblScope></bibl></witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps">Inventaire</hi> : ADCO 15 H 1, fol. VI<hi rend="superscript">v</hi> (Papes, DDD)</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1144-04-30">1144, 30 avril. — Latran</date>
+                </creation>
+                <abstract>
+                    <p>Lucius [II] place l’abbaye de Fontenay, sous la direction de l’abbé
+                        Guillaume, sous la protection apostolique et lui confirme dîmes et dons
+                        énumérés dans l’acte.</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <persName key="stutzmann_himanis#324636" xml:id="d1e145055">Lucius episcopus</persName>,
+                    servus servorum Dei, dilectis filiis <persName key="d1e16950" xml:id="d1e145058">Willermo</persName> monasterii de <orgName key="stutzmann_himanis#282689" xml:id="d1e145062">Fonteneto</orgName> ejusque fratribus tam presentibus
+                    quam futuris regularem vitam professis, <app>
+                        <lem wit="#a">in perpetuum</lem>
+                        <rdg wit="#B">in pontificatu pontifex maximus</rdg>
+                        <note>Variante issue de l’abréviation ‘in ppm’ et corrigée silencieusement
+                            par Wiederhold</note>
+                    </app>. Ad hoc universalis ecclesiae cura nobis a provisore omnium bonorum Deo
+                    commissa est, ut religiosas diligamus personas et beneplacentem Deo religionem
+                    studeamus modis omnibus propagare ; nec <app>
+                        <lem>etiam</lem>
+                        <rdg wit="#a">enim</rdg>
+                    </app> Deo gratus aliquando famulatus impenditur, nisi ex caritatis radice
+                    procedens a puritate religionis fuerit conservatus. Eapropter, dilecti in Domino
+                    filii, vestris justis postulationibus clementer annuimus <app>
+                        <lem>et</lem>
+                        <rdg wit="#B">et</rdg>
+                        <note>corrigé d’après le sens a</note>
+                    </app> prefatum beatae Dei genitricis Mariae monasterium, in quo divino
+                    mancipati estis obsequio, sub beati Petri et nostra protectione suscipimus et
+                    presentis scripti privilegio communimus. Statuentes ut quascumque possessiones
+                    quaecumque bona idem monasterium in presentiarum juste et canonice possidet aut
+                    in futurum concessione pontificum, largitione regum vel principum, oblatione
+                    fidelium seu aliis justis modis Deo propitio poterit adipisci, firma vobis
+                    vestrisque successoribus et illibata permaneant. In quibus haec propriis duximus
+                    exprimenda vocabulis locum ipsum videlicet ubi abbatia constructa est, cum
+                    omnibus appenditiis suis sicut a bonae memoriae <persName key="d1e16956" xml:id="d1e145088">Stephano Eduensi</persName> vobis religionis intuitu
+                    concessus est ; grangiam <placeName key="stutzmann_himanis#325165" xml:id="d1e145091">Carmeti</placeName> cum appenditiis suis, usuaria terrae ipsius scilicet
+                    terras ad excolendum sine tertiis, pasturas animalium, pastionem pecorum, nemora
+                    ad edificandum et ardendum, aquas ad piscandum ; grangiam <placeName key="stutzmann_himanis#324451" xml:id="d1e145094">Flaciaci</placeName> ex dono
+                        <persName key="d1e16962" xml:id="d1e145097">Rainardi domini Montis
+                        Barri</persName>, <placeName key="stutzmann_himanis#324479" xml:id="d1e145100">Aringias</placeName> et <placeName key="stutzmann_himanis#324452" xml:id="d1e145104">Fontanas</placeName> et usuaria in omni terra ejus, pasturas scilicet
+                    pecorum et pastionem porcorum, nemora <app>
+                        <lem wit="#a">
+                            <supplied>ad</supplied>
+                        </lem>
+                        <rdg type="nihil" wit="#B"/>
+                        <note>Omis B, restitué d’après le sens sans indication a.</note>
+                    </app> aedificandum et ardendum, terras ad excolendum sine tertiis, aquas ad
+                    piscandum ; grangiam <placeName key="stutzmann_himanis#324343" xml:id="d1e145115">Puteoli
+                        Franci</placeName> ex dono <persName key="stutzmann_himanis#324644" xml:id="d1e145118">Hugonis ducis</persName>, <persName key="d1e16968" xml:id="d1e145121">Guillelmi de <placeName key="stutzmann_himanis#324442" xml:id="d1e145123">Duismo</placeName>
+                    </persName>, <persName key="d1e16974" xml:id="d1e145126">Roberti de <placeName key="stutzmann_himanis#325025" xml:id="d1e145128">Sarmasia</placeName>
+                    </persName>, et <persName key="d1e16980" xml:id="d1e145132">Milonis fratris
+                        ejus</persName> ; grangiam <placeName key="stutzmann_himanis#325010" xml:id="d1e145135">Sancti Aniani</placeName>. Sane laborum vestrorum quos
+                    propriis manibus aut sumptibus colitis, sive de nutrimentis vestrorum animalium,
+                    nullus omnino clericus vel laicus decimas a vobis exigere presumat. Decernimus
+                    ergo ut nulli omnino hominum liceat prefatum monasterium temere perturbare aut
+                    ejus possessiones aufferre vel ablatas retinere, minuere aut aliquibus
+                    vexationibus fatigare, sed omnia integra conserventur, eorum pro quorum
+                    gubernatione et sustentatione concessa sunt usibus omnimodis profutura, salva in
+                    omnibus apostolicae sedis aucthoritate. Si qua igitur in futurum ecclesiastica
+                    secularisve persona hanc nostrae constitutionis paginam sciens contra eam temere
+                    venire temptaverit, secundo tertiove commonita, si non satisfactione congrua
+                    emedaverit, potestatis honorisque sui dignitate careat <app>
+                        <lem wit="#a">reamque</lem>
+                        <rdg wit="#B">reaque</rdg>
+                        <note> reaque B, restitué d’après le sens sans indication a.</note>
+                    </app> se divino judicio existere de perpetrata iniquitate cognoscat et a
+                    sacratissimo corpore ac sanguine Dei et domini redemptoris nostri Jesu Christi
+                    aliena fiat atque in extremo examine districtae ultioni subjaceat. Cunctis autem
+                    eidem loco justa servantibus sit pax Domini nostri Jesu Christi, quatinus et hic
+                    fructum bonae actionis percipiant et apud districtum judicem premia eternae
+                    pacis inveniant. Amen. Amen.</p>
+                <p>[<hi rend="italic">Rota</hi>]<witDetail wit="#a"> Description de la rota
+                        omise</witDetail>  <witDetail wit="#B">B ajoute la mention : "In
+                        sigillo"</witDetail>Sanctus Petrus, sanctus Paulus, <persName key="d1e16987" xml:id="d1e145159">Lucius papa secundus</persName>.</p>
+                <p>
+                    <witDetail wit="#B">B ajoute la mention : "In legenda"</witDetail>Ostende nobis
+                    Domine misericordiam tuam</p>
+                <p>
+                    <witDetail wit="#B">Souscriptions copiées sans retour à la ligne B</witDetail>
+                    <witDetail wit="#a">croix, mentions de souscriptions et abréviations ajoutées
+                        selon le formulaire pontifical </witDetail>Ego <persName key="stutzmann_himanis#324636" xml:id="d1e145172">Lucius catholicae ecclesiae
+                        episcopus</persName>. </p>
+                <p>Ego <persName key="d1e16993" xml:id="d1e145177">Conradus Sabinensis
+                        episcopus</persName>. </p>
+                <p>Ego <persName key="d1e16999" xml:id="d1e145182">Theodeuvinus sanctae Rufinae
+                        episcopus</persName>. </p>
+                <p>Ego <persName key="d1e17005" xml:id="d1e145187">Albericus Ostiensis
+                        episcopus</persName>. </p>
+                <p>Ego <persName key="d1e17011" xml:id="d1e145192">Imarus Tusculanensis
+                        episcopus</persName>. </p>
+                <p>Ego <persName key="d1e17017" xml:id="d1e145197">Petrus Albanensis
+                        episcopus</persName>. </p>
+                <p>Ego <persName key="d1e17024" xml:id="d1e145202">Gregorius presbiter cardinalis
+                        tituli Calixti</persName>. </p>
+                <p>Ego <persName key="d1e17030" xml:id="d1e145207">Guido presbiter cardinalis tituli
+                        Sancti Crisogonii</persName>. </p>
+                <p>Ego <persName key="d1e17036" xml:id="d1e145213">Rainerius presbiter cardinalis
+                        tituli sanctae Priscae</persName>. </p>
+                <p>Ego <persName key="d1e17042" xml:id="d1e145218">Petrus presbiter cardinalis de
+                        titulo Pastoris</persName>. </p>
+                <p>Ego <persName key="d1e17048" xml:id="d1e145223">Hubaldus presbiter cardinalis
+                        tituli sanctae Praxedis</persName>. </p>
+                <p>Ego <persName key="d1e17054" xml:id="d1e145228">Guido presbiter cardinalis tituli
+                        sanctorum Laurentii et Damasi</persName>. </p>
+                <p>Ego <persName key="d1e17061" xml:id="d1e145233">
+                        <app>
+                            <lem wit="#a #B-post-corr">Gregorius</lem>
+                            <rdg wit="#B">
+                                <del>Guido</del>
+                            </rdg>
+                        </app> diaconus cardinalis sanctorum Cosmae et Damiani</persName>. </p>
+                <p>Ego <persName key="d1e17067" xml:id="d1e145244">Guido in Romana ecclesia altaris
+                        minister indignus</persName>. </p>
+                <p>Ego <persName key="d1e17073" xml:id="d1e145249">Johannes diaconus cardinalis
+                        sancti Adriani</persName>. </p>
+                <p>Ego <persName key="d1e17079" xml:id="d1e145254">Gregorius diaconus cardinalis
+                        Sancti Angeli</persName>. </p>
+                <p>Ego <persName key="d1e17085" xml:id="d1e145259">Astaldus diaconus cardinalis
+                        Sancti Eustachii juxta templum Agrippae</persName>. </p>
+                <p>Ego <persName key="d1e17091" xml:id="d1e145264">Johannes diaconus cardinalis
+                        sanctae Mariae <app>
+                            <lem wit="#a">Nove</lem>
+                            <rdg wit="#B">Noye</rdg>
+                        </app>
+                    </persName>.</p>
+                <p>Datum <placeName key="stutzmann_himanis#324930" xml:id="d1e145274">Laterani</placeName> per
+                    manum <persName key="d1e17098" xml:id="d1e145277">Baronis capellani et <app>
+                            <lem wit="#a">scriptoris</lem>
+                            <rdg wit="#B">secretarii</rdg>
+                            <note>
+                                <hi rend="italic">corrigé selon le formulaire pontifical par
+                                a</hi>.</note>
+                        </app>
+                    </persName>, <app>
+                        <lem>secundo</lem>
+                        <rdg wit="#a">II°</rdg>
+                    </app> calendas maii, indictione <app>
+                        <lem>septima</lem>
+                        <rdg wit="#a">VII<hi rend="superscript">a</hi>
+                        </rdg>
+                    </app>, incarnationis dominicae <app>
+                        <lem>
+                            <supplied>[anno]</supplied>
+                        </lem>
+                        <rdg wit="#B" type="omis"/>
+                        <note>Omis B, corrigé selon le formulaire pontifical par a.</note>
+                    </app>
+                    <app>
+                        <lem wit="#B">millesimo centesimo quadragesimo quarto</lem>
+                        <rdg wit="#a">M° C° XL° IV°</rdg>
+                    </app>, pontificatus vero domini Lucii papae <app>
+                        <lem>secundi</lem>
+                        <rdg wit="#a">II</rdg>
+                    </app> anno <app>
+                        <lem>primo</lem>
+                        <rdg wit="#a">I°</rdg>
+                    </app> .</p>
+            </body>
+        </text>
+    </TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1202_d1e192241">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 440</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 62, pièce 1</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>100</height>
+                                                  <width>90</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>75</height>
+                                                  <width>80</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="9">réglure à la mine
+                                                de plomb (11 ur dont 3 non écrites, UR 9 mm) ; repli
+                                                absent ; une entaille</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Carta Johannis militis
+                                        de Seneveio », « De decimis de Ampileio », « LIIII<hi rend="superscript">a</hi> » ; (<hi rend="smallcaps">xiv</hi>
+                                        <hi rend="superscript">e</hi> s. ?) « Estorme » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Ampilly. Don des dixmes
+                                        d’Ampilly l’an 1202. Cotté AA » ; (1787) « N°1 / 1202 / Don
+                                        des dîmes d’Ampilly à MM. de Fontenet »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1202</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="B">
+                            <desc>Cartulaire 1, fol. 64<hi rend="superscript">v</hi>-65<hi rend="superscript">r</hi> (<hi rend="italic">Estormer</hi>,
+                                54)</desc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 36<hi rend="superscript">r</hi> (Chaume. AA)</bibl>
+                        <bibl>ADCO 15 H 4, p. 7 (I. 3. 1) : « scellé d’un sceau qui y étoit
+                            autrefois ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1202-12-31">1202</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_62_0003.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_62_0004.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body> <p>Ego <persName key="d1e11625" xml:id="d1e130378">H. procurator <placeName key="stutzmann_himanis#319548" xml:id="d1e130380">Ed[uensis]</placeName>
+                            ecclesie</persName>, notum facio presentibus <lb n="2"/> et futuris quod
+                            <persName key="d1e11631" xml:id="d1e130386">Johannes miles de <placeName key="stutzmann_himanis#325029" xml:id="d1e130388">Seneveio</placeName>
+                        </persName> dedit ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e130391">Fonte<lb n="3" break="no"/>neti</orgName> im perpetuam <app>
+                            <lem wit="#A">helemosinam</lem>
+                            <rdg wit="#B">elemosinam</rdg>
+                        </app> quicquid habebat in omnibus de<lb n="4" break="no"/>cimis tocius
+                        finagii de <placeName key="stutzmann_himanis#324446" xml:id="d1e130405">Ampileio</placeName> et quod adversus omnes homines <lb n="5"/>
+                        garantiam de hoc portaret. Hoc etiam laudavit <persName key="d1e11637" xml:id="d1e130410">Ag<lb n="6" break="no"/>nes filia prefati <persName key="d1e11643" xml:id="d1e130414">Johannis</persName>
+                        </persName>. Hujus rei testes sunt <persName key="d1e11649" xml:id="d1e130417">Bartho<lb n="7" break="no"/>lomeus <placeName key="stutzmann_himanis#324355" xml:id="d1e130421">Rubei Montis</placeName>
+                        </persName>, <persName key="d1e11656" xml:id="d1e130424">Guillermus <addName>
+                                <foreign>Bachicho</foreign>
+                            </addName>
+                        </persName>, <persName key="d1e11662" xml:id="d1e130431">
+                            <app>
+                                <lem wit="#A">Haymo</lem>
+                                <rdg wit="#B">Aymo</rdg>
+                            </app> de <placeName key="stutzmann_himanis#324437" xml:id="d1e130438">
+                                <foreign>
+                                    <app>
+                                        <lem wit="#A">Cummine</lem>
+                                        <rdg wit="#B">Cumigne</rdg>
+                                    </app>
+                                </foreign>
+                            </placeName>
+                        </persName>. Actum anno incarnationis dominice <num>M°. <lb n="8"/>
+                            <app>
+                                <lem wit="#A">du<space/>cen<space/>te<space/>si<space/>mo</lem>
+                                <rdg wit="#B">cc°</rdg>
+                            </app> se<space corresp="#A"/>cun<space corresp="#A"/>do.</num>
+                    </p>
+                
+            </body>
+        </text>
+    </TEI>

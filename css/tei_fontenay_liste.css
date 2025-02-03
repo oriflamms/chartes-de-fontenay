@@ -1,0 +1,20 @@
+@import "tei_oxygen.css";
+
+div1 {
+  display: block;
+  margin-bottom: 1em;
+  counter-increment: div1;
+   }
+
+witness[n="B"]{display:none}
+physDesc{display:none}
+idno{
+    display:inline
+}
+listWit{display:inline}
+listBibl{display:none}
+front{display:none}
+div1 {
+  display: none;
+  }
+    

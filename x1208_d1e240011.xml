@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1208_d1e240011">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 233@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">Copie perdue. — Vidimus de Renaud, évêque de Lyon, en 1209
+                            (acte n° <hi rend="background(red)">@@@</hi>)</witness>
+                        <witness n="C">C. Copie perdue. — Vidimus (partiel ?) de A, donné par
+                            Girard, évêque d’Autun, en <hi rend="background(red)">mai 1253 (d'après
+                                ADCO 15 H 13) ou 1263 (d'après ADCO 15 H 18)</hi>.</witness>
+                        <witness n="D">D. ADCO 15 H 13* (cart. 204), fol. 1<hi rend="superscript">r-</hi>2<hi rend="superscript">r</hi> (Princes, A). — Copie de
+                            B.</witness>
+                        <witness n="E">E. ADCO 15 H 18, pièce 1. — Copie (partielle ?) de C.
+                            Papier ; 2 ff. ; 280 x 190 mm. Mention dorsale : (<hi rend="smallcaps">xvii</hi>
+                            <hi rend="superscript">e</hi> s.) « Privileges. Copie collationnee d’un
+                            vidimus du previlege de Odo duc de Bourgonne par lequel il exempte Mrs
+                            de Fontenay de tous drois de peage en toutte l’estendue de ses pays.
+                            1263. cotté Q. »</witness>
+
+                        <witness n="V">
+                            <hi rend="background(red)">Vidimus de l’acte n° @@@ (Eudes de Bourgogne,
+                                1208)</hi>
+                        </witness>
+
+                        <witness n="V">
+                            <hi rend="background(green)">Voir aussi Fraisne, HHH</hi>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps">Inventaire</hi> : (B) ADCO 15 H 1, fol. XII<hi rend="superscript">r</hi> (Princes, A)</bibl>
+                        <bibl>(C ou E) ADCO 15 H 1, fol. XIV<hi rend="superscript">r</hi> (Princes.
+                            Q)</bibl>
+                        <bibl>(B) ADCO 15 H 4, p. 425 (XXII. 1. 4)</bibl>
+                        <bibl>(A) ADCO 15 H 3, p. 479 (XXV. 16. 1) « scellé de deux sceaux de cire
+                            verte, dont un manquant à queue de parchemin pendant ».</bibl>
+                        <bibl>
+                            <hi rend="background(red)">Inventaire et analyse : ADCO 15 H 13* (cart.
+                                204), fol. 3v (Roys et autres princes, E) : « Ce tiltre est le
+                                vidimus fait en l’an 1253 par Girard évesque d’Autun du tiltre cotté
+                                A. Il est conforme de mot à mot et le sceau y est attaché en cire
+                                verte. »</hi>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1208-12-31">1208</date>
+                </creation>
+                <abstract>
+                    <p>Régeste.</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Notum sit omnibus presentes litteras inspecturis quod ego <persName key="stutzmann_himanis#324624" xml:id="d1e164202">Odo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e164204">Burgundiae</placeName></persName>, pro amore Dei et pro anima mea et
+                    antecessorum meorum, dedi in perpetuum <app>
+                        <lem>elemozinam</lem>
+                        <rdg wit="#E">elemosinam</rdg>
+                    </app> fratribus ecclesiae <orgName key="stutzmann_himanis#282689" xml:id="d1e164213">sanctae Mariae de <app>
+                            <lem>Fontaneto</lem>
+                            <rdg wit="#E">Fonteneto</rdg>
+                        </app></orgName> ut in omni terra mea quantum ad jurisdictionem meam
+                    pertinet libere et quiete cunctis diebus eant et veniant et maneant et quidquid
+                    voluerint de rebus suis absque omni pedagio et <hi rend="background(yellow)">venta</hi> semper vendant et emant in toto posse meo predictos vero fratres
+                    et omnes res eorum per totam terram meam recepi in tuitione et <app>
+                        <lem>manutenemento</lem>
+                        <rdg wit="#E">manutenementa</rdg>
+                    </app>, donans eis ut si quid ipsi aut res eorum in omni terra mea dampnum
+                    fecerint in segetibus, pratis, vineis et aliis fructibus <app>
+                        <lem>super terram</lem>
+                        <rdg wit="#E" type="omission"/>
+                    </app>, absque omni alia emenda et sine alia lege, capitale tantummodo
+                    restituentes in pace <app>
+                        <lem>consistant</lem>
+                        <rdg wit="#E">contestant</rdg>
+                    </app>. <app>
+                        <lem>
+                            <witEnd wit="#E"/>
+                        </lem>
+                    </app>Donavi vero <hi rend="background(cyan)">super</hi> a dictis fratribus
+                    laudatione et assensu <persName key="d1e28432" xml:id="d1e164249">Andreae,
+                        frater mei, comitis <placeName key="stutzmann_himanis#324413" xml:id="d1e164251">Albonii</placeName>
+                    </persName> omnes terras meas gaignabiles in omni finagio <placeName key="stutzmann_himanis#324406" xml:id="d1e164254">Bernae</placeName> et de <placeName key="stutzmann_himanis#325065" xml:id="d1e164258">Bretena</placeName>, corveyam
+                    videlicet <placeName key="stutzmann_himanis#325137" xml:id="d1e164261">mansi
+                        Guichardi</placeName>, corveyam de <placeName key="stutzmann_himanis#324466" xml:id="d1e164264">Lanneis</placeName>, corveyam <placeName key="stutzmann_himanis#325144" xml:id="d1e164267">molendini Petrini</placeName>,
+                    corveyam de <placeName key="stutzmann_himanis#324976" xml:id="d1e164270">Astrea</placeName> et <placeName key="stutzmann_himanis#325086" xml:id="d1e164273">campum juxta corveyam de Astrea</placeName>, corveyam <placeName key="stutzmann_himanis#325141" xml:id="d1e164277">molendini Guidonis de
+                        Pomae</placeName> ab aqua in aquam, corveyam de <placeName key="stutzmann_himanis#325258" xml:id="d1e164283">
+                        <foreign>Cultelet</foreign>
+                    </placeName> usque in aquam <placeName key="stutzmann_himanis#325144" xml:id="d1e164287">molendini Petrini</placeName>, coveyam de <placeName key="stutzmann_himanis#324928" xml:id="d1e164290">
+                        <foreign>Lamarz</foreign>
+                    </placeName>, corveyam juxta <placeName key="stutzmann_himanis#325103" xml:id="d1e164294">corveyam Templariorum in via de Montinae</placeName>, <placeName key="stutzmann_himanis#325082" xml:id="d1e164300">campum <foreign>Florez</foreign>
+                    </placeName>, corveyam <placeName key="stutzmann_himanis#325217" xml:id="d1e164306">ulmi
+                            <foreign>Brudiz</foreign>
+                    </placeName>, corveyam de <placeName key="stutzmann_himanis#324434" xml:id="d1e164311">Coereyo</placeName>, corveyam de <placeName key="stutzmann_himanis#325244" xml:id="d1e164314">
+                        <foreign>Chevez</foreign>
+                    </placeName>, juxta corveyam de <placeName key="stutzmann_himanis#325244" xml:id="d1e164318">
+                        <foreign>Chevez</foreign>
+                    </placeName> duo jornalia, <placeName key="stutzmann_himanis#325085" xml:id="d1e164322">campum Mescini</placeName>, corveyam in <placeName key="stutzmann_himanis#325228" xml:id="d1e164325">via de Belinete</placeName>, <placeName key="stutzmann_himanis#325084" xml:id="d1e164332">campum <persName key="d1e28439" xml:id="d1e164334">
+                            <foreign>Looth</foreign>
+                        </persName>
+                    </placeName>, <placeName key="stutzmann_himanis#324385" xml:id="d1e164338">campum <name>
+                            <foreign>Espinez</foreign>
+                        </name> juxta molendinum Guidonis de Pomas</placeName>, tria jornalia ad
+                        <placeName key="stutzmann_himanis#325097" xml:id="d1e164348">chiminum parrinum novem
+                        sailuns ad crucem de Boila</placeName>, quatuor jornalia corveyam ad
+                        <placeName key="stutzmann_himanis#325100" xml:id="d1e164355">clausum
+                        Petrinii</placeName> et corveyam de <placeName key="stutzmann_himanis#325065" xml:id="d1e164361">Bretena</placeName>. Donavi etiam praefatis fratribus
+                    pasturas in omnibus suprascriptis finagiis et plenarium usagium in planeta ad
+                    domum quam iidem fratres facient apud <placeName key="stutzmann_himanis#324406" xml:id="d1e164364">Bernam</placeName>. Preterea concessi eisdem fratribus et
+                    laudavi quidquid tenent in omnibus locis a cunctis predecessoribus meis ducibus
+                    Burgundiae de quibus vestiti erant et quidquid in <geogName xml:id="d1e164368">aqua Bernensi</geogName> edificare voluerint absque dampno alii faciendo. <app>
+                        <lem>
+                            <witStart wit="#E"/>
+                        </lem>
+                    </app>Quod totum ut ratum et firmum habeatur venerabilis <persName key="stutzmann_himanis#324610" xml:id="d1e164375">
+                        <app>
+                            <lem>Galterus</lem>
+                            <rdg wit="#E">Galtherius</rdg>
+                        </app>
+                        <placeName key="stutzmann_himanis#319548" xml:id="d1e164381">Eduensis</placeName>
+                        episcopus</persName> ad meam petitionem donum meum confirmans suum sigillum
+                    praesenti cartae apposuit et ego sigilli mei impressione firmari praecepi. Actum
+                    anno <app>
+                        <lem>dominicae incarnationis</lem>
+                        <rdg wit="#E">incarnationis dominicae</rdg>
+                    </app> millesimo ducentesimo octavo.</p>
+            </body>
+        </text>
+    </TEI>

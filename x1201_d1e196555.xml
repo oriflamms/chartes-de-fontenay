@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1201_d1e196555">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 775</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 148, pièce 5</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>347</height>
+                                                  <width>135</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>125</height>
+                                                  <width>310</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="25"> réglure
+                                                encadrante à la mine de plomb (5, 125, 5 x 5, 312
+                                                (25 ur), 30 mm) ; repli de 13 mm à une double
+                                                entaille</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Carta Gauterii Bachiardi
+                                        de Luceniaco » ; « De Puce et Verdunnai » ; « De Estormer »
+                                        (mention barrée) ; « XLV » (barré) ; « XLIII<hi rend="superscript">a</hi> » (barré) ; (<hi rend="smallcaps">xiv-xv</hi>
+                                        <hi rend="superscript">e</hi> s.) « 6 » (chiffres arabes
+                                        anciens, deux fois) ; « Visis per me. P. Phe. Maingnien » ;
+                                        « Wairy » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Fonteine. Planay. Don
+                                        faict par Robert (<hi rend="italic">sic</hi>) Bachiar,
+                                        seigneur de Lucenay de ce qu’il avoit au territoire de Puis
+                                        et entre les bornes de Verdonay, l’an 1201. Cotte HHH » ;
+                                        (1787) « N° 11 / 1201 »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1201</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="B">Cartulaire 1, fol. 60<hi rend="superscript">v</hi>-61<hi rend="superscript">r</hi> (<hi rend="italic">Estormer</hi>,
+                            43)</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>15 H 1, fol.
+                            82<hi rend="superscript" xml:space="preserve">r </hi>(Fontaines-les-Sèches,
+                            HHH)</bibl>
+                        <bibl>ADCO 15 H 3, p. 385 (XXIV. 5<hi rend="superscript">1</hi>. 11) :
+                            « scellé d’un sceau de cire verte à queue de parchemine
+                            pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1201-12-31">1201</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0010.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0011.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                                        <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e133292">Galterius, Dei gratia
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e133294">Eduensis</placeName> episcopus</persName>, notum facio presentibus
+                            <lb n="2"/> et futuris quod <persName key="d1e12442" xml:id="d1e133300">Galterus <addName>Bachiardus</addName> de <placeName key="stutzmann_himanis#324470" xml:id="d1e133305">
+                                <foreign>
+                                    <app>
+                                        <lem wit="#A">Lucennay</lem>
+                                        <rdg wit="#B">Lucennai</rdg>
+                                    </app>
+                                </foreign>
+                            </placeName>
+                        </persName> donavit ec<lb n="3" break="no"/>clesie <orgName key="stutzmann_himanis#282689" xml:id="d1e133315">Fonteneti</orgName>
+                        <sic>im</sic> perpetuam <app>
+                            <lem wit="#A">helemosinam</lem>
+                            <rdg wit="#B">elemosinam</rdg>
+                        </app> quicquid habebat <lb n="4"/> in territorio de <placeName key="stutzmann_himanis#324346" xml:id="d1e133329">
+                            <foreign>
+                                <app>
+                                    <lem wit="#A">Pucce</lem>
+                                    <rdg wit="#B">Puce</rdg>
+                                </app>
+                            </foreign>
+                        </placeName> et quicquid possidebat infra metas fina<lb n="5" break="no"/>gii de <placeName key="stutzmann_himanis#324375" xml:id="d1e133339">
+                            <foreign>Verdonai</foreign>
+                        </placeName>, preter tria parva prata infra finagium de <lb n="6"/>
+                        <placeName key="stutzmann_himanis#324375" xml:id="d1e133345">
+                            <foreign>Verdonai</foreign>
+                        </placeName> sita, que sub censu trium denariorum <orgName key="stutzmann_himanis#282689" xml:id="d1e133349">Fonteneten<lb n="7" break="no"/>sibus</orgName> annuatim reddendo sibi et heredibus suis retinuit.
+                            Ter<lb n="8" break="no"/>ras vero illas quas prefatus <persName key="d1e12448" xml:id="d1e133356">Galterus</persName> infra
+                        suprascriptas metas <lb n="9"/> tunc tenebat pro quibus annuatim <orgName key="stutzmann_himanis#282689" xml:id="d1e133361">Fontenetensibus</orgName>
+                        tercias persol<lb n="10" break="no"/>vebat, salvis eisdem terciis domui
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e133367">Fontenetensium</orgName> per<lb n="11" break="no"/>solvendis, in vita
+                        sua tantummodo possidebit et post obitum <lb n="12"/> jamdicti <persName key="d1e12454" xml:id="d1e133374">Galteri</persName> absque ulla
+                        reclamatione et retentione <lb n="13"/>
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e133379">Fontenetenses</orgName>
+                        easdem terras ita libere possidebunt, quod <lb n="14"/> nec ipse <persName key="d1e12460" xml:id="d1e133384">Galterus</persName> nec aliquis
+                        heredum suorum valeat quippiam ibi <lb n="15"/> amplius vendicare vel
+                        reclamare. Hoc totum laudave<lb n="16" break="no"/>runt <persName key="d1e12466" xml:id="d1e133391">Alana, uxor predicti <persName key="d1e12473" xml:id="d1e133393">Galteri</persName>
+                        </persName>, et filii eorumdem, <persName key="d1e12479" xml:id="d1e133397">Cons<lb n="17" break="no"/>tantius</persName> et <persName key="d1e12485" xml:id="d1e133402">Robertus</persName>. Quorum quatuor
+                        rogatu et mandato, <lb n="18"/> ego <persName key="stutzmann_himanis#324610" xml:id="d1e133407">Galterius, Eduensis episcopus</persName>, hec ut
+                        perpetuo inconvulsa <lb n="19"/> permaneant, sigilli mei munimine roboravi.
+                        Unde tes<lb n="20" break="no"/>tes sunt <persName key="d1e12491" xml:id="d1e133415">Andreas, monachus <orgName key="stutzmann_himanis#282689" xml:id="d1e133417">Fonteneti</orgName>
+                        </persName>, <persName key="d1e12497" xml:id="d1e133420">Laurentius, ca<lb n="21" break="no"/>pellanus de <placeName key="stutzmann_himanis#324463" xml:id="d1e133424">
+                                <foreign>Jors</foreign>
+                            </placeName>
+                        </persName>, <persName key="d1e12503" xml:id="d1e133428">frater Bernardus,
+                            magister de <placeName key="stutzmann_himanis#324449" xml:id="d1e133430">
+                                <foreign>Estormer</foreign>
+                            </placeName>
+                        </persName>, <persName key="d1e12510" xml:id="d1e133434">frater Do<lb n="22" break="no"/>minicus, magister de <placeName key="stutzmann_himanis#324488" xml:id="d1e133438">
+                                <app>
+                                    <lem wit="#A">Moraus</lem>
+                                    <rdg wit="#B">Moraux</rdg>
+                                </app>
+                            </placeName>
+                        </persName>, <persName key="d1e12516" xml:id="d1e133445">Christianus de
+                                <placeName key="stutzmann_himanis#324449" xml:id="d1e133447">
+                                <foreign>Estormer</foreign>
+                            </placeName>
+                        </persName>, <persName key="d1e12522" xml:id="d1e133451">Rainaudus <lb n="23"/> de <placeName key="stutzmann_himanis#324449" xml:id="d1e133455">
+                                <foreign>Estormer</foreign>
+                            </placeName>
+                        </persName>, <persName key="d1e12528" xml:id="d1e133460">
+                            <app>
+                                <lem wit="#A">Thecelinus</lem>
+                                <rdg wit="#B">Tecelinus</rdg>
+                            </app> de <placeName key="stutzmann_himanis#324470" xml:id="d1e133467">
+                                <foreign>Lucennai</foreign>
+                            </placeName>
+                        </persName>, <persName key="d1e12534" xml:id="d1e133471">
+                            <app>
+                                <lem wit="#A">Theobaldus</lem>
+                                <rdg wit="#B">Teobaldus.</rdg>
+                            </app>
+                            <lb n="24"/>
+                            <addName>
+                                <app>
+                                    <lem wit="#A">Barengerius</lem>
+                                    <rdg wit="#A">Berengerius</rdg>
+                                </app>
+                            </addName>
+                        </persName>. Actum anno incarnationis dominice <lb n="25"/>
+                        <num>
+                            <app>
+                                <lem wit="#A">millesimo ducentesimo primo</lem>
+                                <rdg wit="#B">m° cc° i°.</rdg>
+                            </app>
+                        </num>.</p>
+                
+            </body>
+        </text>
+    </TEI>

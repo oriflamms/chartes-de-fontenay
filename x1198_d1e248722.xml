@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1198_d1e248722">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original *179@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">Copie perdue dans Cartulaire 1 (<hi rend="italic">Puteolum</hi>. 20), attestée par la table : « XIX. Carta Jacobi de
+                            Bigorne de prato Girardi majoris de Eschalo. XX. Carta ejus de
+                            eodem. »</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 257, pièce 14, fol. 5<hi rend="superscript">v </hi>: « L’an
+                            1198, Girard, [<hi rend="italic">barré</hi> : mestayer] maieur a Eschalo
+                            donna a Fontenay un pré au finage de Lery avec la permission des deux
+                            escuiers sçavoir Givard et Jehan de Baume, frere chargé de la <hi rend="background(red)">mesure</hi> cense de 8 deniers payables a la
+                            Notre Dame de mars, lequel pré iceluy tenoit des sudits
+                            escuyers »</bibl>
+                        <bibl>
+                            <hi rend="background(red)">ADCO 15 H 1, fol. @ (@</hi>)</bibl>
+                        <bibl>
+                            <hi rend="background(red)">ADCO 15 H 2, fol. @ (@</hi>)</bibl>
+                        <bibl>ADCO 15 H 4, p. 320 (XV. 12. 10) : « […] en date de 1198 […] petit
+                            titre latin en parchemin contenant don du pré dit de Baume, sis au
+                            finage de Léry, fait à l’Eglise de Fontenet, par Girard Wuillerme
+                            d’Eschalot, etc. et scellé d’un sceau de cire jaune à queue de parchemin
+                            pendant »</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1198-12-31">1198</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p/>
+            </body>
+        </text>
+    </TEI>

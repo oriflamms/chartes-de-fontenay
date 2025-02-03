@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1220_d1e246607">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original @</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu.</witness>
+                        <witness n="B">Paris, BnF, ms. Baluze 143, fol. 237<hi rend="superscript">r</hi> : « 123. Blancha Hervei domini Sonbernonis relicta, 1242. Ex
+                            autographo Fontenetensi »</witness>
+                        <witness n="a">a. <bibl sameAs="#Chifflet1660"><biblScope>p. 566,
+                                    n° 123</biblScope></bibl></witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl/>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1220-12-31">1220</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <persName key="stutzmann_himanis#324635" xml:id="d1e168778">Hugo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e168780">Burgundiae</placeName>
+                    </persName>, ominibus praesentes litteras inspecturis salutem. Noveritis quod in
+                    nostra praesentia constituta <persName key="d1e29999" xml:id="d1e168783">nobilis
+                        mulier, dilecta et fidelis nostra Blancha, domina <placeName key="stutzmann_himanis#324369" xml:id="d1e168785">Sonbernonis</placeName>
+                    </persName>, recognovit quod defunctus <persName key="d1e30005" xml:id="d1e168788">Herveus, quondam maritus suus, dominus <placeName key="stutzmann_himanis#324369" xml:id="d1e168790">Sombernonis</placeName>
+                    </persName>, in extremis laborans, dedit et concessit in pura et perpetua
+                    eleemosyna, pro remedio animae suae et antecessorum suorum, Deo et ecclesiae
+                    Beatae Mariae de <orgName key="stutzmann_himanis#282689" xml:id="d1e168793">Fonteneto</orgName> et fratribus ibidem Deo servientibus, centum solidos
+                    divionensium ; et praecepit quod assiderentur eisdem percipiendi singulis annis
+                    in sua terra de suo capite. Ipsa vero <persName key="d1e30011" xml:id="d1e168796">Blancha</persName> supradicta, attendens devotionem
+                    mariti sui defuncti et volens satisfacere animae ipsius et antecessorum suorum
+                    dictam eleemosynam laudavit et dictis fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e168799">Fonteneti</orgName> dictos centum solidos divionensium
+                    assedit percipiendos singulis annis in proventibus nundinarum Sancti Machuti de
+                        <placeName key="stutzmann_himanis#324369" xml:id="d1e168803">Sonbernone</placeName>.
+                    In cujus rei testimonium, ad ipsius <persName key="d1e30017" xml:id="d1e168806">Blanchae dominae <placeName key="stutzmann_himanis#324369" xml:id="d1e168808">Sombernonis</placeName>
+                    </persName> petitionem dictis fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e168811">Fonteneti</orgName> tradi fecimus litteras, sigilli
+                    nostri munimine roboratas. Actum anno Domini <num>M. CC.</num> quadragesimo
+                    secundo, mense Januario.</p>
+            </body>
+        </text>
+    </TEI>

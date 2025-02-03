@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1206_d1e193737">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 504 + Access n° 2102</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A1">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 65, pièce 2</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>235/230</height>
+                                                  <width>222/242</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>165</height>
+                                                  <width>210</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="17">Ni réglure ni
+                                                piqûre visible, surface sans marge, sauf repli et
+                                                devise ; repli doublé (15 mm fermé, 55 mm ouvert),
+                                                avec une entaille pour le sceau dans le repli (d’où
+                                                4 entailles dans le repli déplié). Mention hors
+                                                teneur : (en marge supérieure, bas des lettres)
+                                                « CYRO GRA PH UM ».</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term> à
+                                            capitales à redoublement, s plongeant, treillis.
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Jailiaci. / C. Petri de
+                                        Raveriis de gageria pasturarum de Raveriis et Asneriis. I<hi rend="superscript">a</hi> » ; « Gageria de […] pasturis
+                                        de Raveriis » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Asnieres. Droit de
+                                        pasturage et d’usage ez bois donné par Pierre, sr de
+                                        Raviere, ez bois et plaine de Raviere, Asniere et Cry, l’an
+                                        1206, cotté A » ; (1787) « N° 2 / 1206 ».</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1206</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="A2">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 277, pièce 1</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>230</height>
+                                                  <width>245/235</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>170</height>
+                                                  <width>225</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="18">réglure absente
+                                                (10, 225, 10) ; repli 10/20 ; 10/20 mm, avec une
+                                                entaille simple ; le repli était prévu pour faire
+                                                25/40 mm (cf. entaille dans l'acte). Mention hors
+                                                teneur : (en marge sup., à l’envers, haut des
+                                                lettres) « CYRO GRA PHUM ».</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « .C. de Raveriis » ;
+                                        « Lettre sur les religieux de Fontenois de la pature
+                                        d’Anieres » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « A » ; « Raviere. Don
+                                        faict a Messieurs de Fontenay par le sieur Pierre de
+                                        Ravieres du droit de pasturage et de touttes aisances d’eaux
+                                        et autres choses tant pour les pasteurs que pour les
+                                        bestiaux de Mrs de Fontenay tant a Asniere que par tout le
+                                        finage de Ravieres. Cotté F » ; (1787) « N° 2 /
+                                        1206 »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1206</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="a">
+                            <bibl sameAs="#Petit1885">
+                                <biblScope>t. III, p. 408-409, n° 1141</biblScope>
+                            </bibl>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>[A<hi rend="superscript">1</hi>] ADCO 15 H 1, fol. 13<hi rend="superscript">r</hi> (Asnières. A)<note> Les deux actes
+                                ADCO 15 H 65, pièces 1 et 2 portent la cote « Asnières, A » ;
+                                l’analyse de l’inventaire cumule les deux actes.</note>
+                        </bibl>
+                        <bibl>ADCO 15 H 2, fol. 12<hi rend="superscript">r</hi> (Asnières. A)</bibl>
+                        <bibl>ADCO 15 H 3, p. 31 (II. 1. 2) : « sceau qui y étoit autrefois, ne
+                            restant plus qu’une queue double de parchemin pendant »</bibl>
+                        <bibl>[A<hi rend="superscript">2</hi>] ADCO 15 H 1, fol. 164<hi rend="superscript">v</hi> (Ravières. F)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 99<hi rend="superscript">v</hi> (Ravières. F)</bibl>
+                        <bibl>ADCO 15 H 278, pièce 11, fol. 1<hi rend="superscript">v</hi>
+                        </bibl>
+                        <bibl>ADCO 15 H 3, p. 721 (XXXVI. 3. 2) : « scellé d’un sceau qui y étoit
+                            autrefois ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1206-12-31">1206</date>
+                </creation>
+                <abstract>
+                    <p>Chirographe (voir 15 H 65 n°2) Chirographe : en marge supérieure, coupé «
+                        CYRO GRA PH UM » </p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_65_0004.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_65_0005.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_277_0002.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_277_0003.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                                        <p>
+                        <hi rend="background(yellow)">Noter que le texte du dispositif est repris
+                            mot à mot de l’acte ADCO 15 H 65, pièce 1.</hi>
+                    </p>
+                    <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e131479">Odo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e131481">Burgundie</placeName>
+                        </persName>, notum facio omnibus presentibus pariter et futuris quod
+                            <persName key="d1e11844" xml:id="d1e131484">Petrus, dominus de
+                                <placeName key="stutzmann_himanis#324350" xml:id="d1e131486">Raveriis</placeName>
+                        </persName>, coram <lb n="2" corresp="#A1"/> nobis <lb n="2" corresp="#A2"/>
+                        constitutus, plane recognovit quod fratres et ecclesia de <orgName key="stutzmann_himanis#282689" xml:id="d1e131493">Fonteneto</orgName> ei in
+                        neccessitate sua accommodaverant quater vigin<lb n="3" break="no" corresp="#A1"/>ti<lb n="3" corresp="#A2"/> libras proviniensium. Unde et
+                        ipse <persName key="d1e11850" xml:id="d1e131501">Petrus</persName>, in
+                        remedium anime sue et suorum et in recompensationem tanti beneficii sibi
+                        collati <lb n="4" corresp="#A1 #A2"/> a nominatis fratribus, concessit eis
+                        pasturas et <app>
+                            <lem wit="#A1">pastionem</lem>
+                            <rdg wit="#A2">pasti<subst>
+                                    <del>ti</del>
+                                    <add>o</add>
+                                </subst>nem</rdg>
+                        </app> et aasentiam aque ad usum omnium animalium, peccorum suorum <lb n="5" corresp="#A1 #A2"/> et porcorum per totum finagium ville de <placeName key="stutzmann_himanis#324373" xml:id="d1e131521">Asneriis</placeName> et per
+                        totam potestatem, sicut ipse participat cum <persName key="d1e11856" xml:id="d1e131524">Girardo de <placeName key="stutzmann_himanis#324373" xml:id="d1e131526">Asne<lb n="6" break="no" corresp="#A2"/>riis</placeName>
+                        </persName>, <lb n="6"/> in bosco et plano, in monte et valle. Addidit
+                        insuper prefate donationi sue quecumque ibidem fuerint ne<lb n="7" break="no" corresp="#A2"/>cessaria <lb n="7" corresp="#A1"/> pastoribus
+                        ecclesie nominate in eisdem pasturis commorantibus, ligna scilicet ad
+                        faciendum focum, ad bordam <lb n="8" corresp="#A2"/> construendam, <lb n="8" corresp="#A1"/> et rameriam. Similiter idem <persName key="d1e11862" xml:id="d1e131542">Petrus</persName> concessit ecclesie sepedicte
+                        pasturas, pastionem et aasentias <lb n="9" corresp="#A2"/> aque et
+                        necessaria <lb n="9" corresp="#A1"/> pastoribus in tota potestate sua de
+                            <placeName key="stutzmann_himanis#324350" xml:id="d1e131549">Raveriis</placeName>.
+                        Quod si predicti fratres vel res ipsorum alicui aliquod<lb n="10" corresp="#A2"/> dampnum intulerint, ad <lb n="10" corresp="#A1"/>
+                        valentiam dampni, capitale solummodo restituetur absque omni alia
+                        emendatione. Hec pre<lb n="11" break="no" corresp="#A2"/>scripta concessit
+                            <persName key="d1e11868" xml:id="d1e131559">Petrus</persName> dictis <lb n="11" corresp="#A1"/> fratribus tenenda pacifice et possidenda <app>
+                            <lem wit="#A2">quamdiu</lem>
+                            <rdg wit="#A1">
+                                <sic>quadiu</sic>
+                            </rdg>
+                        </app> ipse debebit eis summam debiti nomina<lb n="12" break="no" corresp="#A2"/>tam et per duos annos amplius <lb n="12" corresp="#A1"/>
+                        postquam redemerit ipse vel sui. Preterea sciendum quod sepenominatus
+                            <persName key="d1e11874" xml:id="d1e131576">Petrus</persName> usque<lb n="13" corresp="#A2"/> ad plenam <app>
+                            <lem wit="#A2">sol<del rend="expunct">l</del>utionem</lem>
+                            <rdg wit="#A1">sollutionem</rdg>
+                        </app> dicte pecunie <lb n="13" corresp="#A1"/> nulli omnino prenominatas
+                        pasturas vendere vel invadiare poterit, nec al<lb n="14" break="no" corresp="#A2"/>terius ecclesie vel religionis peccora vel animalia, nisi
+                            <lb n="14" corresp="#A1"/> sua aut hominum trium villarum, de <placeName key="stutzmann_himanis#324373" xml:id="d1e131597">Asneriis</placeName> scilicet,
+                        de <placeName key="stutzmann_himanis#324350" xml:id="d1e131600">Raveriis</placeName>
+                        <lb n="15" corresp="#A2"/> et de <placeName key="stutzmann_himanis#325255" xml:id="d1e131604">
+                            <foreign>Crie</foreign>
+                        </placeName>, in easdem pasturas ad pascendum introducet. Sed <lb n="15" corresp="#A1"/> et de his omnibus adversus omnes homines debitam
+                            garen<lb n="16" break="no" corresp="#A2"/>tiam promisit. Et ego
+                            <persName key="stutzmann_himanis#324624" xml:id="d1e131613">dux <placeName key="stutzmann_himanis#325098" xml:id="d1e131615">Burgundie</placeName>
+                        </persName> ad preces jamdicti <persName key="d1e11881" xml:id="d1e131618">
+                            <app>
+                                <lem wit="#A1">Petri</lem>
+                                <rdg wit="#A2"> P. </rdg>
+                            </app>
+                        </persName>
+                        <lb n="16" corresp="#A1"/> hec omnia manucepi et me sepenominatis fratribus
+                            <lb n="17" corresp="#A2"/> responsorem constitui. Quod totum laudavit
+                            <persName key="d1e11887" xml:id="d1e131628">Nicholia uxor ejusdem
+                                <persName key="d1e11893" xml:id="d1e131630">Petri</persName>
+                        </persName>. <lb n="17" corresp="#A1"/> In cujus rei testimonium, presens
+                            <lb n="18" corresp="#A2"/> scriptum sigillo meo confirmari precepi. Anno
+                        verbi incarnati millesimo <num>
+                            <app>
+                                <lem wit="#A1">cc°</lem>
+                                <rdg wit="#A2">ducentesimo</rdg>
+                            </app> vi°</num>.</p>
+                
+            </body>
+        </text>
+    </TEI>

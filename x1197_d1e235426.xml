@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1197_d1e235426">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 165@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 45<hi rend="superscript">r-v</hi> (<hi rend="italic">Flaciacum</hi>, 29 : « <hi rend="smallcaps">xix</hi> ») ; table mutilée</witness>
+                        <witness n="C">Cartulaire 2, fol. 107<hi rend="superscript">v</hi>-108<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 29) ;
+                            table mutilée</witness>
+                        <witness n="D">ADCO 15 H 11* (cart. 202), fol. 196<hi rend="superscript">r-v</hi> (Grignon. NNN) : « <hi rend="italic">Restat corrigia cum
+                                parvulo fragmento sigilli</hi> » ; non collationné.</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (Grignon.
+                            NNN)</bibl>
+                        <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">@</hi> (Grignon. NNN).
+                            —ADCO 15 H <hi rend="background(red)">@</hi>, p. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.
+                                <hi rend="background(red)">@</hi>. <hi rend="background(red)">@</hi>).</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1197-12-31">1197</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+            <encodingDesc>
+                <editorialDecl>
+                    <ab>Collation non faite</ab>
+                </editorialDecl>
+            </encodingDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <persName key="stutzmann_himanis#324610" xml:id="d1e161027">Gauterius Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e161029">Eduensis</placeName>
+                        episcopus</persName> fidelibus universis presentibus pariter et futuris in
+                    perpetuum. Universitati vestre notum facimus quod <persName key="d1e27082" xml:id="d1e161033">Matinea, uxor <persName key="d1e27088" xml:id="d1e161035">domini Hugonis militis de <placeName key="stutzmann_himanis#325036" xml:id="d1e161037">Turre</placeName>
+                        </persName>
+                    </persName>, dedit in perpetuam elemosinam ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e161040">Fonteneti</orgName> quicquid habebat
+                    in bruillio de <placeName key="stutzmann_himanis#324374" xml:id="d1e161043">Venerreio</placeName>. Concessit etiam fratribus ejusdem ecclesie quicquid
+                    adquisierant vel adquirere potuerint in futuro apud <placeName key="stutzmann_himanis#324475" xml:id="d1e161046">Marmaniam</placeName> de chasamento
+                    ejus preter homines et feminas. Hoc totum laudavit <persName key="d1e27094" xml:id="d1e161049">
+                        <add place="margin">Philippus</add> filius ejus</persName>, <persName key="d1e27100" xml:id="d1e161055">Hugo nepos ejus</persName>, <persName key="d1e27107" xml:id="d1e161058">Guido dominus <placeName key="stutzmann_himanis#324374" xml:id="d1e161060">Venerrei</placeName>
+                    </persName>. Hujus rei testes sunt <persName key="d1e27113" xml:id="d1e161063">monachi Fonteneti <persName key="d1e27119" xml:id="d1e161065">Hugo</persName> scilicet et <persName key="d1e27125" xml:id="d1e161068">Gislebertus</persName>, filii ejusdem <persName key="d1e27131" xml:id="d1e161071">Matinee</persName>
+                    </persName>, et <persName key="d1e27137" xml:id="d1e161074">Hugo de <placeName key="stutzmann_himanis#324349" xml:id="d1e161076">Quinceio</placeName>
+                    </persName>, <persName key="d1e27144" xml:id="d1e161079">Willermus prior
+                            <placeName key="stutzmann_himanis#325013" xml:id="d1e161081">Sancti
+                            Mauricii</placeName>
+                    </persName>, <persName key="d1e27150" xml:id="d1e161084">Haymo prior <orgName key="stutzmann_himanis#280703" xml:id="d1e161086">Sancte Marie de <placeName key="stutzmann_himanis#324368" xml:id="d1e161088">Sinemuro</placeName>
+                        </orgName>
+                    </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e161092">Odo
+                        archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e161094">Tullionis</placeName>
+                    </persName>, <persName key="d1e27156" xml:id="d1e161097">Robertus capellanus
+                            <orgName key="stutzmann_himanis#324502" xml:id="d1e161099">leprosorum de
+                                <placeName key="stutzmann_himanis#324368" xml:id="d1e161101">Semuro</placeName>
+                        </orgName>
+                    </persName>, <persName key="d1e27162" xml:id="d1e161104">magister Walterius de
+                            <placeName key="stutzmann_himanis#325034" xml:id="d1e161106">
+                            <foreign>Til</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e27168" xml:id="d1e161110">Oliverus miles de
+                            <placeName key="stutzmann_himanis#324459" xml:id="d1e161112">Grinione</placeName>
+                    </persName>, <persName key="d1e27174" xml:id="d1e161115">Milo de <placeName key="stutzmann_himanis#324467" xml:id="d1e161117">Lentiliaco</placeName>
+                    </persName>, <persName key="d1e27181" xml:id="d1e161120">Pontius de <placeName key="stutzmann_himanis#324905" xml:id="d1e161122">Chaaceio</placeName>
+                    </persName>, <persName key="d1e27187" xml:id="d1e161126">Milo frater
+                        ejus</persName>. Quod totum ut ratum habeatur in perpetuum sigilli nostri
+                    auctoritate confirmamus, anno ab incarnatione Domini millesimo <num>c° xc°
+                        vii°</num>.</p>
+            </body>
+        </text>
+    </TEI>

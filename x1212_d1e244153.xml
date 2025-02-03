@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1212_d1e244153">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 277@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <head>Edité d’après B (Flaciacum, 41 puis 30), collationné sur D.</head>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 51<hi rend="superscript">v</hi> (<hi rend="italic">Flaciacum</hi>, 41 ; annotation marginale « <hi rend="italic">Redd.</hi> ») ; table mutilée</witness>
+                        <witness n="C">Cartulaire 2, fol. 112<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 41) ; table mutilée</witness>
+                        <witness n="D">ADCO 15 H 11* (cart. 202), fol. 163<hi rend="superscript">r</hi> (Grignon. A) : « <hi rend="italic">Restat sigillum episcopi
+                                cum contrasigillo</hi> ».</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (Grignon.
+                            A)</bibl>
+                        <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">@</hi> (Grignon.
+                            A)</bibl>
+                        <bibl>ADCO 15 H <hi rend="background(red)">@</hi>, p. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.
+                                <hi rend="background(red)">@</hi>. <hi rend="background(red)">@</hi>)</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1212-12-31">1212</date>
+                    <hi rend="background(yellow)">Lien avec 274@</hi>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e167113">Galterius, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e167115">Eduensis</placeName>
+                        episcopus</persName>, notum facio tam futuris quam presentibus quod
+                        <persName key="d1e29382" xml:id="d1e167119">dominus Guido de <placeName key="stutzmann_himanis#324374" xml:id="d1e167121">Venerre<app>
+                                <lem>
+                                    <witEnd wit="#B #C"/>
+                                </lem>
+                            </app>
+                        </placeName>
+                    </persName>
+                    <witDetail wit="#B #C"> complétés par "Cetera quere retro in .XXX<hi rend="superscript">a</hi>.", renvoyant à l’acte Flaciacum, 30
+                    </witDetail>, in presentia nostra constitutus, dedit et in perpetuam <app>
+                        <lem>elemosinam</lem>
+                        <rdg wit="#D">eleemosinam</rdg>
+                    </app> concessit Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e167142">Fonteneti</orgName> pro remedio anime sue et antecessorum
+                    suorum libere et absolute omnia que habebat in decimis de <placeName key="stutzmann_himanis#324458" xml:id="d1e167145">Grangiis</placeName> et de
+                        <placeName key="stutzmann_himanis#324459" xml:id="d1e167149">Grinione</placeName> tam
+                    bladi quam vini et tractus earumdem decimarum, hoc excepto quod de ipsis decimis
+                    unum modium vini dedit monacho et capellano de <placeName key="stutzmann_himanis#324459" xml:id="d1e167154">Grinione</placeName> annuo jure persolvendum. Dedit etiam
+                    idem <persName key="d1e29388" xml:id="d1e167157">Guido</persName> jamdictis
+                    fratribus et concessit <app>
+                        <lem>quicquid</lem>
+                        <rdg wit="#D">quidquid</rdg>
+                    </app> adquirere poterunt in alia parte <app>
+                        <lem>dictarum</lem>
+                        <rdg wit="#D" type="omis"/>
+                    </app> decimarum <app>
+                        <lem>que</lem>
+                        <rdg wit="#D">quod</rdg>
+                    </app> sunt de feodo suo. Hoc totum <app>
+                        <lem>laudavit</lem>
+                        <rdg wit="#D">laudaverunt</rdg>
+                    </app>
+                    <persName key="d1e29394" xml:id="d1e167183">uxor sua Adelina</persName>,
+                        <persName key="d1e29401" xml:id="d1e167186">Huguo</persName> et <persName key="d1e29407" xml:id="d1e167189">Guido filii ipsius</persName>. Quod ut
+                    ratum sit et firmum maneat in posterum ad petitionem ipsius <persName key="d1e29413" xml:id="d1e167192">Guidonis</persName> huic scripto sigillum
+                    meum apposui. Actum anno gratie <app>
+                        <lem>
+                            <num>m° cc° xii°</num>
+                        </lem>
+                        <rdg wit="#D">millesimo ducentesimo duodecimo</rdg>
+                    </app>.</p>
+            </body>
+        </text>
+    </TEI>

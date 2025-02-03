@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1190_d1e207516">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 2562</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 357, pièce 3</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>190/185</height>
+                                                  <width>195</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>145</height>
+                                                  <width>180</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="14">réglure à la mine
+                                                de plomb (7, 175, 7 x 15, 136, 33 mm) ; repli de 16
+                                                mm, à double entaille</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mention hors teneur : sur le repli « .XXII. f.
+                                            IIII<hi rend="superscript">a</hi> ». Mentions dorsales :
+                                            (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) de grand module « XIII » ;
+                                        mention effacée « Tornod. » ( ?) ; « Carta Wiardi
+                                        vicecomitis Tornodori » ; effacé « VI<hi rend="superscript">a</hi> » ; « .IX<hi rend="superscript">a</hi>. » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Tonnerre. Don du dix
+                                        septiers moitié froment et avoyne faict par Viard vicomte de
+                                        Tonnerre a Mrs de Fontenay et quittance de dix sols de cense
+                                        qu’iceux venerables de Fontenay luy devoient sur la metairie
+                                        d’Estormey l’an 1190. Cotté HHHHHH » ; (1787) « N° 1 /
+                                        1190 ».</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1190</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="B">ADCO 15 H 12* (cart. 203), fol. 108<hi rend="superscript">r-v</hi> (Tonnerre. HHHHHH) : « <hi rend="italic">Restat
+                                sigillum</hi>» ; non collationné. </witness>
+                        <witness n="a">
+                            <bibl sameAs="#Quantin1854">
+                                <biblScope>t. II, n° 418, repris par ARTeHIS : Archéologie, 2006
+                                    #3500@n° 8584</biblScope>
+                            </bibl>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 213<hi rend="superscript">v</hi> (Tonnerre. HHHHHH). </bibl>
+                        <bibl>ADCO 15 H 2, fol. 114<hi rend="superscript">r</hi> (Tonnerre. HHHHHH). </bibl>
+                        <bibl>ADCO 15 H 3, p. 977 (XLIII. 12. 1) : « scellé d’un grand sceau de cire
+                            jaune à queue de peau blanche pendante ». </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1190-12-31">1190</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_357_0007.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_357_0008.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                    <p>
+                        <hi rend="litterae elongatae">Ego</hi>
+                        <persName key="stutzmann_himanis#324610" xml:id="d1e140561">
+                            <hi rend="litterae elongatae">Gauterius, Dei</hi> gratia <placeName key="stutzmann_himanis#319548" xml:id="d1e140565">Eduorum</placeName>
+                            episcopus</persName>, notum facio tam futuris quam presentibus quod <lb n="2"/>
+                        <persName key="d1e14575" xml:id="d1e140570">Wiardus vicecomes <placeName key="stutzmann_himanis#101449" xml:id="d1e140572">Tornodori</placeName>
+                        </persName> dedit et concessit Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e140575">Fonteneti</orgName> in elemosinam .VIII<hi rend="superscript">to</hi>. <lb n="3"/> sextarios bladii, medietatem
+                        frumenti et medietatem avenę, et .X. solidos quos fratres de <orgName key="stutzmann_himanis#282689" xml:id="d1e140584">Fonteneto</orgName> ei annua<lb n="4" break="no"/>tim debebant in grangia que <placeName key="stutzmann_himanis#324449" xml:id="d1e140589">
+                            <foreign>Estormer</foreign>
+                        </placeName> dicitur, de territorio <placeName key="stutzmann_himanis#324335" xml:id="d1e140593">Noville Montis</placeName>, unde de beneficio ejusdem
+                            <add place="margin" hand="eademmanu">ecclesie</add>
+                        <lb n="5"/> .LV. libras habuit, ea videlicet conditione quod si quisquam
+                        inde jamdictis fratribus calumpniam vel querelam <lb n="6"/> aliquam movere
+                        temptaverit, ipse eis per omnia legitimam garantiam portabit. Hujus rei
+                        testes sunt : <lb n="7"/>
+                        <persName key="d1e14582" xml:id="d1e140604">Willelmus prior de
+                            Fonteneto</persName>, <persName key="d1e14588" xml:id="d1e140607">frater
+                            Philippus</persName>, frater <persName key="d1e14594" xml:id="d1e140610">Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e140612">Grinione</placeName>
+                        </persName>, frater <persName key="d1e14600" xml:id="d1e140615">Umbertus
+                            cellerarius</persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e140619">Odo archipresbiter <lb n="8"/>
+                            <placeName key="stutzmann_himanis#324370" xml:id="d1e140622">Tullionis</placeName>
+                        </persName>, <persName key="stutzmann_himanis#324628" xml:id="d1e140625">Tecelinus
+                            archipresbiter <placeName key="stutzmann_himanis#323218" xml:id="d1e140627">Frollesii</placeName>
+                        </persName>, <persName key="d1e14606" xml:id="d1e140630">Odo dominus de
+                                <placeName key="stutzmann_himanis#324465" xml:id="d1e140632">
+                                <foreign>Junai</foreign>
+                            </placeName>
+                        </persName>, <persName key="d1e14612" xml:id="d1e140636">Rainaudus</persName> frater ejus, <persName key="d1e14619" xml:id="d1e140639">Andreas de <lb n="9"/>
+                            <placeName key="stutzmann_himanis#324438" xml:id="d1e140642">
+                                <foreign>Cortenge</foreign>
+                            </placeName>
+                        </persName>, <persName key="d1e14625" xml:id="d1e140646">Walterius
+                                <placeName key="stutzmann_himanis#324335" xml:id="d1e140648">Noville</placeName>
+                        </persName>. Hoc totum laudavit <persName key="d1e14631" xml:id="d1e140652">
+                            <foreign>Estibiers</foreign>
+                        </persName>, uxor ejusdem <persName key="d1e14637" xml:id="d1e140656">Wiardi</persName>. Propter quod <lb n="10"/> vacam unam habuit, filii
+                        quoque et filię eorum videlicet <persName key="d1e14643" xml:id="d1e140661">Rainaudus</persName>, <persName key="d1e14649" xml:id="d1e140664">Johannes</persName>, <persName key="d1e14656" xml:id="d1e140667">Willelmus</persName>, <persName key="d1e14662" xml:id="d1e140671">Gertrudis</persName> et <persName key="d1e14668" xml:id="d1e140674">Re<lb n="11" break="no"/>gina</persName>. Hujus laudationis testes
+                        sunt tres monachi de Fonteneto, videlicet <persName key="d1e14674" xml:id="d1e140679">Andreas</persName>, <persName key="d1e14680" xml:id="d1e140682">Umbertus</persName>, <lb n="12"/>
+                        <persName key="d1e14686" xml:id="d1e140686">Hugo</persName>, <persName key="d1e14693" xml:id="d1e140690">Walterius de Novilla</persName> et
+                            <persName key="d1e14699" xml:id="d1e140693">uxor ejus</persName>. Ut
+                        autem hoc ratum et inviolabile perseveret presentem <lb n="13"/> cartam,
+                        prece ejusdem <persName key="d1e14705" xml:id="d1e140698">Wiardi</persName>,
+                        sigilli nostri appensione munire curavimus<figure rend="Trait ondulé"/>. <lb n="14"/> Actum anno incarnationis Domini millesimo. centesimo.
+                            <sic>nonajesimo</sic>.</p>
+                
+            </body>
+        </text>
+    </TEI>

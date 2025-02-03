@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1164_d1e224162">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 34@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Copie perdue dans Cartulaire 1</witness>
+                        <witness n="C">Cartulaire 2, fol. 103<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 24) ; table mutilée</witness>
+                    </listWit>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1164-04-03">1164, 3 avril [n. st]. — Le
+                        Fain</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324588" xml:id="d1e152964">Henricus, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e152966">Eduensis</placeName>
+                        episcopus</persName>, tam futuris quam presentibus notum facio quod
+                        <persName key="d1e23092" xml:id="d1e152970">Symeon quondam conversus de
+                            <placeName key="stutzmann_himanis#324453" xml:id="d1e152972">Fonteneto</placeName>
+                    </persName> et <persName key="d1e23098" xml:id="d1e152975">Pontius frater
+                        ejus</persName> guerpiverunt in manu <persName key="d1e23104" xml:id="d1e152978">fratris Hugonis de <placeName key="stutzmann_himanis#325251" xml:id="d1e152980">Curte Rabodi</placeName>
+                    </persName> quicquid querele habebant adversus domum <orgName key="stutzmann_himanis#282689" xml:id="d1e152983">Fonteneti</orgName> tam in tenemento
+                    quam in mobili. Et coram testibus juraverunt quia deinceps nullam inquietationem
+                    super hoc facerent monasterio. S. <persName key="stutzmann_himanis#324588" xml:id="d1e152987">Henrici episcopi <placeName key="stutzmann_himanis#319548" xml:id="d1e152989">Eduensis</placeName>
+                    </persName>. S. <persName key="d1e23110" xml:id="d1e152992">Hugonis de
+                            <placeName key="stutzmann_himanis#325251" xml:id="d1e152994">Curte
+                            Rabodi</placeName>
+                    </persName>. S. <persName key="d1e23116" xml:id="d1e152997">Galterii
+                            <addName>Pelliparii</addName>
+                    </persName>. S. <persName key="d1e23122" xml:id="d1e153002">Evrardi sororii
+                        ejus</persName>. S. <persName key="d1e23129" xml:id="d1e153005">Duranni
+                        filii <persName key="d1e23135" xml:id="d1e153007">Terrei</persName>
+                    </persName>. Actum apud <placeName key="stutzmann_himanis#324450" xml:id="d1e153010">Fanium</placeName> sabbato ante Pascha floridum anno Verbi incarnati <hi rend="smallcaps">m° c° lx° iii°</hi>.</p>
+            </body>
+        </text>
+    </TEI>

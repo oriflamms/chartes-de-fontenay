@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1196_d1e233414">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 147@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 39<hi rend="superscript">v</hi>-40<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 3) ;
+                            table :
+                            « <hi rend="italic" xml:space="preserve">Carta ejusdem de prato de </hi>Marrigne »
+                            suivant « <hi rend="italic">Carta Mathildis comitisse Grinionis de vinea
+                                ad missas</hi> »</witness>
+                        <witness n="C">Cartulaire 2, fol. 97<hi rend="superscript">r</hi>-98<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 3) ;
+                            table mutilée</witness>
+                        <witness n="D">ADCO 15 H 11* (cart. 202), fol. 191<hi rend="superscript">r-v</hi> (Grignon. PPP) : « <hi rend="italic">Restat corrigia ad
+                                quam videtur olim fuisse appensum sigillum</hi> » ; non
+                            collationné.</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (Grignon.
+                            PPP)</bibl>
+                        <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">@</hi> (Grignon. PPP).
+                            —ADCO 15 H <hi rend="background(red)">@</hi>, p. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.
+                                <hi rend="background(red)">@</hi>. <hi rend="background(red)">@</hi>).</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1196-10-31">1196, octobre</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+            <encodingDesc>
+                <editorialDecl>
+                    <ab>Collation non faite</ab>
+                </editorialDecl>
+            </encodingDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="d1e26484" xml:id="d1e159658">Matildis, comitissa <placeName key="stutzmann_himanis#324459" xml:id="d1e159660">Grinionis</placeName>
+                    </persName>, notum facio presentibus pariter et futuris quod ecclesie et
+                    fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e159663">Fonteneti</orgName>
+                    in perpetuam <supplied>elemos</supplied>inam dedi et concessi pratum unum quod
+                    emeram de quadam <persName key="d1e26490" xml:id="d1e159669">muliere de
+                            <placeName key="stutzmann_himanis#324478" xml:id="d1e159671">
+                            <foreign>Marrigne</foreign>
+                        </placeName>
+                    </persName> et totum censum prati quod habebam in vadimonio ab hominibus nostris
+                    de <placeName key="stutzmann_himanis#324458" xml:id="d1e159675">Grangiis</placeName>,
+                    scilicet a <persName key="d1e26496" xml:id="d1e159679">Rodulfo
+                            <addName>Mosnerio</addName>
+                    </persName> et <persName key="d1e26502" xml:id="d1e159684">Gauterio frater
+                        ejus</persName> et <persName key="d1e26508" xml:id="d1e159687">Martino filio
+                            <persName key="d1e26515" xml:id="d1e159689">Radulfi</persName>
+                    </persName> et totam <hi rend="background(cyan)">gageriam</hi> ipsius prati et
+                    etiam potestatem ipsum pratum adquirendi. Concessi etiam eis quicquid
+                    adquisierant vel in futuro adquisituri erant de chasamentis meis, ita tamen ut
+                    chasatus non amittatur. Iterum concessi eis quicquid adquisierant ab hominibus
+                    meis, scilicet ab <persName key="d1e26521" xml:id="d1e159695">Herardo
+                        preposito</persName> vineam unam et a <persName key="d1e26527" xml:id="d1e159698">filio ejus</persName> pratum unum et a <persName key="d1e26533" xml:id="d1e159702">Radulpho filio <persName key="d1e26539" xml:id="d1e159704">Engelberti</persName>
+                    </persName> vineam unam et pratum et oschiam de pascuis et a <persName key="d1e26545" xml:id="d1e159707">Bartholomeo de <placeName key="stutzmann_himanis#324356" xml:id="d1e159709">
+                            <foreign>Saigni</foreign>
+                        </placeName>
+                    </persName> vineam <num>i</num> et a <persName key="d1e26552" xml:id="d1e159716">Symeone</persName> et <persName key="d1e26558" xml:id="d1e159719">fratribus
+                        ejus</persName> et <persName key="d1e26564" xml:id="d1e159722">liberis
+                        eorum</persName> vineam <num>i</num> et ab <persName key="d1e26570" xml:id="d1e159729">Hugone <addName>Rufo</addName>
+                    </persName> vineam <num>i</num>, a <persName key="d1e26576" xml:id="d1e159737">Martino <addName>
+                            <foreign>Jorne</foreign>
+                        </addName>
+                    </persName> pratum <num>i</num>, et a <persName key="d1e26582" xml:id="d1e159746">Petro clerico, filio <persName key="d1e26589" xml:id="d1e159748">Radulphi Litet</persName>
+                    </persName> pratum <num>i</num>, laudantibus <persName key="d1e26595" xml:id="d1e159759">tribus fratribus ejus</persName>, a <persName key="d1e26601" xml:id="d1e159762">Martino de <placeName key="stutzmann_himanis#324458" xml:id="d1e159764">Grangiis</placeName>, genero <persName key="d1e26607" xml:id="d1e159767">Johannis de <placeName key="stutzmann_himanis#324985" xml:id="d1e159769">Porta</placeName>
+                        </persName>
+                    </persName> pratum <num>i</num>, laudante ipso <persName key="d1e26613" xml:id="d1e159776">Johanne</persName>, a <persName key="d1e26619" xml:id="d1e159779">Constantio <addName>
+                            <foreign>Cor vacce</foreign>
+                        </addName>
+                    </persName> pratum <num>i</num>, a <persName key="d1e26626" xml:id="d1e159791">Gauterio <addName>Achopardo</addName>
+                    </persName> et ab <persName key="d1e26632" xml:id="d1e159796">Henrico fratre
+                        ejus</persName> pratum <num>i</num>, et a <persName key="d1e26638" xml:id="d1e159802">Guiardo <addName>Arcopardo</addName>
+                    </persName> pratum <num>i</num> et a <persName key="d1e26644" xml:id="d1e159811">Pontio filio <persName key="d1e26650" xml:id="d1e159813">Roberti</persName>
+                    </persName> pratellum <num>i</num>. Insuper quicquid adquisierant ab hominibus
+                    meis in terris in pratis in vineis sive emptione sive elemosina sive alio
+                    quolibet modo de quibus sine juris defectu investiti erant anno <num>m° c° xc°
+                        vi°</num> dominice incarnationis mense octobri in perpetuum
+                        possi<supplied>dere</supplied> et absque ulla contradictione eis concessi.
+                    Hujus rei sunt testes <persName key="d1e26656" xml:id="d1e159825">Hubertus abbas
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e159827">Fonteneti</orgName>
+                    </persName> et totus ejusdem loci conventus, <persName key="stutzmann_himanis#324623" xml:id="d1e159830">Odo archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e159832">Tullionis</placeName>
+                    </persName>, <persName key="d1e26663" xml:id="d1e159836">Oliverius de <placeName key="stutzmann_himanis#324459" xml:id="d1e159838">Grinione</placeName>
+                    </persName>, <persName key="d1e26669" xml:id="d1e159841">Matheus de <placeName key="stutzmann_himanis#324448" xml:id="d1e159843">
+                            <foreign>Estez</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e26675" xml:id="d1e159847">Pontius de <placeName key="stutzmann_himanis#324905" xml:id="d1e159849">
+                            <foreign>Chaace</foreign>
+                        </placeName>
+                    </persName> et <persName key="d1e26681" xml:id="d1e159853">Milo frater
+                        ejus</persName>, <persName key="d1e26687" xml:id="d1e159856">Renerius de
+                            <placeName key="stutzmann_himanis#324359" xml:id="d1e159858">Sancta
+                            Columba</placeName>
+                    </persName>, <persName key="d1e26693" xml:id="d1e159861">Teobaudus prepositus
+                            <placeName key="stutzmann_himanis#324487" xml:id="d1e159863">Montis
+                            Barri</placeName>
+                    </persName> et multi alii. Quod totum ut fir<supplied>mum</supplied> perseveret
+                    in perpetuum presentem paginam sigilli mei impressi<supplied>one</supplied>
+                    <supplied>robo</supplied>ravi.</p>
+            </body>
+        </text>
+    </TEI>

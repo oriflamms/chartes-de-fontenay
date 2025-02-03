@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1183_d1e189361">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 196</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 109, pièce 1</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>154</height>
+                                                  <width>172/164</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>90</height>
+                                                  <width>155</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="10">réglure à la mine
+                                                de plomb (10, 155, 5 x 15 (1 l.), 103 (12 ur), 30
+                                                mm) ; repli de 20-25 mm à une simple entaille
+                                                centrale</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture livresque adaptée</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Abbatia » ; « Anserici
+                                        de Monte Regali » ; (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s., autour de la précédente
+                                        mention) « Carta [Anserici de Monte Regali] de pedagio
+                                        Divionis de parte sua » ; « Pedagiorum » ; (<hi rend="smallcaps">xiv-xv</hi>
+                                        <hi rend="superscript">e</hi> s.) « Dijon » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Dijon. Concession faicte
+                                        par Ansericus, seigneur de Mont Royal a Mrs de Fontenay du
+                                        droit d’entree et de sortie sans rien payer sur ce qui lui
+                                        estoit deu dud. Péage, l’an 1183, cotte Trois. » ; (1787)
+                                        « N° 1 / 1183 »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1183</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="a">
+                            <bibl sameAs="#Chastellux1869">
+                                <biblScope>p. 278</biblScope>
+                            </bibl>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 124<hi rend="superscript">[*]r</hi> (Dijon,
+                            3)</bibl>
+                        <bibl>ADCO 15 H 3, p. 187 (XIX. 3. 1) : « scellé d’un sceau de cire jaune à
+                            double queue de peau blanche pendant »</bibl>
+                        <bibl sameAs="#Bouchard1991b">
+                            <biblScope>p. 113 note 60</biblScope>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1183-12-31">1183</date>
+                </creation>
+                <abstract>
+                    <p>Donation par Anséric [VI] de Montréal et sa femme du libre passage au péage
+                        de Dijon à l’abbaye de Fontenay.</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_109_0002.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_109_0003.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                   <p>Ego <persName key="d1e10993" xml:id="d1e128414">Ansericus, <placeName key="stutzmann_himanis#324959" xml:id="d1e128416">Montis Regalis</placeName>
+                            dominus</persName>, notum fieri volo cunctis hominibus presentibus <lb n="2"/> et futuris donum quod ego et <persName key="d1e10999" xml:id="d1e128422">
+                            <app>
+                                <lem wit="#A">Sibilla</lem>
+                                <rdg wit="#a">Sibylla</rdg>
+                            </app>, uxor mea</persName>, fecimus Deo et fratribus ecclesie
+                            Fontene<lb n="3" break="no"/>ti. Dedimus enim et concessimus predictis
+                        fratribus tam ego quam prefata uxor mea pro sa<lb n="4" break="no"/>lute
+                        animarum nostrarum et antecessorum nostrorum liberum transitum in <placeName key="stutzmann_himanis#96489" xml:id="d1e128435">pedagio <placeName key="stutzmann_himanis#96489" xml:id="d1e128437">Di<lb n="5" break="no"/>vionis</placeName>
+                        </placeName> in parte nostra, sine omni exactione ipsis et rebus eorum. Hoc
+                        laudavit <lb n="6"/> supradicta <persName key="d1e11005" xml:id="d1e128444">
+                            <app>
+                                <lem wit="#A">Sibilla</lem>
+                                <rdg wit="#a">Sibylla</rdg>
+                            </app>
+                        </persName>, uxor mea, et duo filii mei, <persName key="d1e11011" xml:id="d1e128451">Ansericus</persName> et <persName key="d1e11017" xml:id="d1e128454">Johannes</persName>. <app>
+                            <lem wit="#A">Horum</lem>
+                            <rdg type="omission" wit="#a"/>
+                        </app> testes sunt <lb n="7"/>
+                        <persName key="d1e11024" xml:id="d1e128464">Ansericus supprior</persName>,
+                            <persName key="d1e11030" xml:id="d1e128467">
+                            <app>
+                                <lem wit="#A">Umbertus</lem>
+                                <rdg wit="#a">Ymbertus</rdg>
+                            </app> cellerarius</persName>, <persName key="d1e11036" xml:id="d1e128475">Bernardus de <persName key="d1e11042" xml:id="d1e128477">Rubeo Monte</persName>, monachus <orgName key="stutzmann_himanis#282689" xml:id="d1e128480">Fon<lb n="8" break="no"/>teneti</orgName>
+                        </persName>, <persName key="d1e11048" xml:id="d1e128485">Andreas de
+                                <placeName key="stutzmann_himanis#324376" xml:id="d1e128487">Veteri
+                                Castro</placeName>
+                        </persName>, <persName key="d1e11054" xml:id="d1e128490">Josbertus de
+                                <placeName key="stutzmann_himanis#324964" xml:id="d1e128492">Mosa</placeName>,
+                            monachus <orgName key="stutzmann_himanis#283278" xml:id="d1e128495">Molismi</orgName>
+                        </persName>, <persName key="d1e11061" xml:id="d1e128499">Guer<lb n="9" break="no"/>ricus, clericus de <placeName key="stutzmann_himanis#324395" xml:id="d1e128503">Avalone</placeName>
+                        </persName>, <persName key="d1e11067" xml:id="d1e128506">Rainaudus, clericus
+                            de <placeName key="stutzmann_himanis#324355" xml:id="d1e128508">Rubeo
+                                Monte</placeName>
+                        </persName>, <persName key="d1e11073" xml:id="d1e128511">
+                            <app>
+                                <lem wit="#A">Guillermus</lem>
+                                <rdg wit="#a">Guillelmus</rdg>
+                            </app> prepo<lb n="10" break="no"/>situs <placeName key="stutzmann_himanis#325297" xml:id="d1e128520">Insule</placeName>
+                        </persName>. Actum est hoc apud <placeName key="stutzmann_himanis#324959" xml:id="d1e128523">Montem Regalem</placeName>, anno ab incarnatione
+                        Domini <num>m° c° lxxx° iii°</num>.</p>
+                
+            </body>
+        </text>
+    </TEI>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1165_d1e224388">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 47@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Copie mutilée dans Cartulaire 1, fol. 38[ter]<hi rend="superscript">v</hi>-39<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 1) ; table :
+                            « <hi rend="italic" xml:space="preserve">Carta Odonis de </hi>Yssodun »</witness>
+                        <witness n="C">Cartulaire 2, fol. 96<hi rend="superscript">r</hi>-97<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 1) ;
+                            table mutilée</witness>
+                        <witness n="D">Paris, Bibl. nat. de France, ms. Baluze 143, fol. 296<hi rend="superscript">r</hi> (« ex tabulario Fontenetensi »)</witness>
+                        <witness n="E">Dijon, Arch. dép. Côte d’Or, 1 F 423, fol. 46-47. — Papier.
+                            Copie par E. Petit d’après B.</witness>
+                        <witness n="a">a. <bibl sameAs="#Chifflet1660"><biblScope>p. 556,
+                                    Probationes diatribae, n° 116 (d’après
+                            D)</biblScope></bibl></witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>Dijon, Arch. dép. Côte d’Or, 1 F 423, fol. 45, 48</bibl>
+                        <bibl sameAs="#Petit1885">
+                            <biblScope>t. II, p. 311, n° 435</biblScope>
+                        </bibl>
+                        <bibl sameAs="#Bouchard1987">
+                            <biblScope>p. 417</biblScope>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1165-04-16">1165, 15 et 16
+                        avril. — Seigny et Fontenay</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+            <encodingDesc>
+                <ab>Édition d’après B (sauf leçons rejetées), passage restitués d’après C entre
+                    crochets.</ab>
+            </encodingDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <supplied>Ego </supplied>
+                    <persName key="stutzmann_himanis#324588" xml:id="d1e153149">
+                        <supplied>Henricus Dei gratia</supplied>
+                        <placeName key="stutzmann_himanis#319548" xml:id="d1e153152">Eduensis</placeName>
+                        episcopus</persName> presentibus et futuris <supplied>notifico
+                        querelam</supplied> quam adversus ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e153159">Fonteneti</orgName>
+                    <supplied>movebat </supplied>
+                    <persName key="d1e23147" xml:id="d1e153163">
+                        <supplied>Odo de</supplied>
+                        <placeName key="stutzmann_himanis#325271" xml:id="d1e153166">
+                            <foreign>Yssodun</foreign>
+                        </placeName>, comes <placeName key="stutzmann_himanis#324459" xml:id="d1e153170">Grinionis</placeName>
+                    </persName>, de <app>
+                        <lem>elemo<supplied>sina</supplied>
+                        </lem>
+                        <rdg wit="#a">eleemosyna</rdg>
+                    </app>
+                    <persName key="d1e23153" xml:id="d1e153180">
+                        <supplied>fratris mei Rai</supplied>]mundi</persName> in presentia nostra
+                    sic fuisse <supplied>terminatam. Concess</supplied>erat predictus <persName key="d1e23159" xml:id="d1e153189">Raimundus</persName> fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e153192">Fonteneti</orgName>
+                    <supplied>pro anima sua et ante</supplied>cessorum suorum quicquid ejus chasati
+                    de dominio <supplied>
+                        <placeName key="stutzmann_himanis#324459" xml:id="d1e153198">Grinionis</placeName> eis
+                        d</supplied>arent pro <app>
+                        <lem>elemosina</lem>
+                        <rdg wit="#a">eleemosyna</rdg>
+                    </app> de chasamento <app>
+                        <lem wit="#C">suo</lem>
+                        <rdg wit="#B">
+                            <sic>sivo</sic>
+                        </rdg>
+                    </app>
+                    <supplied>sic tamen ut chasa</supplied>tum non perderet. <hi rend="background(green)">Postea</hi> super hoc movit querelam <supplied>
+                        <persName key="d1e23166" xml:id="d1e153222">Odo de <placeName key="stutzmann_himanis#325271" xml:id="d1e153224">
+                                <foreign>Yssodun</foreign>
+                            </placeName>
+                        </persName>
+                    </supplied> ad quem devenerat terra <placeName key="stutzmann_himanis#324459" xml:id="d1e153228">Grinionis</placeName> ex parte <persName key="d1e23172" xml:id="d1e153231">
+                        <supplied>Matildis conjugi</supplied>s sue filie <persName key="d1e23178" xml:id="d1e153235">
+                            <app>
+                                <lem>Raimundi</lem>
+                                <rdg wit="#C">Raimudi</rdg>
+                            </app>
+                        </persName>
+                    </persName>. Unde utraque pars, <supplied>
+                        <persName key="d1e23184" xml:id="d1e153244">Odo</persName> videlicet et
+                        mon</supplied>achi ante me convenerunt. Recognitum <supplied>est</supplied>
+                    et legitimorum virorum irrefragabili testimonio compro<supplied>batum</supplied>
+                    hoc donum fecisse <persName key="d1e23190" xml:id="d1e153254">fratrem meum
+                        Raimundum</persName> priusquam <supplied>predicte</supplied> puelle matrem
+                    duxisset uxorem<app>
+                        <lem>
+                            <witEnd wit="#a"/>
+                            <witDetail wit="#a"> Liste des témoins omise et remplacée par
+                                'etc.'</witDetail>
+                        </lem>
+                    </app>. Hoc etiam afidave<supplied>runt in</supplied> manu mea verum esse
+                        <persName key="d1e23196" xml:id="d1e153270">Odo de <placeName key="stutzmann_himanis#323218" xml:id="d1e153272">
+                            <app>
+                                <lem>Froleio</lem>
+                                <rdg wit="#C">Froleyo</rdg>
+                            </app>
+                        </placeName>
+                    </persName>, <persName key="d1e23203" xml:id="d1e153279">Wido de <placeName key="stutzmann_himanis#325251" xml:id="d1e153281">Curte
+                                Rabo[<supplied>di</supplied>
+                        </placeName>
+                    </persName>
+                    <supplied>, </supplied>
+                    <persName key="d1e23209" xml:id="d1e153287">
+                        <supplied>Johanne</supplied>s de <placeName key="stutzmann_himanis#324359" xml:id="d1e153291">Sancta Columba</placeName>
+                    </persName>, <persName key="d1e23215" xml:id="d1e153294">Petrus
+                            <addName>Huldrei</addName>
+                    </persName>. <app>
+                        <lem>
+                            <witStart wit="#a"/>
+                        </lem>
+                    </app>Huic tam perspi<supplied>cue verit</supplied>ati predictus <persName key="d1e23221" xml:id="d1e153307">Odo</persName> nolens amplius contraire,
+                    guerpivit <supplied>in manu</supplied>
+                    <persName key="d1e23227" xml:id="d1e153312">Hugonis <orgName key="stutzmann_himanis#282689" xml:id="d1e153314">
+                            <app>
+                                <lem wit="#a">
+                                    <sic>Fontenetensis</sic>
+                                </lem>
+                                <rdg wit="#B">Fonteneten.</rdg>
+                                <rdg wit="#C">Fonteneti</rdg>
+                            </app>
+                        </orgName>
+                    </persName>
+                    <persName key="d1e23233" xml:id="d1e153323"> abbatis</persName> omnem querelam
+                    quam <supplied>moverat ad</supplied>versus <orgName key="stutzmann_himanis#282689" xml:id="d1e153329">
+                        <app>
+                            <lem wit="#a">Fontenetensem</lem>
+                            <rdg wit="#B">Fonteneten.</rdg>
+                            <rdg wit="#C">Fonteneti</rdg>
+                        </app>
+                    </orgName> ecclesiam et elemosinam <supplied>tam legitime fact</supplied>am
+                    ratam concessit<app>
+                        <lem>
+                            <witEnd/>
+                            <witDetail wit="#a">
+                                <hi rend="italic" xml:space="preserve">Suite omise et remplacée par </hi>etc</witDetail>
+                        </lem>
+                    </app> et in <placeName key="stutzmann_himanis#324453" xml:id="d1e153350">capitulo coram
+                        fratribus</placeName>
+                    <supplied>eis laudavit quicquid e</supplied>a die tenebant in terris, in
+                    decimis, <supplied>in pratis, in vineis. Con</supplied>cessit etiam scambium
+                    quod fecerant de <supplied>terra <persName key="d1e23240" xml:id="d1e153360">Lamberti</persName> et <persName key="d1e23246" xml:id="d1e153363">Engelberti</persName> et</supplied> fratrum suorum et scambium de terra <supplied>
+                        <persName key="d1e23252" xml:id="d1e153369">Eremberti</persName>. Hujus rei
+                        testes sunt </supplied>
+                    <persName key="d1e23258" xml:id="d1e153372">
+                        <supplied>Petrus abba</supplied>s <orgName key="stutzmann_himanis#283938" xml:id="d1e153376">monasterii Sancti Johannis</orgName>
+                    </persName>, <persName key="d1e23264" xml:id="d1e153379">
+                        <supplied>magister Aldebertus decanus </supplied>
+                        <placeName key="stutzmann_himanis#324366" xml:id="d1e153382">
+                            <supplied>Sede</supplied>loci</placeName>
+                    </persName>, <persName key="stutzmann_himanis#324629" xml:id="d1e153387">Galterius
+                        archipresbiter <placeName key="stutzmann_himanis#319548" xml:id="d1e153389">Eduensis</placeName>
+                    </persName>, <persName key="stutzmann_himanis#324625" xml:id="d1e153392">Hugo
+                        archipresbiter <placeName key="stutzmann_himanis#324344" xml:id="d1e153394">Pulleniaci</placeName>
+                    </persName>, <persName key="stutzmann_himanis#324622" xml:id="d1e153397">Jordanus
+                            arch<supplied>i</supplied>presbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e153402">
+                            <app>
+                                <lem wit="#a">Tullionis</lem>
+                                <rdg wit="#B">Tull.</rdg>
+                                <rdg wit="#C">Tullinionis</rdg>
+                            </app>
+                        </placeName>
+                    </persName>, <persName key="d1e23270" xml:id="d1e153412">Amelius de <placeName key="stutzmann_himanis#325268" xml:id="d1e153414">
+                            <foreign>Dun</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e23277" xml:id="d1e153418">Stephanus
+                            <addName>Bornus</addName> de <placeName key="stutzmann_himanis#325050" xml:id="d1e153423">Vest<supplied>an</supplied>
+                        </placeName>
+                    </persName>, <persName key="d1e23283" xml:id="d1e153428">Ranaldus vicecomes
+                            <placeName key="stutzmann_himanis#324355" xml:id="d1e153430">Rubei
+                            Montis</placeName>
+                    </persName>, <persName key="d1e23289" xml:id="d1e153433">Wido de <placeName key="stutzmann_himanis#324374" xml:id="d1e153435">Venerr<supplied>e</supplied>
+                        </placeName>
+                    </persName>, <persName key="d1e23295" xml:id="d1e153440">Renerius de <placeName key="stutzmann_himanis#323218" xml:id="d1e153442">Frollesio</placeName>
+                    </persName>, <persName key="d1e23301" xml:id="d1e153445">Wiardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e153447">Grinione</placeName>
+                    </persName>, <persName key="d1e23307" xml:id="d1e153451">Hugo de <placeName key="stutzmann_himanis#325036" xml:id="d1e153453">
+                            <supplied>Tur</supplied>re</placeName>
+                    </persName>, <persName key="d1e23314" xml:id="d1e153458">Symon de <placeName key="stutzmann_himanis#324438" xml:id="d1e153460">
+                            <foreign>Curtenge</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e23320" xml:id="d1e153464">Renerius de <placeName key="stutzmann_himanis#324359" xml:id="d1e153466">Sancta Columba</placeName>
+                    </persName>. Ipse <supplied>quoque</supplied>
+                    <persName key="d1e23326" xml:id="d1e153471">Odo</persName> ad munimen hujus rei
+                    carte huic sigillum su<supplied>um</supplied> apponi precepit. <app>
+                        <lem>
+                            <witStart wit="#a"/>
+                        </lem>
+                    </app>Hec omnia laudavit <persName key="d1e23332" xml:id="d1e153482">Matildis
+                            conju<supplied>nx</supplied> ejus</persName>. Unde testes sunt <persName key="d1e23338" xml:id="d1e153488">Abraham abbas de <orgName key="stutzmann_himanis#324492" xml:id="d1e153490">Pratea</orgName>
+                    </persName>
+                    <app>
+                        <lem>
+                            <witEnd wit="#a"/>
+                            <witDetail wit="#a">
+                                <hi rend="italic" xml:space="preserve">Suite omise et remplacée par </hi>etc.</witDetail>
+                        </lem>
+                    </app>, <persName key="d1e23344" xml:id="d1e153500">Rober<supplied>tus</supplied> clericus de <placeName key="stutzmann_himanis#324477" xml:id="d1e153505">Marolio</placeName>
+                    </persName>, <persName key="d1e23351" xml:id="d1e153508">Stephanus
+                        Niger</persName>, <persName key="d1e23357" xml:id="d1e153512">Amicus de
+                            <placeName key="stutzmann_himanis#324427" xml:id="d1e153514">Castro
+                            Novo</placeName>
+                    </persName>, <persName key="d1e23363" xml:id="d1e153517">Odo <addName>
+                            <foreign>Barduns</foreign>
+                        </addName>
+                    </persName>. Nos igitur hec omnia confirmantes et proprii sigilli <app>
+                        <lem>impressione</lem>
+                        <rdg wit="#C">inpressione</rdg>
+                    </app> communientes Dei et nostra auctoritate interdicimus ne quis super <app>
+                        <lem>his</lem>
+                        <rdg wit="#C">hiis</rdg>
+                    </app> aliquam <orgName key="stutzmann_himanis#282689" xml:id="d1e153535">Fontenetensibus</orgName> injuriam inferre presumat. Quod si quis
+                    presumpserit an<supplied>at</supplied>hematis eum gladio percellimus donec
+                    eisdem ipsis congrue satisfaciat. <app>
+                        <lem>
+                            <witStart wit="#a"/>
+                        </lem>
+                    </app>Actum est hoc apud <placeName key="stutzmann_himanis#324356" xml:id="d1e153546">Saigniacum</placeName>
+                    <num>xvii</num> kalendas Maii et in crastino recognitum et confirmatum in
+                        <placeName key="stutzmann_himanis#324453" xml:id="d1e153551">capitulo
+                        Fonteneti</placeName>, anno ab incarnatione Domini <app>
+                        <lem>
+                            <num>m° c° lx° v°</num>
+                        </lem>
+                        <rdg wit="#C #D #a">millesimo
+                            <hi rend="smallcaps" xml:space="preserve">c lx° </hi>quinto</rdg>
+                    </app>.</p>
+            </body>
+        </text>
+    </TEI>

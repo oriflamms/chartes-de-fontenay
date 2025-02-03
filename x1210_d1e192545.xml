@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1210_d1e192545">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 443</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 62, pièce 4</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>145/150</height>
+                                                  <width>160/163</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>110</height>
+                                                  <width>145</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="10">Ni réglure, ni
+                                                piqûre ; repli de 15 mm, avec double entaille
+                                                centrale et reste d’attache en cuir</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Carta Robert majoris
+                                            [<hi rend="italic">fin effacée</hi>] » ; « <hi rend="italic">Redd. IIa</hi> » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e </hi>s.) « Ampilly. Don fait par
+                                        Robert de Buxy de la part qu’il avoit a la dixme d’Ampilly
+                                        et de trois deniers de rente sur le fossé de Ranes et un
+                                        denier de cense sur le prey Rigot et un oble sur le prey
+                                        Poet, l’an 1210, cotte H » ; (1787) « N° 3 /
+                                        1210 ».</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1210</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="B">
+                            <desc>Cartulaire 1, fol. 56<hi rend="superscript">v</hi>-57<hi rend="superscript">r</hi> (<hi rend="italic">Estormer</hi>,
+                                34)</desc>
+                        </witness>
+                        <witness n="C">
+                            <desc>ADCO 15 H 10* (cart. 201<hi rend="superscript">bis</hi>), fol.
+                                    217<hi rend="superscript">v</hi> (Chaume. H) : « <hi rend="italic">Restat sigillum</hi> » ; non collationné.</desc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 33<hi rend="superscript">r</hi> (Chaume. H)</bibl>
+                        <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">@</hi>
+                            <hi rend="superscript background(red)">@</hi> (Chaume. H)</bibl>
+                        <bibl>ADCO 15 H 4, p. 7 (I. 3. 3) : « … scellé d’un sceau de cire jaune,
+                            dont il reste encore une particule à queue de parchemin
+                            pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1210-12-31">1210</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_62_0009.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_62_0010.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                <p>Ego <persName key="d1e11668" xml:id="d1e130590">Haymo</persName>,
+                        archidiaconus <orgName key="stutzmann_himanis#284217" xml:id="d1e130593">Flaviniacensis</orgName>, notum facio omnibus presentes <lb n="2"/>
+                        inspecturis quod <persName key="d1e11674" xml:id="d1e130598">Robertus</persName> major de <placeName key="stutzmann_himanis#324421" xml:id="d1e130601">Buxeio</placeName> dedit Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e130605">Fonte<lb n="3" break="no"/>neti</orgName> pro remedio anime sue et antecessorum suorum in
+                        perpetuam elemosinam omnia <lb n="4"/> que habebat in decimis de <placeName key="stutzmann_himanis#324446" xml:id="d1e130612">Ampilleio</placeName> et tres
+                        denarios censuales in fossato <lb n="5"/> de <placeName key="stutzmann_himanis#324994" xml:id="d1e130617">Ranis</placeName>. Hanc elemosinam laudavit uxor sua
+                        Bonamia, de cujus capi<lb n="6" break="no"/>te erat et filii eorum <persName key="d1e11680" xml:id="d1e130623">Milo</persName>, <persName key="d1e11686" xml:id="d1e130626">Andreas</persName> et <persName key="d1e11693" xml:id="d1e130629">
+                            <app>
+                                <lem wit="#A">Radulfus</lem>
+                                <rdg wit="#B">Radulphus</rdg>
+                            </app>
+                        </persName>. Laudavit autem hoc <lb n="7"/> totum <persName key="d1e11699" xml:id="d1e130638">Robertus</persName>, miles, cognomento <persName key="d1e11705" xml:id="d1e130641">
+                            <app>
+                                <lem wit="#A">Saccus</lem>
+                                <rdg wit="#B">Sacus</rdg>
+                            </app>
+                        </persName>, de cujus feodo erat. Dedit etiam <lb n="8"/> supradictus
+                            <persName key="d1e11711" xml:id="d1e130651">Robertus</persName> predicte
+                        ecclesie unum denarium censualem in prato <placeName key="stutzmann_himanis#324996" xml:id="d1e130654">
+                            <app>
+                                <lem wit="#A">Rigo</lem>
+                                <rdg wit="#B">Rigos</rdg>
+                            </app>
+                        </placeName> et <lb n="9"/> obolum unum in prato <placeName key="stutzmann_himanis#324979" xml:id="d1e130663">
+                            <foreign>Poet</foreign>
+                        </placeName>. Et ut hoc ratum sit, ad peticionem ipsius <persName key="d1e11717" xml:id="d1e130667">Roberti</persName>
+                        <lb n="10"/> presenti scripto sigillum meum apposui. <app>
+                            <lem wit="#A">Actum est hoc</lem>
+                            <rdg wit="#B" type="omission"/>
+                        </app> anno gratie <num>m° cc° x°</num>.</p>
+                
+            </body>
+        </text>
+    </TEI>

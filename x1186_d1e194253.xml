@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1186_d1e194253">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 506</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 66, pièce 1</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>95</height>
+                                                  <width>221/225</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>45</height>
+                                                  <width>225</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="6">réglure Pas de
+                                                réglure ni de piqûre (225 x 45, 48 [repli déplié]).
+                                                ; repli 23 ; Double entaille au centre. Trous sur
+                                                les côtés.</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Evriardi Rebos » ; (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript" xml:space="preserve">e </hi>s.,
+                                        autour de l’entaille) « Carta Hugonis Autisiodorensis
+                                        episcopi de vinea in Nantula » ; (en dessous) « IV » ( ?) ;
+                                            (<hi rend="smallcaps">xiv</hi>
+                                        <hi rend="superscript">e</hi>-<hi rend="smallcaps">xv</hi>
+                                        <hi rend="superscript">e</hi> s., effacé, à la suite de la
+                                        mention précédente) « vendita […] centum triginta quinque
+                                        librarum » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Auxerre. Vente d’une
+                                        vigne à Mrs de Fontenay, lieu dict Nantelle, l’an 1186,
+                                        cotté B » ; (1787) « N° 1 / 1186 ».</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1186</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 17<hi rend="superscript">r</hi> (Auxerre, B).</bibl>
+                        <bibl>ADCO 15 H 3, p. 43 (IV. 1. 1) : « scellé d’un sceau de cire jaune à
+                            double queue de parchemin pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1186-12-31">1186</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_66_0010.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_66_0010.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                                        <p>
+                        <hi rend="background(yellow)">Hastes plongeantes visibles sur le haut de
+                            l’acte.</hi>
+                    </p>
+                    <p>
+                        <persName key="stutzmann_himanis#324640" xml:id="d1e131750">Hugo, Dei gratia <orgName key="stutzmann_himanis#290942" xml:id="d1e131752">Autissiodorensis</orgName>
+                            episcopus</persName>, omnibus ad quos litere presentes pervenerint, in
+                        Domino salutem. Notum fieri volumus quod <persName key="d1e11899" xml:id="d1e131756">Ebrardus <addName>
+                                <foreign>Rebos</foreign>
+                            </addName>
+                        </persName> et uxor ejus <lb n="2"/>
+                        <space/> et filii eorum <persName key="d1e11905" xml:id="d1e131765">Stephanus</persName> et <persName key="d1e11911" xml:id="d1e131768">Landricus</persName> in presentia nostra vendiderunt monachis de
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e131772">
+                            <sic>Fontenoio</sic>
+                        </orgName> vineam quam habebant in <placeName key="stutzmann_himanis#324968" xml:id="d1e131776">Nantala</placeName>. <lb n="3"/> pro <num>c</num> et
+                            <num>xxv</num> libris provin[ensis] monete. Nos autem prefatis
+                        concessimus monachis quod si aliquis illam venditionem impedire voluerit,
+                        qui nostre <lb n="4"/> sit subditus potestati aut ipsum a sua faciemus
+                        cessare calumpnia, aut de ipso in quantum jus dictaverit ad petitionem
+                        predictorum mo<lb n="5" break="no"/>nachorum justitiam faciemus. In hujus
+                        rei testimonium, presens scriptum nostro munivimus sigillo. Datum anno
+                        incarnationis dominice <num>m°<lb n="6"/> c° <space/>lxxx <space/>
+                        vi°</num>.</p>
+                
+            </body>
+        </text>
+    </TEI>

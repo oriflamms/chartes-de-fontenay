@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e245431">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 290@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <head>Edité d’après C.</head>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Copie partielle dans Cartulaire 1, fol. 38<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 45 ; non
+                            numéroté ; copié avant <hi rend="italic">Abbatia</hi>, 44 ; non
+                            rubriqué ; annotation marginale « <hi rend="italic">redditivum</hi> ») ;
+                            table : « <hi rend="italic">Carta de pace inter nos et capellanum
+                                Fanii</hi> » ; renvoi à l’acte n° <hi rend="background(red)">@@</hi>
+                            de 1212 commençant par « <hi rend="italic" xml:space="preserve">Ego </hi>
+                            <hi rend="italic background(cyan)">M.</hi>
+                            <hi rend="italic" xml:space="preserve"> archidiaconus Flaviniacensis. Omnibus</hi>… ».</witness>
+                        <witness n="C">ADCO 15 H 11* (cart. 202), fol. 91<hi rend="superscript">v</hi> (Fain. DD) : « <hi rend="italic">Restat sigillum
+                                episcopi</hi> ».</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (Fain. DD)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 57<hi rend="superscript">r</hi> (Fain. DD)</bibl>
+                        <bibl>ADCO 15 H 4, p. 97-98 (IX. 5. 5) : « titre latin en parchemin portant
+                            accord […], sceau de cire verte à lacs de soye pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1213-12-31">1213</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e167999">Galterus, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e168001">Eduensis</placeName>
+                        episcopus</persName>, universis presentes litteras inspecturis notum facimus
+                    quod cum causa verteretur inter <app>
+                        <lem>eclesiam</lem>
+                        <rdg wit="#B">ecclesiam</rdg>
+                    </app> beatæ <app>
+                        <lem>Mariæ</lem>
+                        <rdg wit="#B">Marie</rdg>
+                    </app> de <orgName key="stutzmann_himanis#282689" xml:id="d1e168017">
+                        <app>
+                            <lem>Fonteneto</lem>
+                            <rdg wit="#B">Fonteñ.</rdg>
+                        </app>
+                    </orgName>
+                    <app>
+                        <rdg>
+                            <witEnd wit="#B"/>
+                            <witDetail wit="#B">
+                                <hi rend="italic" xml:space="preserve">complété par la mention </hi>Cetera
+                                ut supra, exceptis testibus his : Leonardo de Marmania, Roberto de
+                                Curcellis, Renerio de Fraxino capellanis</witDetail>
+                        </rdg>
+                    </app>et <persName key="d1e29697" xml:id="d1e168031">Lambertum capellanum de
+                            <placeName key="stutzmann_himanis#324450" xml:id="d1e168033">Fano</placeName>
+                    </persName> super tertia parte decimæ de <placeName key="stutzmann_himanis#324450" xml:id="d1e168037">Fano</placeName> quam dicta ecclesia in eleemosinam
+                    possidebat a <persName key="d1e29703" xml:id="d1e168040">Comitissa, filia
+                            <persName key="d1e29709" xml:id="d1e168042">Odonis militis de <placeName key="stutzmann_himanis#324475" xml:id="d1e168044">Marmagnia</placeName>
+                        </persName>
+                    </persName>, et ab <persName key="d1e29715" xml:id="d1e168047">Odone marito
+                        suo</persName>, facta inquisitione per venerabiles viros <persName key="d1e29721" xml:id="d1e168050">Leonardum de <placeName key="stutzmann_himanis#324475" xml:id="d1e168052">Marmania</placeName>
+                    </persName>, <persName key="d1e29727" xml:id="d1e168055">Robertum de <placeName key="stutzmann_himanis#325264" xml:id="d1e168057">Curcellis</placeName>
+                    </persName> et <persName key="d1e29734" xml:id="d1e168060">
+                        <choice>
+                            <sic corresp="#B">Remium</sic>
+                            <corr>Renerium</corr>
+                        </choice>de Fraxino</persName>, capellanos, receptisque ab utraque parte
+                    probationibus, nobis de veritate indubitanter <sic corresp="#D">constit</sic>
+                    quod præfate ecclesia <orgName key="stutzmann_himanis#282689" xml:id="d1e168072">Fonteneti</orgName> tertiam partem debebat habere de omnibus decimis de
+                        <placeName key="stutzmann_himanis#324450" xml:id="d1e168075">Fano</placeName>, tam
+                    magnis quam minutis, et in annatiis, et tractum totius decimæ et grangiatum.
+                    Capellanus vero dictæ eclesiæ <placeName key="stutzmann_himanis#324450" xml:id="d1e168078">Fani</placeName> debet habere de communi totius decimæ unuam minam frumenti
+                    in vigilia sancti ipsius villæ ad procurationem clericorum qui veniunt ad
+                    festum. Et ut hoc ratum et firmum habeatur in posterum, ad preces utriusque
+                    partis præsens scriptum sigillo nostro fecimus roborari. Actum anno Domini
+                    millesimo ducentesimo decimo tertio.</p>
+            </body>
+        </text>
+    </TEI>

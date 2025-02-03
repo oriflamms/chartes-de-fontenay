@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1196_d1e234318">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 155@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Copie mutilée dans Cartulaire 1, fol. 54<hi rend="superscript">r-v</hi> (<hi rend="italic">Estormer</hi>,
+                            28)</witness>
+                        <witness n="C">ADCO 15 H 185, pièce 2. — Copie insérée dans une confirmation
+                            de 1233, par Anselme de Duesme, fils homonyme du donateur.</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 59<hi rend="superscript">r</hi> (Etormay, YY) et
+                            fol. 54<hi rend="superscript">v</hi> (C : Etormay. P)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 49<hi rend="superscript">r</hi> (Etormay, YY) :
+                            « Donation du terrage des Manans et du finage de Lure, faitte par le
+                            seigneur de Duesme. 1196 » et fol. 46<hi rend="superscript">v</hi> (C :
+                            Etormay. P)</bibl>
+                        <bibl>
+                            <hi rend="background(red)">ADCO 15 H 3 / 4, p. @ (@. @. @)</hi>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1196-12-31">1196</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+            <encodingDesc>
+                <ab>Acte transcrit d’après B, complété par C pour les passages lésés</ab>
+            </encodingDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e160298">Galterius, Dei gratia
+                        Eduensis episcopus</persName>, notum facio tam presentibus quam futuris quod
+                    querela que vertebatur inter fratres de <app>
+                        <lem>Fontaneto</lem>
+                        <rdg wit="#C">Fonteneto</rdg>
+                    </app> et dominum <persName key="d1e26835" xml:id="d1e160307">Anselmum de
+                            <placeName key="stutzmann_himanis#324442" xml:id="d1e160309">Duismo</placeName>
+                    </persName> de terragio <app>
+                        <lem>Desmainan</lem>
+                        <rdg wit="#C">Desmananz</rdg>
+                    </app> et de finagio de <placeName key="stutzmann_himanis#324939" xml:id="d1e160318">
+                        <foreign>
+                            <app>
+                                <lem>Luurce</lem>
+                                <rdg wit="#C">Leurce</rdg>
+                            </app>
+                        </foreign>
+                    </placeName>
+                    <app>
+                        <lem>que</lem>
+                        <rdg wit="#C">quod</rdg>
+                    </app> pertinebat ad homin<app>
+                        <lem>
+                            <lacunaStart wit="#B"/>
+                        </lem>
+                    </app>es<app>
+                        <lem>
+                            <lacunaEnd wit="#B"/>
+                        </lem>
+                    </app> de <placeName key="stutzmann_himanis#324901" xml:id="d1e160340">
+                        <foreign>Solir</foreign>
+                    </placeName> taliter terminata est. Si quidem dominus <persName key="d1e26841" xml:id="d1e160344">Anselmus</persName> hoc totum dedit et concessit
+                    predictis fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e160347">Fonteneto</orgName> in <app>
+                        <lem>elemosinam</lem>
+                        <rdg wit="#C">helemosinam</rdg>
+                    </app>, <persName key="d1e26848" xml:id="d1e160357">Margarita uxore
+                        ejus</persName> et filiis ejus <persName key="d1e26854" xml:id="d1e160360">Guillermo</persName> et <persName key="d1e26860" xml:id="d1e160363">Anselmo</persName> et filiabus <persName key="d1e26866" xml:id="d1e160366">Helya</persName>, <persName key="d1e26872" xml:id="d1e160369">Jacob<app>
+                            <lem>
+                                <lacunaStart wit="#B"/>
+                            </lem>
+                        </app>
+                        <supplied resp="#C">a</supplied>
+                    </persName> et <persName key="d1e26878" xml:id="d1e160377">Helysabeth</persName>
+                    laudantibus, et inde habuit de <app>
+                        <lem>
+                            <lacunaStart wit="#B"/>
+                        </lem>
+                    </app>bene<app>
+                        <lem>
+                            <lacunaEnd wit="#B"/>
+                        </lem>
+                    </app>ficio ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e160389">Fonteneti</orgName>
+                    <app>
+                        <lem>
+                            <num>x</num>
+                        </lem>
+                        <rdg wit="#C">decem</rdg>
+                    </app> libras. Si quis vero super hoc mov<app>
+                        <lem>
+                            <lacunaStart wit="#B"/>
+                        </lem>
+                    </app>erit<app>
+                        <lem>
+                            <lacunaEnd wit="#B"/>
+                        </lem>
+                    </app> questionem, predictus <persName key="d1e26885" xml:id="d1e160407">Anselmus</persName> et successores ipsius domini de <app>
+                        <lem>
+                            <lacunaStart wit="#B"/>
+                        </lem>
+                    </app>
+                    <placeName key="stutzmann_himanis#324442" xml:id="d1e160413">Duismo</placeName> defensores
+                    in omnibus<app>
+                        <lem>
+                            <lacunaEnd wit="#B"/>
+                        </lem>
+                    </app> de jure extiterint. <app>
+                        <lem>
+                            <lacunaStart wit="#B"/>
+                        </lem>
+                    </app>Hujus rei testes sunt <persName key="stutzmann_himanis#324623" xml:id="d1e160424">Odo archipres<app>
+                            <lem>
+                                <lacunaEnd wit="#B"/>
+                            </lem>
+                        </app>biter de <placeName key="stutzmann_himanis#324370" xml:id="d1e160430">
+                            <foreign>Toillum</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e26891" xml:id="d1e160435">Gau<app>
+                            <lem>
+                                <lacunaStart wit="#B"/>
+                            </lem>
+                        </app>fridus presbiter de <placeName key="stutzmann_himanis#324442" xml:id="d1e160441">Duismo</placeName>
+                    </persName>, <persName key="d1e26897" xml:id="d1e160444">Odo<app>
+                            <lem>
+                                <lacunaEnd wit="#B"/>
+                            </lem>
+                        </app>bertus presbiter de <placeName key="stutzmann_himanis#324474" xml:id="d1e160450">
+                            <foreign>
+                                <app>
+                                    <lem>Mamil</lem>
+                                    <rdg wit="#C">Manil</rdg>
+                                </app>
+                            </foreign>
+                        </placeName>
+                    </persName>, <app>
+                        <lem>
+                            <lacunaStart wit="#B"/>
+                        </lem>
+                    </app>
+                    <persName key="d1e26903" xml:id="d1e160461">Matheus dominus de <placeName key="stutzmann_himanis#324448" xml:id="d1e160463">
+                            <foreign>Estez</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e26909" xml:id="d1e160467">Her<app>
+                            <lem>
+                                <lacunaEnd wit="#B"/>
+                            </lem>
+                        </app>veius de <placeName key="stutzmann_himanis#324452" xml:id="d1e160473">Fontanis</placeName>
+                    </persName>, <persName key="d1e26915" xml:id="d1e160476">Hay<app>
+                            <lem>
+                                <lacunaStart wit="#B"/>
+                            </lem>
+                        </app>mo de <placeName key="stutzmann_himanis#324437" xml:id="d1e160482">Cumineio</placeName>
+                    </persName>. Actum est hoc a<app>
+                        <lem>
+                            <lacunaEnd wit="#B"/>
+                        </lem>
+                    </app>nno ab incarnatione Domini <app>
+                        <lem>
+                            <num>m° c° xc° vi°</num>
+                        </lem>
+                        <rdg wit="#C">millesimo <del>du</del>centesimo nonagesimo sexto</rdg>
+                    </app>. </p>
+            </body>
+        </text>
+    </TEI>

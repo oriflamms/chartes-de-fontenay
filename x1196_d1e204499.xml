@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1196_d1e204499">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 2263</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 317, pièce 3</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>160</height>
+                                                  <width>170</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>120</height>
+                                                  <width>150</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="13">réglure à la mine
+                                                de plomb (5, 155, 5, 4 x 10, 110, 45) ; repli de 22
+                                                mm, à une double entaille centrale </layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Carta Matildis de
+                                        Grinun. De vinea ad missas cantandas » ; « .II<hi rend="superscript">a</hi>. » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Seygny. Don de Matilde
+                                        comtesse de Grignon d’une vigne au finage de Seigny a
+                                        condition que du vin de ladite vigne se diront les messes
+                                        tous les jours au monastere de Fontenay et du reste
+                                        s’achetera de la toille pour faire des corporaux, l’an 1196.
+                                        QQQ » ; (1787) « N° 1 / 1196 »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1196</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="B">Cartulaire 1, fol. 39<hi rend="superscript">r-v</hi> (<hi rend="italic">Flaciacum</hi>, 2), texte lésé ; table : « <hi rend="italic">Carta Mathildis comitisse Grinionis de vinea ad
+                                missas</hi> »</witness>
+                        <witness n="C">Cartulaire 2, fol. 97<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 2) ; table mutilée</witness>
+                        <witness n="D">ADCO 15 H 11* (cart. 202), fol. 195<hi rend="superscript">r</hi> (Grignon. QQQ) : « <hi rend="italic">Restat
+                            sigillum</hi> » ; non collationné.</witness>
+                        <witness n="E">Paris, BnF, coll. Baluze, ms. 143, fol. 262<hi rend="superscript">r</hi>, d’après <hi rend="italic">B</hi> (« <hi rend="italic">118 […] ex tabulario Fontenetensi </hi>»), suivi des
+                            annotations présentes dans l’édition.</witness>
+                        <witness n="a">
+                            <bibl sameAs="#Chifflet1660">
+                                <biblScope>p. 558-559, n° 118</biblScope>
+                            </bibl>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 105<hi rend="superscript">r</hi> (Grignon.
+                            QQQ)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 80<hi rend="superscript">v</hi>, omis par confusion
+                            avec Grignon. PPP</bibl>
+                        <bibl>ADCO 15 H 3, p. 543-544 (XXVIII. 4. 4) : « N° 4 [<hi rend="italic">sic</hi>]. 1196 [...] Mathilde comtesse de Grignon a fait donnation
+                            [...] d’une vigne à Seigny, à condition que du vin en provenant on en
+                            dira les messes [...]. Et scellé d’un sceau qui y étoit
+                            autrefois ».</bibl>
+                        <bibl sameAs="#Bouchard1991b">
+                            <biblScope>p. 36 note 9</biblScope>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1196-12-31">1196</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_317_0006.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_317_0007.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                                        <p>Notum sit presentibus et futuris quod ego <persName key="d1e14008" xml:id="d1e138592">Matildis, <app>
+                                <lem>
+                                    <sic corresp="#A">comissa</sic>
+                                </lem>
+                                <rdg wit="#B #C #E #a">comitissa</rdg>
+                            </app>
+                            <placeName key="stutzmann_himanis#324459" xml:id="d1e138600">Grinionis</placeName>
+                        </persName>, donavi ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e138603">Fon<lb n="2" break="no"/>teneti</orgName> pro remedio
+                        anime mee vineam <app>
+                            <lem>
+                                <sic corresp="#A #C">quandam</sic>
+                            </lem>
+                            <rdg wit="#B #E #a">quamdam</rdg>
+                        </app> quam ab <persName key="d1e14014" xml:id="d1e138615">Erardo</persName>
+                        in vadimoni<lb n="3" break="no"/>um pro novem <surplus corresp="#B #C #E #a">IX</surplus> libris divionensium acceperam, que sita est in <app>
+                            <lem wit="#A">parrichia</lem>
+                            <rdg wit="#B #C #E #a">parrochia</rdg>
+                        </app>
+                        <placeName key="stutzmann_himanis#324356" xml:id="d1e138629">
+                            <app>
+                                <lem wit="#A">Signiaci</lem>
+                                <rdg wit="#B #C #E #a">Saigniaci</rdg>
+                            </app>
+                        </placeName> tali pac<lb n="4" break="no"/>to quod ex fructu vinee missarum
+                        officia celebrabuntur. Quod si quid residui fuerit inde <lb n="5"/> tela
+                        emetur unde corporalia fient. Concessi insuper ut prefatam vineam liceat
+                        eisdem <lb n="6"/> fratribus quoquomodo <app>
+                            <lem>potuerint</lem>
+                            <rdg wit="#C">poterunt</rdg>
+                        </app>
+                        <app>
+                            <lem wit="#A">acquirere</lem>
+                            <rdg wit="#B #C #E #a">adquirere</rdg>
+                        </app>. Promiserunt etiam michi predicte ecclesie abbas et monachi <lb n="7"/> quod si memorata vinea redempta fuerit, percepta redemptio tali
+                        deputabitur edificio <lb n="8"/> quod sicut supra condictum est in jamdicta
+                        ecclesia <app>
+                            <lem>divina</lem>
+                            <rdg wit="#B">||ivina</rdg>
+                        </app> celebrabuntur. Hec omnia et universa <lb n="9"/> de quibus <app>
+                            <lem>investiti</lem>
+                            <rdg wit="#B">investi||</rdg>
+                        </app> erant fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e138673">
+                            <app>
+                                <lem>
+                                    <sic corresp="#A">Fontenti</sic>
+                                </lem>
+                                <rdg wit="#B">Fonteñ</rdg>
+                                <rdg wit="#C">Fonteneteñ</rdg>
+                                <rdg wit="#E #a">Fontenetenses</rdg>
+                            </app>
+                        </orgName> die quo hec acta sunt laudavit et concessit <lb n="10"/>
+                        <persName key="d1e14020" xml:id="d1e138686">
+                            <app>
+                                <lem>Odo</lem>
+                                <rdg wit="#B">||do</rdg>
+                            </app> comes <placeName key="stutzmann_himanis#324459" xml:id="d1e138693">Grinionis</placeName>
+                        </persName>. Hujus rei testes sunt : <persName key="stutzmann_himanis#324623" xml:id="d1e138696">Odo archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e138698">Tullionis</placeName>
+                        </persName>, <persName key="d1e14027" xml:id="d1e138701">
+                            <app>
+                                <lem>Oliverus</lem>
+                                <rdg wit="#B">||liverius</rdg>
+                                <rdg wit="#C #E #a">Oliverius</rdg>
+                            </app> de <lb n="11"/>
+                            <placeName key="stutzmann_himanis#324459" xml:id="d1e138711">Grinione</placeName>
+                        </persName>, <persName key="d1e14033" xml:id="d1e138715">
+                            <app>
+                                <lem>Rinerus</lem>
+                                <rdg wit="#B #C #E #a">Renerius</rdg>
+                            </app> de <placeName key="stutzmann_himanis#324359" xml:id="d1e138722">Sancta
+                                Columba</placeName>
+                        </persName>, <persName key="d1e14039" xml:id="d1e138725">Josbertus de
+                                <placeName key="stutzmann_himanis#98140" xml:id="d1e138727">
+                                <app>
+                                    <lem>Masiaco</lem>
+                                    <rdg wit="#B">||asiaco</rdg>
+                                </app>
+                            </placeName>
+                        </persName>, <persName key="d1e14045" xml:id="d1e138734">Galannus
+                            prepositus</persName>. Ut autem <lb n="12"/> hoc totum in <app>
+                            <lem>perpetuum</lem>
+                            <rdg wit="#C">imperpetuum</rdg>
+                        </app> ratum habeatur, ego <persName key="d1e14051" xml:id="d1e138745">Matildis comitissa <placeName key="stutzmann_himanis#324459" xml:id="d1e138747">Grinionis</placeName>
+                        </persName> presentem pagi<lb n="13" break="no"/>nam sigillo meo roboravi.
+                        Actum anno Verbi incarnati M° <figure rend="trait"/>C° <figure rend="trait"/>XC° <figure rend="trait"/>VI<hi rend="superscript">to</hi>.<note>Date avec
+                            traits entre les chiffres pour la justification</note>
+                    </p>
+                
+            </body>
+        </text>
+    </TEI>

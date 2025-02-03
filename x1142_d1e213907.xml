@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1142_d1e213907">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original *11@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">Copie perdue dans Cartulaire 1 (<hi rend="italic">Puteolum</hi>. 2), attesté par la table : « II. Carta abbatis
+                            Sancti Sequani de decimis. » <hi rend="background(red)">(à moins qu’il
+                                ne s’agisse d’un autre acte perdu)</hi>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 257, pièce 14, fol. 3<hi rend="superscript">v </hi>:
+                            « Robert, abbé de St Seyne a donné a dom Guillaume, abbé de Fontenay, et
+                            ses successeurs, avec approbation de son chapitre, tous les dixmes qui
+                            luy appartenoient a Poyseulx et a ce subjet lesdits de Fontenay doivent
+                            audit St Seyne deux septiers par moitié froment et <hi rend="background(red)">depoix</hi> mesure de St Seine. Les forains
+                            et mercenaires qui mourront audit Poiseulx debvront estre enterrez a
+                            Eschalot »</bibl>
+                        <bibl>ADCO 15 H 1<hi rend="background(red)">, fol. @</hi>
+                            <hi rend="superscript background(red)">@</hi> (Poiseul. M)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 95<hi rend="superscript">r</hi> (Poiseul. M) :
+                            « Donation de tous les dixmes deües a l’abbé de St Seine au finage de
+                            Poiseul et dix journaux de terre appartenant audit abbé. 1142 »</bibl>
+                        <bibl>ADCO 15 H 4, p. 319 (XV. 12. 1) : « […] en date de 1142, est un titre
+                            latin en parchemin, par lequel Herbert par la grace de Dieu, abbé de St
+                            Seine, a déclaré à Wuillelme abbé de Fontenet, ses frères et
+                            successeurs, qu’il leur fait donnation de toutes les dîmes à lui deues
+                            au finage de Poiseul, comme aussi de dix journaux de tere appartenants
+                            aud. Herbert, etc. et scellé d’un sceau qui y étoit autrefois, à queue
+                            de parchemin pendant »</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1142-12-31">1142</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p/>
+            </body>
+        </text>
+    </TEI>

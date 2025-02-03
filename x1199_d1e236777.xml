@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1199_d1e236777">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 180@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Copie perdue dans Cartulaire 1</witness>
+                        <witness n="C">Cartulaire 2, fol. 103<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 22) ; table mutilée</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. @<hi rend="superscript">@</hi> (@@. @)</bibl>
+                        <bibl>ADCO 15 H 2, fol. @<hi rend="superscript">@</hi> (@@. @)</bibl>
+                        <bibl>ADCO 15 H 3, p. 310 (XXII. 4. 6) : « sceau de cire jaune à queue de
+                            parchemin pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1199-12-31">1199</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324623" xml:id="d1e161994">Odo, archipresbiter
+                            <placeName key="stutzmann_himanis#324370" xml:id="d1e161996">Tullionis</placeName>
+                    </persName>, omnibus notum facio presentibus et futuris quod <persName key="d1e27606" xml:id="d1e161999">Wiardus <addName>
+                            <foreign>Goliarz</foreign>
+                        </addName>
+                    </persName> veniens in presenciam meam guerpivit ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e162005">Fonteneti</orgName> quicquid de
+                    terra illa calumpniabatur quam <persName key="d1e27612" xml:id="d1e162008">Willermus</persName> et <persName key="d1e27618" xml:id="d1e162011">Petrus
+                        frater ejus de <placeName key="stutzmann_himanis#324429" xml:id="d1e162013">
+                            <foreign>Cirilli</foreign>
+                        </placeName>
+                    </persName> eidem ecclesie contulerant in elemosinam. Monachi vero ejusdem
+                    ecclesie assignaverunt <persName key="d1e27625" xml:id="d1e162018">Wiardo</persName> et concesserunt propter pacem illius habendam duo ju<hi rend="background(red)">g</hi>era terre subtus villam de <placeName key="stutzmann_himanis#324356" xml:id="d1e162024">Saigniaco</placeName> tantummodo in
+                    vita sua possidenda que tamen post decessum illius ad monachos revertentur. Hoc
+                    totum laudavit <persName key="d1e27631" xml:id="d1e162027">Haudaarz uxor
+                        sua</persName> et promiserunt ambo pariter quod etiam <persName key="d1e27637" xml:id="d1e162030">Petro filio suo qui tunc in scolis
+                            <orgName key="stutzmann_himanis#284217" xml:id="d1e162032">Flaviniaci</orgName>
+                    </persName> morabatur laudare facerent et tenere. Hoc etiam laudavit <persName key="d1e27643" xml:id="d1e162035">Galanz de <placeName key="stutzmann_himanis#324459" xml:id="d1e162037">
+                            <foreign>Grinum</foreign>
+                        </placeName>
+                    </persName> et quittavit tam ipse quam <persName key="d1e27649" xml:id="d1e162042">uxor sua Agnes</persName> et <persName key="d1e27655" xml:id="d1e162045">filia ipsorum Helysabez</persName> jamdicte ecclesie
+                    quicquid juris in eadem terra se habere dicebant. Hujus rei testes sunt
+                        <persName key="d1e27662" xml:id="d1e162048">Bernardus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e162050">Fonteneti</orgName>
+                    </persName>, <persName key="d1e27668" xml:id="d1e162053">Andreas de <placeName key="stutzmann_himanis#324421" xml:id="d1e162055">
+                            <foreign>Buxi</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e27674" xml:id="d1e162059">Odo monachi
+                        Fonteneti</persName>, <persName key="d1e27680" xml:id="d1e162062">Oliverius
+                        de <placeName key="stutzmann_himanis#324459" xml:id="d1e162064">
+                            <foreign>Grinun</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e27686" xml:id="d1e162069">Josbertus de <placeName key="stutzmann_himanis#98140" xml:id="d1e162071">
+                            <foreign>Maisi</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e27692" xml:id="d1e162075">Pontius de <placeName key="stutzmann_himanis#324905" xml:id="d1e162077">
+                            <foreign>Chaaci</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e27699" xml:id="d1e162081">Renerius de <placeName key="stutzmann_himanis#324353" xml:id="d1e162083">Rocha</placeName>
+                    </persName>, <persName key="d1e27705" xml:id="d1e162086">Haymo <addName>Puta
+                            Pena</addName>
+                    </persName> milites, magister <persName key="d1e27711" xml:id="d1e162093">Henricus <supplied>de</supplied>
+                        <placeName key="stutzmann_himanis#324459" xml:id="d1e162097">
+                            <foreign>Grinun</foreign>
+                        </placeName>
+                    </persName>. Quod ut totum ratum permaneat presenti pagine sigillum meum apponi
+                    precepi, anno verbi incarnati <num>m° c° xc° ix°</num>.</p>
+            </body>
+        </text>
+    </TEI>

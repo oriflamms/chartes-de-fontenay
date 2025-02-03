@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1209_d1e241114">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 244@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 55<hi rend="superscript">v</hi> (<hi rend="italic">Estormer</hi>, 31)</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps background(lightGray)">Inventaire</hi>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1209-06-30">1209, juin</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e165011">Odo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e165013">Burgundie</placeName>
+                    </persName>, notum facio tam presentibus quam futuris quod <persName key="d1e28790" xml:id="d1e165016">Willermus filius domine <persName key="d1e28796" xml:id="d1e165018">Hodierne de <placeName key="stutzmann_himanis#101083" xml:id="d1e165020">
+                                <foreign>Sauz</foreign>
+                            </placeName>
+                        </persName>
+                    </persName>, laude et assensu domini <persName key="d1e28802" xml:id="d1e165024">Josberti de <placeName key="stutzmann_himanis#98140" xml:id="d1e165026">
+                            <supplied>M</supplied>aiseio</placeName> patris sui</persName>, pignore
+                    obligavit <persName key="d1e28809" xml:id="d1e165032">Helyeth
+                            <supplied>d</supplied>e <placeName key="stutzmann_himanis#324487" xml:id="d1e165037">Monte Barri</placeName>
+                    </persName>, quicquid habebat apud <placeName key="stutzmann_himanis#324475" xml:id="d1e165040">Marmaniam</placeName> et apud <placeName key="stutzmann_himanis#325021" xml:id="d1e165044">Sanctum Georgium de <placeName key="stutzmann_himanis#324470" xml:id="d1e165046">
+                            <foreign>Lucenai</foreign>
+                        </placeName>
+                    </placeName> pro <num>xxx</num>
+                    <hi rend="superscript">ta</hi> tribus libris proviniensis monete, tali
+                    conditione quod si ipse <persName key="d1e28815" xml:id="d1e165055">Willermus</persName> de vita decederet guageriam eamdem fratres de <orgName key="stutzmann_himanis#282689" xml:id="d1e165058">Fonteneto</orgName> in elemosinam
+                    haberent si eam redimere vellent. Et <supplied>ut hoc</supplied> ratum sit
+                    presenti scripto sigillum meum appo<supplied>sui</supplied>. Actum anno gratie
+                        <num>m° cc° ix</num>, mense junio.</p>
+            </body>
+        </text>
+    </TEI>

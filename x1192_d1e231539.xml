@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1192_d1e231539">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 131@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu. D’après B : « l’original, sain et entier,
+                            escript en un petit feuillet de parchemin, au bas duquel est appandu un
+                            sceau de sire jaulne, armorié d’un homme a cheval, attaché audit tiltre
+                                <hi rend="background(red)">a@</hi> de peau blanche ». L’original
+                            était conservé dans « la maison appellée Le Petit Fontenay, sçituée
+                            audit Montbart ».</witness>
+                        <witness n="B">ADCO 15 H 355, pièce 1. — Copie du 13 janvier 1637 ; papier ;
+                            2 ff. ; 300 x 190 mm ; copie collationnée par Jacques Bigarne, notaire
+                            royal à Montbard.</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. @<hi rend="superscript">@</hi> (Genay -
+                            Villaines-les-Prévôtés. PP)</bibl>
+                        <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">@</hi>
+                            <hi rend="superscript background(red)">@</hi> ()</bibl>
+                        <bibl>ADCO 15 H <hi rend="background(red)">3 / 4</hi>, p. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.
+                                <hi rend="background(red)">@</hi>. <hi rend="background(red)">@</hi>)</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1162" notAfter="1192">[1162-1192] </date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324577" xml:id="d1e158322">Hugo, Dei gratia dux
+                            <placeName key="stutzmann_himanis#325098" xml:id="d1e158324">Burgundiæ</placeName>
+                    </persName>, notum fieri volo presentibus et futuris quod <persName key="d1e25892" xml:id="d1e158327">Ludovicus de <placeName key="stutzmann_himanis#324965" xml:id="d1e158329">Arsellis</placeName>
+                    </persName>, veniens in capitulum <orgName key="stutzmann_himanis#282689" xml:id="d1e158332">Fonteneti</orgName> ibi dedit Deo et ecclesiæ <orgName key="stutzmann_himanis#282689" xml:id="d1e158335">Fonteneti</orgName> pro redemptione
+                    animæ suæ et antecessorum suorum totum censum quem ei debebant <orgName key="stutzmann_himanis#282689" xml:id="d1e158338">Fontenetenses</orgName> apud
+                        <placeName key="stutzmann_himanis#325060" xml:id="d1e158342">Villenias</placeName>
+                    sive in vineis seu in salicibus vel in quibuslibet terris, scilicet <num>V</num>
+                    solidos et <num>X</num> denarios et unum sextarium avenæ. Interfuerunt enim eo
+                    in eodem <placeName key="stutzmann_himanis#324453" xml:id="d1e158351">capitulo</placeName>
+                    qui hoc audierunt et viderunt <persName key="d1e25898" xml:id="d1e158354">Petrus
+                        presbiter de <placeName key="stutzmann_himanis#325060" xml:id="d1e158356">Villeniis</placeName>
+                    </persName>, <persName key="d1e25904" xml:id="d1e158359">Osbertus de <placeName key="stutzmann_himanis#324462" xml:id="d1e158361">Jocia</placeName>
+                    </persName>, <persName key="d1e25910" xml:id="d1e158365">Rainaudus filius
+                            <persName key="d1e25916" xml:id="d1e158367">majoris <placeName key="stutzmann_himanis#325060" xml:id="d1e158369">Villeniarum</placeName>
+                        </persName>
+                    </persName>, <persName key="d1e25923" xml:id="d1e158372">Fromaldus famulus
+                        predicti <persName key="d1e25929" xml:id="d1e158374">Ludovici</persName>
+                    </persName>. Ne quis igitur predictos fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e158377">Fonteneti</orgName> de hoc in posterum perturbare
+                    presumat, ego de cujus casamento ille census erat, hanc elemosinam laudavi et
+                    presentem cartam sigilli mei appensione munivi.</p>
+            </body>
+        </text>
+    </TEI>

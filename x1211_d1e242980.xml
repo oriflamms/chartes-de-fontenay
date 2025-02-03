@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1211_d1e242980">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 266@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 32<hi rend="superscript">v</hi> (<hi rend="italic">Abbatia</hi>, 23) ; table : « <hi rend="italic" xml:space="preserve">Carta </hi>
+                            <hi rend="italic background(red)">P</hi>
+                            <hi rend="italic">hylippi militis de Turre</hi> ».</witness>
+                        <witness n="C">ADCO 15 H 10* (cart. 201<hi rend="superscript">bis</hi>),
+                            fol. 90<hi rend="superscript">v</hi> (joint à : Marmagne. LLL) :
+                            « <hi rend="italic" xml:space="preserve">Nullum restat sigillum, sed solummodo duæ corrigiæ quibus videntur fuisse appensa. </hi>
+                        </witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps">Inventaire</hi> : ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (Marmagne, LLL)</bibl>
+                        <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">@</hi> (Marmagne,
+                            LLL)</bibl>
+                        <bibl>ADCO 15 H <hi rend="background(red)">@</hi>, p. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>).</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1211-12-31">1211</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <persName key="d1e29185" xml:id="d1e166277">Manasses <placeName key="stutzmann_himanis#99215" xml:id="d1e166279">Aurelianensis</placeName>
+                    </persName> et <persName key="stutzmann_himanis#324642" xml:id="d1e166282">Willermus
+                            <placeName key="stutzmann_himanis#324435" xml:id="d1e166284">Autisiodorensis</placeName> Dei gratia episcopi</persName> universis
+                    presentes litteras inspecturis in Domino salutem. Noverit universitas vestra
+                    quod <persName key="d1e29191" xml:id="d1e166288">Phylippus miles de <placeName key="stutzmann_himanis#325036" xml:id="d1e166290">Turre</placeName>
+                    </persName> peregre profecturus ad <placeName key="stutzmann_himanis#325019" xml:id="d1e166293">sanctu<hi rend="background(red)">m</hi>
+                        Jacobum</placeName> constitutus in presentia nostra dedit et concessit pro
+                    remedio anime sue et antecessorum suorum in perpetuam donationem ecclesie
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e166299">sancte Marie de
+                        Fonteneto</orgName> quicquid juris ipse habebat apud <placeName key="stutzmann_himanis#324475" xml:id="d1e166302">Marman<hi rend="background(cyan)">ie</hi> villam</placeName> tali conditione quod nulli ipsam elemosinam
+                    vendere nisi ei, dare vel aliquo modo a se alienare valebunt. Et ut ista majorem
+                    habeant firmitatem presentem paginam sigillis nostris fecimus roborari. Actum
+                    est hoc anno ab incarnatione Domini <num>m° cc° xi°</num>.</p>
+            </body>
+        </text>
+    </TEI>

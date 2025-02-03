@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1187_d1e205724">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 2275</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 320, pièce 6</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>135/130</height>
+                                                  <width>202</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>75</height>
+                                                  <width>185</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="9">réglure à la mine
+                                                de plomb effacée (5, 185, 7 x 75, 55 mm) ; repli de
+                                                25/30 mm, à une simple entaille et un trou</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « De Fontanis. Et de hoc
+                                        quod… (mention effacée) » ; « Carta Johannis de Saneveio de
+                                        pasturis Fontanarum » ; « et Seneveti » ; « .XXXIIII<hi rend="superscript">a</hi> » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Fontainnes les
+                                        Seiches » ; « B » ; (1787) « N° 3 / 1187 »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1187</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1 et ADCO 15 H 2, absent, sans doute joint à Senevoy.
+                            B</bibl>
+                        <bibl>ADCO 15 H 3, p. 883 (XXXIX. 2. 3) : « scellé d’un grand sceau de cire
+                            jaune à queue de peau blanche ».</bibl>
+                        <bibl sameAs="#Bouchard1991b">
+                            <biblScope>p. 88</biblScope>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1187-12-31">1187</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_320_0012.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_320_0013.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                                        <p>Ego <persName key="stutzmann_himanis#324599" xml:id="d1e139342">Manasses, Dei gratia
+                                <placeName key="stutzmann_himanis#317574" xml:id="d1e139344">Lingonensis</placeName> episcopus</persName>, notum fieri volo
+                        presentibus et futuris quod <persName key="d1e14175" xml:id="d1e139348">Johannes de <placeName key="stutzmann_himanis#325029" xml:id="d1e139350">Seneveio</placeName>
+                        </persName> quan<lb n="2" break="no"/>dam vineam acquitavit fratribus de
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e139355">Fonteneto</orgName>
+                        apud <placeName key="stutzmann_himanis#324475" xml:id="d1e139358">Marmaniam</placeName> quam eis calumniabatur et dedit eis in <lb n="3"/> elemosinam quicquid habebat in pasturis <placeName key="stutzmann_himanis#325029" xml:id="d1e139364">Seneveii</placeName> a finagio <placeName key="stutzmann_himanis#324452" xml:id="d1e139367">Fontanarum</placeName> usque ad
+                            <term>haiam</term>
+                        <placeName key="stutzmann_himanis#325029" xml:id="d1e139372">Seneveii</placeName>. <lb n="4"/> Et propter hoc habuit ab ipsis quendam <sic>equm</sic> precii
+                        librarum septem. Hinc testes sunt : <persName key="d1e14181" xml:id="d1e139381">Johannes tunc cel<lb n="5" break="no"/>lerarius
+                                <orgName key="stutzmann_himanis#282689" xml:id="d1e139385">Fonten(eti)</orgName>
+                        </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e139388">Oddo
+                            archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e139390">Tullionis</placeName>
+                        </persName>, frater <persName key="d1e14187" xml:id="d1e139393">Petrus
+                            magister <placeName key="stutzmann_himanis#324452" xml:id="d1e139395">Fontanarum</placeName>
+                        </persName>. Hoc laudavit <persName key="d1e14193" xml:id="d1e139398">Ilia</persName>
+                        <lb n="6"/> uxor illius, que pro laude habuit tres oves cum tribus agnis, et
+                            <persName key="d1e14199" xml:id="d1e139403">Hugo clericus filius
+                            ejus</persName>. Unde te<lb n="7" break="no"/>stes sunt : <persName key="d1e14205" xml:id="d1e139408">Rainaudus presbiter</persName>,
+                            <persName key="d1e14212" xml:id="d1e139411">Girardus de <placeName key="stutzmann_himanis#324466" xml:id="d1e139413">Lania</placeName>,
+                            carpentarius</persName>, <persName key="d1e14218" xml:id="d1e139417">frater Petrus</persName>. Laudavit hoc idem <persName key="d1e14224" xml:id="d1e139420">Girar<lb n="8" break="no"/>dus</persName>, filius
+                        supradicti <persName key="d1e14230" xml:id="d1e139426">Johannis</persName>.
+                        Hinc testes sunt : <persName key="d1e14236" xml:id="d1e139429">Johannes</persName> pater ejus, <persName key="d1e14242" xml:id="d1e139432">Josbertus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e139434">Fonten(eti)</orgName>
+                        </persName> et <persName key="d1e14249" xml:id="d1e139437">Willelmus, <lb n="9"/> prior</persName>, et <persName key="d1e14255" xml:id="d1e139442">frater Petrus</persName>. Actum est anno
+                        incarnationis Domini .M°. C°. LXXX°. VII°.</p>
+                
+            </body>
+        </text>
+    </TEI>

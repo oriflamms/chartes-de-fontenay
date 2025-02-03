@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1212_d1e243525">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 272@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 37<hi rend="superscript">v</hi>-38<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 42) ;
+                            table : « <hi rend="italic">Carta Henrici
+                            Herbelestarii</hi> ».</witness>
+                        <witness n="C">ADCO 15 H 11* (cart. 202), fol. 19<hi rend="superscript">v</hi> (Montbard. EE) : « <hi rend="italic">Non restat
+                                corrigia</hi> ».</witness>
+
+                        <witness n="é">édité d’après B</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (Montbard.
+                            EE)</bibl>
+                        <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">@</hi> (Montbard. EE).
+                            —ADCO 15 H <hi rend="background(red)">@</hi>, p. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.
+                                <hi rend="background(red)">@</hi>. <hi rend="background(red)">@</hi>).</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1212-12-31">1212</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e166652">
+                        <app>
+                            <lem>O.</lem>
+                            <rdg wit="#C">Odo</rdg>
+                        </app>, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e166659">Burgundie</placeName>
+                    </persName>, omnibus notum facio tam presentibus quam futuris quod <persName key="d1e29259" xml:id="d1e166662">Henricus Arbelestarius de <placeName key="stutzmann_himanis#324487" xml:id="d1e166664">Monte Barri</placeName>
+                    </persName> et <persName key="d1e29265" xml:id="d1e166667">uxor ejus</persName>
+                    guerpiverunt in manibus nostris et penitus <app>
+                        <lem>quitaverunt</lem>
+                        <rdg wit="#C">quittaverunt</rdg>
+                    </app> querelam quam habebant adversus fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e166676">Fonteneti</orgName> super quodam fossato quod fecerant
+                    dicti fratres ad utilitatem <placeName key="stutzmann_himanis#325146" xml:id="d1e166680">
+                        <app>
+                            <lem>molendini</lem>
+                            <rdg wit="#C">molendini sui</rdg>
+                        </app> quod est subtus abbatiam</placeName>. Concesserunt etiam
+                    supranominati, <persName key="d1e29271" xml:id="d1e166688">Henricus</persName>
+                    scilicet et <persName key="d1e29277" xml:id="d1e166691">Maria uxor
+                        sua</persName>, prelibatis fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e166694">Fonteneti</orgName>
+                    <app>
+                        <lem>quicquid</lem>
+                        <rdg wit="#C">quidquid</rdg>
+                    </app> juris a prefato <placeName key="stutzmann_himanis#325147" xml:id="d1e166702">molendino</placeName> versus <placeName key="stutzmann_himanis#324453" xml:id="d1e166706">abbatiam</placeName> habebant tam in <app>
+                        <lem>terris</lem>
+                        <rdg wit="#C">pratis</rdg>
+                    </app> quam in <app>
+                        <lem>pratis</lem>
+                        <rdg wit="#C">terris</rdg>
+                    </app> et de his omnibus adversus omnes debitam garentiam promiserunt. Hoc totum
+                    laudaverunt <persName key="d1e29283" xml:id="d1e166721">liberi eorum, <persName key="d1e29290" xml:id="d1e166723">Henrici</persName> scilicet et
+                            <persName key="d1e29296" xml:id="d1e166726">Marie uxoris sue</persName>
+                    </persName>, et ipse <persName key="d1e29302" xml:id="d1e166729">Henricus</persName> habuit propter hoc <app>
+                        <lem>
+                            <num>xxx</num>
+                            <hi rend="superscript">a</hi>
+                        </lem>
+                        <rdg wit="#C">viginti</rdg>
+                    </app> libras <app>
+                        <lem>divionensium</lem>
+                        <rdg wit="#B">divioñ</rdg>
+                        <rdg wit="#C">divionenses</rdg>
+                    </app> de beneficio ecclesie et uxor ejus <app>
+                        <lem>
+                            <num>lx</num>
+                        </lem>
+                        <rdg wit="#C">quadraginta</rdg>
+                    </app> solidos pro laude. Actum est hoc anno verbi incarnati <app>
+                        <lem>
+                            <num>m° cc° xii°</num>
+                        </lem>
+                        <rdg wit="#C">millesimo ducentesimo duodecimo</rdg>
+                    </app>. Quod totum ut ratum sit presentem paginam sigilli mei munimine
+                    roboravi.</p>
+            </body>
+        </text>
+    </TEI>

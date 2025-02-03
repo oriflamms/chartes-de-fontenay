@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1205_d1e238851">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original *219 bis@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl> ADCO 15 H 1, <hi rend="background(red)">fol. @</hi>
+                            <hi rend="superscript background(red)">@</hi> (Poiseul. D)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 94<hi rend="superscript">v</hi> (Poiseul. D) :
+                            « Donation d’une partie de bois de Chaume au finage de Poiseul avec
+                            droit d’usage au finage d’Eschallot. 1205 »</bibl>
+                        <bibl>ADCO 15 H 4, p. 320 (XV. 12. 9) : « […] en date de 1205 […] titre
+                            latin en parchemin, par lequel il conste de la donnation faite […] par
+                                <persName key="d1e28303" xml:id="d1e163438">Jacques de
+                                Bigorne</persName> d’une partie du <placeName key="stutzmann_himanis#325071" xml:id="d1e163441">bois de Chaume</placeName> au finage de
+                                <placeName key="stutzmann_himanis#324343" xml:id="d1e163444">Poiseul</placeName>, avec droit d’usage du finage d’<placeName key="stutzmann_himanis#324444" xml:id="d1e163447">Eschallot</placeName>, etc.
+                            et scellé d’un sceau qui y étoit autrefois ». La description de l’item
+                            suivant dans l’inventaire précise « un autre petit titre »</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1205-12-31">1205</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p/>
+            </body>
+        </text>
+    </TEI>

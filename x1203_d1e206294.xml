@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1203_d1e206294">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 2335</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 328, pièce 5</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin, lésé par l’humidité</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>120/115</height>
+                                                  <width>220/210</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>70</height>
+                                                  <width>210/200</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="8">réglure absente ;
+                                                repli de 25 mm, à une double entaille</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Aroldi » ; « XV » ( ?) ;
+                                        « De vinea de Bruee et de campo .... eandem vineam » ;
+                                        « Tornod. » ; « .XVIII<hi rend="superscript">a</hi>. » ;
+                                        barré et gratté « .XIX<hi rend="superscript">a</hi>. » ;
+                                        « donum [ ?] Aroldi Grossi » ; pâle « XIX » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Tonnerre » ; (1787)
+                                        « N° 19 / 1203 »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1203</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1 et ADCO 15 H 2<hi rend="background(red)">, absent</hi>
+                        </bibl>
+                        <bibl>ADCO 15 H 3, p. 981 (XLIII. 12. 19) : « ... don fait par Arold Legros
+                            ... scellé d’un sceau qui y étoit autrefois, n’y restant plus qu’une
+                            queue de parchemin pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1203-12-31">1203</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_328_0010.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_328_0011.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                                        <p>Ego <persName key="d1e14335" xml:id="d1e139734">Petrus, <placeName key="stutzmann_himanis#324435" xml:id="d1e139736">Autisiod<supplied>ori</supplied>
+                            </placeName> comes et <placeName key="stutzmann_himanis#101449" xml:id="d1e139741">Torno<supplied>dori</supplied>
+                            </placeName>
+                        </persName>, notum facio tam presentibus quam futuris presens scriptum
+                        inspecturi quod <persName key="d1e14341" xml:id="d1e139746">Aroldus
+                                <addName>Grossus</addName>
+                        </persName>
+                        <lb n="2"/> et <persName key="d1e14347" xml:id="d1e139752">Pasca</persName>
+                        uxor ejus dederunt in elemosinam ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e139755">Fontenenti</orgName> quamdam vineam que sita est in
+                        valle de <unclear>
+                            <placeName key="stutzmann_himanis#324471" xml:id="d1e139759">Luine</placeName>
+                            <note>ADCO 15 H 3 lit <q>la vallée de Luine</q>
+                            </note> juxta</unclear>
+                        <lb n="3"/> viam que ducit <placeName key="stutzmann_himanis#325118" xml:id="d1e139769">
+                            <foreign>d’Espinuel</foreign>
+                        </placeName> usque ad <placeName key="stutzmann_himanis#325022" xml:id="d1e139773">Sanctum Martinum</placeName> et campum <placeName key="stutzmann_himanis#325113" xml:id="d1e139776">
+                            <foreign>del Larriz</foreign>
+                        </placeName> juxta eandem vineam qui partitur terram <lb n="4"/>
+                        <placeName key="stutzmann_himanis#325011" xml:id="d1e139781">Sancti
+                            Martini</placeName> et terram que est juxta viam que ducit ad <placeName key="stutzmann_himanis#324984" xml:id="d1e139785">Pontem de Mahia</placeName>.
+                        Propter hoc beneficium predicti <persName key="d1e14353" xml:id="d1e139788">Arol<lb n="5" break="no"/>dus <addName>Grossus</addName>
+                        </persName> et <persName key="d1e14360" xml:id="d1e139795">Pasca</persName>
+                        uxor ejus de beneficio ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e139798">Fonteneti</orgName> centum et viginti libras
+                        provinensium habuerunt. Quod ut <lb n="6"/> ratum imperpetuum habeatur, ego
+                            <persName key="d1e14366" xml:id="d1e139803">Petrus, <placeName key="stutzmann_himanis#324435" xml:id="d1e139805">Autisiod.</placeName> comes
+                            et <placeName key="stutzmann_himanis#101449" xml:id="d1e139808">Tornod.</placeName>
+                        </persName>, contra omnes <unclear>garentiam</unclear>
+                        <lb n="7"/> promisi et ad petitionem supradictorum presentem paginam sigilli
+                        mei munimine <damage>
+                            <gap/>
+                        </damage>. <lb n="8"/> Actum est anno gratie <figure rend="trait"/>.
+                        millesimo . <figure rend="trait"/>ducentesimo . <figure rend="trait"/>tercio.</p>
+                
+            </body>
+        </text>
+    </TEI>

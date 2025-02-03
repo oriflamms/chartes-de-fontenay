@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1211_d1e198258">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 1097</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 72, pièce 3</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>100</height>
+                                                  <width>185</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>45</height>
+                                                  <width>180</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="6">réglure à la mine
+                                                de plomb, non encadrante et ne continuant pas sous
+                                                le repli ; repli de 24 mm avec double entaille
+                                                centrale.</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture livresque</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Autisiod. / Carta domini
+                                        Amaurici de vinea de Murgers » ; (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s., gratté) « <hi rend="smallcaps">v</hi> » ( ?) ; (<hi rend="smallcaps">xiv</hi>
+                                        <hi rend="superscript">e</hi> s. ?, effacé) « Abbatissa
+                                        sancti Juliani … » ; (<hi rend="smallcaps">xiv</hi>
+                                        <hi rend="superscript">e</hi> s. ?) « 1211 » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Auxerre » ; « F » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Auxerre. Don faict par
+                                        Amaury, chanoine de St Julien de sa vigne en Meurgers à Mrs
+                                        de Fontenay, l’an 1211, cotte F » ; (<hi rend="smallcaps">xviii</hi>
+                                        <hi rend="superscript">e</hi> s.) « N°7. /
+                                        1211 ».</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1211</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 17<hi rend="superscript">r</hi> (Auxerre, F)</bibl>
+                        <bibl>ADCO 15 H 3, p. 54 (IV. 3. 7) : « sceau qui y étoit
+                            autrefois ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1211-12-31">1211</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_72_0006.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_72_0007.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                                        <p>
+                        <persName key="d1e12738" xml:id="d1e134397">M., <orgName key="stutzmann_himanis#284077" xml:id="d1e134399">Sancti Juliani
+                                Altissiodorensis</orgName> abbatissa</persName>, omnibus presentes
+                        litteras inspecturis salutem. Universitati vestre notum <lb n="2"/> fieri
+                        volumus quod dominus <persName key="d1e12744" xml:id="d1e134405">Amauricus,
+                            canonicus de <orgName key="stutzmann_himanis#284077" xml:id="d1e134407">Sancto
+                                Juliano</orgName>, presbiter de <orgName key="stutzmann_himanis#284103" xml:id="d1e134410">Sancto Martino</orgName>
+                        </persName>, in presentia nostra <lb n="3"/> et conventus nostri
+                        constitutus, in ipso capitulo nostro, pro remedio anime sue, in perpetuam
+                        elemosinam vineam <lb n="4"/> suam de <placeName key="stutzmann_himanis#324898" xml:id="d1e134417">
+                            <foreign>Murgers</foreign>
+                        </placeName> ecclesie et conventui de <placeName key="stutzmann_himanis#324453" xml:id="d1e134422">
+                            <foreign>Fontenai</foreign>
+                        </placeName> concessit et donavit. In cujus rei memoriam presen<lb n="5" break="no"/>tes litteras sigillo nostro munitas predicte ecclesie et
+                        conventui prefato tradere curavimus. Actum ab in<lb n="6" break="no"/>carnatione Domini anno .M°. CC°. XI°. <figure rend="trait"/>
+                    </p>
+                
+            </body>
+        </text>
+    </TEI>

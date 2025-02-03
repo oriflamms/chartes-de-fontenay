@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1196_d1e191328">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 265</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 120, pièce 4</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>98/94</height>
+                                                  <width>135</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>67</height>
+                                                  <width>134</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="8">réglure à la mine
+                                                de plomb (4, 130, 2 x 12 [1 l.], 60 [7 ur], 8, 8, 8
+                                                mm) [réglure continue] ; repli de 10 mm avec une
+                                                double entaille centrale. Mention hors teneur : (<hi rend="smallcaps">xii</hi>
+                                                <hi rend="superscript">e</hi> s. ( ?), sur le repli)
+                                                « XXIII. […] s. V. d. ». </layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Carta Petri de
+                                        Vallibus » ; (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Carta Petri de Vallibus.
+                                        Estormé. XXXIX<hi rend="superscript">a</hi> » ; (<hi rend="smallcaps">xiv-xv</hi>
+                                        <hi rend="superscript">e</hi> s.) « 41 » (chiffres arabes
+                                        anciens) ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Estormey. Aquitement de
+                                        quinze sols de rente deus par Mrs de Fontenay a Reynier de
+                                        Seignes et a Pierre de Vaux son frere, cotté
+                                        LLLL. »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1196</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="B">
+                            <desc>Cartulaire 1, fol. 59<hi rend="superscript">r</hi> (<hi rend="italic">Estormer</hi>, 39)</desc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 62<hi rend="superscript">v</hi> (Etormay,
+                            LLLL)</bibl>
+                        <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">@</hi> (Etormay,
+                            LLLL)</bibl>
+                        <bibl>ADCO 15 H 3, p. 209 (XX. 2. 35), identification vraisemblable malgré
+                            l’erreur de date, d’après l’analyse : « en date de 1180, est un petit
+                            titre latin en parchemin, contenant acquittement de 15 s. de cens dûs
+                            par les vénérables de Fontenet à Reynier de Leignes et à Pierre de Vaux,
+                            son frère, par don fait auxdits sieurs de Fontenet, touchant led. cens,
+                            etc. et scellé d’un sceau de cire jaune à queue de parchemin pendant ».
+                                <note>La graphie de « Segne » dans l’acte permet tout à fait une
+                                lecture « Legne ».</note>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1196-12-31">1196</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_120_0008.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_120_0009.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>  <p>Ego <persName key="d1e11498" xml:id="d1e129803">Matildis, comitissa
+                                <placeName key="stutzmann_himanis#324459" xml:id="d1e129805">Grinionis</placeName>
+                        </persName>, notum facio presentibus et futuris quod <app>
+                            <lem wit="#A">Rainerius</lem>
+                            <rdg wit="#B">Renerius</rdg>
+                        </app> de <placeName key="stutzmann_himanis#324356" xml:id="d1e129814">
+                            <foreign>
+                                <app>
+                                    <lem wit="#A">Segne</lem>
+                                    <rdg wit="#B">Saigne</rdg>
+                                </app>
+                            </foreign>
+                        </placeName>
+                        <lb n="2"/> et <persName key="d1e11505" xml:id="d1e129823">Petrus de
+                                <placeName key="stutzmann_himanis#325042" xml:id="d1e129825">Vallibus</placeName>, frater ejus</persName>, in perpetuam
+                        elemosinam ecclesie Fonteneti dederunt<note> dederunt
+                            <hi rend="italic" xml:space="preserve">écrit avant </hi>de censu de
+                            Estormer <hi rend="italic">avec signe de correction A</hi>,
+                            <hi rend="italic" xml:space="preserve">placé devant </hi>in perpetuam
+                            elemosinam B.</note>
+                        <app>
+                            <lem wit="#A">quindecim</lem>
+                            <rdg wit="#B">xv</rdg>
+                        </app> soli<lb n="3" break="no"/>dos censuales quos debebant eis monachi
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e129850">Fonteneti</orgName> de
+                        censu de <placeName key="stutzmann_himanis#324449" xml:id="d1e129853">
+                            <foreign>Estormer</foreign>
+                        </placeName>. <lb n="4"/> Hoc laudavit <persName key="d1e11511" xml:id="d1e129859">Ansericus, filius <app>
+                                <lem wit="#A">Rainerii</lem>
+                                <rdg wit="#B">Renerii</rdg>
+                            </app>
+                        </persName> et ceteri pueri ejus, et <persName key="d1e11517" xml:id="d1e129868">Adelina, uxor Petri de Va<lb n="5" break="no"/>llibus</persName>, coram his testibus, <persName key="stutzmann_himanis#324623" xml:id="d1e129873">Odone archipresbitero <placeName key="stutzmann_himanis#324370" xml:id="d1e129875">Tullionis</placeName>
+                        </persName>, <persName key="d1e11523" xml:id="d1e129878">Humberto de
+                                <placeName key="stutzmann_himanis#324962" xml:id="d1e129880">Monte Sancti
+                                Johannis</placeName>, <lb n="6"/> monacho Fonteneti</persName>,
+                            <persName key="d1e11529" xml:id="d1e129886">
+                            <app>
+                                <lem wit="#A">Olivero</lem>
+                                <rdg wit="#B">Oliverio</rdg>
+                            </app> de <placeName key="stutzmann_himanis#324459" xml:id="d1e129893">Grinione</placeName>
+                        </persName>, <persName key="d1e11535" xml:id="d1e129896">Oberto, fratre
+                            jamdicte <app>
+                                <lem wit="#A">Andeline</lem>
+                                <rdg wit="#B">Adeline</rdg>
+                            </app>
+                        </persName>. Actum est hoc <lb n="7"/> in <placeName key="stutzmann_himanis#324453" xml:id="d1e129907">capitulo Fonteneti</placeName>, anno ab incarnatione
+                        Domini <num>
+                            <app>
+                                <lem wit="#A">millesimo</lem>
+                                <rdg wit="#B">m°</rdg>
+                            </app> c° xc° <app>
+                                <lem wit="#A">sexto</lem>
+                                <rdg wit="#B">vi°</rdg>
+                            </app>
+                        </num>. Ut autem hoc ratum habeatur in posterum, sigilli mei munimine
+                        roboravi.</p>
+                
+            </body>
+        </text>
+    </TEI>

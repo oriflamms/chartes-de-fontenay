@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1189_d1e230315">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 111@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1,
+                                fol. 42<hi rend="superscript" xml:space="preserve">r </hi>(<hi rend="italic">Flaciacum</hi>, 8) ; table : « <hi rend="italic">Carta
+                                ejusdem </hi>», suivant « <hi rend="italic">Carta Renerii de Froleis
+                                de eo quod injuste causabatur</hi> »</witness>
+                        <witness n="C">Cartulaire 2, fol. 99<hi rend="superscript">v</hi>-100<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 8) ;
+                            table mutilée</witness>
+                    </listWit>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1171" notAfter="1189">[1171-1189]</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+            <encodingDesc>
+                <editorialDecl>
+                    <ab>Collation non faite</ab>
+                </editorialDecl>
+            </encodingDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e157389">Stephanus Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e157391">Eduensis</placeName>
+                        episcopus</persName>, notum fieri volo presentibus et futuris quod <persName key="d1e25281" xml:id="d1e157395">Renerius de <placeName key="stutzmann_himanis#323218" xml:id="d1e157397">Frolesio</placeName>
+                    </persName> concessit fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e157400">Fonteneto</orgName> quicquid habebat de proprio dominio
+                    et quicquid <persName key="d1e25287" xml:id="d1e157403">Girardus
+                            <addName>Pilosus</addName>
+                    </persName> et <persName key="d1e25293" xml:id="d1e157408">Gilebertus de
+                            <placeName key="stutzmann_himanis#324433" xml:id="d1e157410">Colomeis</placeName>
+                    </persName> et <persName key="d1e25299" xml:id="d1e157414">Obertus
+                            <addName>Villanus</addName>
+                    </persName> tenebant ab <persName key="d1e25331" xml:id="d1e157419">Hugone de
+                            <placeName key="stutzmann_himanis#324905" xml:id="d1e157421">
+                            <foreign>Chaace</foreign>
+                        </placeName>
+                    </persName> a ponte <placeName key="stutzmann_himanis#324356" xml:id="d1e157425">Saigniaci</placeName> sicut via ducit versus <placeName key="stutzmann_himanis#324479" xml:id="d1e157428">Aringias</placeName> et sicut
+                        <geogName xml:id="d1e157431">rivus Aringiarum</geogName> ducit usque in
+                        <geogName xml:id="d1e157434">aquam Brane</geogName> preter censum quem
+                    annuatim reddunt monachi militibus supradictis videlicet <num>xii</num> solidos
+                    et dimidium. Cujus census medietatem adquirere poterunt predicti monachi sive
+                    per elemosinam sive per emptionem. Concessit etiam eisdem fratribus predictus
+                        <persName key="d1e25337" xml:id="d1e157441">Renerius</persName> quicquid
+                    poterunt adquirere legitime ab heredibus <persName key="d1e25343" xml:id="d1e157444">Radulphi de <placeName key="stutzmann_himanis#324356" xml:id="d1e157446">Saigniaco</placeName>
+                    </persName> et <persName key="d1e25349" xml:id="d1e157449">Roberti fratris
+                        ejusdem Radulphi</persName> infra prescriptos terminos. Hec omnia
+                    laudaverunt filii ejusdem <persName key="d1e25355" xml:id="d1e157452">Renerii</persName>, <persName key="d1e25361" xml:id="d1e157455">Pontius</persName>, <persName key="d1e25368" xml:id="d1e157459">Adam</persName>, <persName key="d1e25374" xml:id="d1e157462">Milo</persName>. Hujus rei testes sunt <persName key="stutzmann_himanis#324623" xml:id="d1e157465">Odo archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e157467">Tullionis</placeName>
+                    </persName>, <persName key="stutzmann_himanis#324632" xml:id="d1e157470">Haymo
+                        archipresbiter <placeName key="stutzmann_himanis#322865" xml:id="d1e157472">Flaviniaci</placeName>
+                    </persName>, <persName key="d1e25380" xml:id="d1e157475">Girardus <addName>
+                            <foreign>Guununs</foreign>
+                        </addName>
+                    </persName>, <persName key="d1e25386" xml:id="d1e157481">Petrus
+                        clericus</persName>. Predictus etiam <persName key="d1e25392" xml:id="d1e157485">Renerius</persName> recognovit in presentia <persName key="stutzmann_himanis#324677" xml:id="d1e157488">Gaucherii abbatis <orgName key="stutzmann_himanis#284217" xml:id="d1e157490">Flaviniaci</orgName>
+                    </persName>, <persName key="d1e25398" xml:id="d1e157493">Johannis
+                        monachi</persName>, <persName key="d1e25405" xml:id="d1e157496">Teobaudi <addName>
+                            <foreign>Seebrant</foreign>
+                        </addName>
+                    </persName>, <persName key="d1e25411" xml:id="d1e157502">Stephani <addName>
+                            <foreign>Bufran</foreign>
+                        </addName>
+                    </persName>, <persName key="d1e25417" xml:id="d1e157508">Laurentii
+                        molendinarii</persName> hoc sic fuisse factum et laudatum.</p>
+            </body>
+        </text>
+    </TEI>

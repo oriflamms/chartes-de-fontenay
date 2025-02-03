@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1187_d1e97933"><teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 2158 </title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 284, pièce 1</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>107</height>
+                                                  <width>150</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>65</height>
+                                                  <width>135</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="8">réglure à la mine
+                                                de plomb, continuant dans le repli (5, 135, 7 x 6,
+                                                64, 40 mm) ; repli de 20 mm, avec une simple
+                                                entaille et un trou</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <handDesc>
+                                        <p>
+                                            <term type="script">écriture diplomatique</term>
+                                        </p>
+                                    </handDesc>
+                                    <additions>Mentions dorsales : (XIIIe s.) « Aniani » ; « Carta
+                                        Mathieie [ ?] de Sancto Andeolo » (Andeolo coupé en fonction
+                                        du pli) ; « De usagio de Crespies » ; « XXIIa » ; (XVIIe s.)
+                                        « St Aignan. Don faict par Mathie dame de St Andiol du
+                                        pasturage en touttes les terres de Crespies. 1187. Cotte YY
+                                        » ; (1787) « N° 2 / 1187 »</additions>
+                                </physDesc>
+                            </msDesc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 6v (Saint-Aignan. YY)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 7v (Saint-Aignan. YY)</bibl>
+                        <bibl>ADCO 15 H 3, p. 17 (I. 5. 2) : « scellé d’un grand sceau de cire jaune
+                            à double queue de peau blanche pendant »</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1187-12-31">1187</date>
+                </creation>
+                <abstract>
+                    <p>Etienne [II], évêque d’Autun, notifie le don fait par Mathilde, dame de
+                        Saint-Andeux, à l’abbaye de Fontenay.</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader><facsimile xml:id="facs_pb_Fontenay_45_1"><surface><graphic url="https://iiif.irht.cnrs.fr/iiif/France/Dijon/AD212315101/DEPOT/FRAD021_15_H_284_0002/full/600,/0/default.jpg"/></surface></facsimile><facsimile xml:id="facs_pb_Fontenay_45_2"><surface><graphic url="https://iiif.irht.cnrs.fr/iiif/France/Dijon/AD212315101/DEPOT/FRAD021_15_H_284_0002/full/600,/0/default.jpg"/></surface></facsimile><text>
+            <body>
+                <p>
+                    <pb xml:id="pb_Fontenay_45" n="1" facs="#facs_pb_Fontenay_45_1"/>
+                    <lb n="1"/>
+                    <w xml:id="w_Fontenay_10319">Ego</w>
+                    <persName key="stutzmann_himanis#324645" xml:id="d1e66004">
+                        <w xml:id="w_Fontenay_10320">Step<choice><expan ana="ori:align-no">hanu</expan><abbr>h̃</abbr></choice>s</w>
+                        <pc xml:id="pc_Fontenay_1416">,</pc>
+                        <w xml:id="w_Fontenay_10321">
+                            <g rend="δ">d</g>ei</w>
+                        <w xml:id="w_Fontenay_10322">
+                            <choice><expan ana="ori:align-no">gratia</expan><abbr>grã</abbr></choice>
+                        </w>
+                        <placeName key="stutzmann_himanis#319548" xml:id="d1e66025">
+                            <w xml:id="w_Fontenay_10323">e<g rend="δ">d</g>ue<choice><expan ana="ori:align-no">nsis</expan><abbr>ñ</abbr></choice>
+                            </w>
+                        </placeName>
+                        <w xml:id="w_Fontenay_10324">
+                            <choice><expan ana="ori:align-no">episcopus</expan><abbr>epc̃</abbr></choice>
+                        </w>
+                    </persName>
+                    <pc xml:id="pc_Fontenay_1417">,</pc>
+                    <w xml:id="w_Fontenay_10325">notum</w>
+                    <w xml:id="w_Fontenay_10326">facio</w>
+                    <w xml:id="w_Fontenay_10327">
+                        <choice><expan ana="ori:align-no">pre</expan><abbr>p̃</abbr></choice>
+                        <g rend="s_long">s</g>entib<choice><expan ana="ori:align-no">us</expan><abbr>⁹</abbr></choice>
+                    </w>
+                    <w xml:id="w_Fontenay_10328">
+                        <choice><expan ana="ori:align-no">et</expan><abbr>⁊</abbr></choice>
+                    </w>
+                    <w xml:id="w_Fontenay_10329">fu<choice><expan ana="ori:align-no">tur</expan><abbr>t᷑</abbr></choice>is</w>
+                    <w xml:id="w_Fontenay_10330">
+                        <choice><expan ana="ori:align-no">quod</expan><abbr>q<g rend="δ">d</g>̃</abbr></choice>
+                    </w>
+                    <persName key="d1e6392" xml:id="d1e66086">
+                        <w xml:id="w_Fontenay_10331">
+                            <seg type="wp" xml:id="wp_Fontenay_10331_1">Mathe</seg>
+                            <lb break="no"/>
+                            <seg type="wp" xml:id="wp_Fontenay_10331_2">lia</seg>
+                        </w>
+                        <pc xml:id="pc_Fontenay_1418">,</pc>
+                        <w xml:id="w_Fontenay_10332">
+                            <choice><expan ana="ori:align-no">domin</expan><abbr>
+                                    <g rend="δ">d</g>ñ</abbr></choice>a</w>
+                        <w xml:id="w_Fontenay_10333">
+                            <g rend="δ">d</g>e</w>
+                        <placeName key="stutzmann_himanis#324398" xml:id="d1e66108">
+                            <w xml:id="w_Fontenay_10334">
+                                <choice><expan ana="ori:align-no">sanct</expan><abbr>
+                                        <g rend="s_long">s</g>c̃</abbr></choice>o</w>
+                            <w xml:id="w_Fontenay_10335">an<g rend="δ">d</g>eolo</w>
+                        </placeName>
+                    </persName>
+                    <pc xml:id="pc_Fontenay_1419">,</pc>
+                    <w xml:id="w_Fontenay_10336">
+                        <choice><expan ana="ori:align-no">pro</expan><abbr>ꝓ</abbr></choice>
+                    </w>
+                    <w xml:id="w_Fontenay_10337">anima</w>
+                    <w xml:id="w_Fontenay_10338">
+                        <g rend="s_long">s</g>ua</w>
+                    <w xml:id="w_Fontenay_10339">
+                        <choice><expan ana="ori:align-no">et</expan><abbr>⁊</abbr></choice>
+                    </w>
+                    <w xml:id="w_Fontenay_10340">viri</w>
+                    <w xml:id="w_Fontenay_10341">
+                        <g rend="s_long">s</g>ui</w>
+                    <persName key="d1e6399" xml:id="d1e66149">
+                        <w xml:id="w_Fontenay_10342">an<g rend="s_long">s</g>elmi</w>
+                    </persName>
+                    <pc xml:id="pc_Fontenay_1420">,</pc>
+                    <w xml:id="w_Fontenay_10343">
+                        <g rend="δ">d</g>e<g rend="δ">d</g>it</w>
+                    <w xml:id="w_Fontenay_10344">in</w>
+                    <w xml:id="w_Fontenay_10345">
+                        <seg type="wp" xml:id="wp_Fontenay_10345_1">elemo</seg>
+                        <lb break="no"/>
+                        <seg type="wp" xml:id="wp_Fontenay_10345_2">
+                            <g rend="s_long">s</g>inam</seg>
+                    </w>
+                    <w xml:id="w_Fontenay_10346">
+                        <g rend="δ">d</g>eo</w>
+                    <w xml:id="w_Fontenay_10347">
+                        <choice><expan ana="ori:align-no">et</expan><abbr>⁊</abbr></choice>
+                    </w>
+                    <w xml:id="w_Fontenay_10348">
+                        <choice><expan ana="ori:align-no">fratr</expan><abbr>fr̃</abbr></choice>ib<choice><expan ana="ori:align-no">us</expan><abbr>⁹</abbr></choice>
+                    </w>
+                    <w xml:id="w_Fontenay_10349">ecc<choice><expan ana="ori:align-no">lesi</expan><abbr>ł</abbr></choice>e</w>
+                    <orgName key="stutzmann_himanis#282689" xml:id="d1e66205">
+                        <w xml:id="w_Fontenay_10350">fonteneti</w>
+                    </orgName>
+                    <w xml:id="w_Fontenay_10351">u<g rend="s_long">s</g>agium</w>
+                    <w xml:id="w_Fontenay_10352">
+                        <choice><expan ana="ori:align-no">ter</expan><abbr>t̃</abbr></choice>re</w>
+                    <w xml:id="w_Fontenay_10353">
+                        <g rend="s_long">s</g>ue</w>
+                    <w xml:id="w_Fontenay_10354">
+                        <g rend="δ">d</g>e</w>
+                    <placeName key="stutzmann_himanis#324436" xml:id="d1e66229">
+                        <foreign>
+                            <w xml:id="w_Fontenay_10355">cre<g rend="s_long">s</g>pies</w>
+                        </foreign>
+                    </placeName>
+                    <w xml:id="w_Fontenay_10356">
+                        <choice><expan ana="ori:align-no">et</expan><abbr>⁊</abbr></choice>
+                    </w>
+                    <w xml:id="w_Fontenay_10357">a</w>
+                    <w xml:id="w_Fontenay_10358">
+                        <choice><expan ana="ori:align-no">gra</expan><abbr>gͣ</abbr></choice>ngia</w>
+                    <lb n="4"/>
+                    <placeName key="stutzmann_himanis#325010" xml:id="d1e66252">
+                        <w xml:id="w_Fontenay_10359">
+                            <choice><expan ana="ori:align-no">sanct</expan><abbr>
+                                    <g rend="s_long">s</g>c̃</abbr></choice>i</w>
+                        <w xml:id="w_Fontenay_10360">aniani</w>
+                    </placeName>
+                    <w xml:id="w_Fontenay_10361">u<g rend="s_long">s</g>
+                        <choice><expan ana="ori:align-no">que</expan><abbr>q;</abbr></choice>
+                    </w>
+                    <w xml:id="w_Fontenay_10362">a<g rend="δ">d</g>
+                    </w>
+                    <placeName key="stutzmann_himanis#325203" xml:id="d1e66277">
+                        <w xml:id="w_Fontenay_10363">
+                            <g rend="s_long">s</g>anct<choice><expan ana="ori:align-no">um</expan><abbr>ũ</abbr></choice>
+                        </w>
+                        <w xml:id="w_Fontenay_10364">martin<choice><expan ana="ori:align-no">um</expan><abbr>ũ</abbr></choice>
+                        </w>
+                    </placeName>
+                    <w xml:id="w_Fontenay_10365">
+                        <choice><expan ana="ori:align-no">ubi</expan><abbr>uͥ</abbr></choice>cun<choice><expan ana="ori:align-no">que</expan><abbr>q;</abbr></choice>
+                    </w>
+                    <w xml:id="w_Fontenay_10366">f<choice><expan ana="ori:align-no">uer</expan><abbr>ũ</abbr></choice>it</w>
+                    <w xml:id="w_Fontenay_10367">a<g rend="δ">d</g>
+                    </w>
+                    <w xml:id="w_Fontenay_10368">pa<g rend="s_long">s</g>cua</w>
+                    <w xml:id="w_Fontenay_10369">
+                        <choice><expan ana="ori:align-no">anim</expan><abbr>aĩ</abbr></choice>alium</w>
+                    <w xml:id="w_Fontenay_10370">
+                        <seg type="wp" xml:id="wp_Fontenay_10370_1">
+                            <g rend="s_long">s</g>u</seg>
+                        <lb break="no"/>
+                        <seg type="wp" xml:id="wp_Fontenay_10370_2">orum</seg>
+                    </w>
+                    <w xml:id="w_Fontenay_10371">excepto</w>
+                    <w xml:id="w_Fontenay_10372">pa<g rend="s_long">s</g>nagio</w>
+                    <pc xml:id="pc_Fontenay_1421">.</pc>
+                    <w xml:id="w_Fontenay_10373">Hinc</w>
+                    <w xml:id="w_Fontenay_10374">te<g rend="s_long">s</g>tes</w>
+                    <w xml:id="w_Fontenay_10375">
+                        <choice><expan ana="ori:align-no">sunt</expan><abbr>s̃</abbr></choice>
+                    </w>
+                    <pc xml:id="pc_Fontenay_1422">:</pc>
+                    <persName key="d1e6405" xml:id="d1e66364">
+                        <w xml:id="w_Fontenay_10376">Gui<g rend="δ">d</g>o</w>
+                        <w xml:id="w_Fontenay_10377">capellan<choice><expan ana="ori:align-no">us</expan><abbr>⁹</abbr></choice>
+                        </w>
+                        <placeName key="stutzmann_himanis#324895" xml:id="d1e66377">
+                            <w xml:id="w_Fontenay_10378">roverii</w>
+                        </placeName>
+                    </persName>
+                    <pc xml:id="pc_Fontenay_1423">,</pc>
+                    <persName key="d1e6411" xml:id="d1e66382">
+                        <w xml:id="w_Fontenay_10379">Lam<choice><expan ana="ori:align-no">ber</expan><abbr>b̃</abbr></choice>t<choice><expan ana="ori:align-no">us</expan><abbr>⁹</abbr></choice>
+                        </w>
+                        <lb n="6"/>
+                        <w xml:id="w_Fontenay_10380">
+                            <g rend="δ">d</g>e</w>
+                        <placeName key="stutzmann_himanis#324895" xml:id="d1e66401">
+                            <w xml:id="w_Fontenay_10381">roverio</w>
+                        </placeName>
+                        <pc xml:id="pc_Fontenay_1424">,</pc>
+                        <w xml:id="w_Fontenay_10382">patruus</w>
+                        <w xml:id="w_Fontenay_10383">
+                            <choice><expan ana="ori:align-no">pre</expan><abbr>p̃</abbr></choice>
+                            <g rend="δ">d</g>icte</w>
+                        <persName key="d1e6417" xml:id="d1e66417">
+                            <w xml:id="w_Fontenay_10384">Mathelie</w>
+                        </persName>
+                    </persName>
+                    <pc xml:id="pc_Fontenay_1425">,</pc>
+                    <persName key="d1e6423" xml:id="d1e66422">
+                        <w xml:id="w_Fontenay_10385">Hugo</w>
+                        <w xml:id="w_Fontenay_10386">
+                            <g rend="δ">d</g>e</w>
+                        <placeName key="stutzmann_himanis#324389" xml:id="d1e66429">
+                            <w xml:id="w_Fontenay_10387">meneriis</w>
+                        </placeName>
+                    </persName>
+                    <pc xml:id="pc_Fontenay_1426">,</pc>
+                    <persName key="d1e6429" xml:id="d1e66434">
+                        <w xml:id="w_Fontenay_10388">Gifar<g rend="δ">d</g>
+                            <choice><expan ana="ori:align-no">us</expan><abbr>⁹</abbr></choice>
+                        </w>
+                        <w xml:id="w_Fontenay_10389">
+                            <g rend="δ">d</g>e</w>
+                        <lb n="7"/>
+                        <placeName key="stutzmann_himanis#325193" xml:id="d1e66449">
+                            <w xml:id="w_Fontenay_10390">rupe</w>
+                        </placeName>
+                    </persName>
+                    <pc xml:id="pc_Fontenay_1427">,</pc>
+                    <persName key="d1e6436" xml:id="d1e66454">
+                        <w xml:id="w_Fontenay_10391">Step<choice><expan ana="ori:align-no">hanu</expan><abbr>h̃</abbr></choice>s</w>
+                        <w xml:id="w_Fontenay_10392">eju<g rend="s_long">s</g>
+                            <g rend="δ">d</g>em</w>
+                        <persName key="d1e6442" xml:id="d1e66470">
+                            <w xml:id="w_Fontenay_10393">an<g rend="s_long">s</g>elmi</w>
+                        </persName>
+                        <w xml:id="w_Fontenay_10394">fra<choice><expan ana="ori:align-no">ter</expan><abbr>t̃</abbr></choice>
+                        </w>
+                    </persName>
+                    <pc xml:id="pc_Fontenay_1428">,</pc>
+                    <persName key="d1e6448" xml:id="d1e66485">
+                        <w xml:id="w_Fontenay_10395">Fra<choice><expan ana="ori:align-no">ter</expan><abbr>t̃</abbr></choice>
+                        </w>
+                        <w xml:id="w_Fontenay_10396">antelm<choice><expan ana="ori:align-no">us</expan><abbr>⁹</abbr></choice>
+                        </w>
+                        <w xml:id="w_Fontenay_10397">
+                            <g rend="δ">d</g>e</w>
+                        <orgName key="stutzmann_himanis#280834" xml:id="d1e66504">
+                            <w xml:id="w_Fontenay_10398">regniaco</w>
+                        </orgName>
+                    </persName>
+                    <pc xml:id="pc_Fontenay_1429">,</pc>
+                    <persName key="d1e6454" xml:id="d1e66510">
+                        <w xml:id="w_Fontenay_10399">Jo<choice><expan ana="ori:align-no">hanne</expan><abbr>h̃</abbr></choice>s</w>
+                        <lb n="8"/>
+                        <w xml:id="w_Fontenay_10400">
+                            <choice><expan ana="ori:align-no">pre</expan><abbr>p̃</abbr></choice>po<g rend="s_long">s</g>it<choice><expan ana="ori:align-no">us</expan><abbr>⁹</abbr></choice>
+                        </w>
+                        <w xml:id="w_Fontenay_10401">
+                            <g rend="δ">d</g>e</w>
+                        <placeName key="stutzmann_himanis#324398" xml:id="d1e66539">
+                            <w xml:id="w_Fontenay_10402">
+                                <choice><expan ana="ori:align-no">sanct</expan><abbr>
+                                        <g rend="s_long">s</g>c̃</abbr></choice>o</w>
+                            <w xml:id="w_Fontenay_10403">an<g rend="δ">d</g>eolo</w>
+                        </placeName>
+                    </persName>
+                    <pc xml:id="pc_Fontenay_1430">.</pc>
+                    <w xml:id="w_Fontenay_10404">Anno</w>
+                    <w xml:id="w_Fontenay_10405">ab</w>
+                    <w xml:id="w_Fontenay_10406">incarnati<choice><expan ana="ori:align-no">on</expan><abbr>õ</abbr></choice>e</w>
+                    <w xml:id="w_Fontenay_10407">
+                        <choice><expan ana="ori:align-no">domin</expan><abbr>
+                                <g rend="δ">d</g>ñ</abbr></choice>i</w>
+                    <pc xml:id="pc_Fontenay_1431">.</pc>
+                    <w xml:id="w_Fontenay_10408">M°</w>
+                    <pc xml:id="pc_Fontenay_1432">.</pc>
+                    <w xml:id="w_Fontenay_10409">C°</w>
+                    <pc xml:id="pc_Fontenay_1433">.</pc>
+                    <w xml:id="w_Fontenay_10410">LXXX°</w>
+                    <pc xml:id="pc_Fontenay_1434">.</pc>
+                    <w xml:id="w_Fontenay_10411">VII°</w>
+                    <pc xml:id="pc_Fontenay_1435">.</pc>
+                </p>
+            </body>
+        </text></TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1201_d1e238178">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 195@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <hi rend="background(red)">Original perdu</hi>
+                        </witness>
+                        <witness n="B">ADCO 15 H 59, pièce 1. — 1<hi rend="superscript">er</hi> mars
+                            1700, papier, 2 ff., 250 x 180 mm. Copie collationnée de quatre actes
+                            par Doublot, notaire de la résidence royale de Montbard, à la demande de
+                            François-Marie Chamereau. Analyse marginale : « Don fait par l’eveque
+                            Gautier des dixmes de vin a Alize, sur les vignes de Fournet,
+                            1201 ».</witness>
+                        <witness n="a"> a. <bibl sameAs="#Le_Gall1980"><biblScope>p. 166 n°
+                                    3</biblScope><note>Edition partielle :</note></bibl>
+                        </witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. @<hi rend="superscript">@</hi> (Flavigny. Z)</bibl>
+                        <bibl>ADCO 15 H 2, fol. @<hi rend="superscript">@</hi> Flavigny. Z) : « Don
+                            fait par Gauthier evesque d’Authun des dixmes des vins sur les vignes
+                            dsdits religieux de Fontenet. [barré : 1210] 1201 »</bibl>
+                        <bibl>ADCO 15 H 3, p. 343 (XXIII. 3. 1) : « sceau qui y étoit
+                            autrefois ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1201-12-31">1201</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e162992">Galterius, Dei gratia,
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e162994">æduensis</placeName>
+                        episcopus</persName>, notum facio præsentes inspecturis me in perpetuam
+                    elemosinam Deo et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e163001">Fonteneti</orgName> concessisse quidquid <orgName key="stutzmann_himanis#282689" xml:id="d1e163004">Fontenetenses</orgName> in omnibus locis tam vineis quam
+                    terris mihi de decimis annuatim reddere consueverant. Hujus rei testes sunt
+                        <persName key="d1e28106" xml:id="d1e163007">Joannes capellanus supredicti
+                        episcopi</persName>, <persName key="d1e28112" xml:id="d1e163014">Petrus
+                        capellanus de <placeName key="stutzmann_himanis#324424" xml:id="d1e163016">Alizia</placeName>
+                    </persName>, <persName key="d1e28118" xml:id="d1e163020">Martinus</persName>,
+                        <persName key="d1e28124" xml:id="d1e163023">Aimon</persName> monachi
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e163029">Fontenetenses</orgName> et
+                        <persName key="d1e28130" xml:id="d1e163032">Drogo conversus</persName>,
+                        <persName key="d1e28136" xml:id="d1e163035">Henricus præpositus de
+                            <placeName key="stutzmann_himanis#324424" xml:id="d1e163037">Alizia</placeName>
+                    </persName>. Datum est hoc anno incarnationis dominicæ millesimo ducentesimo
+                    primo.</p>
+            </body>
+        </text>
+    </TEI>

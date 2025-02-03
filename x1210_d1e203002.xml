@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1210_d1e203002">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 2094</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 270, pièce 1</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>97</height>
+                                                  <width>150/148</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>53</height>
+                                                  <width>147</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="8">réglure absente
+                                                (147 x 5, 53, 40 mm) ; repli de 17 à 20 mm avec une
+                                                entaille centrale et trous</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>(<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « .C. Roberti Odomari de
+                                        vinea in plateis Pomarci » ; « .Belne. » ; « IX<hi rend="superscript">a</hi> » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Beaune. Don par Robert,
+                                        Odomar d’une vigne au finage de Pommart prez la vigne Ste
+                                        Marguerite 1209, cotté D » ; (1787) « N° 1 / Janvier
+                                        1209 »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1210, janvier [n. st.]</origDate>
+                                        <origPlace>Beaune</origPlace>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 22<hi rend="superscript">r</hi> (Beaune. D)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 20<hi rend="superscript">v</hi> (Beaune. D)</bibl>
+                        <bibl>ADCO 15 H 3, p. 60 (V. 2. 1) : « Robert Bonniar [<hi rend="italic">sic</hi>]... scellé d’un sceau de cire jaune à double queue de
+                            parchemin pendant »</bibl>
+                        <bibl/>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1210-01">1210, janvier [n. st.]</date>
+                    <origPlace>Beaune</origPlace>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_270_0002.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_270_0003.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                    <p>Noverint universi presentes et futuri quod <persName key="d1e13681" xml:id="d1e137537">Robertus Odomarus</persName>, laudante uxore sua <lb n="2"/> et filio suo <persName key="d1e13687" xml:id="d1e137542">Hugone</persName> pro remedio anime sue et antecessorum suorum, in vita
+                        sua donavit <lb n="3"/> Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e137547">sancte Marie de <foreign>Fontenois</foreign>
+                        </orgName> vineam suam que est in plateis <placeName key="stutzmann_himanis#324345" xml:id="d1e137553">Pomarci</placeName> justa vi<lb n="4" break="no"/>neam <orgName key="stutzmann_himanis#324497" xml:id="d1e137558">sancte
+                            Margarite</orgName>, usufructu tantum sibi in vita sua retento, et
+                        investivit uno <lb n="5"/> modio vini quod singulis annis reddet fratribus
+                        predicte domus dum predictam vineam tenebit. <lb n="6"/> Ut autem helemosina
+                        sua in posterum rata esset et quieta, presentem cartam sigillo capi<lb n="7" break="no"/>tuli <orgName key="stutzmann_himanis#284473" xml:id="d1e137568">sancte
+                            Marie de <placeName key="stutzmann_himanis#324406" xml:id="d1e137570">Belna</placeName>
+                        </orgName> pro testimonio fecit communiri. Actum est hoc anno Verbi incar<lb n="8" break="no"/>nati <figure/>
+                        <num>.M°. CC°. IX°</num>, <figure/>mense <figure/>Januario <figure/>apud <figure/>
+                        <placeName key="stutzmann_himanis#324406" xml:id="d1e137587">Belnam</placeName>
+                        <note>Dernière ligne avec traits horizontaux entre les mots pour assurer la
+                            justification</note>.</p>
+                
+            </body>
+        </text>
+    </TEI>

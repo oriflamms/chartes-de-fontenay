@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1154_d1e222421">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 26@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 43<hi rend="superscript">v-</hi>44<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 13) ;
+                            table : « <hi rend="italic">Carta Flaviniaci de acensia prati
+                                Glaioleti</hi> »</witness>
+                        <witness n="C">Cartulaire 2, fol. 101<hi rend="superscript">r-v</hi> (<hi rend="italic">Flaciacum</hi>, 13) ; table mutilée</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl sameAs="#Bouchard1987">
+                            <biblScope>p. 417</biblScope>
+                        </bibl>
+                        <bibl sameAs="#Bouchard1991b">
+                            <biblScope>p. 213, note 35</biblScope>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1154-12-31">1154</date>
+                </creation>
+                <abstract>
+                    <p>Régeste R[enaud], abbé de Flavigny</p>
+                </abstract>
+            </profileDesc>
+            <encodingDesc>
+                <editorialDecl>
+                    <ab>Collation non faite</ab>
+                </editorialDecl>
+            </encodingDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <persName key="stutzmann_himanis#324675" xml:id="d1e151717">R., Dei gratia <orgName key="stutzmann_himanis#284217" xml:id="d1e151719">Flaviniacensis</orgName>
+                        abbas</persName>, dilecto sibi in Christo <persName key="d1e22308" xml:id="d1e151723">abbati <orgName key="stutzmann_himanis#282689" xml:id="d1e151725">Fonteneti</orgName> Willermo</persName> salutem et dilectionem.
+                    Adcensiam duorum pratorum circiter <num>viii</num>° carrarum quam <persName key="d1e22315" xml:id="d1e151732">Guido prior <placeName key="stutzmann_himanis#324459" xml:id="d1e151734">Grinionis</placeName>
+                    </persName> ad tempus dumtaxat domui vestre fecit donec scilicet <num>vii</num>
+                    libre proviniensis vel trecensis monete a nobis vobis persolvantur assensu
+                    communis capituli nostri laudo et concedo. <num>xii</num> nummos annuatim in
+                    marcio absque interceptionis occasione prioratui solvetis usque dum summam
+                    predicatarum librarum in eodem valore quo tunc ipsa moneta erat <hi rend="smallcaps">xl</hi>
+                    <hi rend="superscript">ta</hi> et <num>v</num> solid<hi rend="background(cyan)">os</hi> argenti marca tunc vendebatur integro vobis restituatur. Porro in
+                        elemosi<hi rend="background(red)">nam</hi> quicquid interim commodi inde
+                    exierit vobis donamus. Huic rei interfuerunt et laudaverunt <persName key="d1e22321" xml:id="d1e151758">magister Petrus prior noster</persName>,
+                        <persName key="d1e22327" xml:id="d1e151762">Guido prior <placeName key="stutzmann_himanis#324459" xml:id="d1e151764">Grinionis</placeName>
+                    </persName>, <persName key="d1e22333" xml:id="d1e151767">Hugo de <placeName key="stutzmann_himanis#82732" xml:id="d1e151769">Granceaco</placeName>
+                    </persName>, <persName key="d1e22339" xml:id="d1e151772">Lambertus</persName>,
+                        <persName key="d1e22345" xml:id="d1e151775">Petrus de <placeName key="stutzmann_himanis#324999" xml:id="d1e151777">
+                            <foreign>Risnel</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e22352" xml:id="d1e151781">Teobaudus
+                        magister</persName> et burgenses <persName key="d1e22358" xml:id="d1e151784">Johannes <addName>
+                            <foreign>Bufranz</foreign>
+                        </addName>
+                    </persName>, <persName key="d1e22364" xml:id="d1e151791">Laurentius</persName>,
+                        <persName key="d1e22370" xml:id="d1e151794">Haymo de <placeName key="stutzmann_himanis#324358" xml:id="d1e151796">Salmasia</placeName>
+                    </persName>, <persName key="d1e22376" xml:id="d1e151799">Johannes de <placeName key="stutzmann_himanis#324344" xml:id="d1e151801">Polleniaco</placeName>
+                    </persName>. Sane ne quis de nostris placito vel alia occasione vos inquietare
+                    aut injuriari presumat interdicimus. Et ut firmius omnia vobis stent, sigilli
+                    nostri impressione confirmamus et munimus. Actum est anno <hi rend="smallcaps">m° c° l° iiii°</hi> incarnationis.</p>
+            </body>
+        </text>
+    </TEI>

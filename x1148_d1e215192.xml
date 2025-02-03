@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1148_d1e215192">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 19@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 31<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 18 ; acte précédé de « <hi rend="italic">Privilegium</hi> ») ; table : « Carta de chasamentis domini Rubei
+                            Monte » (titre barré) ; annotation d’une main moderne
+                            « 1148 ».</witness>
+                        <witness n="a">a. <bibl sameAs="#Wiederhold1985"><biblScope>t. I, p. 186,
+                                    d’après B</biblScope></bibl></witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps">Inventaire</hi> : ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (Papes, <hi rend="background(red)">@</hi>)</bibl>
+                        <bibl>ADCO 15 H 4, p. <hi rend="background(red)">@@</hi> (<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>).</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1148-04-26">[1148], 26 avril. —
+                        Clairvaux</date>
+                </creation>
+                <abstract>
+                    <p>Eugène [III] confirme à Guillaume, abbé de Fontenay, le don de Rainaud de
+                        Rougemont.</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <persName key="d1e17270" xml:id="d1e145893">Eugenius, episcopus</persName>,
+                    servus servorum Dei, dilecto filio <persName key="d1e17276" xml:id="d1e145896">Willelmo abbati de <orgName key="stutzmann_himanis#282689" xml:id="d1e145898">Fonteneto</orgName>
+                    </persName>, salutem et apostolicam benedictionem. Quantum necessarium sit
+                    monasteriorum quieti prospicere et de eorum utilitate sollicite cogitare,
+                    anteactum officium, quod in abbatie regimine gessimus, nos instruit et informat.
+                    Ideo nos paci et tranquillitati ecclesie tue <app>
+                        <lem wit="#B">paterna</lem>
+                        <rdg wit="#a">previa</rdg>
+                        <witDetail wit="#B">p<hi rend="sup">~</hi>rna</witDetail>
+                    </app> sollicitudine providere volentes, donum quod ei <persName key="d1e17283" xml:id="d1e145912">Rainaldus dominus <placeName key="stutzmann_himanis#324355" xml:id="d1e145914">Rubei Montis</placeName>
+                    </persName> in presentia nostra pia mentis devotione concessit scilicet, quod
+                    quicquid milites sui de feodis que ab eo possidebant, ipsi conferrent, id eadem
+                    ecclesia futuris temporibus justis titulis possideret, auctoritate apostolica
+                    confirmamus et ratam manere censemus. Datum apud <placeName key="stutzmann_himanis#282533" xml:id="d1e145917">Claram Vallem</placeName>
+                    <num>vi</num>° kl. maii.</p>
+            </body>
+        </text>
+    </TEI>

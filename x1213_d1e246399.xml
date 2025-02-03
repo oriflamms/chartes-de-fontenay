@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e246399">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 296 ter@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. @<hi rend="superscript">@</hi> (@@@. @)</bibl>
+                        <bibl>ADCO 15 H 2, fol. @<hi rend="superscript">@</hi> (@@@. @)</bibl>
+                        <bibl>ADCO 15 H 3, p. 397 (XXIV. 8. 2) : « sans date […]titre latin en
+                            parchemin contenant accord fait entre les Vénérables de Fontenet, par
+                            lequel le pâturage de Juvency demeure commun, etc. et scellé de deux
+                            sceaux de cire jaune à queues de parchemin pendant »</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notAfter="1213-12-13">[avant 1213]</date>
+                </creation>
+                <abstract>
+                    <p>Accord intervenu entre Fontenay et une autre partie non mentionnée
+                        sur les pâturages de Juvency.</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p/>
+            </body>
+        </text>
+    </TEI>

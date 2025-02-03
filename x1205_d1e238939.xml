@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1205_d1e238939">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original *219 bis@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, <hi rend="background(red)">fol. @</hi>
+                            <hi rend="superscript background(red)">@</hi> (Poiseul. <hi rend="background(red)">@</hi>)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 94<hi rend="superscript">v</hi>
+                            <hi rend="background(red)">fol. @</hi>
+                            <hi rend="superscript background(red)">@</hi> (Poiseul. <hi rend="background(red)">@</hi>)</bibl>
+                        <bibl>ADCO 15 H 4, p. 335 (XV. 18. 4) : « […] en date de 1205 […] titre
+                            latin en parchemin, par lequel il conste du droit de pâturage pour les
+                                <orgName key="stutzmann_himanis#324504" xml:id="d1e163499">habitans de
+                                Poiseul</orgName> au finage d’<placeName key="stutzmann_himanis#324444" xml:id="d1e163502">Eschallot</placeName> sans amende, avec
+                            reconnoissance comme <orgName key="stutzmann_himanis#324500" xml:id="d1e163505">ceux d’Eschalot</orgName> ne peuvent couper du bois dans la forêt
+                            de <placeName key="stutzmann_himanis#324409" xml:id="d1e163508">Bergerosse</placeName>, etc., et scellé d’un sceau qui y étoit
+                            autrefois ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1205-12-31">1205</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p/>
+            </body>
+        </text>
+    </TEI>

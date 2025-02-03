@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1195_d1e245828">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 293@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 38<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 44 ; non numéroté, dans la table &gt;<hi rend="smallcaps">xliiii</hi>&lt;, copié après <hi rend="italic">Abbatia</hi>, 45 ; annotation marginale « <hi rend="italic">redditivum</hi> ») ; table : « <hi rend="italic">Carta abbatisse
+                                Putei Orbis de molendino Fanii</hi> ».</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>)</bibl>
+                        <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>)</bibl>
+                        <bibl>ADCO 15 H <hi rend="background(red)">@</hi>, p. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>).</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1165" notAfter="1195">[... 1165-1195 ... 1213] <note>L'acte est
+                            nécessairement antérieur à 1213, date de rédaction du premier
+                            cartulaire. L'intervalle 1165-1195 est ici donné d'après l'auteur de
+                            l'acte (cf. Gallia Christiana, IV, col. 750). Le témoignage de
+                                <foreign>Margarita, abbatissa Rubei Montis</foreign> ne permet pas
+                            de préciser (elle déjà attestée dans un acte de 1157). </note>
+                    </date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <supplied>N</supplied>otum sit cunctis presentibus et futuris quod <persName key="d1e29764" xml:id="d1e168292">abbatissa <orgName key="stutzmann_himanis#324494" xml:id="d1e168294">Putei Orbi</orgName> Aglentina de <placeName key="stutzmann_himanis#324468" xml:id="d1e168297">Argenteolo</placeName>
+                    </persName> cum laude et assensu capituli et conventus <orgName key="stutzmann_himanis#324494" xml:id="d1e168300">Putei Orbi</orgName> acensivit
+                    ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e168303">Fonteneti</orgName>
+                    quicquid habebat in <placeName key="stutzmann_himanis#325148" xml:id="d1e168306">molendino
+                            <placeName key="stutzmann_himanis#324450" xml:id="d1e168308">Fanii</placeName>
+                        quod dicitur de <foreign>Colle</foreign>
+                    </placeName>, terciam videlicet partem quam ecclesia <orgName key="stutzmann_himanis#324494" xml:id="d1e168314">Putei Orbi</orgName> pro <persName key="d1e29771" xml:id="d1e168318">
+                        <foreign>Emenjarde</foreign>
+                        <placeName key="stutzmann_himanis#325251" xml:id="d1e168321">Curtis Rabodi</placeName>
+                    </persName>. Acensia est duorum solidorum quos habebit <persName key="d1e29777" xml:id="d1e168324">
+                        <foreign>Emenjardix</foreign>
+                    </persName> quamdium vixerit. Post mortem vero ejus reddentur duo solidi
+                    ecclesie <orgName key="stutzmann_himanis#324494" xml:id="d1e168332">Putei Orbi</orgName>.
+                    Pro hac accensia receperunt <orgName key="stutzmann_himanis#282689" xml:id="d1e168335">Fontenetenses</orgName> eamdem abbatissam in societatem omnium beneficiorum
+                    ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e168339">Fonteneti</orgName> et
+                    dederunt ecclesie <orgName key="stutzmann_himanis#324494" xml:id="d1e168342">Putei
+                        Orbi</orgName> duos modios frumenti ad mensuram <placeName key="stutzmann_himanis#324355" xml:id="d1e168345">Rubei Montis</placeName> et modium
+                    ordei. Hoc laudavit <persName key="d1e29783" xml:id="d1e168348">
+                        <foreign>Emenjardix</foreign>
+                    </persName> et pro hac habebit a monachis singulis annis quamdiu vixerit cum
+                    predicto censu <num>viii</num>° solidos. Testes sunt <persName key="d1e29789" xml:id="d1e168355">abbatissa <orgName key="stutzmann_himanis#324496" xml:id="d1e168357">Rubei Montis</orgName> Margarita</persName> et
+                        <persName key="stutzmann_himanis#324665" xml:id="d1e168362">monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e168364">Fonteneti</orgName>
+                        Ribertus</persName>, <persName key="stutzmann_himanis#324666" xml:id="d1e168368">Stephanus</persName>, <persName key="stutzmann_himanis#324667" xml:id="d1e168371">Phylippus</persName>, <persName key="stutzmann_himanis#324668" xml:id="d1e168374">Willermus</persName> et <persName key="stutzmann_himanis#324669" xml:id="d1e168377">Haymo conversus</persName> et duo <persName key="d1e29795" xml:id="d1e168380">presbiteri <placeName key="stutzmann_himanis#324348" xml:id="d1e168382">Putei Orbi</placeName> Bernardus</persName> et
+                        <persName key="d1e29801" xml:id="d1e168387">Walterius</persName>. Promissum
+                    etiam <persName key="d1e29808" xml:id="d1e168390">
+                        <foreign>Emenjardi</foreign>
+                    </persName> a monachis est quod ad mortem ejus tantum facient pro illa quantum
+                    pro uno monacho.</p>
+            </body>
+        </text>
+    </TEI>

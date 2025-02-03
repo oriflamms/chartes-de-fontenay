@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1207_d1e239591">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 227@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A1">A<hi rend="superscript">1</hi>. Original perdu.</witness>
+                        <witness n="A2">A<hi rend="superscript">2</hi>. Original perdu.</witness>
+                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 4<hi rend="superscript">r</hi> (Princes, H) :
+                            « <hi rend="italic" xml:space="preserve">Restat sigillum in cera alba. </hi>Il
+                            y a avec ce tiltre un auttre semblable scellé en cire verte. »</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps">Inventaire</hi> : ADCO 15 H 1, fol. XIII<hi rend="superscript">r</hi> (Princes, H)</bibl>
+                        <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">XIII</hi>
+                            <hi rend="superscript background(red)">r</hi> (Princes, H)</bibl>
+                        <bibl>ADCO 15 H 3, p. @ (@@@@)</bibl>
+                        <bibl>ADCO 15 H 4, p. 425 (XXII. 1. 3) : « deux autres titres joints
+                            ensemble […] scellés chacun d’un sceau, dont l’un de cire jaune et
+                            l’autre de cire verte, l’un et l’autre à doubles queues de peau blanche
+                            pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1207-12-31">1207</date>
+                </creation>
+                <abstract>
+                    <p>Régeste comte de Joigny d’après analyse 15 H 1</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="d1e28402" xml:id="d1e163922">Willermus comes <placeName key="stutzmann_himanis#324925" xml:id="d1e163924">Joviniaci</placeName>
+                    </persName>, notum facio omnibus tam presentibus quam futuris quod pro remedio
+                    animae meae et pro reverentia <orgName key="stutzmann_himanis#281483" xml:id="d1e163927">Cisterciensis ordinis</orgName> de<hi rend="background(red)">dit</hi> et
+                    concessi domui et fratribus ecclesiae <orgName key="stutzmann_himanis#282689" xml:id="d1e163933">Fonteneti</orgName> liberum transitum terrae et aquae per
+                    omnia loco dominationis meae ut pacifice vadant et veniant conducentes ea quae
+                    ad se pertinent immunes ab omni consuetudine et exactione. Quod ut apud posteros
+                    manifestum sit presens scriptum sigilli mei munimine corroboravi. Actum est hoc
+                    anno incarnati verbi millesimo ducentesimo septimo.</p>
+            </body>
+        </text>
+    </TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1202_d1e191940">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 307</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 58, pièce 1</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>172/166</height>
+                                                  <width>135/148</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>158</height>
+                                                  <width>125</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="16">réglure et repli
+                                                absents</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) : « Carta Petri de
+                                        Alisia », « De quadam vinea et pasturis », « X<hi rend="superscript">a</hi> » ; (<hi rend="smallcaps">xvi-vii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Alize », « P » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Alise. Droit de
+                                        pasturage a Mrs de Fontenay sur la terre d’Alise et d’une
+                                        vigne aud. lieu, l’an 1202, a Mrs de Fontenay. P. » ; (1787)
+                                        « N° 2 / 1202 ».</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1202</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="B">
+                            <desc>ADCO 15 H 59, pièce 1. — 1<hi rend="superscript">er</hi> mars
+                                1700, papier, 2 ff., 250 x 180 mm. Copie collationnée de quatre
+                                actes par Doublot, notaire de la résidence royale de Montbard, à la
+                                demande de François-Marie Chamereau</desc>
+                        </witness>
+                        <witness n="a">
+                            <bibl sameAs="#Le_Gall1980">
+                                <biblScope>p. 166 n° 4 (édition partielle)</biblScope>
+                            </bibl>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 74<hi rend="superscript">r</hi> (Flavigny, P)</bibl>
+                        <bibl>ADCO 15 H 3, p. 343 (XXIII. 3. 2) : « scellé d’un sceau qui y étoit
+                            autrefois ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1202-12-31">1202</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_58_0002.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_58_0003.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                <p>Ego, <persName key="stutzmann_himanis#324673" xml:id="d1e130178">Haymo dictus abbas
+                                <orgName key="stutzmann_himanis#284217" xml:id="d1e130180">Flavin[iacensis]</orgName>
+                        </persName>, notum facio presentibus <lb n="2"/> et futuris quod <persName key="d1e11563" xml:id="d1e130185">Petrus, miles de <placeName key="stutzmann_himanis#324424" xml:id="d1e130187">Alisia</placeName>
+                        </persName>, dedit et concessit in perpetu<lb n="3" break="no"/>am
+                        elemosinam ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e130192">Fonten[eti]</orgName> vineam quamdam sitam apud <placeName key="stutzmann_himanis#324424" xml:id="d1e130196">Alisiam</placeName>
+                        <lb n="4"/> et querelam quam eidem ecclesie moverat de quodam prato bona
+                        fide guer<lb n="5" break="no"/>pivit ; laudans insuper et concedens quod si
+                            <persName key="d1e11569" xml:id="d1e130202">Harveus miles de <placeName key="stutzmann_himanis#324452" xml:id="d1e130204">Fontanis</placeName>
+                        </persName>
+                        <lb n="6"/> vineam quam habet in supradicta villa prefate ecclesie vendere
+                        vel in elemosi<lb n="7" break="no"/>nam dare voluerit, quia est de casamento
+                        suo, absque sua contradictione libere <lb n="8"/> facere possit. Concessit
+                        etiam fratribus ejusdem ecclesie per totam terram <lb n="9"/> juris sui
+                        pasturam omnibus animalibus et peccoribus suis usualem et de om<lb n="10" break="no"/>ni terra de qua ipsa ecclesia eidem <persName key="d1e11575" xml:id="d1e130217">Petro</persName> decimas tunc debebat quando <lb n="11"/> presens carta facta fuit, ipsas decimas condonavit. Hoc totum
+                            lau<lb n="12" break="no"/>davit <persName key="d1e11582" xml:id="d1e130224">Regina, uxor sua</persName>, et <persName key="d1e11588" xml:id="d1e130228">Petrus ipsorum filius</persName>.
+                        Horum omnium testes <lb n="13"/> sunt <persName key="d1e11594" xml:id="d1e130233">Garnerius de <placeName key="stutzmann_himanis#324480" xml:id="d1e130235">
+                                <foreign>Mavoli</foreign>
+                            </placeName>, monachus <orgName key="stutzmann_himanis#284217" xml:id="d1e130239">Flavin<supplied>iacensis</supplied>
+                            </orgName>
+                        </persName>, <persName key="d1e11600" xml:id="d1e130244">Petrus presbiter de
+                                <placeName key="stutzmann_himanis#324424" xml:id="d1e130246">Alisia</placeName>
+                        </persName>, <lb n="14"/>
+                        <persName key="d1e30924" xml:id="d1e130250">Harveus miles de
+                            Fontanis</persName>, <persName key="d1e11606" xml:id="d1e130254">Gauterius <addName>
+                                <foreign>Li Gais</foreign>
+                            </addName>
+                        </persName>, <persName key="d1e11612" xml:id="d1e130260">Haymo filius
+                                <persName key="d1e11619" xml:id="d1e130262">Bero<lb n="15" break="no"/>ni</persName>
+                        </persName>. Quod totum ut ratum sit, sigilli nostri munimine roboratur,
+                            an<lb n="16" break="no"/>no verbi incarnati millesimo <num>cc°
+                        ii°</num>.</p>
+                
+            </body>
+        </text>
+    </TEI>

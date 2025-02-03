@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1195_d1e232495">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 142@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">A. Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 37<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 39) ; table : « <hi rend="italic">Carta
+                                Tecelini de Nogent</hi> » (<hi rend="background(yellow)">item ajouté
+                                postérieurement</hi>)</witness>
+                        <witness n="C">ADCO 15 H 11* (cart. 202), fol. 97<hi rend="superscript">v</hi> (Fain. OO).</witness>
+                        <witness n="a">a. <bibl sameAs="#Chomton1891"><biblScope>t. II,
+                                    p. 100</biblScope></bibl></witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (Fain. OO)</bibl>
+                        <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">@</hi> (Fain. OO)</bibl>
+                        <bibl>ADCO 15 H 4, p. 97 (IX. 5. 13) : « en date de 1180 [<hi rend="italic">sic</hi>] est un autre petit titre latin en parchemin portant
+                            accord fait entre les Religieux de Fontenet et Técelin de Noyent,
+                            concernant la donnation de Girard le Breton, de tout ce qu’il possédoit
+                            au Fain, etc. et scellé d’un sceau qui y étoit autrefois ». </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1195-12-31">1195</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324623" xml:id="d1e159014">
+                        <app>
+                            <lem>O.</lem>
+                            <rdg wit="#C">Odo</rdg>
+                        </app>, archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e159021">Tulionis</placeName>
+                    </persName>, notum facio tam futuris quam presentibus quod <persName key="d1e26262" xml:id="d1e159024">Tecelinus de <placeName key="stutzmann_himanis#324334" xml:id="d1e159026">
+                            <app>
+                                <lem>
+                                    <foreign>Nojent</foreign>
+                                </lem>
+                                <rdg wit="#C">Nogento</rdg>
+                            </app>
+                        </placeName>
+                    </persName> et frater ejus <persName key="d1e26268" xml:id="d1e159034">
+                        <app>
+                            <lem>G.</lem>
+                            <rdg wit="#C">Bernardus</rdg>
+                        </app>
+                    </persName>
+                    <app>
+                        <lem>quitaverunt</lem>
+                        <rdg wit="#C">quittaverunt</rdg>
+                    </app> ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e159046">Fonteneti</orgName> in manu <persName key="d1e26274" xml:id="d1e159049">
+                        <app>
+                            <lem>H.</lem>
+                            <rdg wit="#C">Huberti</rdg>
+                        </app>
+                        <hi rend="background(green)">abbatis</hi>
+                    </persName>
+                    <app>
+                        <lem>quicquid</lem>
+                        <rdg wit="#C">quidquid</rdg>
+                    </app>
+                    <app>
+                        <lem>calumpniabantur</lem>
+                        <rdg wit="#C">calumniabantur</rdg>
+                    </app> ei apud <placeName key="stutzmann_himanis#324450" xml:id="d1e159069">
+                        <app>
+                            <lem>Fanium</lem>
+                            <rdg wit="#C">Fanum</rdg>
+                        </app>
+                    </placeName> ex dono <persName key="d1e26280" xml:id="d1e159076">Girardi
+                            <addName>Britonis</addName>
+                    </persName>, hoc tantum modo excepto quod duo homines quos eadem ecclesia apud
+                        <placeName key="stutzmann_himanis#324450" xml:id="d1e159081">
+                        <app>
+                            <lem>Fanium</lem>
+                            <rdg wit="#C">Fanum</rdg>
+                        </app>
+                    </placeName> possidebat predicto <persName key="d1e26286" xml:id="d1e159088">Tecelino</persName> concessi sunt possidendi tantum in vita sua et unum
+                    mansum similiter tantum in vita sua. Hujus rei testes sunt <persName key="d1e26293" xml:id="d1e159092">Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e159094">Grinione</placeName>
+                    </persName>, <persName key="d1e26299" xml:id="d1e159097">Andreas de <placeName key="stutzmann_himanis#324421" xml:id="d1e159099">
+                            <foreign>Buxi</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e26305" xml:id="d1e159103">Hugo de <placeName key="stutzmann_himanis#324349" xml:id="d1e159105">Quinciaco</placeName>
+                    </persName> monachi, <persName key="d1e26311" xml:id="d1e159108">
+                        <app>
+                            <lem>Symon</lem>
+                            <rdg wit="#C">Simon</rdg>
+                        </app>
+                    </persName> et <persName key="d1e26317" xml:id="d1e159115">Sauvegius</persName>
+                    conversi, <persName key="d1e26323" xml:id="d1e159118">Hugo presbiter de
+                            <placeName key="stutzmann_himanis#324421" xml:id="d1e159120">Buxi</placeName>
+                    </persName>. Quod totum ut ratum habeatur in posterum sigilli mei impressione
+                    confirmavi, anno ab incarnatione Domini <app>
+                        <lem>
+                            <num>m° c° xc° v°</num>
+                        </lem>
+                        <rdg wit="#C">millesimo centesimo nonagesimo quinto</rdg>
+                    </app>.</p>
+            </body>
+        </text>
+    </TEI>

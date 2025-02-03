@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1136_d1e210024">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 4@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">Copie perdue dans la première pancarte [Acte <hi rend="background(red)">@</hi>]</witness>
+                        <witness n="C">Cartulaire 1, fol. 21<hi rend="superscript">v</hi>-22<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 3), avec
+                            l’annotation « <hi rend="italic">Ista littera est in prima magna
+                                carta</hi> ».</witness>
+                        <witness n="D">Paris, Bibl. nat. de France, ms. Collection Bourgogne 74,
+                                fol. 175<hi rend="superscript">v</hi>. — Papier. Copie partielle,
+                                <hi rend="background(red)">non collationné</hi>e, d’après A (« <hi rend="italic">ex chartario Fonteneti</hi> ») et renvoi à B ou C
+                            (« meme cartulaire »).</witness>
+                        <witness n="E">Dijon, ADCO, 1 F 216, fol. 51. — Copie d’après Plancher ;
+                            rapproche ce texte des souscriptions du § 34 de la première pancarte
+                            (cf. ibid. fol. 21)</witness>
+                        <witness n="b">
+                            <hi rend="italic background(yellow)">b</hi>
+                            <hi rend="background(yellow)">. Dom Urbain</hi>
+                            <hi rend="smallcaps background(yellow)" xml:space="preserve"> Plancher</hi>
+                            <hi rend="background(yellow)" xml:space="preserve">, </hi>
+                            <hi rend="italic background(yellow)">Histoire générale et particulière
+                                de la Bourgogne</hi>
+                            <hi rend="background(yellow)">, t. I, preuves p. XL, n° LIX.</hi>
+                        </witness>
+                        <witness n="b">
+                            <hi rend="background(red)">A COLLATIONNER</hi>
+                        </witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol.
+                            @<hi rend="superscript" xml:space="preserve">@ </hi>(@@. @)</bibl>
+                        <bibl>ADCO 15 H 2, fol.
+                            @<hi rend="superscript" xml:space="preserve">@ </hi>(@@. @)</bibl>
+                        <bibl>ADCO 15 H @, p. @ (@. @. @).</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1118-01-01" notAfter="1136-12-31">[1118-1136]<note>La confirmation dans la première pancarte en 1136
+                            donne le terminus ante quem</note>
+                    </date>
+                </creation>
+                <abstract>
+                    <p>Etienne [I de Baugé], évêque d'Autun, donne à l'abbaye de Fontenay une terre
+                    étendant sa donation initiale.</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324643" xml:id="d1e142238">Stephanus, Dei
+                    gratia <placeName key="stutzmann_himanis#319548"
+                        corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
+                    episcopus</persName>, adaugeo abbatie <orgName key="stutzmann_himanis#282689"
+                    xml:id="d1e142244">Fonteneti</orgName> de valle in qua eadem abbatia sedet supra
+                primum donum nostrum a rupe que prius esse meta solebat usque ad locum qui dicitur
+                    « <placeName key="stutzmann_himanis#325031" xml:id="d1e142247">Ad molam
+                    fabri</placeName> », et interdico <sic corresp="#C">actoritate</sic> nostra ne
+                quis a loco illo usque ad abbatiam piscari presumat vel aliquod aliud dampnum eidem
+                abbatie inferre. Quod si quis contra hec nisi forte ex consensu abbatis loci illius
+                fecerit, noverit se excommunicationi illi subditum quam pridem de his et hujusmodi
+                propter predictam abbatiam fecimus.   Hujus doni laudatores et testes sunt <persName
+                    key="stutzmann_himanis#325490"
+                    corresp="Guillaume, doyen du chapitre cathédral d'Autun (fl. 1136), Guillelmus decanus Eduensis"
+                    >Willermus decanus</persName>, archidiaconi <persName
+                    key="stutzmann_himanis#324650"
+                    corresp="Geoffroy, archidiacre dans le diocèse d'Autun">Gaufridus</persName>,
+                    <persName key="stutzmann_himanis#324651"
+                    corresp="Seguin, archidiacre dans le diocèse d'Autun">Siguinus</persName>,
+                    <persName key="stutzmann_himanis#325486"
+                    corresp="Gérard, archidiacre dans le diocèse d'Autun">Girardus</persName>,
+                    <persName key="stutzmann_himanis#325488"
+                    corresp="Humbert, archidiacre dans le diocèse d'Autun">Humbertus</persName>,
+                    <persName key="stutzmann_himanis#325492"
+                    corresp="Gautier, préchantre du chapitre cathédral d'Autun (fl. 1136), Galterius praecentor Eduensis"
+                    >Galterius precentor</persName>, <persName key="stutzmann_himanis#325495"
+                    corresp="Jean, sous-chantre du chapitre d'Autun (fl. 1136)">Johannes
+                    succentor</persName>.   Hoc donum confirmo et communio sigilli nostri <sic
+                    corresp="#C">actoritate</sic> ego <persName key="stutzmann_himanis#324643"
+                    xml:id="d1e142279">Stephanus Dei gratia <placeName
+                        key="stutzmann_himanis#319548" corresp="Autun (Saône-et-Loire, Autun)"
+                        >Eduensis</placeName> episcopus</persName>.</p>
+            </body>
+        </text>
+    </TEI>

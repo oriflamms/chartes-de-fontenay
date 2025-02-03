@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1183_d1e197757">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 1095</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 72, pièce 1</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>120/100</height>
+                                                  <width>230/220</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>85/105</height>
+                                                  <width>210</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="9">repli ouvert avec 1
+                                                simple entaille centrale (ou absence de repli et
+                                                double entaille)</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique </term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Carta Hugonis episcopi
+                                        Autisiodorensis super Stephani Rufi, fratris Johannis
+                                        Berua » ; « <hi rend="smallcaps">xiii</hi> » ;
+                                        « Autisiod. » ; « <hi rend="smallcaps">xii</hi>
+                                        <hi rend="superscript">a</hi> » ; « De vinea in Monte
+                                        Reinfridi » ; « 1183 » ; (<hi rend="smallcaps">xvi</hi>
+                                        <hi rend="superscript">e</hi> s.) « D » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Auxerre. Concession
+                                        faicte a Mrs de Fontenay d’une vigne en Mont Reinfroit par
+                                        Estienne le Rousseau et par Jean son frere qui a donné sa
+                                        maison sur l’eau, l’an 1183, cotte D » ; (<hi rend="smallcaps">xviii</hi>
+                                        <hi rend="superscript">e</hi> s.) « N°2./ 1183 ».
+                                    </additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1183</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 17<hi rend="superscript">r</hi> (Auxerre, D)</bibl>
+                        <bibl>ADCO 15 H 3, p. 53 (IV. 3. 2) : « ... Etienne Le Rousseau... sceau de
+                            cire jaune à double queue de parchemin pendant ».</bibl>
+                        <bibl sameAs="#Bouchard1991b">
+                            <biblScope>p. 45 et 58</biblScope>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1183-12-31">1183</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_72_0002.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_72_0003.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                                        <p>Ego, <persName key="stutzmann_himanis#324640" xml:id="d1e134067">Hugo, Dei gratia
+                                <placeName key="stutzmann_himanis#324435" xml:id="d1e134069">Autissiodorensis</placeName> episcopus</persName>, notum volo fieri
+                        tam presentibus quam futuris quod <persName key="d1e12670" xml:id="d1e134073">Stephanus <addName>Rufus</addName>
+                        </persName>, frater <persName key="d1e12676" xml:id="d1e134078">Johannis
+                            Beruardi</persName>, <lb n="2"/> vendidit vineam suam magnam que est in
+                            <placeName key="stutzmann_himanis#324961" xml:id="d1e134083">Monte
+                            Reifridi</placeName> monachis de <orgName key="stutzmann_himanis#282689" xml:id="d1e134087">Fonteneto</orgName>. Concesserunt autem monachi illi
+                            prefa<lb n="3" break="no"/>to <persName key="d1e12682" xml:id="d1e134092">Johanni</persName> ut vineam illam possideat idem
+                            <persName key="d1e12688" xml:id="d1e134095">Johannes</persName> toto
+                        tempore vite sue nisi secularibus abrenuntiare voluerit, sub hac <lb n="4"/>
+                        tamen conditione quod prefatus <persName key="d1e12695" xml:id="d1e134100">Johannes</persName> annuatim reddet unum modium vini monachis
+                        prescriptis quod tempore messium <lb n="5"/> bibent. Reddet etiam eis
+                            <num>xv</num> denarios de censu singulis annis ut per hec ab eis
+                        possideri vinea cognoscatur post deces<lb n="6" break="no"/>sum tamen
+                            <persName key="d1e12701" xml:id="d1e134111">Johannis</persName>.
+                            <persName key="d1e12707" xml:id="d1e134114">Johannes</persName> vero
+                        propter hoc donum eisdem monachis domum suam que est sita super aquam
+                        concessit possi<lb n="7" break="no"/>dendam de cetero ad omnes voluntates
+                        suas explendas. Hec vidimus fieri et audivimus et in hujus facti testimonium
+                        ad <lb n="8"/> petitionem monachorum et <persName key="d1e12713" xml:id="d1e134122">Johannis</persName> et <persName key="d1e12719" xml:id="d1e134125">Stephani</persName> presenti scripto sigilli nostri
+                        munimen apposuimus. Datum anno incarnationis Dominice <lb n="9"/> .M°. c°.
+                        lxxx. <figure rend="trait"/>.iii°.</p>
+                
+            </body>
+        </text>
+    </TEI>

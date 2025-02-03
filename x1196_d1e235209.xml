@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1196_d1e235209">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original *219 bis@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, <hi rend="background(red)">fol. @</hi>
+                            <hi rend="superscript background(red)">@</hi> (Poiseul. <hi rend="background(red)">@</hi>)</bibl>
+                        <bibl>ADCO 15 H 2, <hi rend="background(red)">fol. @</hi>
+                            <hi rend="superscript background(red)">@</hi> (Poiseul. <hi rend="background(red)">@</hi>)</bibl>
+                        <bibl>ADCO 15 H 4, p. 335 (XV. 18. 3) : « […] en date de 1196 […] titre
+                            latin en parchemin, contenant accord par lequel les Vénérables de
+                            Fontenet ont droit de pâturage sur le finage de Bergerosse, lequel
+                            accord a été fait par Jacques chevalier, seigneur d’Eschalot, etc. et
+                            scellé d’un sceau qui y étoit autrefois »</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1196-12-31">1196</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p/>
+            </body>
+        </text>
+    </TEI>

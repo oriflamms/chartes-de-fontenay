@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1198_d1e236140">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 174@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 42<hi rend="superscript">v</hi> (<hi rend="italic">Flaciacum</hi>, 9) ; table : « <hi rend="italic">Carta
+                                filiorum ejus Pontii et Milonis</hi> », se rapportant à « <hi rend="italic">Renerii de Froleis</hi> »</witness>
+                        <witness n="C">Cartulaire 2, fol. 100<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 9) ; table mutilée</witness>
+                        <witness n="F">
+                            <hi rend="background(red)">FAIRE COLLATION</hi>
+                        </witness>
+                    </listWit>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1198-12-31">1198</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e161529">Gauterius Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e161531">Eduensis</placeName>
+                        episcopus</persName>, notum fieri volo presentibus et futuris quod <persName key="d1e27378" xml:id="d1e161535">Pontius de <placeName key="stutzmann_himanis#324905" xml:id="d1e161537">Chaaceio</placeName>
+                    </persName> et <persName key="d1e27384" xml:id="d1e161540">Milo frater
+                        ejus</persName> dederunt ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e161543">Fonteneti</orgName> in perpetuam elemosinam quicquid
+                    juris habebant a <placeName key="stutzmann_himanis#325226" xml:id="d1e161546">via
+                            <placeName key="stutzmann_himanis#324356" xml:id="d1e161548">Siagniaci</placeName>
+                        que apellatur Vaudina</placeName> que ducit in montem versus <placeName key="stutzmann_himanis#324455" xml:id="d1e161553">Fraxinum</placeName> usque ad
+                        <placeName key="stutzmann_himanis#324451" xml:id="d1e161556">Flaciacum</placeName> et
+                        <num>v</num> solidos census quos <orgName key="stutzmann_himanis#282689" xml:id="d1e161562">Fontenetenses</orgName> debebant predictis militibus de
+                    terris <placeName key="stutzmann_himanis#324451" xml:id="d1e161565">Flaciaci</placeName>.
+                    De hac autem elemosina predicti milites debitam garantiam portare promiserunt,
+                    datis fidejussoribus ex parte <persName key="d1e27390" xml:id="d1e161568">Pontii</persName>
+                    <persName key="d1e27396" xml:id="d1e161571">Oliverio de <placeName key="stutzmann_himanis#324459" xml:id="d1e161573">Grinione</placeName>
+                    </persName>, <persName key="d1e27403" xml:id="d1e161576">Teobaudo preposito
+                            <placeName key="stutzmann_himanis#324487" xml:id="d1e161578">Montis
+                            Barri</placeName>
+                    </persName>, ex parte vero <persName key="d1e27409" xml:id="d1e161581">Milonis</persName> predicto <persName key="d1e27415" xml:id="d1e161584">Oliverio de <placeName key="stutzmann_himanis#324459" xml:id="d1e161586">Grinione</placeName>
+                    </persName> et <persName key="d1e27421" xml:id="d1e161589">Josberto de
+                            <placeName key="stutzmann_himanis#98140" xml:id="d1e161591">
+                            <foreign>Maise</foreign>
+                        </placeName>
+                    </persName> militibus. Hoc totum laudaverunt <persName key="d1e27427" xml:id="d1e161595">Renerius</persName> et <persName key="d1e27433" xml:id="d1e161599">Renaudus filii prenominati <persName key="d1e27440" xml:id="d1e161601">Pontii</persName>
+                    </persName>. Hujus rei testes sunt <persName key="stutzmann_himanis#324623" xml:id="d1e161604">Odo archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e161606">Tullionis</placeName>
+                    </persName>, <hi rend="background(green)">
+                        <persName key="d1e27446" xml:id="d1e161610">Johannes de <placeName key="stutzmann_himanis#324487" xml:id="d1e161612">Monte Barro</placeName>
+                        </persName>, <persName key="d1e27452" xml:id="d1e161615">Hugo de <placeName key="stutzmann_himanis#325036" xml:id="d1e161617">Turre</placeName>
+                        </persName>
+                    </hi> monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e161620">Fonteneti</orgName>, <persName key="d1e27458" xml:id="d1e161623">Willermus
+                        capelanus de <placeName key="stutzmann_himanis#325028" xml:id="d1e161629">Salvesiaco</placeName>
+                    </persName>, <persName key="d1e27464" xml:id="d1e161632">dominus Bernardus de
+                            <placeName key="stutzmann_himanis#324487" xml:id="d1e161634">Monte
+                            Barro</placeName>
+                    </persName> et <persName key="d1e27470" xml:id="d1e161638">Renerius de
+                            <placeName key="stutzmann_himanis#324356" xml:id="d1e161640">Saigniaco</placeName>
+                    </persName> milites. Quod totum ut ratum sit imperpetuum sigilli mei impressione
+                    roboravi. Anno incarnationis dominice <num>m° c°</num> nonagesimo
+                        <num>viii°</num>.</p>
+            </body>
+        </text>
+    </TEI>

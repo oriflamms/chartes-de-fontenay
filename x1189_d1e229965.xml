@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1189_d1e229965">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 107@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu.</witness>
+                        <witness n="a">a. <bibl sameAs="#Charmasse1880"><biblScope>p. 257, d’après
+                                    A</biblScope></bibl></witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (Autun. A)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 13<hi rend="superscript">r</hi> (Autun. A)</bibl>
+                        <bibl>ADCO 15 H <hi rend="background(red)">3</hi>, p. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@@</hi>).</bibl>
+                        <bibl sameAs="#Bouchard1987">Bouchard<biblScope>p. 185, d’après
+                                Charmasse</biblScope></bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1189-12-31">1189</date>
+                </creation>
+                <abstract>
+                    <p>RégesteDonation de cinq muids de froment de rente, sur le produit de
+                        l’éminage d’Autun, faite par Hugues III, duc de Bourgogne, à l’abbaye de
+                        Fontenay.</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324577" xml:id="d1e157147">Hugo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e157149">Burgundie</placeName>
+                    </persName>, notum fieri volo tam presentibus quam futuris, quod pro remedio
+                    anime mee et meorum, et pro injuriis ipsi ecclesie illatis, dedi monachis de
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e157152">Fontaneto</orgName> quinque
+                    modios frumenti in minachio <placeName key="stutzmann_himanis#319548" xml:id="d1e157155">Eduensi</placeName>, singulis annis ad mensuram illius civitatis <choice>
+                        <sic>persolvendis</sic>
+                        <corr>persolvendo</corr>
+                    </choice>. Unde prefati monachi promiserunt anniversarium meum post obitum meum
+                    in ecclesia sua faciendum. Hujus rei testes sunt : <persName key="d1e25102" xml:id="d1e157164">Philippus de <placeName key="stutzmann_himanis#325251" xml:id="d1e157166">
+                            <foreign>Corrabuz</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e25108" xml:id="d1e157171">Dominicus succentor
+                        ejusdem ecclesie</persName>, ambo monachi de <orgName key="stutzmann_himanis#282689" xml:id="d1e157174">Fontaneto</orgName> ; <persName key="d1e25114" xml:id="d1e157177">Hugo decanus de <placeName key="stutzmann_himanis#324969" xml:id="d1e157179">
+                            <foreign>Neblens</foreign>
+                        </placeName>
+                    </persName> qui cartam presentem scripsit, <persName key="d1e25120" xml:id="d1e157183">Petrus Hospitalarius ducis eleemosinarius</persName> ;
+                    milites isti : <persName key="d1e25127" xml:id="d1e157186">Pontius de <placeName key="stutzmann_himanis#82732" xml:id="d1e157188">Granceio</placeName>
+                    </persName>, <persName key="d1e25133" xml:id="d1e157191">Bertrannus dictus <addName>
+                            <foreign>Saudun</foreign>
+                        </addName>
+                    </persName>, <persName key="d1e25139" xml:id="d1e157198">Hamo de <placeName key="stutzmann_himanis#324336" xml:id="d1e157200">
+                            <foreign>Orjul</foreign>
+                        </placeName>
+                    </persName> ; clientes : <persName key="d1e25145" xml:id="d1e157204">Huvrardus
+                        prepositus <placeName key="stutzmann_himanis#96489" xml:id="d1e157206">Divionensis</placeName>
+                    </persName>, <persName key="d1e25151" xml:id="d1e157209">Robertus de <placeName key="stutzmann_himanis#324940" xml:id="d1e157211">Machoneria</placeName>
+                    </persName>, et plures alii. Actum est hoc anno ab incarnatione Domini M° C°
+                    octogesimo nono. Et ut hoc ratum perpetuis temporibus habeatur, sigillo meo et
+                        <persName key="d1e25157" xml:id="d1e157214">Odonis filii mei</persName>,
+                    cujus laude et assensu hoc factum est, roborari precepi cartam presentem.</p>
+            </body>
+        </text>
+    </TEI>

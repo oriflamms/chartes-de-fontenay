@@ -1,0 +1,503 @@
+@import "tei_oxygen.css";
+/*@import "..\..\..\..\..\Program Files\Oxygen XML Editor 19\frameworks\tei\xml\tei\css\tei_oxygen.css";*/
+
+/*person > persName, place > placeName, org > orgName{
+    display:block;
+color:black;
+}
+*/
+
+body{
+    columns:1;
+}
+listPerson, listPlace, listOrg{
+    display:none;
+}
+
+msDesc{
+    color:black;
+    font-size:large;
+}
+
+msIdentifier{
+    display:inline;
+    font-size:large;
+    font-weight:bold;
+}
+
+titleStmt,
+publicationStmt,
+settlement,
+repository,
+altIdentifier,
+textLang,
+foliation,
+handDesc! handNote:empty,
+adminInfo,
+collation:empty{
+    display:none}
+
+ supportDesc, support, support > p, layoutDesc, extent, dimensions{
+    display:inline;
+}
+
+dimensions[type='leaves']{
+    content: " ; ";
+    display:inline;
+}
+dimensions[type='written']:before{
+    content:"(justification) ";
+    }
+                       
+creation > date:before{
+    content:"Date, origine : ";
+    font-weight:bold;
+    color:black;
+    font-size:x-large;
+    text-align:center;
+}
+creation > date{
+   font-weight:bold;
+    color:black;
+    font-size:x-large;
+    text-align:center;
+}
+origDate[when]{
+    content:attr(when);
+    display:block;
+    font-weight:bold;
+}
+
+origDate[notBefore]{
+    content:"[" attr(notBefore) "-" attr(notAfter) "]";
+    display:block;
+    font-weight:bold;
+}
+
+origin > origPlace:first-of-type:before{
+    content:"Lieu, origine : ";
+    font-weight:bold;
+}
+origin > origPlace[corresp]:first-of-type:before{
+    display:inline;
+    font-weight:bold;
+}
+
+
+measure[unit = "volume"]{
+    content:attr(quantity) " vol. ; "
+}
+
+summary{
+    display:inline;
+    font-size:x-large;
+    font-weight:bold;
+}
+
+p{
+    font-size:inherit;
+}
+
+msContents > msItem {
+    display:block
+}
+
+msContents > msItem > author{
+    display:block;
+    content:attr(corresp)
+    }
+
+msContents > msItem > author:not([role]):before{
+content:"Auteur : ";
+font-weight:bold;
+}
+
+msContents > msItem > author[role="traducteur"]:before{
+    display:inline;
+    content:"Traducteur : ";
+    font-weight:bold;
+}
+
+msContents > msItem > title{
+    display:block;
+    }
+    
+msContents > msItem > title:before{
+     display:inline;
+    content:"Titre : ";
+    font-weight:bold;
+}
+
+msContents > msItem > incipit:before{
+    display:inline;
+    content:"Incipit-Explicit : « ";
+}
+
+msContents > msItem > explicit:before{
+    display:inline;
+    content:" ...-... ";
+}
+msContents > msItem > explicit:after{
+    display:inline;
+    content:"  ».";
+}
+
+colophon{
+    display:block;
+}
+
+msContents > msItem > colophon:before{
+    display:inline;
+    font-weight:bold;
+    content:"Colophon : ";
+}
+
+
+objectDesc{
+    display:inline;
+}
+support,
+dimensions{
+    display:inline;
+}
+
+dimensions[type = "leaf"]:before{
+    content:" ;  "
+}
+dimensions[type = "justification"]:before{
+    content:"justification "
+}
+
+
+width:before{
+    content:" x "
+}
+dimensions:after{
+    content:" mm ; ";
+}
+
+locus{
+    content:"[" attr(n) "] ";
+    font-style:normal;
+}
+
+q:before{
+    content:"« ";
+}
+
+q:after{
+    content:" »";
+}
+
+q, quote{
+    font-style:italic;
+    display:inline;
+}
+
+layout{
+    content:attr(columns) " col. ; " attr(writtenLines) " lignes. ";
+display:block;
+}
+
+scriptNote:before{
+    display:inline;
+    font-weight:bold;
+    content:"Écriture : ";
+
+
+}
+scriptNote{
+    /*content:attr(script) ". ";*/
+    display:block;
+}
+
+decoNote:before{
+    display:inline;
+    font-weight:bold;
+    content:"Décoration : "
+}
+
+decoNote{
+    display:inline;
+}
+binding > p:first-of-type:before{
+    display:inline;
+    font-weight:bold;
+    content:"Reliure : "
+}
+note{
+    display:inline;
+    font-size:inherit;
+}
+note:before{
+    content: " ["
+}
+note:after{
+    content: "] "
+}
+
+
+handNote:first-of-type:before{
+    display:inline;
+    font-weight:bold;
+    content:"Copiste : "
+}
+
+provenance[n]{
+    display:block;
+    content:"[" attr(n) "] ";
+}
+
+provenance:first-of-type:before{
+    display:inline;
+    font-weight:bold;
+    content:"Provenance : "
+}
+
+
+
+surrogates:before{
+    display:inline;
+    font-weight:bold;
+    content:"Reproductions : "
+}
+
+p[n]:before{
+    content:'[' attr(n) '] ';
+    background-color:fuchsia;
+}
+
+lb{
+    color:gray;
+    content:"\a [" attr(n) "] ";
+    display:inline;
+
+}
+
+incipit > lb, explicit > lb{
+    display:none;
+}
+
+lb[break='no']{
+    color:gray;
+    content:"-\a [" attr(n) "]- ";
+    display:inline;
+
+}
+
+text > body > p{
+    font-size:x-large;
+    column-count:1;
+}
+cb{
+    content:"[col. " attr(n) "] ";
+    color:green;
+}
+
+expan{
+    color:fuchsia;
+    /*display:none;*/
+}
+abbr{
+    color:green;
+    display:none;
+}
+
+listBibl:before{
+    content: "\aMentions : ";
+    font-weight:bold;
+    display:block;
+}
+
+listBibl > bibl{
+    display:list-item;
+}
+
+
+ptr:before{
+    link:attr(target);
+   }
+ptr[corresp]:before{
+    link:attr(target);
+    content:attr(corresp);
+}
+pb:before{
+    link:attr(facs);
+    content:"[image]";
+}
+
+pb{
+    display:inline;
+}
+
+origPlace:empty,
+persName:empty{
+    content:attr(corresp);
+}
+
+idno{
+    display:inline;
+}
+msIdentifier > idno{
+    display:block;
+}
+
+figure[type="bout-de-ligne"]{
+    content:"∞∞∞∞";
+    display:inline;
+    color:green;
+}
+figure[type="pied-de-mouche"]{
+    display:inline;
+    content:"§ ";
+    color:blue;
+} 
+figure[type="trait"], figure[rend="trait"]{
+    display:inline;
+    content:" -------- ";
+    color:blue;
+} 
+
+hi[rend="smallcaps"]{
+text-transform:uppercase;
+}
+hi[rend="superscript"]{
+    vertical-align: super;
+    font-size:xx-small
+}
+
+hi[rend~="red"]{
+    color:red;
+}
+
+hi[rend='background(red)']{
+    background-color:red;
+}
+
+hi[rend~="initiale"]{
+    font-size:54px;
+    
+}
+
+hi[rend~="souligné en rouge"]{
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+hi[rend~="2"]{
+    font-size:60px;
+ }
+hi[rend~="3"]{
+    font-size:70px;
+  }
+hi[rend~="7"]{
+    font-size:100px;
+    }
+    hi[rend~="filigrane"]{
+        text-decoration:line-through
+    }
+    
+    q[rend]{
+        content:" (" attr(rend) ") "
+    }
+    
+    orig{display:none}
+    reg{
+    color:red;}
+    
+    witness[n]{
+        content:attr(n) ". ";
+        display:block;
+        color:black;
+    }
+    lem{
+        color:blue;
+    }
+rdg{
+            color:grey;
+        display:inline;
+        font-size:x-small;
+
+}
+rdg[wit]:before{
+        content:" [(" attr(wit) ") " ; 
+        color:inherit;
+        }
+
+rdg[wit]:after{
+        content:"] " ; 
+        }
+
+witDetail, witEnd, witStart{
+    color:grey;
+    font-size:xx-small;
+}
+
+sic{
+    color:inherit;
+}
+surplus:after, sic:after{
+    content:" [sic]";
+    color:purple;
+    font-style:italic;
+}
+
+note{
+    font-style:italic;
+    font-size:smaller;
+    color:grey;
+}
+corr:before{
+    content:" ["
+}
+corr:after{
+    content:"] "
+}
+space{
+    content:"     "
+}
+
+lb[corresp="#A2"]{
+    color:gray;
+    font-size:smaller;
+    content:" (#A2) /" attr(n) "/ ";
+    display:inline;
+}  
+
+persName{
+    background-color:#d1f2b5;
+ /*background-color:yellow;*/
+ }
+
+orgName {
+    background-color:#aaf1b5;
+}
+placeName, geogName {
+    background-color:#baccab;
+}
+
+supplied:before{
+    content:'['
+}
+supplied:after{
+    content:']'
+}
+supplied{
+    color:pink;
+}
+term{
+    
+    font:inherit;
+}
+/*w:after, w:before{
+content:"|";
+}*/
+
+num{
+    text-transform:uppercase;
+    text-decoration:overline dotted;
+}
+
+lacunaStart, lacunaEnd{
+    content:"->||<-";
+    font-size:small;
+}

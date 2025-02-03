@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1146_d1e214934">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original *16@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 257, pièce 14, fol. 3<hi rend="superscript">r</hi> : « L’an
+                            1146, Godefroy, premier prieur de Clairvaux, 1<hi rend="superscript">er</hi> abbé de Fontenay, puis evesque de Langres, et oncle de st
+                            Bernard, a confirmé ce que dessus » <hi rend="background(green)">[i.e.
+                                acte de 1142, Puteolum. 2]</hi>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1146-12-31">1146</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p/>
+            </body>
+        </text>
+    </TEI>

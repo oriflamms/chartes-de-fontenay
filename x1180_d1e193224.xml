@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1180_d1e193224">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 493</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A1">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 130, pièce 4</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>161</height>
+                                                  <width>161</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>123</height>
+                                                  <width>160</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="26">pas de réglure ;
+                                                repli de 15 mm à trois simples entailles. Mention
+                                                hors teneur : (en marge supérieure, à l’horizontale)
+                                                « +ABCDEFGHIKLMNOPQRST ».</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture livresque.</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Carta de controversia
+                                        Umgiacensium » ; autre mention grattée ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Estormey. Accord par
+                                        lequel ceux d’Oigny doivent six deniers de cense a <hi rend="background(red)">Fonteine</hi> pour la moitié de
+                                        la forest de Leurre et n’i pouront faire paistre plus de
+                                        soixante bestes, l’an 1180. Cotte CCC » ; (1787) « N° 1 /
+                                        1180 » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « <hi rend="background(red)">36 /</hi> Alex.
+                                        Derepas ».</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1180</origDate>
+                                        <origPlace>Lyon</origPlace>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="A2">Original perdu.</witness>
+                        <witness n="B">
+                            <desc>Copie mutilée dans Cartulaire 1,
+                                    fol. 67<hi rend="superscript" xml:space="preserve">r </hi>(<hi rend="italic">Puteolum</hi>, 7) ; table :
+                                « <hi rend="italic" xml:space="preserve">Carta de </hi>Luurce »</desc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 59<hi rend="superscript">v</hi> (Etormay,
+                            CCC)</bibl>
+                        <bibl>ADCO 15 H 3, p. 199 (XX. 2. 1) <note>(vérifier flou !)</note>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1180-12-31">1180</date>
+                    <placeName type="documentCreation">Lyon</placeName>
+                </creation>
+                <abstract>
+                    <p>Chirographe avec devise en marge supérieure. Evoque ADCO 15 H 257, pièce 2 ; et un autre acte dont copie mutilée dans
+                        Cartulaire 1,
+                        fol. 74<hi rend="superscript">v </hi>(<hi rend="italic">Puteolum</hi>, 6)</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_130_0008.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_130_0009.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body><p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e131047">Stephanus, Dei gracia
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e131049">Eduensis</placeName> episcopus</persName>, et <persName key="stutzmann_himanis#324677" xml:id="d1e131053">Gal. <orgName key="stutzmann_himanis#284217" xml:id="d1e131055">Flavinniasensis</orgName>
+                        </persName>, <persName key="d1e11791" xml:id="d1e131058">G. <orgName key="stutzmann_himanis#281589" xml:id="d1e131060">
+                                <sic>Altte</sic> Cumbe</orgName>
+                        </persName> abbates <lb n="2"/> notum fieri volumus presentibus et futuris
+                        quod cumtroversias que inter ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e131067">Fonteneti</orgName> et <orgName key="stutzmann_himanis#283960" xml:id="d1e131071">Ungiaci</orgName> verte<lb n="3" break="no"/>bantur
+                        utriusque partis assensu in hunc modum amicabili composicione terminavimus.
+                        Composicionem per <lb n="4"/> manum domini <persName key="stutzmann_himanis#324654" xml:id="d1e131078">Umberti tunc <orgName key="stutzmann_himanis#281272" xml:id="d1e131080">Eduensis</orgName> episcopi</persName> factam
+                        sicut continetur in carta sigillo ipsius episcopi et abbatis <orgName key="stutzmann_himanis#283960" xml:id="d1e131084">Ungniacen<lb n="5" break="no"/>sis</orgName> signata vel altera simili sigillo episcopi et abbatis de
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e131089">
+                            <sic>Funteneto</sic>
+                        </orgName> confirmata secundum tenorem instrumenti ipsius inviola<lb n="6" break="no"/>biliter deinceps pars utraque servabit, hoc
+                            <sic>ecepto</sic> quod de preteritis expensis vel de fructibus
+                        quibuslibet usque ad diem trans<lb n="7" break="no"/>accionis hujus
+                        perceptis nulla erit inter eos questio et quicquid a parti alteri adversus
+                        alteram super his videbatur <lb n="8"/> de jure repocendum sine ulla
+                        retencione sibi invicem remiserunt. <placeName key="stutzmann_himanis#325030" xml:id="d1e131103">Silvam de <foreign>Leurre</foreign>
+                        </placeName> ex equo parcientur ad arbitri<lb n="9" break="no"/>um abbatis
+                            <orgName key="stutzmann_himanis#283145" xml:id="d1e131111">Longi Vuadi</orgName>
+                        et fratris <persName key="d1e11797" xml:id="d1e131114">Roberti de <placeName key="stutzmann_himanis#324328" xml:id="d1e131116">Annaio</placeName>
+                        </persName>, quibus erit plena potestas dividere eam secundum quod congruum
+                            <lb n="10"/> sibi videbitur utriusque partis commoditate servata. Si
+                        inter eosdem duos de divisione minus convenerit <orgName key="stutzmann_himanis#284217" xml:id="d1e131121">Flavi<lb n="11" break="no"/>gniacensis</orgName> et de monasterio <orgName key="stutzmann_himanis#283938" xml:id="d1e131126">Sancti Johannis</orgName> abbates eandem silvam
+                        dividant inter eos. Porro pro medietate silve <lb n="12"/> illius <orgName key="stutzmann_himanis#283960" xml:id="d1e131132">
+                            <sic>Unniacences</sic>
+                        </orgName> annuatim solvent monasterio <orgName key="stutzmann_himanis#282689" xml:id="d1e131136">Fonteneti</orgName> censum sex denariorum in pascuis
+                        territorii <lb n="13"/> de <placeName key="stutzmann_himanis#324449" xml:id="d1e131141">Estormer</placeName> et <placeName key="stutzmann_himanis#324335" xml:id="d1e131144">Noville Montis</placeName>
+                        <orgName key="stutzmann_himanis#283960" xml:id="d1e131146">Ungniacenses</orgName>
+                        sexaginta animalia et non amplius habere poterunt. Fratres autem <lb n="14"/>
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e131151">Fonteneti</orgName>
+                        animalia sua et in suis et in pascuis de <placeName key="stutzmann_himanis#324988" xml:id="d1e131154">Pretenerio</placeName> ducent sine contradiccione.
+                        Terram de <placeName key="stutzmann_himanis#324446" xml:id="d1e131157">Ampille</placeName> fra<lb n="15" break="no"/>tres <orgName key="stutzmann_himanis#283960" xml:id="d1e131162">Ungiacensis</orgName> ecclesie
+                        in omni pace deinceps retinebunt. Similiter de <placeName key="stutzmann_himanis#325172" xml:id="d1e131166">prato <sic>Teolbaudi</sic>
+                            Berardi</placeName> omnis est quere<lb n="16" break="no"/>la <orgName key="stutzmann_himanis#282689" xml:id="d1e131174">Fontenetensium</orgName> sopita.
+                        Et quia fratres <orgName key="stutzmann_himanis#283960" xml:id="d1e131177">Ungiacen<subst>
+                                <del>c</del>
+                                <add>s</add>
+                            </subst>es</orgName> edificia sua in territorio de <placeName key="stutzmann_himanis#325288" xml:id="d1e131186">Fromasio</placeName> mutaverunt
+                            <lb n="17"/> secundum cantitatem illius loci ubi priora edificia fuerant
+                        in illo loco ubi postea edificaverunt cum orto <lb n="18"/> illo adviridario
+                        que ibi prius abuerant ex composicione eadem tantundem spacii eis im <lb n="19"/> pace remanebit. Quod superfuerit in clausura grangie per medium
+                        dividetur et medietatem <placeName key="stutzmann_himanis#324372" xml:id="d1e131196">Ungiacenses</placeName>
+                        <lb n="20"/> im pace similiter habebunt, pro altera medietate comutacionem
+                        dabunt illis de <orgName key="stutzmann_himanis#282689" xml:id="d1e131200">Fonteneto</orgName> ubi abbas <lb n="21"/>
+                        <orgName key="stutzmann_himanis#283145" xml:id="d1e131204">Longi Vadi</orgName> et
+                        frater <persName key="d1e11797" xml:id="d1e131208">Robertus de <placeName key="stutzmann_himanis#324328" xml:id="d1e131210">Aennaio</placeName>
+                        </persName> constituerint secundum arbitrium suum vel si inter eos non
+                        convenerit <lb n="22"/>
+                        <orgName key="stutzmann_himanis#284217" xml:id="d1e131214">Flavigniacensis</orgName>
+                        et de <orgName key="stutzmann_himanis#283938" xml:id="d1e131217">Monasterio Sancti
+                            Johannis</orgName> abbatis preceperint, et ipsi diviserint utrique
+                            recipient.<lb n="23"/> Si forte animalia<note>
+                            <p rend="footnote text">||-lia… <hi rend="italic">début de B</hi>.</p>
+                        </note> utriuslibet partis morbida esse constiterit, in teritorium partis
+                        alterius quamdiu morbi<lb n="24" break="no"/>da fuerint ducere <choice>
+                            <sic corresp="#A">nom</sic>
+                            <corr>non</corr>
+                        </choice> poterit.</p>
+                    <p>Actum <placeName key="stutzmann_himanis#98064" xml:id="d1e131241">Lugduni</placeName>,
+                        anno ab incarnacione Domini <num>m° c° <app>
+                                <lem wit="#A">octogesimo</lem>
+                                <rdg wit="#B">lxxx°</rdg>
+                            </app>
+                        </num>, astan<lb n="25" break="no"/>tibus et astestantibus <persName key="d1e11807" xml:id="d1e131254">D. abbate <orgName key="stutzmann_himanis#324497" xml:id="d1e131256">Sancte <app>
+                                    <lem wit="#A">
+                                        <sic>Marguarite</sic>
+                                    </lem>
+                                    <rdg wit="#B">Margarite</rdg>
+                                </app>
+                            </orgName>
+                        </persName>, <persName key="d1e11813" xml:id="d1e131265">H. abbate <orgName key="stutzmann_himanis#284111" xml:id="d1e131267">Benedicionis Dei</orgName>
+                        </persName>, <persName key="d1e11819" xml:id="d1e131271">P. preposito
+                                <orgName key="stutzmann_himanis#281272" xml:id="d1e131273">Eduensi</orgName>
+                        </persName>, <persName key="d1e11825" xml:id="d1e131276">G. <lb n="26"/>
+                            archidiacono <placeName key="stutzmann_himanis#321577" xml:id="d1e131280">
+                                <app>
+                                    <lem wit="#A">
+                                        <sic>Cabilonensu</sic>
+                                    </lem>
+                                    <rdg wit="#B">Cabilonensi</rdg>
+                                </app>
+                            </placeName>
+                        </persName>, <persName key="d1e11831" xml:id="d1e131288">G. priore
+                                <placeName key="stutzmann_himanis#324403" xml:id="d1e131290">Barri</placeName>
+                        </persName>, <persName key="d1e11837" xml:id="d1e131293">G. de <placeName key="stutzmann_himanis#324977" xml:id="d1e131295">
+                                <foreign>Perrol</foreign>
+                            </placeName> archidiacono <placeName key="stutzmann_himanis#319548" xml:id="d1e131299">Eduensi</placeName>
+                        </persName>.</p>
+                
+            </body>
+        </text>
+    </TEI>

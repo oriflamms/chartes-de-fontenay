@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e245657">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 291@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 37<hi rend="superscript">v</hi> (<hi rend="italic">Abbatia</hi>, 41) ; table : « <hi rend="italic" xml:space="preserve">Carta </hi>
+                            <hi rend="italic smallcaps">iiii</hi>
+                            <hi rend="italic superscript">or</hi>
+                            <hi rend="italic">abbatum</hi> ».</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>)</bibl>
+                        <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>)</bibl>
+                        <bibl>ADCO 15 H <hi rend="background(red)">@</hi>, p. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>).</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1208-01-01" notAfter="1213-12-31">[1208-1213]<note>Terminus a quo donné par « S. Firmitatis » désignant
+                            Simon, abbé de La Ferté-sur-Grosne, à partir de 1208. Terminus ad quem
+                            donné par la copie dans le Cartulaire 1 de 1213-1214.</note></date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Omnibus ad quos presens scriptum pervenerit <persName key="d1e29740" xml:id="d1e168161">frater A. <orgName key="stutzmann_himanis#282500" xml:id="d1e168163">Cistercii</orgName>
+                    </persName>
+                    <note> Arnaud Amaury, abbé de Cîteaux de 1201 à 1211/1212, ou Arnaud II, abbé de
+                        1212 à 1217.</note>, et <persName key="d1e29746" xml:id="d1e168168">S.
+                            <orgName key="stutzmann_himanis#284222" xml:id="d1e168170">Firmitatis</orgName>
+                    </persName>
+                    <note> Simon, abbé de La Ferté-sur-Grosne, de 1208 à 1229.</note> et <persName key="d1e29752" xml:id="d1e168175">I., <orgName key="stutzmann_himanis#283933" xml:id="d1e168177">
+                            <sic>Pontiaci</sic>
+                        </orgName>
+                    </persName>
+                    <note> Jean II, abbé de Pontigny, d’environ 1202 à 1214.</note>, et <persName key="d1e29758" xml:id="d1e168183">G. <orgName key="stutzmann_himanis#282533" xml:id="d1e168185">Clarevallis</orgName>
+                    </persName>
+                    <note> Guy, abbé de Clairvaux de 1193 à 1213.</note> dicti abbates salutem. Cum
+                    fratres nostri de <orgName key="stutzmann_himanis#282689" xml:id="d1e168191">Fonteneto</orgName> sepius ledantur et offendantur ex nimia vicinitate
+                    ville que dicitur <placeName key="stutzmann_himanis#324475" xml:id="d1e168194">Marmania</placeName> et habitatorum ejus, nos paci eorum providere volentes
+                    concessimus ut liceat eis possidere quicquid in villa vel de ville pertinentiis
+                    ejusdem adquisierunt vel adquirere poterunt.</p>
+            </body>
+        </text>
+    </TEI>

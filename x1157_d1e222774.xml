@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1157_d1e222774">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 28@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">A. Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 22<hi rend="superscript">r</hi>-23<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 5) ;
+                            table : « Carta abbatisse Rubei Montis »</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>Paris, Bibl. nat. de France, ms. Collection Bourgogne 74, fol. 175<hi rend="superscript">v</hi>
+                        </bibl>
+                        <bibl sameAs="#Plancher1739">
+                            <biblScope>t. I, preuves p. L, n° LXXV</biblScope>
+                        </bibl>
+                        <bibl sameAs="#Watanabe1991">
+                            <biblScope>p.  291 note 74</biblScope>
+                        </bibl>
+                    </listBibl>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. @ <hi rend="superscript background(red)">@</hi>
+                            (Buffon. H)</bibl>
+                        <bibl>ADCO 15 H 2, fol. @ <hi rend="superscript background(red)">@</hi>
+                            (Buffon. H)</bibl>
+                        <bibl>ADCO 15 H 3 / 4, p. @ (@. @. @) </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1157-12-20">1157, 20 décembre<note>La date
+                            du 20 décembre 1157 mentionnée dans l'acte n'est peut-être pas la date
+                            de l'acte lui-même.</note></date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <persName key="stutzmann_himanis#324555" xml:id="d1e151963">Godefridus, Dei gratia
+                            <placeName key="stutzmann_himanis#317574" xml:id="d1e151965">Linguonensis</placeName> episcopus</persName>, dilectis fratribus
+                        <persName key="stutzmann_himanis#324660" xml:id="d1e151969">Arnaudo <orgName key="stutzmann_himanis#282689" xml:id="d1e151971">Fontenetensi</orgName>
+                        abbati</persName> quique sub ejus cura domino Ihesu Christo serviunt.
+                    Episcopalis officii ratio exigit paci nos ecclesiarum prospicere maxime vero
+                    monasteriorum quieti. Ideoque quod inter vestram <orgName key="stutzmann_himanis#324496" xml:id="d1e151975">Rubeique Montis convenit ecclesiam</orgName> nostro
+                    sigillo signatum testiumque firmatum subscriptione, per hanc vobis paginam
+                    tradimus ut semel diligenti diffinitione determinatum, ratum decetero et
+                    indissolubile perseveret. Res igitur ita se habet : <persName key="d1e22426" xml:id="d1e151978">Margarita <orgName key="stutzmann_himanis#324496" xml:id="d1e151980">Rubei Montis</orgName> abbatissa</persName> per manum
+                    nostram generalemque sui assensum capituli vobis vestrisque in sancta
+                    propositione successoribus quecumque in territorio <placeName key="stutzmann_himanis#324450" xml:id="d1e151984">Fanii</placeName> ex ecclesie sue
+                    jure possidebat <placeName key="stutzmann_himanis#325149" xml:id="d1e151987">molendinum
+                        scilicet de Colle</placeName> et cetera que sibi erant a finibus <placeName key="stutzmann_himanis#324475" xml:id="d1e151991">Marmannie</placeName> usque ad
+                        <placeName key="stutzmann_himanis#324451" xml:id="d1e151994">Flaciacum</placeName> et
+                    a <geogName xml:id="d1e151997">Branna fluvio</geogName> usque in <placeName key="stutzmann_himanis#324370" xml:id="d1e152000">Tullionis</placeName> fines tam
+                    plano quam bosco, sub annuo <num>v</num>
+                    <hi rend="superscript">e</hi> solidorum mense martio reddendorum censu
+                    possidenda concessit. Retinuit sane in ipso <placeName key="stutzmann_himanis#324450" xml:id="d1e152009">Fanio</placeName> tria mansa donec aut eadem mansa absque
+                    habitatore remaneant aut certe reliqua quam prediximus <placeName key="stutzmann_himanis#324450" xml:id="d1e152012">Fanii</placeName> villa in verstra
+                    ex integro transeat ditionem. Huic itaque investiture sub die <num>xiii</num>°
+                    kl. janua<hi rend="background(red)">ris</hi>, anno ab incarnatione Domini <hi rend="smallcaps">m° c° lvii°</hi>, <persName key="d1e22432" xml:id="d1e152024">abbatisse Margarete</persName> manum vestra <persName key="d1e22438" xml:id="d1e152028">domne abba Arnaude</persName> sub nostra
+                    totiusque capituli presentia <placeName key="stutzmann_himanis#324355" xml:id="d1e152031">Rubeo Monte</placeName> commisse. Testes affuerunt quos subnotavimus : ex
+                    monachis quidem vestris <persName key="d1e22444" xml:id="d1e152034">frater Milo
+                        de <placeName key="stutzmann_himanis#325034" xml:id="d1e152036">Tilo</placeName>
+                    </persName>, ex clericis autem <persName key="d1e22450" xml:id="d1e152039">Girardus de <placeName key="stutzmann_himanis#324917" xml:id="d1e152041">Monte
+                            Saugionis</placeName> noster super illius provincie parrochias
+                        archidiaconus</persName>, itemque alter ecclesie nostre <persName key="d1e22456" xml:id="d1e152045">archidiaconus Hugo de <placeName key="stutzmann_himanis#324997" xml:id="d1e152047">Ripparia</placeName>
+                    </persName>, <persName key="d1e22463" xml:id="d1e152050">Rainaldus quoque de
+                            <placeName key="stutzmann_himanis#324487" xml:id="d1e152052">Monte
+                            Barri</placeName> earumdem parrochiarum decanus</persName>. Sed et
+                        <persName key="d1e22469" xml:id="d1e152057">Rainaldus de <placeName key="stutzmann_himanis#324448" xml:id="d1e152059">
+                            <foreign>Estez</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e22475" xml:id="d1e152063">Miloque <addName>Malas
+                            Manus</addName>
+                    </persName> et <persName key="d1e22481" xml:id="d1e152068">Arenbertus</persName>, <persName key="d1e22487" xml:id="d1e152071">Symeon</persName> etiam et <persName key="d1e22493" xml:id="d1e152074">Bellinus, hic noster ille <placeName key="stutzmann_himanis#324355" xml:id="d1e152076">Rubei Montis</placeName> capellanus</persName>. Ex
+                    laicis vero <persName key="d1e22500" xml:id="d1e152080">Petrus <addName>
+                            <foreign>Aillerez</foreign>
+                        </addName>
+                    </persName>, <persName key="d1e22506" xml:id="d1e152087">Bernardus de <placeName key="stutzmann_himanis#324403" xml:id="d1e152089">Barrensi</placeName>
+                    </persName>, <persName key="d1e22512" xml:id="d1e152094">Arenbertus
+                            <addName>Bucellus</addName>
+                    </persName> et <persName key="d1e22518" xml:id="d1e152099">prepositus abbatisse
+                        Siguinus</persName> cui supradictum pactum laudanti de beneficio domus
+                    vestre minam frumenti dedistis et solidos <num>v</num>
+                    <hi rend="superscript">e</hi>. Porro abbatisse mille solidos dedistis, juxta
+                    decretum nostrum et assistentium consilium in sui reedificationem dormitorii
+                    expendendos. Dedistis preterea <term>divini officii breviarium unum</term>. Nunc
+                    ergo in reliquum fratres oportet vos singulis annis statutum censum cum omni
+                    diligentia solvere ut salvo utriusque ecclesie jure mutuaque in perpetuum
+                    manente concordia et illis sua proficiant et vos vestra in pace possideatis. Si
+                    quis hanc nostram constitutionem temere infirmare presumpserit, nos secundum
+                    traditam nobis divinitus potestatem anathematis eum vinculo nisi resipuerit
+                    obligamus.</p>
+            </body>
+        </text>
+    </TEI>

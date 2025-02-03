@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1215_d1e246472">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original @</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu.</witness>
+                        <witness n="B">Paris, BnF, ms. Baluze 143, fol. 275<hi rend="superscript">v</hi>
+                        </witness>
+                        <witness n="a">a. <bibl sameAs="#Chifflet1660"><biblScope>p. 561-562,
+                                    n° 120</biblScope></bibl></witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl/>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1215-12-31">1215</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e168683">Galterius, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e168685">Eduensis</placeName>
+                        episcopus</persName>, universis praesentem paginam inspecturis notum facimus
+                    quod <persName key="d1e29925" xml:id="d1e168689">Galterius, miles de <placeName key="stutzmann_himanis#324487" xml:id="d1e168691">Monte Barri</placeName>
+                    </persName>, dedit Deo et ecclesiae Sanctae Mariae <orgName key="stutzmann_himanis#282689" xml:id="d1e168694">Fonteneti</orgName>, pro remedio animae suae et
+                    antecessorum suorum in perpetuam donationem, omnia quaecumque juris habebat in
+                        <placeName key="stutzmann_himanis#325125" xml:id="d1e168697">foresta quae est super
+                        eamdem abbatiam</placeName> et quicquid juris habebat in territorio ejusdem
+                    forestae usque ad <placeName key="stutzmann_himanis#325136" xml:id="d1e168700">magnum
+                        chiminum quod ducit <placeName key="stutzmann_himanis#325019" xml:id="d1e168702">Sanctum Jacobum</placeName>
+                    </placeName>. Recognovit etiam idem <persName key="d1e29931" xml:id="d1e168706">Galterius</persName> quod nullus hominum suorum, neque aliorum aliquis,
+                    usuarium debet habere in memorata superius foresta. Hanc autem eleemosynam
+                    laudavit et approbavit bona fide <persName key="d1e29937" xml:id="d1e168709">uxor ipsius <persName key="d1e29943" xml:id="d1e168711">Galterii</persName>
+                        Emengardis</persName>, cum <persName key="d1e29949" xml:id="d1e168715">fratre suo <foreign>Odet</foreign>
+                    </persName>, de quorum capite erat, et <persName key="d1e29956" xml:id="d1e168720">mater ipsius Emengardis, Gilla nomine</persName>, et
+                        <persName key="d1e29962" xml:id="d1e168723">filius ejus Simon</persName>,
+                    cum <persName key="d1e29968" xml:id="d1e168726">sororibus suis Maria</persName>
+                    et <persName key="d1e29974" xml:id="d1e168730">Aaliz</persName>. Quod totum ut
+                    ratum sit et firmum manere valeat in perpetuum, ad petitionem memorati <persName key="d1e29980" xml:id="d1e168733">Galterii</persName> et <persName key="d1e29986" xml:id="d1e168736">uxoris suae</persName> et <persName key="d1e29993" xml:id="d1e168739">Odonis fratris ejusdem uxoris</persName>,
+                    praesentem paginam sigillo nostro jussimus roborari. Actum est hoc anno ab
+                    incarnatione Domini millesimo CC quintodecimo.</p>
+            </body>
+        </text>
+    </TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1212_d1e244390">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 278@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">A. Original perdu. — « un petit tiltre escrit en parchemin
+                            (...) scellé en soye rouge et cire verte » (cf. B).</witness>
+                        <witness n="B">ADCO 15 H 180, pièce 4. — Papier ; 1 f. ; 235 x 185 mm. —
+                            Copie collationnée le 3 juillet 1709.</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="background(red)">: ADCO 15 H 1, fol. @</hi>
+                            <hi rend="superscript background(red)">@</hi>
+                            <hi rend="background(red)" xml:space="preserve"> (</hi> )</bibl>
+                        <bibl>ADCO 15 H 2, fol. @ <hi rend="superscript background(red)">@</hi>
+                            <hi rend="background(red)" xml:space="preserve"> (</hi> )</bibl>
+                        <bibl>ADCO 15 H 3 / 4, p. @ (@. @. @) </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1212-12-31">1212</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="d1e29419" xml:id="d1e167246">Guido, dominus <placeName key="stutzmann_himanis#324943" xml:id="d1e167248">Arcæiarium</placeName>
+                    </persName>, notum facio omnibus presentibus et futuris quod ego, laude et
+                    assensu <persName key="d1e29425" xml:id="d1e167251">
+                        <sic corresp="#B">Maltidis</sic> uxoris meæ</persName>, dedi et concessi
+                    œclesiæ beatæ Mariæ <orgName key="stutzmann_himanis#282689" xml:id="d1e167256">Fonteneti</orgName>, pro remedio animæ meæ, et <persName key="d1e29431" xml:id="d1e167259">Maltidis dictæ uxoris meæ</persName>, quidquid habebam
+                    apud <placeName key="stutzmann_himanis#324465" xml:id="d1e167262">Junaium</placeName>,
+                    videlicet tertiam partem quam habebam in molendino quod est situm sub <placeName key="stutzmann_himanis#324465" xml:id="d1e167266">Junaio</placeName>, quamdam domum et
+                    omnes terras meas in territorio <placeName key="stutzmann_himanis#324465" xml:id="d1e167269">Junai</placeName> sitas, libere et absolute in perpetuum
+                    possidendas. Et ut ratum et inviolabile presentem cartam sigilli mei munimine
+                    roboravi. Actum est hoc anno Domini <sic corresp="#B">millezimo</sic>
+                    ducentesimo decimo secundo.<note>
+                        <hi rend="italic" xml:space="preserve">Suivi de </hi>2## jono <hi rend="italic">B</hi>.</note>
+                </p>
+            </body>
+        </text>
+    </TEI>

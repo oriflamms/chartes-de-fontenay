@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1212_d1e198703">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 1126</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 75, pièce 2</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>125</height>
+                                                  <width>188/180</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>105</height>
+                                                  <width>165</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="11">réglure absente ;
+                                                repli de 10 mm avec une simple entaille centrale.
+                                            </layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture livresque</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Belne » ; « <hi rend="smallcaps">xiiii</hi>
+                                        <hi rend="superscript">a</hi> » ; « <hi rend="smallcaps">xiiii</hi>
+                                        <hi rend="superscript">a</hi> » ; (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Concordia inter nos et
+                                        Firmitatem » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Beaune. Quinze journaux
+                                        de terre aquis de Mrs de La Ferté pour Mrs de Fontenay pour
+                                        le prix de cinquante livres, l’an 1212, cotté G » ; (1787)
+                                        « N° 4. / 1212 ». </additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1212</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 22<hi rend="superscript">v</hi> (Beaune, G)</bibl>
+                        <bibl>ADCO 15 H 3, p. 60 (V. 2. 4) : « scellé d’un sceau de cire jaune à
+                            double queue de parchemin pendant. Nota : Est joint à ce titre
+                            l’approbation du chapitre général de Cîteaux. »</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1212-12-31">1212</date>
+                </creation>
+                <abstract>
+                    <p>A[rnaud], abbé de Cîteaux, sur une plainte faite au Chapitre général et
+                        enquête faite par décision dudit Chapitre, notifie l’accord intervenu entre
+                        l’abbaye de La Ferté et celle de Fontenay, qui reçoit 50 livres et abandonne
+                        à La Ferté les 15 jugères de terre qu’elle occupait près de Beaune. </p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_75_0021.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_75_0022.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                                        <p>Universis ad quos presentes littere pervenerint, frater <persName key="d1e12750" xml:id="d1e134660">A. dictus abbas <orgName key="stutzmann_himanis#282500" xml:id="d1e134662">Cistercii</orgName>
+                        </persName> salutem <lb n="2"/> in summo salutari. Cum sepe fratres nostri
+                        de <orgName key="stutzmann_himanis#284222" xml:id="d1e134667">Firmitate</orgName>
+                        diuturnam exposu<lb n="3" break="no"/>issent querimoniam de fratribus
+                        nostris <orgName key="stutzmann_himanis#282689" xml:id="d1e134672">Fonteneti</orgName>, capitulo generali super quinde<lb n="4" break="no"/>cim jugeribus terre que fratres de <orgName key="stutzmann_himanis#282689" xml:id="d1e134678">Fonteneto</orgName> apud <placeName key="stutzmann_himanis#324406" xml:id="d1e134681">Belnam</placeName> injuste
+                        occupare <lb n="5"/> dicebant cum sibi competerent de elemosina <persName key="stutzmann_himanis#324624" xml:id="d1e134686">O. nobilis ducis <placeName key="stutzmann_himanis#325098" xml:id="d1e134688">Burgundie</placeName>
+                        </persName>, <lb n="6"/> nos tandem de voluntate capituli generalis <add place="above" hand="eademmanu">eandem querelam</add> suscepimus
+                        terminandam. Partibus <lb n="7"/> itaque apud <placeName key="stutzmann_himanis#324406" xml:id="d1e134699">Belnam</placeName> convocatis et
+                        rei veritate tam per ducem quam per alios diligen<lb n="8" break="no"/>tissime inquisita et inventa, de consensu parcium et nostro assensu,
+                        fratribus <lb n="9"/> nostris de <orgName key="stutzmann_himanis#284222" xml:id="d1e134706">Firmitate</orgName> dederunt quinquaginta libras
+                        fratres de <orgName key="stutzmann_himanis#282689" xml:id="d1e134710">Fonteneto</orgName> et illi <lb n="10"/> querelam hanc in perpetuum
+                        quitaverunt. In hujus rei memoriam presentem car<lb n="11" break="no"/>tam
+                        sigillo nostro fecimus consignari. Actum anno gratie <num>m° cc°
+                        xii°</num>.</p>
+                
+            </body>
+        </text>
+    </TEI>

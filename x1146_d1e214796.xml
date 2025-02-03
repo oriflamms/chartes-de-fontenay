@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1146_d1e214796">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 15@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 36<hi rend="superscript">r</hi> (Papes, RR) : « <hi rend="italic">Restat sigillum
+                                plumbeum</hi>. »</witness>
+                        <witness n="a">a. <bibl sameAs="#Wiederhold1985"><biblScope>t. I, p. 180,
+                                    d’après B</biblScope></bibl></witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps" xml:space="preserve">Inventaire </hi> : ADCO
+                            15 H 1, fol. V<hi rend="superscript">v</hi> (Papes, RR) : « Bulle du
+                            pape Eugène trois, du sixiesme an de son pontificat… »</bibl>
+                        <bibl>ADCO 15 H 4, p. 432 (XXIII. 2. 1) : « en date du 2 juin 1151 est une
+                            bulle du pape Eugène III. du nom, la 6<hi rend="superscript">e</hi>
+                            année de son pontificat ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1145-06-03" notAfter="1146-06-03">[1145-1146], 3 juin. — Viterbe <note>Date : 1145 et 1146 semblent les deux
+                            seules années où Eugène III ait pu être à Viterbe en juin. Les deux
+                            inventaires indiquent pourtant la sixième année du pontificat, sans
+                            qu’aucune source ne puisse être identifiée. (plutôt que 1150).
+                            Wiederhold, qui édite d’après B, indique le 8 juin, car il a transformé
+                            « undecimo » en « VI° ».</note>
+                    </date>
+                </creation>
+                <abstract>
+                    <p>Eugène [III] confirme à l’abbé de Fontenay, Guillaume, l’accord intervenu
+                        grâce à Humbert [de Bâgé], évêque d’Autun, entre l’abbaye de Fontenay et
+                        celle de [Notre-Dame] d’Oigny.</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <persName key="d1e17190" xml:id="d1e145618">Eugenius, episcopus</persName>,
+                    servus servorum Dei, dilectis filiis <persName key="d1e17196" xml:id="d1e145621">Guillelmo, abbati de <orgName key="stutzmann_himanis#282689" xml:id="d1e145623">Fontaneto</orgName>
+                    </persName>, ejusque fratribus salutem et apostolicam benedictionem. Quae a
+                    fratribus nostris episcopis et ecclesiarum Dei rectoribus pro religiosorum
+                    quiete rationabili providentia statuta esse cognoscimus, in sua debemus
+                    stabilitate firmare ne pravorum hominum refragatio ea in posterum valeat
+                    perturbare. Compositionem itaque, quam frater noster <persName key="stutzmann_himanis#324654" xml:id="d1e145626">Humbertus <placeName key="stutzmann_himanis#319548" xml:id="d1e145628">Eduensis</placeName>
+                        episcopus</persName> inter vos et canonicos <orgName key="stutzmann_himanis#283960" xml:id="d1e145632">Hungiacenses</orgName> de finibus <placeName key="stutzmann_himanis#324990" xml:id="d1e145635">Puteoli</placeName> et <placeName key="stutzmann_himanis#325115" xml:id="d1e145638">Casseneti</placeName>, de <placeName key="stutzmann_himanis#325121" xml:id="d1e145642">faiso Sanctae Reginae</placeName> et
+                        <placeName key="stutzmann_himanis#325124" xml:id="d1e145645">foresta
+                        Hileranni</placeName> et de <placeName key="stutzmann_himanis#325287" xml:id="d1e145648">Frimasio</placeName>, pacis intuitu rationabiliter fecit
+                    et scripto suo firmavit, nos presentis decreti pagina confirmamus et ratam
+                    manere censemus. Si quis autem hujus nostrae confirmationis paginam sciens
+                    contra eam temere venire presumpserit, indignationem omnipotentis Dei et
+                    beatorum Petri et Pauli apostolorum ejus incurrat. Datum <placeName key="stutzmann_himanis#102106" xml:id="d1e145651">Viterbi</placeName>
+                    <app>
+                        <lem wit="#B">undecimo</lem>
+                        <rdg wit="#a">VI°</rdg>
+                    </app>idus Junii.</p>
+            </body>
+        </text>
+    </TEI>

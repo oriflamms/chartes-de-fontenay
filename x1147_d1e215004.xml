@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1147_d1e215004">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 17@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 40<hi rend="superscript">v-</hi>41<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 5) ;
+                            table : « <hi rend="italic">Carta Huberti episcopi de ecclesia
+                                Curcellarum</hi> »</witness>
+                        <witness n="C">Cartulaire 2, fol. 98<hi rend="superscript">r-v</hi> (<hi rend="italic">Flaciacum</hi>, 5) ; table mutilée</witness>
+                        <witness n="D">ADCO 15 H 13* (cart. 204), fol. 172<hi rend="superscript">v</hi>
+                        </witness>
+
+                        <witness n="F">
+                            <hi rend="background(red)">FAIRE COLLATIOn et arbre généalogique des
+                                copies</hi>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 38<hi rend="superscript">v</hi> (Courcelles.
+                            H)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 32<hi rend="superscript">r</hi> (Courcelles.
+                            H)</bibl>
+                        <bibl>ADCO 15 H 4, p. 27 (V. 2. 1) : « … scellé d’un sceau qui étoit
+                            autrefois… »</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1147-12-31">1147</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <persName key="stutzmann_himanis#324654" xml:id="d1e145757">Humbertus, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e145759">Eduensis</placeName>
+                        episcopus</persName>, dilecto sibi in Christo fratri <persName key="d1e17202" xml:id="d1e145763">Willermo abbati <orgName key="stutzmann_himanis#282689" xml:id="d1e145765">Fonteneti</orgName>
+                    </persName> ejusque successoribus regulariter substituendis in perpetuum.
+                    Desiderium quod ad religionis propositum <supplied>dinosci</supplied>tur
+                    inminere auctore Deo celi effectu prosequendum est. Quocirca dilecte in Domino
+                    frater tuis tuorumque fratrum postulationibus annuentes ad amplificationem
+                    abbatie cui Deo dispensante presides ecclesiam <placeName key="stutzmann_himanis#325264" xml:id="d1e145771">Curcellarum</placeName> eidem abbatie possidendam
+                    donamus. Non solum autem verum etiam cuicumque de congregationalibus ecclesiis
+                    nostri episcopatus predicta abbatia prenominatam ecclesiam contradere voluerit
+                    hoc idem donum facimus. Actum est hoc <placeName key="stutzmann_himanis#319548" xml:id="d1e145774">Edue</placeName> in presentia canonicorum assistentibus
+                    et laudantibus personis <persName key="d1e17209" xml:id="d1e145777">Willermo
+                        decano</persName>, <persName key="d1e17215" xml:id="d1e145781">Girardo
+                        preposito</persName>, <persName key="d1e17221" xml:id="d1e145784">Walterio
+                        cantore</persName>, <persName key="d1e17227" xml:id="d1e145787">Gaufrido</persName>, <persName key="d1e17233" xml:id="d1e145790">Seguino</persName>, <persName key="d1e17239" xml:id="d1e145793">Humberto
+                        archidiaconibus</persName>. Nam dominus <persName key="d1e17246" xml:id="d1e145796">Henricus archidiaconus</persName> in cujus archidiaconatu
+                    jamdicta ecclesia <placeName key="stutzmann_himanis#325264" xml:id="d1e145800">Curcellarum</placeName> sita est hoc postea laudavit apud <placeName key="stutzmann_himanis#324366" xml:id="d1e145803">Sedelocum</placeName> in presentia
+                    nostri et <persName key="stutzmann_himanis#324672" xml:id="d1e145806">Oberti prioris
+                            <orgName key="stutzmann_himanis#281890" xml:id="d1e145808">Sancti
+                            Symphoriani</orgName>
+                    </persName> et <persName key="d1e17252" xml:id="d1e145811">Johannis <orgName key="stutzmann_himanis#324497" xml:id="d1e145813">Sancte Margarite</orgName>
+                        regularis canonici</persName> anno ab incarnatione domini <hi rend="smallcaps">m° c° xl° vii°</hi>, regnante <persName key="d1e17258" xml:id="d1e145820">Ludovico rege</persName>, <persName key="d1e17264" xml:id="d1e145824">Odone duce Burgundie</persName>. Actum est hoc totum et
+                    ego <persName key="stutzmann_himanis#324654" xml:id="d1e145827">Humbertus Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e145829">Eduensis</placeName>
+                        episcopus</persName> ad perpetuandam hujus rei memoriam sigilum nostre
+                    auctoritatis appono.</p>
+            </body>
+        </text>
+    </TEI>

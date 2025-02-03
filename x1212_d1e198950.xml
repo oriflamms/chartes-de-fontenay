@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1212_d1e198950">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 1127</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 75, pièce 3</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>50</height>
+                                                  <width>140</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>40</height>
+                                                  <width>135</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="7">pas de réglure, pas
+                                                de repli, une simple entaille centrale</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture cursive</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « De pace inter nos et
+                                        Firmitatem » ; « Belne <hi rend="smallcaps">xv</hi>
+                                        <hi rend="superscript">a</hi> »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1212</origDate>
+                                    </origin>
+                                </history>
+                                <additional>
+                                    <adminInfo>
+                                        <note>Attaché à ADCO 15 H 75 pièce 2</note>
+                                    </adminInfo>
+                                </additional>
+                            </msDesc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl> non mentionné par ADCO 15 H 1, fol. 22<hi rend="superscript">v</hi>
+                            (Beaune, G)</bibl>
+                        <bibl>ADCO 15 H 3, p. 60 (V. 2. 4) : « scellé d’un sceau de cire jaune à
+                            double queue de parchemin pendant. Nota : Est joint à ce titre
+                            l’approbation du chapitre général de Cîteaux. »</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1212-12-31">1212</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_75_0020.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_75_0022.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                                        <p>Ego frater <persName key="d1e12756" xml:id="d1e134811">.Sy. de <orgName key="stutzmann_himanis#284222" xml:id="d1e134813">Firmitate</orgName>
+                        </persName>, notum facio omnibus presens scriptum <lb n="2"/> inspecturis
+                        querelam que vertebatur inter nos et ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e134818">Fonteneti</orgName> de terra <placeName key="stutzmann_himanis#324406" xml:id="d1e134821">Bernensi</placeName>
+                        <lb n="3"/> coram <persName key="d1e12762" xml:id="d1e134825">A. <orgName key="stutzmann_himanis#282500" xml:id="d1e134827">Cistercii</orgName>
+                        </persName> et <persName key="d1e12769" xml:id="d1e134831">A. <orgName key="stutzmann_himanis#283145" xml:id="d1e134833">Longivadi</orgName>
+                            abbatibus</persName> in hunc modum terminatam fuis<lb n="4" break="no"/>se : eandem terram consilio et assensu capituli nostri ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e134839">Fonteneti</orgName> quittavimus
+                        et <lb n="5"/> quitamus perpetuo possidendam et ipsi dederunt <add place="above" hand="eademmanu">nobis</add>
+                        <num>.l.</num> libras divionensium. In cujus rei testi<lb n="6" break="no"/>monium sigillum nostrum presenti scripto apposuimus. Actum anno .M. <lb n="7"/> cc° <space/>xii°.</p>
+                
+            </body>
+        </text>
+    </TEI>

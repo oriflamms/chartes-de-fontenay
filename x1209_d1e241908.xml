@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1209_d1e241908">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 250@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu, scellé de cire verte</witness>
+                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 1<hi rend="superscript">r-</hi>2<hi rend="superscript">r</hi> (Princes, A) : « <hi rend="italic">Restat sigillum episcopi in cera
+                            viridi</hi> »</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps">Inventaire</hi> : ADCO 15 H 1, fol. XII<hi rend="superscript">r</hi> (Princes, A)</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1209-12-31">1209. — Lyon.<note>Le présent
+                            acte reprend le texte d'un acte d'Eudes de Bourgogne daté de
+                        1208</note></date>
+                </creation>
+                <abstract>
+                    <p>Régeste.</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <persName key="d1e29000" xml:id="d1e165553">Rainaudus, Dei gratia primae
+                            <placeName key="stutzmann_himanis#98064" xml:id="d1e165555">Lugdunensis</placeName> ecclesiae minister humilis</persName>, omnibus
+                    in perpetuum. Universitati vestrae presentium authoritate volumus innotesc<hi rend="background(cyan)">ari</hi> quod <persName key="stutzmann_himanis#324624" xml:id="d1e165562">Odo illustris dux <placeName key="stutzmann_himanis#325098" xml:id="d1e165564">Burgundiae</placeName>
+                    </persName> elemozinam inferius annotatam sanctae domui <orgName key="stutzmann_himanis#282689" xml:id="d1e165567">Fontaneti, ordinis <orgName key="stutzmann_himanis#281483" xml:id="d1e165569">Cisterciensis</orgName>
+                    </orgName>, pro sua et antecessorum suorum animarum salute sub verbis
+                    subsequentibus dedit atque concessit. Nos igitur ad humilem ejusdem ducis
+                    petitionem Deoque et hominibus plurimum gratam devotum habentes respectum,
+                    presentem cartam praedictae domui <orgName key="stutzmann_himanis#282689" xml:id="d1e165572">Fontaneti</orgName> in testimonium super hoc indulsimus
+                    sigilli nostri munimine roboratam, donum ipsum sepedictae domui aucthoritate qua
+                    fungimur confirmantes. Actum anno dominicae incarnationis apud <placeName key="stutzmann_himanis#98064" xml:id="d1e165575">Lugdunum</placeName> millesimo
+                    ducentesimo nono.</p>
+            </body>
+        </text>
+    </TEI>

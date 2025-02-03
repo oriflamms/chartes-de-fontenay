@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1189_d1e195634">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 772</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 148, pièce 2</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>282</height>
+                                                  <width>293</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>242</height>
+                                                  <width>272</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="24">réglure à la mine
+                                                de plomb (11, 271, 11 x 5, 242, 17 mm) ; repli de 17
+                                                mm à 1 simple entaille centrale et deux petits trous
+                                                latéraux</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture livresque adaptée</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « De Estormer » (barré) ;
+                                            « XXIIII<hi rend="superscript">a</hi> » (barré) ;
+                                        « Carta Saverici de Fontanis » ; « Des Moraux » ; (<hi rend="smallcaps">xiv-xv</hi>
+                                        <hi rend="superscript">e</hi> s., trois fois) « 2 » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Fontaines en Duesmois.
+                                        Don fait par Saveric, André &amp; Hervé et leurs femmes et
+                                        enfans à Mrs de Fontenay de ce qu’ils avoient a Fonteine de
+                                        leur droit de pasturage en bois et plain usage ez bois ez
+                                        eaux etc. Cotte II » ; (1787) « N° 5 / Sans
+                                        date »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1171-1189</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="B">
+                            <desc>Copie perdue dans Cartulaire 1 (Estormer, 24)</desc>
+                        </witness>
+                        <witness n="C">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 148, pièce 15</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>195</height>
+                                                  <width>310</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>245</height>
+                                                  <width>350</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                    </objectDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xv</hi>
+                                        <hi rend="superscript">e</hi> s.) « Coppie des chartres de
+                                        Fontenoys » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Fonteyne en Duesmois.
+                                        Faut joindre au premier titre cotté A » ; (1787) « N° 1 /
+                                        sans date ». Copie notariée d’après le cartulaire « <hi rend="italic">Datum pro coppia a cartolario extracta,
+                                            folio signato III, capitulo XXV, per me notarium
+                                            subscriptum</hi>. [signé :] Reboucher ».</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>Copie du XV<hi rend="superscript">e</hi> s.,
+                                            d’après B</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="D">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>ADCO 15 H 10* (cart. 201 <g rend="superscript">bis</g>),
+                                        fol. 152v</idno>
+                                </msIdentifier>
+                                <history>
+                                    <origin>Copie d’après C</origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="a">
+                            <bibl sameAs="#Jobin1891">
+                                <biblScope>p. 581-582, n° 22, d’après A, daté 1122-1140</biblScope>
+                            </bibl>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>Absent des inventaires ADCO 15 H 3 et ADCO 15 H 4.</bibl>
+                        <bibl>
+                            <hi rend="background(yellow)" xml:space="preserve">Mention dans </hi>
+                            <hi rend="italic background(yellow)">Estormer</hi>
+                            <hi rend="background(yellow)">, 25</hi>. <hi rend="background(red)">D’après note , Estormer 25 et non Estormer 24 : à vérifier</hi>
+                        </bibl>
+                        <bibl>ADCO 15 H 1, fol. 85<hi rend="superscript">r</hi>
+                            (Fontaines-en-Duesmois - Emorots. II)</bibl>
+                        <bibl>ADCO 15 H 5, <hi rend="background(red)">p. 230 et suiv.</hi>
+                        </bibl>
+                        <bibl>ADCO 15 H 10* (cart. 201<hi rend="superscript">bis</hi>), fol. 160<hi rend="superscript">v</hi> (Fontaines-en-Duesmois - Emorots. II) :
+                            « à celuy-cy le cachet y est pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1171" notAfter="1189">[1171-1189]</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0004.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0005.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                    <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e132724">Stephanus, Dei gratia
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e132726">Eduensis</placeName> episcopus</persName>, tam futuris quam
+                        presentibus, notum fieri volo quod <persName key="d1e12127" xml:id="d1e132730">Savericus</persName>, <persName key="d1e12133" xml:id="d1e132733">Andreas</persName> et <persName key="d1e12140" xml:id="d1e132736">Herveus</persName>, <lb n="2"/> filii <persName key="d1e12146" xml:id="d1e132742">Odonis de <placeName key="stutzmann_himanis#324452" xml:id="d1e132744">Fontanis</placeName>
+                        </persName>, laudante matre sua <persName key="d1e12152" xml:id="d1e132747">Alwiz</persName> et sororibus suis <persName key="d1e12158" xml:id="d1e132750">Alwiz</persName>, <persName key="d1e12164" xml:id="d1e132753">Tecelina</persName> et <persName key="d1e12170" xml:id="d1e132756">Gertrude</persName>, laudaverunt in presentia <lb n="3"/> mea donum quod pater suus ad conversionem veniens <orgName key="stutzmann_himanis#282689" xml:id="d1e132762">Fontenetensi ecclesie</orgName>
+                        fecerat. Donum autem ipsum hujusmodi est : ut <orgName key="stutzmann_himanis#282689" xml:id="d1e132765">Fon<lb n="4" break="no"/>tenentenses</orgName>
+                        quotiens sibi placuerit per totum finem <placeName key="stutzmann_himanis#324452" xml:id="d1e132770">Fontanarum</placeName>, omni tempore, in plano et in
+                        bosco et in aquis, absque <lb n="5"/> damno messium et pratorum, pecora sua
+                        libere pastum mittant et de boschis ejusdem ville tollant que pecoribus vel
+                            pa<lb n="6" break="no"/>storibus suis ibidem morantibus necessaria
+                        fuerint, ad bordam scilicet, ad focum, ad umbracula et ad ceteros idoneos
+                        usus, ita <lb n="7"/> sane ut si pecora <orgName key="stutzmann_himanis#282689" xml:id="d1e132780">Fontenetensium</orgName> in prato vel messe damnum
+                        aliquod intulerint absque alia lege damnum solummodo reddent. <lb n="8"/>
+                        Hoc donum patris sui jampridem laudaverant predicti fratres. Postea vero
+                        idem donum tam ipsi quam mater eorum atque sorores <lb n="9"/> prenominate
+                        ex parte sua fecerunt <note> Sic « ex parte″ fecerunt ″sua ».</note>,
+                        adicientes insuper et donantes prefate ecclesie monachis pastionem ad porcos
+                            <lb n="10"/> suos per nemora sua. Concesserunt etiam quod nullos homines
+                        alterius religionis in ipsas pasturas vel usuaria <lb n="11"/> mittent, nisi
+                        tantum habitatores <placeName key="stutzmann_himanis#324452" xml:id="d1e132796">Fontanarum</placeName>, necnon ad opus animalium monachorum per terram
+                        suam et per mediam <lb n="12"/> riveriam, unam carreriam trium tesiarum.
+                        Dimiserunt quoque prefate ecclesie totam calumniam quam habebant in <lb n="13"/> territorio <placeName key="stutzmann_himanis#324375" xml:id="d1e132803">Verdennaci</placeName>, nichil inibi retinentes infra metas versus
+                            <placeName key="stutzmann_himanis#324375" xml:id="d1e132806">Verdennacum</placeName>, que communi assensu, ipsorum scilicet et mo<lb n="14" break="no"/>nachorum posite sunt, nisi pasturas animalibus
+                        hominum suorum et pastionem porcis eorum. Et si damnum <lb n="15"/> fecerint
+                        monachis animalia <placeName key="stutzmann_himanis#324452" xml:id="d1e132814">Fontanarum</placeName>, sine alia lege damnum restituent. Hec etiam
+                        laudaverunt homines <lb n="16"/> ipsius ville qui dicebant se habere usagium
+                        in predicto <placeName key="stutzmann_himanis#324375" xml:id="d1e132819">Verdennaci</placeName> territorio, et omnem calumniam quam ha<lb n="17" break="no"/>bebant ibi pro animabus suis ecclesie Fontenetensi
+                        guerpierunt, nichil penitus excipientes, nisi quod in orationibus et
+                        beneficiis <lb n="18"/> ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e132827">Fonteneti</orgName> recipientur, quorum sunt nomina
+                            <persName key="d1e12177" xml:id="d1e132830">Christianus de <placeName key="stutzmann_himanis#324960" xml:id="d1e132832">Monte Canino</placeName>
+                        </persName>, <persName key="d1e12183" xml:id="d1e132835">Hugo</persName> et
+                            <persName key="d1e12189" xml:id="d1e132838">Odo</persName>, <persName key="d1e12195" xml:id="d1e132841">Brictius</persName> et <persName key="d1e12201" xml:id="d1e132845">Wido</persName>, <lb n="19"/> filius
+                        ejus, <persName key="d1e12207" xml:id="d1e132850">Petrus major filius
+                                <persName key="d1e12214" xml:id="d1e132852">Theobaldi de <placeName key="stutzmann_himanis#325259" xml:id="d1e132854">Cumba</placeName>
+                            </persName>
+                        </persName>, <persName key="d1e12220" xml:id="d1e132857">Henricus</persName>
+                        etiam et fratres ejus, <persName key="d1e12226" xml:id="d1e132860">Petrinus</persName> et <persName key="d1e12232" xml:id="d1e132863">Willelmus</persName>, et <persName key="d1e12238" xml:id="d1e132867">Beris</persName> eorum avunculus, <lb n="20"/> et <persName key="d1e12244" xml:id="d1e132872">Hugo <addName>Albus</addName>
+                        </persName>. Horum testes sunt <persName key="d1e12251" xml:id="d1e132877">Willelmus de <placeName key="stutzmann_himanis#324336" xml:id="d1e132879">
+                                <foreign>Orgeol</foreign>
+                            </placeName>
+                        </persName>, <persName key="d1e12257" xml:id="d1e132883">Audo vicecomes
+                                <placeName key="stutzmann_himanis#324442" xml:id="d1e132885">Duismi</placeName>
+                        </persName>, <persName key="d1e12263" xml:id="d1e132888">Haimo de <placeName key="stutzmann_himanis#324402" xml:id="d1e132890">
+                                <foreign>Aise</foreign>
+                            </placeName>
+                        </persName>, <persName key="d1e12269" xml:id="d1e132895">Hugo de <placeName key="stutzmann_himanis#324912" xml:id="d1e132897">Asenvilla</placeName>
+                        </persName>. <lb n="21"/> Hec ita laudavit <persName key="d1e12275" xml:id="d1e132902">Pontius <addName>
+                                <foreign>Chenlarz</foreign>
+                            </addName>
+                        </persName> et <persName key="d1e12281" xml:id="d1e132908">Willelma</persName> uxor ejus ; unde sunt testes <persName key="d1e12288" xml:id="d1e132911">Lambertus de <placeName key="stutzmann_himanis#324432" xml:id="d1e132913">
+                                <foreign>Corfergen</foreign>
+                            </placeName>
+                        </persName> et <persName key="d1e12294" xml:id="d1e132917">Bernardus</persName> frater ejus, <lb n="22"/>
+                        <persName key="d1e12300" xml:id="d1e132922">Girardus
+                                <addName>Pilosus</addName>
+                        </persName> et <persName key="d1e12306" xml:id="d1e132927">Guiardus</persName> filius ejus. Hec omnia laudavit <persName key="d1e12312" xml:id="d1e132930">Elisabeth, filia <persName key="d1e12318" xml:id="d1e132932">Saverici</persName>
+                        </persName>. Unde sunt testes <lb n="23"/>
+                        <persName key="d1e12325" xml:id="d1e132936">Letardus presbiter</persName>,
+                            <persName key="d1e12331" xml:id="d1e132939">Wido de Frollesio
+                            monachus</persName>, <persName key="d1e12337" xml:id="d1e132943">Walterius prepositus</persName>, <persName key="d1e12343" xml:id="d1e132946">Airardus</persName>, <persName key="d1e12349" xml:id="d1e132949">Reinaldus</persName>, <persName key="d1e12355" xml:id="d1e132952">Engirbertus magister <placeName key="stutzmann_himanis#325154" xml:id="d1e132954">Carbonerum</placeName>
+                        </persName>. <lb n="24"/> Ego igitur hec omnia sigilli mei munimine signans,
+                        ne quis ulterius de his ecclesia <orgName key="stutzmann_himanis#282689" xml:id="d1e132959">Fonteneti</orgName> vexare aut perturbare presumat
+                        episcopali anatematizans virtute perhibeo.</p>
+                
+            </body>
+        </text>
+    </TEI>

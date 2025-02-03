@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1182_d1e247877">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 84@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 36<hi rend="superscript">v</hi>-37<hi rend="superscript">r</hi> (Papes, II) : « <hi rend="italic">Restat sigillum plumbeum.</hi> »</witness>
+                        <witness n="a">a. <bibl sameAs="#Wiederhold1985"><biblScope>t. I, p. 10,
+                                    note 1, édition partielle d’après B</biblScope></bibl></witness>
+                        <witness n="a">
+                            <hi rend="background(red)" xml:space="preserve">autres éditions à trouver </hi>
+                        </witness>
+                        <witness n="J">
+                            <hi rend="background(red)">JL n° @</hi>
+                        </witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps" xml:space="preserve">Inventaire </hi> : ADCO
+                            15 H 1, fol. V<hi rend="superscript">r</hi> (Papes, II) : « Bulle de
+                            Lucius troisiesme, l’an neuviesme de son pontificat »</bibl>
+                        <bibl>ADCO 15 H 2, fol. 127<hi rend="superscript">r</hi> (Papes, II)</bibl>
+                        <bibl>ADCO 15 H 4, p. 436 (XXIII. 03. 07) : « en date du 4 des nones
+                            d’octobre 1143 … bulle de Lucius II … scellé d’un sceau de plomb à lacs
+                            de soye jaune pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1182-10-04">[1182], 4 octobre<note>
+                            L’identification de l’auteur avec Lucius II par l’inventaire de Ridet
+                            n’est pas compatible avec l’indication de lieu, Velletri, où Lucius II
+                            n’a pas résidé, mais où Lucius III a résidé durant les mois d’octobre
+                            1181 et 1182. Le mode de datation, par le lieu et le jour, correspond
+                            aux usages de la chancellerie de Lucius III.</note>
+                    </date>
+                    <origPlace>Velletri</origPlace>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <persName key="stutzmann_himanis#324637" xml:id="d1e169718">Lucius episcopus, servus
+                        servorum Dei</persName>, venerabilibus fratribus <persName key="d1e30554" xml:id="d1e169721">Lugdunensi archiepiscopo</persName> et suffraganeis ejus,
+                    et dilectis filiis abbatibus, archidiaconis, prepositis et aliis ecclesiarum
+                    prelatis in eorum partibus constitutis salutem et apostolicam benedictionem.</p>
+                <p>Audivimus et audientes<app>
+                        <lem>
+                            <witEnd wit="#a"/>
+                        </lem>
+                    </app> mirati sumus quod, cum fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e169730">Fontaneto</orgName> sicut aliis omnibus <orgName key="stutzmann_himanis#281483" xml:id="d1e169733">Cisterciensis ordinis</orgName> a
+                    patribus et predecessoribus nostris concessum sit et a nobis postmodum
+                    confirmatum ut de laboribus quos propriis manibus aut sumptibus excolunt nemini
+                    decimas solvere teneantur, quidam ab eis nihilominus contra indulgentiam sedis
+                    apostolicae decimas exigere et extorquere presumunt, et sinistra interpretatione
+                    apostolicorum privilegiorum capitulum perververtentes asserunt de novalibus
+                    debere intelligi ubi de laboribus est inscriptum. Quoniam igitur manifestum est
+                    omnibus qui recte sapiunt interpretationem hujusmodi perversam esse et
+                    intellectui sano contrariam cum secundum capitulum illud a solutione decimarum
+                    tam de terris illis quas deduxerunt vel deducunt ad culturam quam etiam de
+                    terris cultis quas propriis manibus vel sumptibus excolunt sint penitus
+                    absoluti, ne ullus contra eos hanc materiam malignandi vel quomodo liber ipsos
+                    contra justitiam molestandi per apostolica scripta vobis precipiendo mandamus
+                    quatinus omnibus qui vestrae sunt potestatis aucthoritate nostra prohibere
+                    curetis ne a memoratis fratribus de <orgName key="stutzmann_himanis#282689" xml:id="d1e169736">Fontaneto</orgName> vel a fratribus aliorum monasteriorum
+                        <orgName key="stutzmann_himanis#281483" xml:id="d1e169739">Cisterciensis
+                        ordinis</orgName> qui in partibus vestris consistunt de novalibus vel de
+                    aliis terris quas propriis manibus aut sumptibus excolunt vel de nutrimentis
+                    animalium decimas presumant quomodolibet extorquere. Nam si de novalibus
+                    voluissemus tantum intelligi, ubi ponimus de laboribus, de novalibus poneremus
+                    sicut in privilegiis quorumdam apponimus aliorum. Quia vero non est conveniens
+                    ut contra districta sedis apostolicae temere veniatur quae obtinere debent
+                    inviolabilem firmitatem per apostolica scripta vobis precipiendo mandamus ut si
+                    qui canonici, clerici, monachi vel laici contra privilegia sedis apostolicae
+                    predictos fratres decimarum exactione gravaverint appellatione remota laicos
+                    excommunicationis sententia precellatis. Reliquos autem ab officio suo
+                    supendatis et tam exommunicationis quam suspensionis sententiam faciatis usque
+                    ad dignam satisfationem inviolabiliter observari. Ad haec presentium vobis
+                    aucthoritate precipiendo mandamus quatinus si qui in fratres predictorum
+                    monasteriorum manus violentas injecerint eos accensis candelis excommunicatos
+                    publice nun<supplied>t</supplied>ietis et faciatis ab omnibus sicut
+                    excommunicatos districtius evitari, donec congrue satisfaciant predictis
+                    fratribus, cum litteris diocesani episcopi rei veritatem continentibus
+                    apostolico se conspectui representetur.</p>
+                <p>Datum <placeName key="stutzmann_himanis#325046" xml:id="d1e169748">Velletri</placeName>,
+                    quarto nonas octobris. </p>
+            </body>
+        </text>
+    </TEI>

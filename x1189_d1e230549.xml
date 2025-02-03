@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1189_d1e230549">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 113@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Copie perdue dans Cartulaire 1</witness>
+                        <witness n="C">Cartulaire 2, fol. 103<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 26) ; table mutilée</witness>
+                        <witness n="D">ADCO 15 H 11* (cart. 202), fol. 194<hi rend="superscript">r</hi> (Grignon. OOO) : « <hi rend="italic">Restat
+                            corrigia</hi> » ; non collationné.</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (Grignon.
+                            OOO)</bibl>
+                        <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">@</hi> (Grignon. OOO).
+                            —ADCO 15 H <hi rend="background(red)">@</hi>, p. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.
+                                <hi rend="background(red)">@</hi>. <hi rend="background(red)">@</hi>).</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1171" notAfter="1189">[1171-1189]</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e157580">Stephanus, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e157582">Eduensis</placeName>
+                        episcopus</persName>, notum facio presentibus et futuris quod <persName key="d1e25423" xml:id="d1e157586">Oliverius de <placeName key="stutzmann_himanis#324459" xml:id="d1e157588">
+                            <foreign>Grinun</foreign>
+                        </placeName>
+                    </persName> laudavit et concessit <sic>quicquit</sic> habuerunt antecessores sui
+                    in territorio <placeName key="stutzmann_himanis#324335" xml:id="d1e157595">Noville
+                        Montis</placeName> ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e157598">Fonteneti</orgName>. Cum tamen hoc totum donasset <persName key="d1e25429" xml:id="d1e157602">Givardus frater ejus</persName> pro redemptione anime sue
+                    eidem ecclesie, nichilominus notum fieri volo quod predictus <persName key="d1e25435" xml:id="d1e157608">Oliverius</persName> laudavit fratribus
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e157611">Fonteneti</orgName> omnia
+                    prata que habent pro censu annuo aut pro elemosina in territorio <placeName key="stutzmann_himanis#324408" xml:id="d1e157614">Bonseii</placeName> et <placeName key="stutzmann_himanis#325264" xml:id="d1e157619">Curcellarum</placeName>. Unde sunt
+                    testes <persName key="stutzmann_himanis#324623" xml:id="d1e157622">Odo <placeName key="stutzmann_himanis#324370" xml:id="d1e157624">Tullionis</placeName>
+                        archipresbiter</persName>, <persName key="d1e25442" xml:id="d1e157629">Lambertus de <placeName key="stutzmann_himanis#324432" xml:id="d1e157631">
+                            <foreign>Corfergel</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e25448" xml:id="d1e157635">Petrus
+                            <addName>Huldrei</addName>
+                    </persName>, <persName key="d1e25454" xml:id="d1e157640">Willermus filius
+                        ejus</persName>, <persName key="d1e25460" xml:id="d1e157643">Willermus de
+                            <placeName key="stutzmann_himanis#324475" xml:id="d1e157645">Marmania</placeName>
+                    </persName>, <persName key="d1e25466" xml:id="d1e157648">Walterius de <placeName key="stutzmann_himanis#324434" xml:id="d1e157650">Correyo</placeName>
+                    </persName>, <persName key="d1e25472" xml:id="d1e157653">Helyas
+                        medicus</persName>.</p>
+            </body>
+        </text>
+    </TEI>

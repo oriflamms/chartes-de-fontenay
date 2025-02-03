@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1205_d1e239039">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original *219 ter@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, <hi rend="background(red)">fol. @</hi>
+                            <hi rend="superscript background(red)">@</hi> (Poiseul. II)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 96<hi rend="superscript">r</hi> (Poiseul. II) :
+                            « Donation de la quatrieme partie du paturage du village de <hi rend="background(red)">Liennes</hi>. 1205 »</bibl>
+                        <bibl>ADCO 15 H 4, p. 319 (XV. 12. 3) : « […] en date de 1205 […] titre
+                            latin en parchemin portant don fait […] par <persName key="d1e28309" xml:id="d1e163553">Jacques Chevalier dit Bigorne</persName>, du
+                            consentement de <persName key="d1e28315" xml:id="d1e163556">Sybille sa
+                                femme</persName>, de la quatrième partie du pâturage de <placeName key="stutzmann_himanis#324466" xml:id="d1e163559">Leigne</placeName>, etc. et
+                            scellé d’un sceau qui y étoit autrefois, à queue de parchemin
+                            pendant »</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1205-12-31">1205</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p/>
+            </body>
+        </text>
+    </TEI>

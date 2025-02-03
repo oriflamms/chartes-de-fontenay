@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1185_d1e229478">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 91@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu ; sceau perdu dès le <hi rend="smallcaps">xviii</hi>
+                            <hi rend="superscript">e</hi> s.</witness>
+                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 1<hi rend="superscript">r</hi> (Princes, R) : « <hi rend="italic">Sola restat
+                            corrigia</hi> »</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps" xml:space="preserve">Inventaire </hi> : ADCO
+                            15 H 1, fol. XIV<hi rend="superscript">r</hi> (Princes, R)</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1185-12-31">1185</date>
+                </creation>
+                <abstract>
+                    <p>Régeste.</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Notum sit omnibus presentibus et futuris quod ego <persName key="stutzmann_himanis#324577" xml:id="d1e156811">Hugo dux <placeName key="stutzmann_himanis#325098" xml:id="d1e156813">Burgundiae</placeName>
+                    </persName> laudavi et concessi eclesiae <orgName key="stutzmann_himanis#282689" xml:id="d1e156816">Fonteneti</orgName> donum et elemozinam quam ei fecit
+                        <persName key="d1e24905" xml:id="d1e156819">Odo de <persName key="d1e24911" xml:id="d1e156821">Castellione</persName>, filius scilicet <persName key="d1e24917" xml:id="d1e156824">Josberti de <placeName key="stutzmann_himanis#82732" xml:id="d1e156826">Granceyo</placeName>
+                        </persName>
+                    </persName>, quidquid videlicet habebat in villa quae dicitur <placeName key="stutzmann_himanis#324330" xml:id="d1e156829">
+                        <hi rend="background(cyan)">Naut</hi>/<hi rend="background(cyan)">Nam</hi>
+                    </placeName> et est de casamento meo, totum itaque casamentum sicut a me movebat
+                    libere et absolute laudavi atque concessi, ita ut praedictae ecclesiae fratres
+                    inde facere possint commodum suum quocumque modo voluerint atque valuerint
+                    laudavit hoc <persName key="d1e24923" xml:id="d1e156838">Odo filius
+                        meus</persName>. Horum omnium testes sunt <persName key="d1e24929" xml:id="d1e156842">Josbertus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e156844">Fonteneti</orgName>
+                    </persName>, <persName key="d1e24935" xml:id="d1e156847">Willermus
+                        prior</persName>, <persName key="d1e24942" xml:id="d1e156850">Johannes
+                        cellerarius</persName>, <persName key="d1e24948" xml:id="d1e156853">Philippus monachus</persName>, <persName key="d1e24954" xml:id="d1e156856">Fredericus de <placeName key="stutzmann_himanis#325051" xml:id="d1e156858">Vienna</placeName>
+                    </persName>, <persName key="d1e24960" xml:id="d1e156861">Andreas de <placeName key="stutzmann_himanis#324438" xml:id="d1e156863">
+                            <foreign>Curtange</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e24966" xml:id="d1e156868">Robertus camerarius
+                        meus</persName>. Actum est hoc anno ab incarnatione Domini millesimo
+                    centesimo octogesimo quinto.</p>
+            </body>
+        </text>
+    </TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1209_d1e241717">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 249@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 57<hi rend="superscript">r-v</hi> (<hi rend="italic">Estormer</hi>, 35)</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps background(lightGray)">Inventaire </hi>
+                            <hi rend="smallcaps" xml:space="preserve">: </hi>ADCO 15 H 1, fol. 62<hi rend="superscript">v</hi> (Etormay. NNNN) : « Engagement faict par
+                            Garnier de Paange et Adeline sa femme de six stiers moitié froment et
+                            avoyne a eus deus sur la dixme et grange d’Estourmay. 1209 »</bibl>
+                        <bibl>ADCO 15 H 4, p. <hi rend="background(red)">@</hi>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1209-12-31">1209</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324653" xml:id="d1e165422">Haymo Dei pacientia
+                        archidiaconus <orgName key="stutzmann_himanis#284217" xml:id="d1e165424">Flaviniaci</orgName>
+                    </persName>, omnibus notum facio presentes litteras inspecturis quod <persName key="d1e28920" xml:id="d1e165427">Garnerius de <placeName key="stutzmann_himanis#324337" xml:id="d1e165429">
+                            <foreign>Paanges</foreign>
+                        </placeName>
+                    </persName> et <persName key="d1e28926" xml:id="d1e165433">Adelina uxor
+                        ejus</persName> et <persName key="d1e28932" xml:id="d1e165436">Petrus filius
+                        ipsius <persName key="d1e28938" xml:id="d1e165438">Adeline</persName>
+                    </persName> et <persName key="d1e28944" xml:id="d1e165441">Helysabeth soror
+                            <persName key="d1e28950" xml:id="d1e165443">Petri</persName>
+                    </persName> et <persName key="d1e28957" xml:id="d1e165447">Humbertus maritus
+                            <persName key="d1e28963" xml:id="d1e165449">Helysabeth</persName>
+                    </persName> invadiaverunt fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e165452">Fonteneti</orgName> pro <num>xx</num>
+                    <hi rend="superscript">ti</hi> libris proviniensibus, tres sextariis frumenti et
+                    tres avene quos dicti fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e165460">Fonteneti</orgName> debebant eis de decima in grangia sua <placeName key="stutzmann_himanis#324449" xml:id="d1e165463">
+                        <foreign>d’Estormer</foreign>
+                    </placeName> annuatim. Hanc autem guageriam laudavit <persName key="d1e28969" xml:id="d1e165468">Ansericus de <placeName key="stutzmann_himanis#324356" xml:id="d1e165470">
+                            <foreign>Saigni</foreign>
+                        </placeName>
+                    </persName> de cujus casamento erat et promisit data fide in manu mea quod
+                    fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e165474">Fonteneti</orgName>
+                    super hac gageria non vexaret nec vexari permitteret et quod omnia dampna que
+                    occasione hujus gagerie contingerent jamdictis fratribus ipse extingueret. Unde
+                    etiam responsores dedit fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e165477">Fonteneti</orgName>
+                    <persName key="d1e28975" xml:id="d1e165479">Robertum de <placeName key="stutzmann_himanis#325255" xml:id="d1e165481">
+                            <foreign>Crie</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e28981" xml:id="d1e165485">Willermum de <placeName key="stutzmann_himanis#324956" xml:id="d1e165487">
+                            <foreign>Monesteruel</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e28987" xml:id="d1e165491">Symeone de <placeName key="stutzmann_himanis#324487" xml:id="d1e165493">Monte Barro</placeName>
+                    </persName> milites, <persName key="d1e28994" xml:id="d1e165497">Teobaudum
+                        prepositum de <placeName key="stutzmann_himanis#324487" xml:id="d1e165499">Monte
+                            Barro</placeName>
+                    </persName>. Et ego ad petitionem utriusque partis presentem paginam sigilli
+                    nostri munimine roboravi. Actum anno verbi incarnati <num>m° cc° ix°</num>.</p>
+            </body>
+        </text>
+    </TEI>

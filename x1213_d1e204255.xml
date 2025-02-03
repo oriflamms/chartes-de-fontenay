@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e204255">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 2197</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 294, pièce 1</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>152</height>
+                                                  <width>230</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>105</height>
+                                                  <width>205</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="9">réglure à la mine
+                                                de plomb (10, 205, 8 x 15, 95, 45 mm) ; repli de 20
+                                                mm, avec deux fois deux trous pour soies et trous
+                                                d’attache ; écriture diplomatique. Mentions hors
+                                                teneur : traces d’écriture au haut de
+                                                l’acte.</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) lues à la lampe de Wood :
+                                        « Carta Petri domini Sancti Fidoli » ; « … Sancti Fidoli de
+                                        LX[...] sol. Pruvin. » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Troies. Soixante sols de
+                                        rente a prendre sur les revenus de St Fol, l’an 1213, cotte
+                                        E » ; « Tittre de III £ III s. de St Falle. Quattre » ;
+                                        (1787) « N° 1 / Septembre 1213 » ; (<hi rend="smallcaps">xviii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Vingt neuf. Alex.
+                                        Derepas ».</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1213, 1er septembre</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 214<hi rend="superscript">v</hi> (Troyes. E)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 115<hi rend="superscript">v</hi> (Troyes. E)</bibl>
+                        <bibl>
+                            <hi rend="background(red)">ADCO 15 H 3 / 4, p. @ (@. @. @)</hi>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1213-09-01">1213, 1er septembre</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_294_0002.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_294_0003.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                  <p>Ego <persName key="d1e13965" xml:id="d1e138394">Herveus, permissione Dei
+                                <placeName key="stutzmann_himanis#101630" xml:id="d1e138396">Trecensis</placeName> ecclesie minister humilis</persName>, omnibus
+                        notum facio tam presentibus quam futuris quod <lb n="2"/>
+                        <persName key="d1e13971" xml:id="d1e138401">Petrus dominus <placeName key="stutzmann_himanis#325008" xml:id="d1e138403">Sancti Fidoli</placeName>
+                        </persName>, laude et assensu <persName key="d1e13977" xml:id="d1e138406">Sibille</persName> uxoris sue et filii sui <persName key="d1e13983" xml:id="d1e138409">Andree</persName>, dedit et concessit in perpetuam
+                            <lb n="3"/> elemosinam ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e138415">Fonteneti</orgName>, pro anima
+                        filie sue <persName key="d1e13990" xml:id="d1e138418">Emeline</persName>
+                        necnon et pro salute sua et antecessorum suorum, <lb n="4"/> sexaginta tres
+                        solidos pruvinensium in proprio censu suo de <placeName key="stutzmann_himanis#325008" xml:id="d1e138423">Sancto Fidolo</placeName> in crastino Sancti Remigii
+                        annuatim capiendos. <lb n="5"/> Sciendum vero quod si jamdictus <persName key="d1e13996" xml:id="d1e138428">Petrus</persName> prenominatis
+                        fratribus ad voluntatem suam secundum intuitum bonorum virorum as<lb n="6" break="no"/>signare poterit quod valeat centum solidos divionensium in
+                        terra de <placeName key="stutzmann_himanis#324484" xml:id="d1e138434">
+                            <foreign>Monfort</foreign>
+                        </placeName>, dominus <persName key="d1e14002" xml:id="d1e138438">Petrus</persName> absolvetur a solutione <num>.LX.</num>
+                        <lb n="7"/> trium solidorum et carta ista ei restituetur. Ut igitur hoc
+                        ratum et firmum habeatur, ad instantiam utriusque partis <lb n="8"/> ego et
+                        sepedictus Petrus presens scriptum sigillorum nostrorum munimine
+                        roboravimus. Actum anno Gratie <lb n="9"/> millesimo. ducentesimo.
+                        terciodecimo. kl. Septembris<figure rend="trait-horizontal"/>.</p>
+                
+            </body>
+        </text>
+    </TEI>

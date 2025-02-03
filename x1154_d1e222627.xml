@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1154_d1e222627">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 27@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu ; sceau perdu avant le <hi rend="smallcaps">xvii</hi>
+                            <hi rend="superscript">e</hi> s.</witness>
+                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 10<hi rend="superscript">r</hi> (Princes, G) : « <hi rend="italic">Sola restat
+                                corrigia.</hi> »</witness>
+
+                        <witness n="T">
+                            <hi rend="background(red)">Tradition parallèle ou original multiple : à
+                                comparer à Veyssière, n° 28 et Billot</hi>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps" xml:space="preserve">Inventaire </hi> : ADCO
+                            15 H 1, fol. XIII<hi rend="superscript">r</hi> (Princes, G)</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1154-12-31">1154</date>
+                </creation>
+                <abstract>
+                    <p>Henri [Ier], comte palatin de Troyes, agissant pour lui et ses successeurs,
+                        dispense l’abbaye de Clairvaux et les abbayes dépendant d’elle de totu droit
+                        de tonlieu, péage ou coutume sur ses terres ; il leur permet de vendre et
+                        acheter en franchise à ses foires pour leur usage seulement.</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="d1e22382" xml:id="d1e151855">Henricus <placeName key="stutzmann_himanis#101630" xml:id="d1e151857">Trecensium</placeName> comes
+                        palatinus</persName>, servis Dei in <orgName key="stutzmann_himanis#282533" xml:id="d1e151861">Clara Valle</orgName> et in abbatiis pertinentibus ad eam
+                    degentibus pro anima mea et patris mei clementer indulgeo ut in tota terra mea
+                    fratres eorum nullum omnino theloneum, nullum pedagium, nullam consuetudinem
+                    exolvant ad nundinas meas, libere sine aliqua exactione emant et vendant, quae
+                    usibus suis necessaria erunt, nec a ministris aut officialibus meis molestiam
+                    aut gravamen seu injuriam aliquam patiantur, sed homines mei in omnibus locis
+                    eis teneant pacem. Ut igitur integra eis et illibata permaneant qua ob salutem
+                    animae meae illis concedo, nec istud beneficium meum aliqua possit oblivione
+                    deleri, presentem cartam ad munimen eorumdem fratrum conscribi et sigilli mei
+                    impressione insigniri et authoritate precepi. Decerno etiam et indissolubili
+                    concessione confirmo ut haec pia donatio mea, nullo in posterum tempore a
+                    successoribus et heredibus meis, nec a quoquam hominum occasione qualibet
+                    infringatur. Hujus rei testes sunt <persName key="d1e22389" xml:id="d1e151864">Hilduinus de <placeName key="stutzmann_himanis#325047" xml:id="d1e151866">Vendopera</placeName>
+                    </persName>, <persName key="d1e22395" xml:id="d1e151869">Walterius de <placeName key="stutzmann_himanis#324410" xml:id="d1e151871">
+                            <foreign>Bernum</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e22401" xml:id="d1e151875">Drogo de <placeName key="stutzmann_himanis#324989" xml:id="d1e151877">Pruvinio</placeName>
+                    </persName>. Actum anno ab incarnatione Domini millesimo centesimo quinquagesimo
+                    quarto, regnante <persName key="d1e22407" xml:id="d1e151881">Ludovico
+                        Juniore</persName>, Francorum rege christianissimo, <persName key="stutzmann_himanis#324555" xml:id="d1e151884">Godefrido <placeName key="stutzmann_himanis#317574" xml:id="d1e151886">Lingonensi</placeName>
+                        episcopo</persName>. Tradita <placeName key="stutzmann_himanis#324403" xml:id="d1e151890">Bar<hi rend="background(red)">ro</hi>
+                    </placeName> per manum <persName key="d1e22413" xml:id="d1e151895">Willelmi
+                        notarii</persName>. <hi rend="background(green)">Ego <persName key="d1e22419" xml:id="d1e151900">Johannes quondam <placeName key="stutzmann_himanis#98064" xml:id="d1e151902">Lugdunensis</placeName>
+                            archiepiscopus</persName>, audita et perlecta in eadem verba coram me
+                        originali carta in signum testimonii sigillum meum apposui.</hi>
+                </p>
+            </body>
+        </text>
+    </TEI>

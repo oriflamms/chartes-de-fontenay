@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e192867">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 444</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 62, pièce 5</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>110</height>
+                                                  <width>245</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>85</height>
+                                                  <width>230</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="8"> réglure à la mine
+                                                de plomb, continuée dans le repli (UR 10 mm) ; repli
+                                                de 11 mm, sceau arraché, entaille centrale dans
+                                                l'acte. Mention hors teneur sur le repli « XXXVIII
+                                                l. XXI ». </layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Estormer » ; « Carta
+                                        filiorum majoris de Buxi » et, à la suite, en module moindre
+                                        « de decimis de Ampilli » ; « Redd. » ; « X<hi rend="superscript">a</hi> » ; (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi>-<hi rend="smallcaps">xiv</hi>
+                                        <hi rend="superscript">e</hi> s.) « XIIII » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Ampilly. Ratification du
+                                        don de la dixme d’Ampilly a Mrs de Fontenay, l’an 1213,
+                                        cotté E » ; (1787) « N° 4 / 1213 ».</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1213</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="B">Cartulaire 1, fol. 65<hi rend="superscript">r-v</hi> (<hi rend="italic">Estormer</hi>, [55])</witness>
+                        <witness n="C">ADCO 15 H 10* (cart. 201<hi rend="superscript">bis</hi>),
+                            fol. 218<hi rend="superscript">v</hi>-219<hi rend="superscript">r</hi>
+                            (Chaume. E) : « <hi rend="italic">Sola restat corriga ex seta fulva et
+                                viridi</hi> » ; non collationné.</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 32<hi rend="superscript">v</hi> (Chaume. E)</bibl>
+                        <bibl>ADCO 15 H 4, p. 7 (I. 3. 4) : « … scellé d’un sceau qui y étoit
+                            autrefois, ne restant plus qu’un lacs de soye blanche et verte
+                            pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1213-12-31">1213</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_62_0015.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_62_0016.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                    <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e130806">Galterius, Dei gratia
+                                <orgName key="stutzmann_himanis#281272" xml:id="d1e130808">Eduensis</orgName>
+                            episcopus</persName>, universis presentem paginam inspecturis notum
+                        facimus quod <persName key="d1e11723" xml:id="d1e130812">Milo</persName>,
+                            <persName key="d1e11730" xml:id="d1e130815">Andreas</persName> et
+                            <persName key="d1e11736" xml:id="d1e130818">
+                            <app>
+                                <lem wit="#A">Radulfus</lem>
+                                <rdg wit="#B">Radulphus</rdg>
+                            </app>
+                        </persName>
+                        <lb n="2"/> fratres, filii <persName key="d1e11742" xml:id="d1e130826">Roberti majoris de <placeName key="stutzmann_himanis#324421" xml:id="d1e130828">Buxeio</placeName>
+                        </persName>, in presentia nostra constituti laudaverunt et bona fide
+                        concesserunt pro remedio anime <lb n="3"/> sue et antecessorum suorum
+                        ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e130834">Fonteneti</orgName> omnes elemosinas quas pater suus <persName key="d1e11748" xml:id="d1e130837">Robertus</persName> et mater sua
+                            <persName key="d1e11754" xml:id="d1e130840">
+                            <app>
+                                <lem wit="#A">Aalid</lem>
+                                <rdg wit="#B">Aaliz</rdg>
+                            </app>
+                        </persName> de cujus capite <lb n="4"/> erant dicte ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e130849">Fonteneti</orgName> fecerant dum
+                        viverent in decimis de <placeName key="stutzmann_himanis#324446" xml:id="d1e130853">Ampilleio</placeName>, et <num>
+                            <app>
+                                <lem wit="#A">quindecim</lem>
+                                <rdg wit="#B">xv</rdg>
+                            </app>
+                        </num> denarios quod ipsi <orgName key="stutzmann_himanis#282689" xml:id="d1e130863">Fonten<add>eten<lb n="5" break="no"/>ses</add>
+                        </orgName> annuatim persolvere tenebantur eisdem de terra juxta stagnum de
+                            <placeName key="stutzmann_himanis#324449" xml:id="d1e130870">
+                            <foreign>Estormer</foreign>
+                        </placeName>. Tenentur etiam dicti fratres de <placeName key="stutzmann_himanis#324421" xml:id="d1e130874">Buxeio</placeName> annuatim
+                        persolvere <lb n="6"/> ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e130880">Fonteneti</orgName>
+                        <num>viii</num> denarios censuales quos <persName key="d1e11760" xml:id="d1e130885">Girardus cognomento <persName key="d1e11767" xml:id="d1e130887">
+                                <foreign>Choe</foreign>
+                            </persName>
+                        </persName> in elemosinam <app>
+                            <lem wit="#A">dedit</lem>
+                            <rdg wit="#B">dederat</rdg>
+                        </app> superius memorate ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e130897">Fonte<lb n="7" break="no"/>neti</orgName>. Et ut ista
+                        majorem habeant firmitatem, ad petitionem fratrum supradictorum, <persName key="d1e11773" xml:id="d1e130902">Milonis</persName>, <persName key="d1e11779" xml:id="d1e130906">Andree</persName> et <persName key="d1e11785" xml:id="d1e130909">
+                            <app>
+                                <lem wit="#A">Radulfi</lem>
+                                <rdg wit="#B">Radulphi</rdg>
+                            </app>
+                        </persName>, presentem pa<lb n="8" break="no"/>ginam sigilli nostri munimine
+                        fecimus roborari. Actum anno ab incarnatione Domini <app>
+                            <lem wit="#A">millesimo ducentesimo terciodecimo</lem>
+                            <rdg wit="#B">m° cc° xiii°</rdg>
+                        </app>.</p>
+                
+            </body>
+        </text>
+    </TEI>

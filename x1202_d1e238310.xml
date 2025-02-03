@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1202_d1e238310">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 203@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 50<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 39) ; table mutilée</witness>
+                        <witness n="C">Cartulaire 2, fol. 111<hi rend="superscript">v</hi> (<hi rend="italic">Flaciacum</hi>, 39) ; table mutilée</witness>
+                    </listWit>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1202-12-31">1202</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+            <encodingDesc>
+                <editorialDecl>
+                    <ab>Collation non faite</ab>
+                </editorialDecl>
+            </encodingDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e163084">O<supplied>do</supplied>
+                        dux <placeName key="stutzmann_himanis#325098" xml:id="d1e163089">Burgundie</placeName>
+                    </persName>, notum facio presentibus pariter et futuris. <metamark>Cetera ut
+                        supra.</metamark>
+                    <note>(renvoie à <hi rend="italic">Flaciacum</hi>, 38)</note>
+                </p>
+            </body>
+        </text>
+    </TEI>

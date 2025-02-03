@@ -1,0 +1,120 @@
+@import "tei_oxygen.css";
+@import "tei_fontenay.css";
+
+
+/* Éviter les espaces dus à l'indentation dans les éléments <choice> */
+choice {
+    display: inline; /* Supprime les retours de ligne */
+    white-space: nowrap; /* Empêche les espaces autour */
+}
+
+/* Assurez-vous que les sous-éléments <abbr> et <expan> ne créent pas d'espaces */
+
+
+choice > expan {
+    display: inline;
+    white-space: nowrap;
+}
+g {
+    display: inline;
+}
+
+/* Empêcher l'ajout d'espaces dus à la structure dans <g> */
+g[rend] {
+    white-space: nowrap;
+}
+pb{
+display:block;
+content:"[Folio " attr(n) "] "; 
+}
+
+
+        
+abbr {
+  display:none;
+  font-size:smaller;
+  color:gray;
+  white-space:nowrap;
+  }
+
+expan{
+    background-color: inherit;
+    color:brown;
+    }
+
+ex{
+    background-color: inherit;
+    font-style:italic;
+    color:brown;
+    }
+
+milestone{
+    display:block;
+    content: " [" attr(n) "] ";
+    font-style:italic;
+}
+
+p, persName, orgName, placeName{
+    oxy_replace: "ſ " "s";
+    text-replace: " " "s";
+    text-replace: "ꝛ" "r";
+    text-replace: "ɼ" "r";
+}
+
+lb {
+    display:inline;
+}
+
+lem{
+    color:blue
+}
+
+note,
+rdg {
+    font-size:smaller;
+  color:gray;
+}
+
+note:before,
+space:before {
+  content: "["; 
+  background-color: inherit;
+  font-size:smaller;
+  color:gray;
+}
+
+
+rdg:before {
+  content: "[" attr(wit) ": "; 
+  background-color: inherit;
+  font-size:smaller;
+  color:gray;
+}
+
+note:after,
+space:after,
+rdg:after {
+    content: "] ";
+    font-size:smaller;
+  color:gray;
+}
+
+space {
+    content: "espace blanc";
+font-size:smaller;
+  color:gray;
+   
+}
+
+persName {
+    background-color:#FF1493;
+   }
+
+placeName {
+    background-color:#FF1493;
+    }
+
+persName, placeName, orgName, addName {
+    text-transform:capitalize
+   
+}

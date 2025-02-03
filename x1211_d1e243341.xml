@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1211_d1e243341">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 268@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 35<hi rend="superscript">v</hi>-36<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 33) ;
+                            table : « <hi rend="italic" xml:space="preserve">Carta </hi>
+                            <hi rend="italic background(cyan)">Iteri</hi>
+                            <hi rend="italic" xml:space="preserve">ci de </hi>Chaudesel
+                            <hi rend="italic" xml:space="preserve">de </hi>Nogent ».</witness>
+                        <witness n="C">ADCO 15 H 11* (cart. 202), fol. 131<hi rend="superscript">v</hi>-132<hi rend="superscript">r</hi> (Nogent. X) : « <hi rend="italic">Restat appensura in quo videtur quodam fuisse
+                                sigillum</hi> » ; <hi rend="background(red)">non
+                            collationné</hi>.</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol.<hi rend="background(red)" xml:space="preserve"> @</hi>
+                            <hi rend="superscript background(red)">@</hi>
+                            <hi rend="background(red)" xml:space="preserve"> (</hi>Nogent. X)</bibl>
+                        <bibl>ADCO 15 H 2<hi rend="background(red)">, fol. @</hi>
+                            <hi rend="superscript background(red)">@</hi> (Nogent. X)</bibl>
+                        <bibl>ADCO 15 H <hi rend="background(red)">@</hi>, p. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.
+                                <hi rend="background(red)">@</hi>. <hi rend="background(red)">@</hi>).</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1211-12-31">1211</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="d1e29216" xml:id="d1e166539">Haymericus, decanus <placeName key="stutzmann_himanis#324483" xml:id="d1e166541">Molismensis</placeName>
+                    </persName>, notum facio tam presentibus quam futuris quod <persName key="d1e29222" xml:id="d1e166544">Itericus <addName>
+                            <foreign>Chaudoisel</foreign>
+                        </addName>
+                    </persName> dedit Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e166550">Fonteneti</orgName> in puram et perpetuam elemosinam
+                    pacifice in perpetuum possidendam quicquid habebat apud <placeName key="stutzmann_himanis#324334" xml:id="d1e166553">
+                        <foreign>Nogent</foreign>
+                    </placeName> et in finagio ejus. Hoc totum laudaverunt <persName key="d1e29228" xml:id="d1e166557">Oda uxor ejus</persName>, <persName key="d1e29234" xml:id="d1e166561">Pontius</persName> et <persName key="d1e29240" xml:id="d1e166564">
+                        <foreign>Iteroz</foreign>
+                    </persName> filii ejus, <persName key="d1e29246" xml:id="d1e166568">Agnes</persName> et <persName key="d1e29253" xml:id="d1e166571">Helysabeth</persName> filie ejus. Et ut hoc ratum habeatur presens scriptum
+                    sigilli mei munimine roboravi. Actum est hoc anno Domini <num>m° cc°
+                    xi°</num>.</p>
+            </body>
+        </text>
+    </TEI>

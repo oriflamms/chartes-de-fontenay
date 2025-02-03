@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1208_d1e239900">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 231@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 13<hi rend="superscript">v</hi>-14<hi rend="superscript">r</hi> (Papes, L) : « <hi rend="italic">Restat sigillum plumbeum.</hi> »</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps">Inventaire</hi> : ADCO 15 H 1, fol. III<hi rend="superscript">v</hi> (Papes, L) : « Bulle du pape Innocent
+                            trois, de l’unziesme de son pontificat… »</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1208-03-14">[1208], 14 mars. — Latran</date>
+                </creation>
+                <abstract>
+                    <p>Innocent [III] </p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <persName key="stutzmann_himanis#324639" xml:id="d1e164091">Innocentius episcopus, servus
+                        servorum Dei</persName>, dilectis filiis abbati et conventui de <orgName key="stutzmann_himanis#282689" xml:id="d1e164094">Fonteneto</orgName>, Cisterciensis
+                    ordinis, salutem et apostolicam benedictionem. Solet annuere sedes apostolica
+                    piis votis et honestis petentium precibus, favorem benevolum impertiri. Ea
+                    propter, dilecti in Domino filii, vestris justis postulationibus grato
+                    concurrentes assensu, elemozinam ab <persName key="d1e28420" xml:id="d1e164097">Artaudo de <foreign>Castellaud</foreign>
+                    </persName>, vobis concessam quidquid videlicet habebat a villa quae dicitur
+                        <placeName key="stutzmann_himanis#325231" xml:id="d1e164106">
+                        <foreign>Champele</foreign>
+                    </placeName> usque in <placeName key="stutzmann_himanis#324382" xml:id="d1e164110">aquam
+                        quae dicitur Cusa</placeName> et ex altera parte usque in <placeName key="stutzmann_himanis#325067" xml:id="d1e164113">aquam quae dicitur Cora</placeName>,
+                    et terras quas bonae memoriae <persName key="d1e28426" xml:id="d1e164117">comes
+                        Altissiodorensis</persName> vobis intuitu pietatis concessit, sicut ea omnia
+                    juste et pacifice possidetis, vobis et monasterio vestro aucthoritate apostolica
+                    confirmamus et presentisscripti patrocinio communimus. Nulli ergo omnino hominum
+                    liceat paginam hanc nostrae confirmationis infringere vel ei ausu temerario
+                    contra ire. Si quis autem hoc attemptare presumpserit indignationem omnipotentis
+                    Dei et beatorum Petri et Pauli apostolorum ejus se noverit incursurum. Datum
+                        <placeName key="stutzmann_himanis#324930" xml:id="d1e164120">Laterani</placeName>,
+                    secundo idus martii, pontificatus nostri anno undecimo.</p>
+            </body>
+        </text>
+    </TEI>

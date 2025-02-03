@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1169_d1e246894">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 56@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 24<hi rend="superscript">r-v</hi> (<hi rend="italic">Abbatia</hi>, 8) ; table : « <hi rend="italic">VIII.
+                                Carta Richardi de Corrabo</hi> »</witness>
+                        <witness n="C">ADCO 15 H 11* (cart. 202), fol. 71<hi rend="superscript">r-v</hi> (Fain. A) : « <hi rend="italic">Restat sigillum
+                                episcopi</hi> » ; non collationné.</witness>
+                        <witness n="E">Dijon, Arch. dép. Côte d’Or, 1 F 423, fol. 26-27. — Papier.
+                            Copie par E. Petit d’après B.</witness>
+                        <witness n="a">a. Petit, t. II, p. 265-266, n° 351.</witness>
+
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (Fain. A)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 55<hi rend="superscript">r</hi> (Fain. A)</bibl>
+                        <bibl>ADCO 15 H 4, p. 97 (IX. 5. 2) : « sceau qui y étoit
+                            autrefois ».</bibl>
+                        <bibl>
+                            <hi rend="smallcaps">Indiqué</hi> : Dijon, Arch. dép. Côte d’Or, 1 F
+                            423, fol. 40-41.</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1162-01-01" notAfter="1169-12-31">[(1148)…1162-1169… (1170)]<note>1148-1170 : évêque Henri de Bourgogne,
+                            évêque d’Autun (1148-1170/71) ; …1162-1174… : Bernard Nariod ; 1169 :
+                            sans doute concerné par la confirmation du 16 janvier 1169 "dona Hugonis
+                            de Curte Rabodi et filiorum".</note>
+                    </date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324588" xml:id="d1e168996">Henricus Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e168998">Augustudunensis</placeName> episcopus</persName> tam futuris quam
+                    presentibus notum facio quod <persName key="d1e30079" xml:id="d1e169002">Richardus de <placeName key="stutzmann_himanis#325251" xml:id="d1e169004">Curte
+                            Rabodi</placeName>
+                    </persName> gravi apud <placeName key="stutzmann_himanis#324453" xml:id="d1e169007">Fontenetense monasterium</placeName> infirmitate detentus mortemque sibi
+                    suspicans imminere, divine tamdem visitationis inspiratione compunctus quod
+                    ejusdem loci fratres diu multumque sine causa vexasset, satisfacere statuens
+                    dedit eis pro anima sua et antecessorum suorum quicquid ipsius erat in loco qui
+                        <placeName key="stutzmann_himanis#325253" xml:id="d1e169010">
+                        <foreign>Curtresum</foreign>
+                    </placeName> dicitur juxta quod subscripti declarant termini. A rupe videlicet
+                    que ad <placeName key="stutzmann_himanis#325218" xml:id="d1e169014">ulmum <persName key="d1e30085" xml:id="d1e169016">Sebaldi</persName>
+                    </placeName> incipit usque ad <placeName key="stutzmann_himanis#325073" xml:id="d1e169020">boscum <placeName key="stutzmann_himanis#324443" xml:id="d1e169022">Eperi</placeName>
+                    </placeName> et <placeName key="stutzmann_himanis#325189" xml:id="d1e169025">rivum
+                            <placeName key="stutzmann_himanis#325299" xml:id="d1e169027">Jalegni</placeName>
+                    </placeName>. Itemque a rivo sicut ipse fluit usque ad <placeName key="stutzmann_himanis#325230" xml:id="d1e169030">viam publicam</placeName>, a via
+                    autem sicut ipsa ducit usque in fines <placeName key="stutzmann_himanis#324475" xml:id="d1e169033">Marmanie</placeName>. Porro ab ipsis finibus per rupem
+                    quamdam nativam que est in <placeName key="stutzmann_himanis#325104" xml:id="d1e169036">cumba, cui nomen Villamontosi</placeName>, usque ad prefatam <placeName key="stutzmann_himanis#325218" xml:id="d1e169039">ulmum Sebaldi</placeName>. Dedit
+                    preterea quicquid illi erat alodii in villa seu finibus <placeName key="stutzmann_himanis#324455" xml:id="d1e169043">Fraxini</placeName>, chasamentum
+                    quoque cum a dominis tamen adquirere potuerint. Dedit etiam de <placeName key="stutzmann_himanis#325062" xml:id="d1e169046">adjacente abbatie
+                        foresta</placeName> ligna ad calefaciendum perpetuo furnum necessaria. Huic
+                    donationi ejus testes affuerunt qui subnotati sunt <persName key="d1e30091" xml:id="d1e169049">Andreas <placeName key="stutzmann_himanis#324487" xml:id="d1e169051">Montis Barri</placeName> dominus</persName>,
+                        <persName key="d1e30097" xml:id="d1e169055">Vido de <placeName key="stutzmann_himanis#324374" xml:id="d1e169057">
+                            <foreign>Venerri</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e30104" xml:id="d1e169061">Rogerius patruus
+                        ejus</persName>, <persName key="d1e30110" xml:id="d1e169064">Viardus
+                            <persName key="d1e30116" xml:id="d1e169066">Oliverii filius</persName>
+                    </persName>, <persName key="d1e30122" xml:id="d1e169070">Symon de <placeName key="stutzmann_himanis#324438" xml:id="d1e169072">
+                            <foreign>Curtengi</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e30128" xml:id="d1e169076">Hugo de <placeName key="stutzmann_himanis#324341" xml:id="d1e169078">Plaaneto</placeName>
+                    </persName>, <persName key="d1e30134" xml:id="d1e169081">Bernardus <addName>
+                            <foreign>Nariouz</foreign>
+                        </addName>
+                    </persName>, <persName key="d1e30141" xml:id="d1e169087">Calo de <placeName key="stutzmann_himanis#324459" xml:id="d1e169089">
+                            <foreign>Grinum</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e30147" xml:id="d1e169093">Bernardus <addName>
+                            <foreign>Braibanzuns</foreign>
+                        </addName>
+                    </persName>, <persName key="d1e30153" xml:id="d1e169099">Christianus <addName>
+                            <foreign>Erlauz</foreign>
+                        </addName>
+                    </persName>, multique alii qui ad eum visitandum convenerant.</p>
+            </body>
+        </text>
+    </TEI>

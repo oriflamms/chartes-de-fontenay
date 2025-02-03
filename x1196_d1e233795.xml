@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1196_d1e233795">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 148@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 72<hi rend="superscript">v</hi>-73<hi rend="superscript">v </hi> (<hi rend="italic">Puteolum</hi>, 14) ;
+                            table : <q>Carta Matildis comitisse Grinionis de laude donorum patris
+                                    <sic>suis</sic></q></witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 257, pièce 14, fol. 5<hi rend="superscript">v </hi>: « L’an
+                            1196, Mathilde, comtesse de Grignon, approuva tout ce que feut son pere
+                            Raymond, comte dudit lieu avoit donné a la maison de Fontenay,
+                            specialement l’accord qui avoit esté fait entre ledit comte et les
+                            habitans d’Estalente et les Messieurs de Fontenay [...] »</bibl>
+                        <bibl>ADCO 15 H 1, <hi rend="background(red)">fol. @</hi>
+                            <hi rend="superscript background(red)">@</hi> (Poiseul. E)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 95<hi rend="superscript">v</hi> (Poiseul. E)</bibl>
+                        <bibl>ADCO 15 H 4, p. 319 (XV. 12. 2) : « sceau qui y étoit autrefois, à
+                            queue de parchemin pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1196-10-31">1196, [octobre
+                            ?]<note>L'identité de la liste de témoins rend possible une date
+                            d'octobre 1196, avec un acte conçu pour la même occasion que celui
+                            d'octobre 1196 de Mathilde de Grignon</note>
+                    </date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="d1e26700" xml:id="d1e159933">Matildis, comitissa <placeName key="stutzmann_himanis#324459" xml:id="d1e159935">Grinionis</placeName>
+                    </persName>, notum facio omnibus tam futuris quam presentibus quod omnia dona et
+                    elemosinas quas pater meus <persName key="d1e26706" xml:id="d1e159938">Raimundus
+                        comes</persName> dedit et concessit ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e159941">Fonteneti</orgName> laudavi et
+                    concessi et concordiam que facta fuit inter patrem meum <persName key="d1e26712" xml:id="d1e159944">Raimundum</persName> et <orgName key="stutzmann_himanis#324505" xml:id="d1e159947">homines de <placeName key="stutzmann_himanis#324384" xml:id="d1e159949">Estalenta</placeName>
+                    </orgName> et jamdictos fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e159953">Fonteneti</orgName> certa ratione perquisivi et in rei veritate percepi
+                    quod ipse pater meus metas lapides inter homines de <placeName key="stutzmann_himanis#324384" xml:id="d1e159956">Estalenta</placeName> et prefatos
+                    fratres posuerit ne supradicti homines ulla animalia eorum nec etiam porci metas
+                    ab ipso positas ullatenus transgrederentur. Cujus exemplum ego sequuta volo et
+                    precipio ut firmiter ab omnibus in posterum teneatur. Aasentias quoque
+                        <placeName key="stutzmann_himanis#324900" xml:id="d1e159959">mortue aque</placeName>
+                    quas pater meus eis concessit ad pecora sua adaquanda et ego in perpetuum
+                    concedo. Dedi etiam eis piscaturam stagni mei de <placeName key="stutzmann_himanis#324384" xml:id="d1e159962">Estalenta</placeName> in vita mea tantummodo duobus
+                    diebus ac noctibus ante dominica in ramis pala<hi rend="background(red)">ma</hi>rum et post mortem meam duobus diebus ac noctibus perpetuo ad
+                    procurationem anniversarii mei. Hujus rei sunt testes <persName key="d1e26718" xml:id="d1e159968">Hubertus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e159970">Fonteneti</orgName>
+                    </persName> et totus ejusdem loci conventus, <persName key="stutzmann_himanis#324623" xml:id="d1e159974">Odo archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e159976">Tullionis</placeName>
+                    </persName>, <persName key="d1e26724" xml:id="d1e159979">Oliverius de <placeName key="stutzmann_himanis#324459" xml:id="d1e159981">Grinione</placeName>
+                    </persName>, <persName key="d1e26730" xml:id="d1e159984">Matheus de <placeName key="stutzmann_himanis#324448" xml:id="d1e159986">
+                            <foreign>Estez</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e26737" xml:id="d1e159990">Pontius de <placeName key="stutzmann_himanis#324905" xml:id="d1e159992">
+                            <foreign>Chace</foreign>
+                        </placeName>
+                    </persName>, et <persName key="d1e26743" xml:id="d1e159996">Milo frater
+                        ejus</persName>, <persName key="d1e26749" xml:id="d1e159999">Rainerius de
+                            <placeName key="stutzmann_himanis#324359" xml:id="d1e160001">Sancta
+                            Columba</placeName>
+                    </persName>, <persName key="d1e26755" xml:id="d1e160005">Teobaudus prepositus
+                            <placeName key="stutzmann_himanis#324487" xml:id="d1e160007">Montis
+                            Barri</placeName>
+                    </persName> et multi alii. Quod totum ut ratum habeatur in perpetuum sigilli mei
+                    impressione confirmavi, anno ab incarnatione Domini <num>m° c° xc°
+                    vi°</num>.</p>
+            </body>
+        </text>
+    </TEI>

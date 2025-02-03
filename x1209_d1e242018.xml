@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1209_d1e242018">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 251@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 37<hi rend="superscript">r-v</hi> (<hi rend="italic">Abbatia</hi>, 40) ; table :
+                            « <hi rend="italic" xml:space="preserve">Carta Roberti </hi>Gauduchet ».</witness>
+                    </listWit>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1209-12-31">1209</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324653" xml:id="d1e165614">Haymo, archidiaconus
+                            <placeName key="stutzmann_himanis#322865" xml:id="d1e165616">Flaviacensis</placeName>
+                    </persName>, notum facio presentibus et futuris quod <persName key="d1e29006" xml:id="d1e165619">Robertus prepositus <placeName key="stutzmann_himanis#324459" xml:id="d1e165621">Grinionis</placeName>
+                    </persName>, laude et assensu <persName key="d1e29012" xml:id="d1e165624">uxoris
+                        sue Marie</persName> et filiarum suarum <persName key="d1e29018" xml:id="d1e165627">
+                        <foreign>Alaysim</foreign>
+                    </persName> et <persName key="d1e29024" xml:id="d1e165631">Marie</persName>,
+                    dedit et concessit in perpetuam elemosinam ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e165635">Fonteneti</orgName> quicquid habebat
+                    in vineis que parciebantur cum <persName key="d1e29031" xml:id="d1e165638">magistro Odone, fratre suo</persName>, de <placeName key="stutzmann_himanis#324487" xml:id="d1e165641">
+                        <foreign>Monbar</foreign>
+                    </placeName> et de <placeName key="stutzmann_himanis#324916" xml:id="d1e165645">
+                        <foreign>Corbetum</foreign>
+                    </placeName>. Cujus r<hi rend="background(red)">e</hi>i testes sunt <persName key="d1e29037" xml:id="d1e165652">Odo monachus de <orgName key="stutzmann_himanis#282689" xml:id="d1e165654">Fonteneto</orgName>
+                    </persName>, <persName key="d1e29043" xml:id="d1e165658">Willermus capellanus de
+                            <placeName key="stutzmann_himanis#324905" xml:id="d1e165660">
+                            <foreign>Chaace</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e29049" xml:id="d1e165664">Petrus castellanus de
+                            <placeName key="stutzmann_himanis#324459" xml:id="d1e165666">Grinione</placeName>
+                    </persName>. Et ut ratum permaneat presens scriptum sigillo meo roboravi. Actum
+                    est hoc anno incarnati verbi <num>m° cc° ix°</num>.</p>
+            </body>
+        </text>
+    </TEI>

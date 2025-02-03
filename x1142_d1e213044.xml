@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1142_d1e213044">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 10@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 20<hi rend="superscript">r</hi>-21<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 1) ;
+                            table : « <hi rend="italic">I. Confirmatio Humberti episcopi omnium
+                                pertinentium ad abbatiam</hi> »</witness>
+                        <witness n="C">ADCO 15 H 10* (cart. 201<hi rend="superscript">bis</hi>),
+                            fol. 220<hi rend="superscript">v</hi>-222<hi rend="superscript">r</hi>
+                            (Flacey. B) : « <hi rend="italic">Restat sigillum in sacculo linteo
+                                involutum et fractum in plures partes</hi> » ; <hi rend="background(red)">non collationné</hi>.</witness>
+                        <witness n="D">ADCO 15 H 346, pièce 1. — Copie du 21 juillet 1783, par
+                            Rivet. — Papier, 2 ff., 340 x 235 mm. Original décrit : « scellé en cire
+                            rouge des armes d’Humbert, évêque d’Autun ».</witness>
+                        <witness n="E">Paris, Bibl. nat. de France, ms. Collection Bourgogne 74,
+                                fol. 175<hi rend="superscript">r-v</hi>. —
+                            Papier.<hi rend="background(red)" xml:space="preserve"> non collationné</hi>.</witness>
+                        <witness n="a">a. Copie imprimée d’après A. — Viardot, [Factum. Zaluski,
+                            Joseph André. 1772], [Dijon] : Impr. L. N. Frantin, 1771, p. 10.
+                            Exemplaire conservé sous la cote ADCO 15 H 170, pièce 23.</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 70<hi rend="superscript">r</hi> (Flacey. B),
+                            l’inventaire des titres de Jailly s’arrête à O</bibl>
+                        <bibl>ADCO 15 H 2, fol. 58<hi rend="superscript">v</hi> et 82<hi rend="superscript">r</hi> (Flacey. B et Jailly. P)</bibl>
+                        <bibl>ADCO 15 H 3, p. 305 (XXII. 3. 1) : « scellé d’un grand sceau envelopé
+                            de toile blanche, à queue de peau blanche pendant »</bibl>
+                        <bibl>ADCO 15 H 4, p. 71 (VIII. 4. 1) : « scellé d’un grand sceau
+                            pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1142-11-08">1142, 8 novembre</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <persName key="stutzmann_himanis#324654" xml:id="d1e144465">Humbertus, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e144467">Eduensis</placeName>
+                        episcopus</persName>, dilecto sibi in Christo fratri <persName key="d1e16857" xml:id="d1e144471">
+                        <app>
+                            <lem>Willermo</lem>
+                            <rdg wit="#D">Guillelmo</rdg>
+                        </app> abbati <orgName key="stutzmann_himanis#282689" xml:id="d1e144478">Fonteneti</orgName>
+                    </persName> ejusque successoribus in perpetuum regulariter substituendis.
+                    Postulasti dilecte in Domino frater totaque <app>
+                        <lem>
+                            <app>
+                                <lem>per</lem>
+                                <rdg wit="#D">pro</rdg>
+                            </app> te cui prees</lem>
+                        <rdg type="omis" wit="#a"/>
+                    </app> congregatio <app>
+                        <lem>quatinus</lem>
+                        <rdg wit="#D #a">quatenus</rdg>
+                    </app> dona et concessiones vel alias <app>
+                        <lem>adquisitiones</lem>
+                        <rdg wit="#D">aqquisitiones</rdg>
+                        <rdg>acquisitiones</rdg>
+                    </app>ecclesie cui Deo <app>
+                        <lem>actore</lem>
+                        <rdg wit="#D">auctore</rdg>
+                        <rdg wit="#a">autore</rdg>
+                    </app> presides factas decreti nostri sigillato privilegio confirmaremus
+                    quatenus firmiori ea munimine in perpetuum eadem ecclesia possideret. Quia
+                    igitur dignum est justis postulationibus assensum prebere sicut bone memorie
+                    predecessorem nostrum <app>
+                        <lem>domnum</lem>
+                        <rdg wit="#D #a">dominum</rdg>
+                    </app>
+                    <persName key="stutzmann_himanis#324643" xml:id="d1e144519">Stephanum episcopum</persName>
+                    fecisse cognovimus, nos quoque <app>
+                        <lem>sub</lem>
+                        <rdg wit="#D">subter</rdg>
+                    </app> sancte Eduensis ecclesie tutela et protectione monasterium ipsum quod <app>
+                        <lem>Dei dispensatione regis</lem>
+                        <rdg wit="#a">Dei et regis dispensatione</rdg>
+                    </app> suscipimus et presentis scripti patrocinio communimus, statuentes ut
+                    quecumque bona seu possessiones in presentiarum idem monasterium in nostro
+                    episcopatu possidet sive in futurum possessurum est, firma ei illibataque in
+                    perpetuum permaneant. <app>
+                        <lem>
+                            <witEnd wit="#a"/>
+                            <witDetail wit="#a">Suite jusqu'à "Amen" remplacée par "(on détaille les
+                                biens confirmés)"</witDetail>
+                        </lem>
+                    </app>
+                    <app>
+                        <lem>Nominatimque</lem>
+                        <rdg wit="#D">Nominati</rdg>
+                    </app> prefati predecessoris nostri dona et Eduensis capituli assensum et
+                    concessionem illorum donorum predicto monasterio confirmamus, dona scilicet
+                    vallis in qua jamdictum monasterium sedet, donum loci <persName key="d1e16863" xml:id="d1e144548">
+                        <app>
+                            <lem>domni</lem>
+                            <rdg wit="#D">domini</rdg>
+                        </app> Martini heremite</persName> cum omnibus appenditiis suis, donum
+                    grangie <placeName key="stutzmann_himanis#324911" xml:id="d1e144556">
+                        <app>
+                            <lem>Jailiaci</lem>
+                            <rdg wit="#D">Jaliaci</rdg>
+                        </app>
+                    </placeName> seu <placeName key="stutzmann_himanis#325165" xml:id="d1e144563">Carmeti</placeName> cum omnibus appenditiis suis, donum <app>
+                        <lem>terrarum</lem>
+                        <rdg wit="#D">tertiarum</rdg>
+                    </app> grangie <placeName key="stutzmann_himanis#324451" xml:id="d1e144572">Flaciaci</placeName>, donum aasentiarum de <app>
+                        <lem>terris</lem>
+                        <rdg wit="#D">tertiis</rdg>
+                    </app> nostris, ut in carta inde scripta et confirmata habetur, donum <app>
+                        <lem>adquisitionis</lem>
+                        <rdg wit="#D">aqquisitionis</rdg>
+                    </app>
+                    <app>
+                        <lem>chasamentorum</lem>
+                        <rdg wit="#D">casamentorum</rdg>
+                    </app> nostrorum, donum totius decime omnium possessionum sepedicti monasterii
+                    ubicumque in nostro episcopatu <app>
+                        <lem>sunt</lem>
+                        <rdg wit="#D">sint</rdg>
+                    </app> vel future <app>
+                        <lem>sunt</lem>
+                        <rdg wit="#D">sint</rdg>
+                    </app> ad cujuscumque ecclesiarum nostrarum <app>
+                        <lem>jus</lem>
+                        <rdg wit="#D">vis</rdg>
+                    </app> antea pertinuerit. Expressiusque de presentibus possessionibus loquentes
+                    nominamus et confirmamus ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e144611">Fonteneti</orgName> totam decimam grangie <placeName key="stutzmann_himanis#324479" xml:id="d1e144615">
+                        <app>
+                            <lem>Aringiarum</lem>
+                            <rdg wit="#D">Aringiarium</rdg>
+                        </app>
+                    </placeName>, in quocumque sit, sive in nutrimento sive in annona seu in vino
+                    sive in alio quod decimari soleat, totam similiter decimam grangie <placeName key="stutzmann_himanis#324911" xml:id="d1e144622">
+                        <app>
+                            <lem>Jailliaci</lem>
+                            <rdg wit="#D">Jaliaci</rdg>
+                        </app>
+                    </placeName> seu <placeName key="stutzmann_himanis#325165" xml:id="d1e144629">Carmeti</placeName>, totam decimam vallis in qua abbatia sedet, totam
+                    decimam grangie <placeName key="stutzmann_himanis#325010" xml:id="d1e144632">Sancti
+                        Aniani</placeName>, totam decimam grangie <placeName key="stutzmann_himanis#324451" xml:id="d1e144635">Flaciaci</placeName>, similiter <app>
+                        <lem>ubicumque</lem>
+                        <rdg wit="#D">in quocumque</rdg>
+                    </app> sit. Pro cujus <app>
+                        <lem>tamen</lem>
+                        <rdg wit="#D">tam</rdg>
+                    </app> grangie decima quia <persName key="d1e16869" xml:id="d1e144651">Girardus
+                        quidam <app>
+                            <lem>tunc</lem>
+                            <rdg wit="#D">te</rdg>
+                        </app>
+                        <placeName key="stutzmann_himanis#324356" xml:id="d1e144658">
+                            <app>
+                                <lem>Saigniaci</lem>
+                                <rdg wit="#D">Sanhiaci</rdg>
+                            </app>
+                        </placeName>
+                        <app>
+                            <lem>presbiter</lem>
+                            <rdg wit="#D">postulabit</rdg>
+                        </app>
+                    </persName>, in cujus <app>
+                        <lem>parrochia</lem>
+                        <rdg wit="#D">parochia</rdg>
+                    </app> pars territorii grangie <app>
+                        <lem>est</lem>
+                        <rdg wit="#D">e</rdg>
+                    </app>, querelam licet injuste commoverat — nam <orgName key="stutzmann_himanis#282689" xml:id="d1e144682">Fontenetensis</orgName> ecclesia habet de omni decima sua
+                    privilegium et domini pape Innocentii cum universo <orgName key="stutzmann_himanis#281483" xml:id="d1e144685">ordine Cisterciensi</orgName> et sepedicti predecessoris
+                    nostri cum laude et assensu conventus <orgName key="stutzmann_himanis#281272" xml:id="d1e144689">Eduensium canonicorum</orgName> — nos tamen providentes
+                    utriusque ecclesie perpetue paci <app>
+                        <lem>quia</lem>
+                        <rdg wit="#D">cum</rdg>
+                    </app> utraque ecclesia nostra <app>
+                        <lem>est</lem>
+                        <rdg wit="#D">ea</rdg>
+                    </app>, acceptum missale a <orgName key="stutzmann_himanis#282689" xml:id="d1e144704">Fontenetensi</orgName> ecclesia dedimus ecclesie <placeName key="stutzmann_himanis#324356" xml:id="d1e144707">
+                        <app>
+                            <lem>Saigniaci</lem>
+                            <rdg wit="#D">Sanhiaci</rdg>
+                        </app>
+                    </placeName> et decimam jamdictam, laudante predicto <persName key="d1e16876" xml:id="d1e144714">Girardo</persName> confirmavimus ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e144718">Fonteneti</orgName>. </p>
+                <p>Affuerunt rei huic<app>
+                        <lem type="nihil"/>
+                        <rdg wit="#D">rei</rdg>
+                    </app>
+                    <app>
+                        <lem>domnus</lem>
+                        <rdg wit="#D">dominus</rdg>
+                    </app>
+                    <persName key="d1e16882" xml:id="d1e144732">Constantinus <app>
+                            <lem>Ungiacensis</lem>
+                            <rdg wit="#D">Ongiacensis</rdg>
+                        </app> abbas</persName>, dominus <persName key="d1e16888" xml:id="d1e144741">
+                        <app>
+                            <lem>Gaufridus</lem>
+                            <rdg wit="#D">Gautridus</rdg>
+                        </app> archidiaconus noster</persName>, <persName key="d1e16894" xml:id="d1e144749">Arnoldus Sedelocensium canonicorum decanus</persName>,
+                        <persName key="d1e16900" xml:id="d1e144752">Hermuinus <app>
+                            <lem>archipresbiter</lem>
+                            <rdg wit="#D">archipresbyter</rdg>
+                        </app>
+                    </persName>, <persName key="d1e16906" xml:id="d1e144761">Haymo canonicus <app>
+                            <lem>Ungiacensis</lem>
+                            <rdg wit="#D">Ongiacensis</rdg>
+                        </app>
+                    </persName>.</p>
+                <p>De quadam etiam <app>
+                        <lem>terra</lem>
+                        <rdg wit="#D">tercia</rdg>
+                    </app> quam <orgName key="stutzmann_himanis#282689" xml:id="d1e144777">Fontenetenses</orgName> de elemosina predecessoris nostri <app>
+                        <lem>esse</lem>
+                        <rdg wit="#D">ea</rdg>
+                    </app> dicebant, sed <persName key="d1e16913" xml:id="d1e144786">
+                        <app>
+                            <lem>Girardus</lem>
+                            <rdg wit="#D">
+                                <sic>Girard</sic>
+                            </rdg>
+                        </app>
+                    </persName> de patrimonio eclesie<placeName key="stutzmann_himanis#324356" xml:id="d1e144795">
+                        <app>
+                            <lem>Saigniaci</lem>
+                            <rdg wit="#D">Sanhiaci</rdg>
+                        </app>
+                    </placeName>
+                    <app>
+                        <lem>esse</lem>
+                        <rdg wit="#D">se</rdg>
+                    </app> reclamabat, hanc fecimus concordiam quod <orgName key="stutzmann_himanis#282689" xml:id="d1e144808">Fontenetenses</orgName>
+                    <app>
+                        <lem>dederunt</lem>
+                        <rdg wit="#D">dederint</rdg>
+                    </app> ecclesie <placeName key="stutzmann_himanis#324356" xml:id="d1e144816">
+                        <app>
+                            <lem>Saigniaci</lem>
+                            <rdg wit="#D">Sanhiaci</rdg>
+                        </app>
+                    </placeName>
+                    <term>librum qui apellatur agende</term>
+                    <note> Livre contenant l’office des morts. « Agende » est au féminin pluriel
+                        pour « laudes ».</note>. Et nos, laudante <persName key="d1e16919" xml:id="d1e144827">Girardo</persName>, <app>
+                        <lem>terram</lem>
+                        <rdg wit="#D">tertiam</rdg>
+                    </app> illam ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e144837">Fonteneti</orgName> concessimus sicut eam a predecessore nostro se
+                    accepisse cum aliis <app>
+                        <lem>terris</lem>
+                        <rdg wit="#D">tertiis</rdg>
+                    </app>
+                    <placeName key="stutzmann_himanis#324451" xml:id="d1e144845">Flaciaci</placeName>
+                    <app>
+                        <lem>dicebant</lem>
+                        <rdg wit="#D">dicebat</rdg>
+                    </app>. Actum est<note> est hoc <hi rend="italic">D</hi>.</note>
+                    <placeName key="stutzmann_himanis#319548" xml:id="d1e144858">Edue</placeName> in domo
+                    nostra presentibus archidiaconibus nostris <persName key="d1e16925" xml:id="d1e144862">
+                        <app>
+                            <lem>Gaufrido</lem>
+                            <rdg wit="#D">Gaulhido</rdg>
+                        </app>
+                    </persName> et <persName key="d1e16931" xml:id="d1e144869">Siguino</persName> et
+                    multis aliis. Decernimus ergo ut prefatas ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e144872">Fonteneti</orgName> possessiones, et si que sunt alie a
+                    quibuscumque collate vel in futurum conferende, nulli liceat vel minuere vel
+                    auferre vel ademptas retinere vel injustis vexationibus ecclesiam pro eis
+                    fatigare. Quod si qua <app>
+                        <lem>vel</lem>
+                        <rdg wit="#D">ut</rdg>
+                    </app> ecclesiastica secularisve persona <app>
+                        <lem>scienter</lem>
+                        <rdg wit="#D">scientes</rdg>
+                    </app> contra hanc decreti nostri censuram et <app>
+                        <lem wit="#B #D-corr">appositi</lem>
+                        <rdg wit="#D">
+                            <del>apostolici</del>
+                            <add place="margin">apositi</add>
+                        </rdg>
+                    </app> sigilli reverentiam facere presumpserit, <app>
+                        <lem>actoritate</lem>
+                        <rdg wit="#D">auctoritate</rdg>
+                    </app> Dei et nostra qua fungimur a sacratissimo corpore et sanguine Domini et
+                    ab ejus ecclesia eum excommunicamus et in perpetuum nisi resipiscat eadem
+                    excommunicatione a <app>
+                        <lem wit="D-post-corr">consortio justorum</lem>
+                    </app> separamus. Pax sit custodientibus eam. Amen. </p>
+                <p>
+                    <app>
+                        <lem>
+                            <witStart wit="#a"/>
+                        </lem>
+                    </app>Confirmationi huic <placeName key="stutzmann_himanis#319548" xml:id="d1e144912">Edue</placeName> in <app>
+                        <lem>synodo</lem>
+                        <rdg wit="#D">sinodo</rdg>
+                    </app>
+                    <app>
+                        <lem>acte</lem>
+                        <rdg wit="#a">acta</rdg>
+                    </app>, anno ab incarnatione Domini <app>
+                        <lem>
+                            <num>m° c xl° ii°</num>
+                        </lem>
+                        <rdg wit="#D">millesimo centesimo quadragesimo secundo</rdg>
+                    </app>
+                    <app>
+                        <lem>
+                            <witEnd wit="#a"/>
+                        </lem>
+                    </app>, <app>
+                        <lem>
+                            <num>vi°</num>
+                        </lem>
+                        <rdg wit="#D">sexto</rdg>
+                    </app> idus Novembris, affuerunt et laudaverunt archidiaconi nostri <persName key="d1e16937" xml:id="d1e144944">
+                        <app>
+                            <lem>Gaufridus</lem>
+                            <rdg wit="#D">Gautridus</rdg>
+                        </app>
+                    </persName>, <persName key="stutzmann_himanis#324588" xml:id="d1e144951">Henricus filius
+                        ducis</persName> et <persName key="d1e16943" xml:id="d1e144954">Humbertus</persName>.</p>
+            </body>
+        </text>
+    </TEI>

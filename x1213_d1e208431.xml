@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e208431">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 2591</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 203, pièce 5</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>155/140</height>
+                                                  <width>185/180</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>110</height>
+                                                  <width>175</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="15">réglure absente ;
+                                                repli de 20 mm, à trois entailles simples</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) mention très effacée
+                                        « Carta de pace inter nos et dominum Espisse [...] » ;
+                                        « Abbatie. L. » ; un nombre barré ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Marmaigne. Accord fait
+                                        entre les seigneurs de Fontenay et le seigneur d’Espoisses
+                                        l’an 1213, cotté SS » ; (1787) « N° 42 / 8<hi rend="superscript">bre</hi> 1213 »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1213, octobre</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="B"> Copie perdue par lacune matérielle du Cartulaire 1 (<hi rend="italic">Abbatia</hi>, 47), attestée par la table (fol. 19<hi rend="superscript">r </hi>: « <hi rend="italic">XLVII. Carta de pace
+                                inter nos et Andream dominum Espisse</hi> »)</witness>
+                        <witness n="C">Cartulaire 2, fol. 57<hi rend="superscript">v</hi> (<hi rend="italic">Abbatia</hi>, 53)</witness>
+                        <witness n="D">Paris, BnF, coll. Baluze, ms. 143, fol. 275<hi rend="superscript">r</hi> (d’après C, « ex tabulario
+                            Fontenetensi »)</witness>
+                        <witness n="a">Pierre-François Chifflet, <hi rend="italic">S. Bernardi
+                                Clarevallensis abbatis genus illustre assertum</hi>, Dijon, 1660,
+                            p. 554-555, Probationes diatribae, n° 114 (d’après C via D, « ex
+                            tabulario Fontenetensi »).</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 120<hi rend="superscript">v</hi>-121<hi rend="superscript">r</hi> (Marmagne. SS)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 87<hi rend="superscript">r</hi> (Marmagne.
+                            SS)</bibl>
+                        <bibl>ADCO 15 H 10* (cart. 201<hi rend="superscript">bis</hi>), fol. 69<hi rend="superscript">v</hi> (Marmagne. SS)</bibl>
+                        <bibl>ADCO 15 H 4, p. 150 (XI. 1<hi rend="superscript">1</hi>. 42) :
+                            « scellé de deux sceaux, dont un manque ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1213-10-31">1213, octobre</date>
+                </creation>
+                <abstract>
+                    <p>G[authier], évêque d’Autun, G[uillaume de Joinville], évêque de Langres, et
+                        G[uillaume de Seignelay], évêque d’Auxerre, notifient l’accord intervenu
+                        entre l’abbaye de Fontenay et André d’Epoisses à propos des possessions, en
+                        terre et en hommes, à Marmagne et d’une somme de 30 marcs d’argent.</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_203_0027.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_203_0028.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                 <p>
+                        <persName key="d1e14841" xml:id="d1e141214">G. <placeName key="stutzmann_himanis#319548" xml:id="d1e141216">Eduensis</placeName>
+                        </persName>, <persName key="d1e14847" xml:id="d1e141219">W. <placeName key="stutzmann_himanis#317574" xml:id="d1e141221">Lingonensis</placeName>
+                        </persName>, et <persName key="d1e14853" xml:id="d1e141224">W. <placeName key="stutzmann_himanis#324435" xml:id="d1e141226">Autissiodorensis</placeName>
+                        </persName>, Dei gratia episcopi, omnibus <app>
+                            <lem wit="#A">presentes</lem>
+                            <rdg wit="#a">pręsentes</rdg>
+                        </app> litteras inspecturis <lb n="2"/> salutem in Domino. Noverint universi
+                        presentes pariter et futuri quod cum inter abbatem et monachos <lb n="3"/>
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e141239">Fonteneti</orgName> ex una
+                        parte et nobilem virum <persName key="d1e14859" xml:id="d1e141242">Andream
+                            dominum <placeName key="stutzmann_himanis#324447" xml:id="d1e141244">Espissie</placeName>
+                        </persName> ex altera, controver<lb n="4" break="no"/>sia verteretur super
+                        hominibus, possessionibus et terris apud <placeName key="stutzmann_himanis#324475" xml:id="d1e141249">
+                            <app>
+                                <lem wit="#A">Marmagniam</lem>
+                                <rdg wit="#C #a">Marmaniam</rdg>
+                            </app>
+                        </placeName> existentibus, que nobilis mulier <lb n="5"/>
+                        <persName key="d1e14865" xml:id="d1e141257">Hyla de <placeName key="stutzmann_himanis#324962" xml:id="d1e141259">Monte Sancti
+                                Johannis</placeName>
+                        </persName> et <persName key="d1e14871" xml:id="d1e141263">Johannes</persName>, filius ejusdem, in perpetuam <app>
+                            <lem wit="#A">elemosinam</lem>
+                            <rdg wit="#a">eleemosynam</rdg>
+                        </app> domui <orgName key="stutzmann_himanis#282689" xml:id="d1e141272">Fon<lb n="6" break="no"/>teneti</orgName> dederant et concesserant que etiam a
+                        bone memorie <persName key="d1e14878" xml:id="d1e141277">Bernardo, patre
+                            ejusdem <persName key="d1e14884" xml:id="d1e141279">Andree</persName>
+                        </persName>, abbas <lb n="7"/> et monachi dicebant occupata fuisse, et
+                        preterea super trecentis marcis argenti quas predicti abbas <lb n="8"/> et
+                        monachi <app>
+                            <lem wit="#A">sibi</lem>
+                            <rdg wit="#C #a" type="omission"/>
+                        </app> a prefato <persName key="d1e14890" xml:id="d1e141292">Bernardo</persName> sepedicti <persName key="d1e14896" xml:id="d1e141295">Andree</persName> patre legatas fuisse asserebant,
+                        tandem <lb n="9"/> nobis presentibus et nobilibus viris <persName key="d1e14902" xml:id="d1e141300">Odone duce <placeName key="stutzmann_himanis#325098" xml:id="d1e141302">Burgundie</placeName>
+                        </persName> et <persName key="d1e14908" xml:id="d1e141305">Guidone de
+                                <placeName key="stutzmann_himanis#324440" xml:id="d1e141307">Dompetra</placeName>
+                        </persName> et multis aliis in hanc <lb n="10"/> compositionis formam
+                        venerunt, quod de trecentis marcis superius nominatis abbas et monachi
+                        memorati <lb n="11"/> medietatem habeant, reliquam vero medietatem <persName key="d1e14915" xml:id="d1e141315">Andreas</persName> supradictus. De
+                        rebus vero apud <placeName key="stutzmann_himanis#324475" xml:id="d1e141318">
+                            <app>
+                                <lem wit="#A">Mar<lb n="12" break="no"/>magniam</lem>
+                                <rdg wit="#C #a">Marmaniam</rdg>
+                            </app>
+                        </placeName> existentibus, de quibus erat controversia, ita fuit statutum
+                        quod <persName key="d1e14921" xml:id="d1e141327">Guido, frater <persName key="d1e14927" xml:id="d1e141329">
+                                <app>
+                                    <lem wit="#A">Andree</lem>
+                                    <rdg wit="#a">Andreę</rdg>
+                                </app>
+                            </persName>, <lb n="13"/> canonicus Lingonensis</persName>, res illas
+                        tenebit quamdiu vixerit, et post mortem ipsius <persName key="d1e14933" xml:id="d1e141339">Guidonis</persName> ad ecclesiam <lb n="14"/>
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e141344">Fonteneti</orgName> libere
+                        et absque omni contradictione revertentur. Tenebit autem res illas <persName key="d1e14939" xml:id="d1e141347">Guido</persName> prefatus nomine <lb n="15"/> ecclesie ab ecclesia <orgName key="stutzmann_himanis#282689" xml:id="d1e141352">Fonteneti</orgName>. Actum anno <app>
+                            <lem wit="#A">gratie</lem>
+                            <rdg wit="#C">dominice</rdg>
+                            <rdg wit="#a" type="omission"/>
+                        </app>
+                        <num>millesimo cc° <app>
+                                <lem wit="#A">terciodecimo</lem>
+                                <rdg wit="#C #a">xiii°</rdg>
+                            </app>
+                        </num>, mense octobri.</p>
+                
+            </body>
+        </text>
+    </TEI>

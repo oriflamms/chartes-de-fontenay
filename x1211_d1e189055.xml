@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1211_d1e189055">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 160</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 107, pièce 2</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>70/65 (repli 12 mm)</height>
+                                                  <width>163</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>40</height>
+                                                  <width>143</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="7">pas de réglure (12,
+                                                143, 8 x 2, 40, 25) ; repli à une simple entaille
+                                                centrale</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique
+                                                irrégulière</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mention hors teneur (sur le repli) : « XXXVI s.
+                                        XIX. ». Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Estormer » ; « Carta
+                                        Huet Corniau de darce de prato suo de Pont de Cereis » ;
+                                            « XLVI<hi rend="superscript">a</hi> » ; (<hi rend="smallcaps">xiv</hi>
+                                        <hi rend="superscript">e</hi> s.) « 45 » ; (<hi rend="smallcaps">xvi</hi>
+                                        <hi rend="superscript">e</hi> s.) « 33 » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.)<hi rend="smallcaps" xml:space="preserve"> « </hi>Estormey.
+                                        Don d’un prey scis au finage entre le guet de don Laurens et
+                                        le Pont de Ceres, l’an 1211. Cotte ZZ » ;
+                                        (1787)<hi rend="smallcaps" xml:space="preserve"> « </hi>N° 11
+                                        / 1211 » ; (<hi rend="smallcaps">xviii</hi>
+                                        <hi rend="superscript">e</hi>
+                                        s.)<hi rend="smallcaps" xml:space="preserve"> « </hi>Cent
+                                        quinze / Alex. Derepas. »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1211</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="B">
+                            <desc>Cartulaire 1, fol. 62<hi rend="superscript">r</hi> (<hi rend="italic">Estormer</hi>, 46)</desc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 59<hi rend="superscript">r</hi> (Etormay, ZZ)</bibl>
+                        <bibl>ADCO 15 H 3, p. 254-255 (XX. 7. 11) : « sceau qui y étoit
+                            autrefois »</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1211-12-31">1211</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_107_0026.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_107_0027.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                    <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e128239">Galterus, Dei gratia
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e128241">Eduensis</placeName> episcopus</persName>, notum facio universis
+                        presentes litteras inspecturis quod <persName key="d1e10974" xml:id="d1e128245">
+                            <foreign xml:lang="fr">
+                                <app>
+                                    <lem wit="#A">Huet</lem>
+                                    <rdg wit="#B">Huez</rdg>
+                                </app>
+                            </foreign>
+                            <lb n="2"/> de <placeName key="stutzmann_himanis#324439" xml:id="d1e128254">
+                                <foreign>Darce</foreign>
+                            </placeName>, cognomento <foreign>
+                                <app>
+                                    <lem wit="#A">Corniaus</lem>
+                                    <rdg wit="#B">Corniaux</rdg>
+                                </app>
+                            </foreign>
+                        </persName>, peregre profecturus ad <placeName key="stutzmann_himanis#325019" xml:id="d1e128265">Sanctum Jacobum</placeName>, constitutus in presentia
+                        mea dedit et <lb n="3"/> concessit Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e128270">Fonteneti</orgName> pro remedio
+                        anime sue et antecessorum suorum in perpetuam elemosinam <lb n="4"/> pratum
+                        suum quod est inter <placeName key="stutzmann_himanis#325222" xml:id="d1e128276">vadum
+                            domni Laurentii</placeName> et <placeName key="stutzmann_himanis#324906" xml:id="d1e128279">pontem de <app>
+                                <lem wit="#A">Ceres</lem>
+                                <rdg wit="#B">Cerex</rdg>
+                            </app>
+                        </placeName>. Et pro ista donatio<lb n="5" break="no"/>ne <persName key="d1e10980" xml:id="d1e128289">Willermus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e128291">Fonteneti</orgName>
+                        </persName> de consilio fratrum suorum recepit predictum <persName key="d1e10987" xml:id="d1e128294">
+                            <foreign>Huet</foreign>
+                        </persName> in fratrem et in partici<lb n="6" break="no"/>pacionem omnium
+                        bonorum suorum. Et ut ratum sit et firmum maneat in posterum presens <lb n="7"/> scriptum sigilli mei inpressione munivi. Actum est hoc anno
+                        gratie <num>m° cc° <app>
+                                <lem wit="#A">undecimo</lem>
+                                <rdg wit="#B">xi°</rdg>
+                            </app>
+                        </num>.</p>
+                
+            </body>
+        </text>
+    </TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1208_d1e240784">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 292@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 36<hi rend="superscript">v</hi> (<hi rend="italic">Abbatia</hi>, 37) ; table : « <hi rend="italic">Carta
+                                Odonis de Esper</hi>
+                            <hi rend="italic background(cyan)">ue</hi> ».</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>)</bibl>
+                        <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>)</bibl>
+                        <bibl>ADCO 15 H <hi rend="background(red)">@</hi>, p. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>).</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1206-12-31" notAfter="1208-12-31">[…1206-1208]. - Châtillon<note>L'acte est nécessairement antérieur à 1213,
+                            puisque présent dans le premier cartulaire rédigé à cette date. Il est
+                            très vraisemblablement antérieur à 1208, puisque la donatrice est nommée
+                            ici "uxor", mais "relicta" dans un acte de 1208. S'il n'y a pas de
+                            terminus post quem strict, le présent acte est sans doute lié à la
+                            donation en 1206 par <foreign>Hyla de Monte Sancti Johannis</foreign>
+                            d'une terre qui avait été gagée à Eudes, l'époux de
+                                <foreign>Gila</foreign></note>
+                    </date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="d1e28698" xml:id="d1e164811">Robertus de <placeName key="stutzmann_himanis#325016" xml:id="d1e164813">Sancto Marcello</placeName>
+                    </persName> omnibus notum facio presentes litteras inspecturis quod domina
+                        <persName key="d1e28704" xml:id="d1e164816">Gila uxor domini <persName key="d1e28710" xml:id="d1e164818">Odonis de <placeName key="stutzmann_himanis#324919" xml:id="d1e164820">Espeoruo</placeName>
+                        </persName>
+                    </persName> et filius ipsorum <persName key="d1e28716" xml:id="d1e164825">Odo</persName> laudaverunt in presentia mea elemosinam quam ecclesie et
+                    fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e164828">Fonteneti</orgName>
+                    fecerat dictus <persName key="d1e28722" xml:id="d1e164831">Odo</persName> apud
+                        <placeName key="stutzmann_himanis#324475" xml:id="d1e164835">Marmaniam</placeName>,
+                    scilicet de quadam terra que sita est subtus <placeName key="stutzmann_himanis#324907" xml:id="d1e164838">vadum Sancti Alerii</placeName> inter aquam et <placeName key="stutzmann_himanis#325232" xml:id="d1e164841">viam que de <placeName key="stutzmann_himanis#324453" xml:id="d1e164843">Fonteneto</placeName> venit
+                            <placeName key="stutzmann_himanis#324475" xml:id="d1e164846">Marmaniam</placeName>
+                    </placeName> et de alia terra et prato quod est supra <placeName key="stutzmann_himanis#325140" xml:id="d1e164849">molendini Marmanie</placeName> inter
+                    eamdem aquam et chiminum et de tribus jornalibus terre inter lamas<placeName key="stutzmann_himanis#324475" xml:id="d1e164859">Marmanie</placeName>. De laude
+                    predicte <persName key="d1e28728" xml:id="d1e164862">Gile</persName> et
+                        <persName key="d1e28735" xml:id="d1e164865">Odonis filii sui</persName>
+                    mecum testes sunt dominus <persName key="d1e28741" xml:id="d1e164868">Petrus
+                        miles quondam major <placeName key="stutzmann_himanis#325198" xml:id="d1e164870">Castell…</placeName>
+                    </persName>, <persName key="d1e28747" xml:id="d1e164876">Gaufridus de <placeName key="stutzmann_himanis#324328" xml:id="d1e164878">
+                            <foreign>Ennai</foreign>
+                        </placeName>
+                    </persName>. Actum apud <placeName key="stutzmann_himanis#325198" xml:id="d1e164882">Castell<hi rend="background(cyan)">…</hi>
+                    </placeName> in <placeName key="stutzmann_himanis#325117" xml:id="d1e164888">domo ejusdem
+                        domini Petri</placeName>.</p>
+            </body>
+        </text>
+    </TEI>

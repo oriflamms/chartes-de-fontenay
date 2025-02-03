@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1192_d1e196225">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 773</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 148, pièce 3</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>100</height>
+                                                  <width>210</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>65</height>
+                                                  <width>205</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="10">réglure absente,
+                                                repli de 13 mm à une simple entaille (10
+                                                mm)</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture livresque</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Carta Savarici et Andree
+                                        et Erveii fratrum » (écrit deux fois) ; « Desmora » ; la
+                                        cote ‘25’ n’apparaît pas.</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1171-1192</origDate>
+                                        <note>Hugues III et acte mentionné postérieur à
+                                            1171</note>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="B">Copie partiellement mutilée dans Cartulaire 1,
+                                fol. 53<hi rend="superscript" xml:space="preserve">r </hi>(<hi rend="italic">Estormer</hi>, 25) </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>15 H 1, fol. 83<hi rend="superscript">r</hi> (Fontaines-en-Duesmois -
+                            Emorots. A)</bibl>
+                        <bibl>ADCO 15 H 5, <hi rend="background(red)">p. 230 et suiv.</hi>
+                        </bibl>
+                        <bibl>Absent des inventaires ADCO 15 H 3 et ADCO 15 H 4</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1171" notAfter="1192">[1171-1192]</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0008.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_148_0009.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                  <p>
+                        <hi rend="background(yellow)">Acte mentionné : Fontaines-en-Duesmois -
+                            Emorots. II</hi>
+                    </p>
+                    <p>Ego <persName key="stutzmann_himanis#324577" xml:id="d1e133060">dux <placeName key="stutzmann_himanis#325098" xml:id="d1e133062">Burgundie</placeName>,
+                            Hugo</persName>, presentibus et futuris notum facio quod <persName key="d1e12362" xml:id="d1e133066">Pontius, dominus <placeName key="stutzmann_himanis#324442" xml:id="d1e133068">Duismi</placeName>
+                        </persName>, et uxor ejus, <persName key="d1e12368" xml:id="d1e133071">filia
+                                <persName key="d1e12374" xml:id="d1e133073">Willermi <lb n="2"/> de
+                                    <placeName key="stutzmann_himanis#324442" xml:id="d1e133077">Duismo</placeName>
+                            </persName>
+                        </persName>, laudaverunt donum et elemosinam quam fecerunt ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e133080">Fonteneti</orgName>
+                        <persName key="d1e12380" xml:id="d1e133082">Savaricus</persName> et
+                            <persName key="d1e12386" xml:id="d1e133085">Andreas</persName> et
+                            <persName key="d1e12392" xml:id="d1e133089">Herveius</persName>, fratres
+                            <lb n="3"/> de <placeName key="stutzmann_himanis#324452" xml:id="d1e133094">Fontanis</placeName>, de casamento suo : omnes scilicet aasentias
+                        terrarum suarum de <placeName key="stutzmann_himanis#324452" xml:id="d1e133097">Fontanis</placeName> in bosco et in plano et in aquis <lb n="4"/> suis
+                        et pasturas omnibus animalibus, pastionem porcis et carreriam trium tesiarum
+                        per medium pratorum ad riveriam. <lb n="5"/> Concesserunt et laudaverunt
+                        divisionem quam fecerunt homines <app>
+                            <lem wit="#A">monacorum</lem>
+                            <rdg wit="#B">monachorum</rdg>
+                        </app> inter finagia de <placeName key="stutzmann_himanis#324452" xml:id="d1e133111">Fontanis</placeName> et de <placeName key="stutzmann_himanis#324375" xml:id="d1e133114">Ver<lb n="6" break="no"/>dennaco</placeName> et de
+                            <placeName key="stutzmann_himanis#324449" xml:id="d1e133119">
+                            <foreign>Estormer</foreign>
+                        </placeName>. <app>
+                            <lem wit="#A">
+                                <sic>Granntaverunt</sic>
+                            </lem>
+                            <rdg wit="#B">grantaverunt</rdg>
+                        </app> quoque quod usagia que homines sui in terris monachorum se habere
+                        dicebant <lb n="7"/> eos in pace guerpire facerent. Hec omnia laudavit
+                            <persName key="d1e12399" xml:id="d1e133133">Pontius</persName> et uxor
+                        ejus et cetera omnia que continentur in carta de his ple<lb n="8" break="no"/>nius facta et <persName key="stutzmann_himanis#324645" xml:id="d1e133138">Eduensis
+                            episcopi</persName> sigillo signata. Unde testes sunt <persName key="d1e12405" xml:id="d1e133141">Lambertus de <placeName key="stutzmann_himanis#324432" xml:id="d1e133143">
+                                <foreign>
+                                    <app>
+                                        <lem wit="#A">Cofergen</lem>
+                                        <rdg wit="#B">Corfergen</rdg>
+                                    </app>
+                                </foreign>
+                            </placeName>
+                        </persName> et <persName key="d1e12411" xml:id="d1e133151">Bernardus</persName> frater ejus, <persName key="d1e12417" xml:id="d1e133154">Girar<lb n="9" break="no"/>dus
+                                <addName>Pilosus</addName>
+                        </persName> et <persName key="d1e12423" xml:id="d1e133162">Wiardus</persName> filius ejus, <persName key="d1e12429" xml:id="d1e133165">
+                            <app>
+                                <lem wit="#A">Wiardus</lem>
+                                <rdg wit="#B">Viardus</rdg>
+                            </app> de <placeName key="stutzmann_himanis#325029" xml:id="d1e133172">Seneveio</placeName>
+                        </persName> et <persName key="d1e12436" xml:id="d1e133175">Johannes</persName> frater ejus. Ego quoque hoc testor et ne qua hinc
+                        in posterum <lb n="10"/> oriatur querela, presentem cartam sigilli mei
+                        appensione confirmo.</p>
+                
+            </body>
+        </text>
+    </TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1202_d1e200821">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 1826</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 190, pièce 18</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>85</height>
+                                                  <width>135</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>65</height>
+                                                  <width>130</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="9">pas de réglure ;
+                                                repli de 10 mm, avec entaille simple de 17 mm de
+                                                large</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique
+                                                irrégulière</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s., largement effacée) « (…)
+                                        Huonem (…) de tercia parte nemorum tercii (…) terragii de
+                                        Lania » ; « .xiiij<hi rend="superscript">a</hi>. » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Laignes » ; « M » ;
+                                        « Leignes. Reconnoissance comme la donation de Roger de
+                                        Courcelles est bonne et que Mrs de Fontenay ont la 3<hi rend="superscript">e</hi> partie dans les bois, dans les
+                                        tierces et autres drois portez audit titre l’an 1212. Cotte
+                                        M » ; (1787) « N° 1 / 1202 » ; « Cinquante six. Alex.
+                                        Derepas ».</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1202</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="a">
+                            <bibl sameAs="#Petit1885">
+                                <biblScope>t. III, p. 384, n° 1045</biblScope>
+                            </bibl>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 108<hi rend="superscript">r</hi> (Laignes.
+                            M).</bibl>
+                        <bibl>ADCO 15 H 2, fol. 83<hi rend="superscript">r</hi> (Laignes. M).</bibl>
+                        <bibl>ADCO 15 H 3, p. 559 (XXIX. 1. 1) : « sceau qui y étoit
+                            autrefois ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1202-12-31">1202</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_190_0036.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_190_0037.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+
+                    <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e136041">Odo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e136043">Burgundie</placeName>
+                        </persName>, notum facio presentibus et futuris quod de discordia <lb n="2"/> que erat inter monacos <orgName key="stutzmann_himanis#282689" xml:id="d1e136048">Fontineti</orgName> et dominum <persName key="d1e13083" xml:id="d1e136051">
+                            <sic corresp="#A">Huonem</sic>de <placeName key="stutzmann_himanis#324466" xml:id="d1e136055">Legna</placeName>
+                        </persName> et dominum <persName key="d1e13089" xml:id="d1e136058">Humbau<lb n="3" break="no"/>dum</persName> fratrem ejus, facta inquisitione
+                        per prudentes homines de precepto meo, <lb n="4"/> dictum fuit michi ab
+                        inquisitoribus quod domini Fontaneti habebant apud <placeName key="stutzmann_himanis#324466" xml:id="d1e136066">Legnam</placeName>
+                        <lb n="5"/> quicquid dominus <persName key="d1e13095" xml:id="d1e136070">Rogerius de <placeName key="stutzmann_himanis#325251" xml:id="d1e136072">
+                                <foreign>Corraboi</foreign>
+                            </placeName>
+                        </persName> ibi habebat in omni proventu terciam partem <lb n="6"/> nemorum
+                        et terciam partem terragii pertinentis ad nemora illa et terciam partem <lb n="7"/> terciarum et tractum in tercio anno, excepto foresta que est
+                        ante <placeName key="stutzmann_himanis#324466" xml:id="d1e136081">Legnam</placeName>,
+                            <lb n="8"/> de qua non concordaverunt, quam in manum meam retinui et in
+                        inquisitionem. <lb n="9"/> Actum est hoc anno incarnati Verbi millesimo
+                        ducentesimo secundo.</p>
+                
+            </body>
+        </text>
+    </TEI>

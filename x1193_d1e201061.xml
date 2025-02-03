@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1193_d1e201061">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 1862</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 193, pièce 3</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>305</height>
+                                                  <width>155</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>265</height>
+                                                  <width>150</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="20">réglure absente ;
+                                                repli de 20 mm, largement déchiré, avec trace d’une
+                                                double entaille centrale</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Carta [suite
+                                        effacée] » ; (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « .XXII<hi rend="superscript">a</hi>. » ; « De pasturis Lanie in
+                                        bosco et in plano » ; « Carta Mathei et Arnulphi de
+                                        Lania » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Laignes » ; « Leignes.
+                                        Droit de pasturage en toutte saison dans les bois de Leignes
+                                        mesme pour les porcs et autres choses specifiees audit
+                                        titre, l’an 1193. F » ; (1787) « N° 7 / 1193 » ; (<hi rend="smallcaps">xviii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Cent quinze. Alex.
+                                        Derepas ».</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1193</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 107<hi rend="superscript">v</hi> (Laignes.
+                            F).</bibl>
+                        <bibl>ADCO 15 H 2, fol. 82<hi rend="superscript">v</hi> (Laignes. F).</bibl>
+                        <bibl>ADCO 15 H 3, p. 598 (XXIX. 6. 7) : « scellé d’un grand sceau de cire
+                            jaune à queue de parchemin pendant ».</bibl>
+                        <bibl sameAs="#Bouchard1991b">
+                            <biblScope>p. 39</biblScope>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1193-12-31">1193</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_193_0006.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_193_0007.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                                        <p>Ego <persName key="stutzmann_himanis#324647" xml:id="d1e136195">Garnerius, Dei gratia
+                                <placeName key="stutzmann_himanis#317574" xml:id="d1e136197">Lingonensis</placeName> episcopus</persName>, omnibus notum facio
+                        quod <persName key="d1e13102" xml:id="d1e136201">Matheus de <lb n="2"/>
+                            <placeName key="stutzmann_himanis#324466" xml:id="d1e136204">Lania</placeName>
+                        </persName> dedit in elemosinam perpetuam ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e136207">Fonteneti</orgName> partem suam
+                        pasturarum de <lb n="3"/>
+                        <placeName key="stutzmann_himanis#324466" xml:id="d1e136211">Lania</placeName> in
+                        bosco et in plano omni tempore ad omnia animalia sua et etiam pasti<lb n="4" break="no"/>onem porcorum per omnia nemora sua, tali conditione quod in
+                        foresta juxta <placeName key="stutzmann_himanis#324466" xml:id="d1e136217">Laniam</placeName>
+                        <lb n="5"/> tempore pastionis que ad pasnagium data sit salvo tamen jure suo
+                        quod in eadem fo<lb n="6" break="no"/>resta habent fratres <orgName key="stutzmann_himanis#282689" xml:id="d1e136223">Fonten<supplied>etenses</supplied>
+                        </orgName> porcos suos non mittent. Tercia vero pars pasnagii eis <lb n="7"/> reddetur tam de ipsa foresta quam de aliis nemoribus. <persName key="d1e13108" xml:id="d1e136230">Matheus</persName> autem easdem
+                            pastu<lb n="8" break="no"/>ras adversus omnes homines si necesse fuerit
+                        manutenebit et inde <orgName key="stutzmann_himanis#282689" xml:id="d1e136236">
+                            <sic corresp="#A">Fontenetensibus</sic>
+                        </orgName>
+                        <lb n="9"/> guarentiam portabit. Nec aliorum animalia nisi sua aut hominum
+                        suorum propria pascere <lb n="10"/> ibi permittet, sed ad usus animalium
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e136243">Fonten<supplied>etensium</supplied>
+                        </orgName> fideliter eas defendet. Promisit etiam idem <lb n="11"/>
+                        <persName key="d1e13114" xml:id="d1e136249">Matheus</persName> prestito
+                        juramento quod hec omnia sicut in presenti pagina continentur predictis <lb n="12"/> fratribus bona fide manutenebit et filium suum laudare faciet
+                        cum ad intelligibi<lb n="13" break="no"/>les annos pervenerit. Hoc laudavit
+                            <persName key="d1e13120" xml:id="d1e136257">Lora, uxor ejus</persName>,
+                        que inde cum filio suo <persName key="d1e13126" xml:id="d1e136260">Milone</persName> non<lb n="14" break="no"/>dum loquente pro laude .XL.
+                        solidos habuit. Hoc laudavit <persName key="d1e13132" xml:id="d1e136265">Arnulfus frater ejus</persName>, qui pro laude <lb n="15"/> .XXV.
+                        solidos recepit. <persName key="d1e13139" xml:id="d1e136271">Matheus</persName> vero qui easdem pasturas fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e136274">Fonten<supplied>etensibus</supplied>
+                        </orgName> pro .XX. libris ante <lb n="16"/> invadiaverat, pro hac elemosina
+                        et donatione quam fecit eisdem fratribus preter illas .XX. <lb n="17"/>
+                        triginta libras habuit. Hujus rei testes sunt <persName key="d1e13145" xml:id="d1e136283">Hugo de <placeName key="stutzmann_himanis#324331" xml:id="d1e136285">Nigella</placeName>
+                        </persName>, <persName key="d1e13151" xml:id="d1e136289">Bartholomeus
+                                <addName>Ad Pol<lb n="18" break="no"/>lices</addName>
+                        </persName>, <persName key="d1e13157" xml:id="d1e136296">Silvester
+                            prepositus de <placeName key="stutzmann_himanis#325256" xml:id="d1e136298">Cruse</placeName>
+                        </persName>, <persName key="d1e13163" xml:id="d1e136301">Bartholomeus filius
+                            ejus</persName> et <persName key="d1e13169" xml:id="d1e136304">Nicholas
+                            frater ejus</persName>. Quod totum ut <lb n="19"/> ratum habeatur in
+                        perpetuum sigilli mei auctoritate confirmo. Actum anno ab incarna<lb n="20" break="no"/>tione Domini .M°. C°. XC°. III°.</p>
+                
+            </body>
+        </text>
+    </TEI>

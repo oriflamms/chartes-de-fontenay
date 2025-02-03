@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1205_d1e206004">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 2334</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 328, pièce 4</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>120</height>
+                                                  <width>170/175</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>80</height>
+                                                  <width>165</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="10">réglure effacée ;
+                                                repli de 16 mm, à une double entaille</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Tornodori. Ex dono
+                                        Yterici de Chaudoisel » (mention coupée pour le pli) ; « ...
+                                        de Chaudoisel » (mention coupée pour le pli) ; « .C. Iterici
+                                        de Chaudoisiau de terra juxta Pontem » ; « Tornod. » ;
+                                        « .XXXIII. » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Tonnerre » ; « Tonnerre.
+                                        Don faict a Mrs de Fontenay de la terre deça et dela du pont
+                                        de Tonnerre et d’une autre proche la gragne de St Martin de
+                                        Molome et d’un prey a Senevoy dit la Noue, ou le seigneur du
+                                        lieu prent la moitié, en l’an 1205, cotté PPP » ; (1787)
+                                        « N° 22 / 1205 » </additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1205</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="B">
+                            <desc>ADCO 15 H 12* (cart. 203), fol. 27<hi rend="superscript">r-v</hi>
+                                (Tonnerre. PPP) : « <hi rend="italic">Restat sigillum</hi> » ; non
+                                collationné.</desc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 204<hi rend="superscript">v</hi> (Tonnerre.
+                            PPP)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 111<hi rend="superscript">v</hi> (Tonnerre.
+                            PPP)</bibl>
+                        <bibl>ADCO 15 H 3, p. 975 (XLIII. 11. 22) : « scellé d’un sceau de cire
+                            jaune à double queue de parchemin pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1205-12-31">1205</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_328_0008.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_328_0009.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                                        <p>Ego <persName key="stutzmann_himanis#324648" xml:id="d1e139545">Robertus, Dei gratia
+                                <placeName key="stutzmann_himanis#317574" xml:id="d1e139547">Lingonensis</placeName> episcopus</persName>, omnibus notum facio
+                        presentibus pariter et futuris quod <persName key="d1e14261" xml:id="d1e139551">Ytericus, miles de <hi rend="italic">
+                                <placeName key="stutzmann_himanis#324430" xml:id="d1e139554">Chaudesaul</placeName>
+                            </hi>
+                        </persName>, <lb n="2"/> et <persName key="d1e14267" xml:id="d1e139559">Oda</persName> uxor sua dederunt Deo et ecclesie beate Marie de
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e139562">Fonteneto</orgName> in
+                        perpetuam elemosinam pro animabus <lb n="3"/> suis et pro animabus
+                        antecessorum suorum terram quam possidebant ad <placeName key="stutzmann_himanis#324983" xml:id="d1e139568">Pontem Thornodori</placeName>
+                        citra viam et ultra <lb n="4"/> viam, et alteram portionem terre quam
+                        habebant juxta grangiam <placeName key="stutzmann_himanis#325012" xml:id="d1e139573">Sancti Martini Melundenensis</placeName>, et pratum unum apud <lb n="5"/>
+                        <placeName key="stutzmann_himanis#325023" xml:id="d1e139577">Sanevetum</placeName>
+                        quod vulgo <placeName key="stutzmann_himanis#324333" xml:id="d1e139581">
+                            <foreign>Noam</foreign>
+                        </placeName> vocant, quod partiuntur per medium cum <persName key="d1e14273" xml:id="d1e139585">Johanne, milite de <placeName key="stutzmann_himanis#325023" xml:id="d1e139587">Saneveto</placeName>
+                        </persName>, et nepotibus <lb n="6"/> suis, et est totum de prefate
+                            <persName key="d1e14279" xml:id="d1e139592">Ode</persName> hereditate.
+                        Quam videlicet elemosinam supradictus <persName key="d1e14286" xml:id="d1e139595">Ytericus</persName> et <lb n="7"/>
+                        <persName key="d1e14292" xml:id="d1e139600">Oda</persName> uxor sua
+                        memoratis fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e139603">Fonten<supplied>etensibus</supplied>
+                        </orgName>, cum heredibus ipsius <persName key="d1e14298" xml:id="d1e139608">Yterici</persName> et <persName key="d1e14304" xml:id="d1e139611">Ode</persName> legitime garantire <sic>greent<lb n="8" break="no"/>verunt</sic>. Hoc totum laudaverunt liberi ipsorum : <persName key="d1e14310" xml:id="d1e139619">Agnella</persName> scilicet, <persName key="d1e14316" xml:id="d1e139623">Pontius</persName> et <persName key="d1e14323" xml:id="d1e139626">Ytericus</persName>. Hoc etiam
+                        similiter lau<lb n="9" break="no"/>davit <persName key="d1e14329" xml:id="d1e139631">Bartholomeus <addName>Ad Pollices</addName>
+                        </persName> de cujus casamento cotura erat. Quod ut ratum habeatur, in
+                            pos<lb n="10" break="no"/>terum presentem paginam sigilli mei munimine
+                        roboravi. Actum anno gratie .M°. <figure/>CC°. <figure/>V°.</p>
+                
+            </body>
+        </text>
+    </TEI>

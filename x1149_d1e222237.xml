@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1149_d1e222237">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 22@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 43<hi rend="superscript">v</hi> (<hi rend="italic">Flaciacum</hi>, 12) ; table : « <hi rend="italic">Carta abbatis Flaviniaci de dono Haymonis Gygantis</hi> »</witness>
+                        <witness n="C">Cartulaire 2, fol. 101<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 12) ; table mutilée</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. @<hi rend="superscript">@</hi> (@@. @)</bibl>
+                        <bibl>ADCO 15 H 2, fol. @<hi rend="superscript">@</hi> (@@. @)</bibl>
+                        <bibl>ADCO 15 H 3 / 4, p. @ (@. @. @)</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1132-12-31" notAfter="1149-12-31">[1132 ... 1142-1143 ... 1149] <note>Les dates
+                            extrêmes sont données par la présence des abbés Guillaume de Fontenay
+                            (1132-1154) et Ainon (Agano) de Flavigny (avant 1142-1149, cf. DHGE, t.
+                            XVII, 17, col. 405). La présente approbation est sans doute postérieure
+                            à la deuxième pancarte, elle-même non datée mais sans doute de
+                            1140-1143, où la donation constitue le chapitre 26. Cette approbation y
+                            aurait sans doute été mentionnée. L'absence d'attestation d'Ainon avant
+                            1142 rend une datation vers 1142-1143 probable.</note>
+                    </date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+            <encodingDesc>
+                <editorialDecl>
+                    <ab>Collation non faite</ab>
+                </editorialDecl>
+            </encodingDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324676" xml:id="d1e151594">Agano Dei gratia <orgName key="stutzmann_himanis#284217" xml:id="d1e151596">Flaviniacensis</orgName>
+                        abbas</persName>, consulentibus et laudantibus fratribus nostris <persName key="stutzmann_himanis#324521" xml:id="d1e151600">Galterio priore</persName>,
+                        <persName key="stutzmann_himanis#324630" xml:id="d1e151603">Guidone
+                        sacrista</persName>, <persName key="stutzmann_himanis#324641" xml:id="d1e151606">Lamberto capellano nostro</persName>, verpivi totam calumpniam quam
+                    adversus ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e151609">Fonteneti</orgName> de dono quod eidem ecclesie de terris versus <placeName key="stutzmann_himanis#324356" xml:id="d1e151613">Saigniacum</placeName>
+                    <persName key="d1e22247" xml:id="d1e151615">Haymo filius <persName key="d1e22253" xml:id="d1e151617">Pontii <addName>Gygantis</addName>
+                        </persName>
+                    </persName> et <persName key="d1e22259" xml:id="d1e151622">Gaufridus frater
+                        ejus</persName> et <persName key="d1e22265" xml:id="d1e151625">Helysabez
+                        soror</persName> eorum fecerant habebamus et concessi donum sicut factum
+                    fuerat. Hoc actum est presente <persName key="d1e22271" xml:id="d1e151628">predicte ecclesie abbate Guillermo</persName>, testibus <persName key="d1e22278" xml:id="d1e151631">Godefrido milite de <placeName key="stutzmann_himanis#324356" xml:id="d1e151633">Saigniaco</placeName>
+                    </persName>, <persName key="d1e22284" xml:id="d1e151637">Bernardo
+                            <addName>Longo</addName> de <placeName key="stutzmann_himanis#324470" xml:id="d1e151642">Lucennaco</placeName>
+                    </persName>, <persName key="d1e22290" xml:id="d1e151645">Haymone
+                            <addName>Gormundo</addName> preposito <placeName key="stutzmann_himanis#324459" xml:id="d1e151650">Grinionis</placeName>
+                    </persName>, <persName key="d1e22296" xml:id="d1e151653">Richerio</persName> et
+                        <persName key="d1e22302" xml:id="d1e151656">Beleth</persName> rusticis de
+                        <placeName key="stutzmann_himanis#324356" xml:id="d1e151659">
+                        <foreign>Saigni</foreign>
+                    </placeName>.</p>
+            </body>
+        </text>
+    </TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1136_d1e209924">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original *3@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">Copie perdue dans Cartulaire 1 (<hi rend="italic">Puteolum</hi>. 1), attestée par la table : « I. Carta Lingonensis
+                            episcopi de terra de Bergerecis. »</witness>
+                        <witness n="C">Copie perdue, collationnée par J. Bigarne</witness>
+                        <witness n="D">Copie perdue, informelle.</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 257, pièce 14, fol. 5<hi rend="superscript">v </hi>: « L’an
+                                [<hi rend="italic">barré</hi> : 1148] 1100, Mr l’evesque de Langres
+                            nommé Vilencus, a la requeste de nouveaux religieux de Fonteney, par le
+                            moyen de St Bernard, abbé de Clairvaux et de son frere dom Gerard, son
+                            cellerier, leur donna la terre de Bergerosse, qui estoit du domaine de
+                            St Mammes, leur donna tout ce qu’il avoit des dixmes en Poyeulx,
+                            Vaucolon, Bergerosse et de toutes les terres qu’ils cultiveroient a
+                            Eschalo, obligeant a donner de cense 4 solz ou 4 deniers : les
+                            principaulx tesmoings de ce furent Foulcher, archidiacre de Langres,
+                            auquel St Bernard a escrit de belles lettres »</bibl>
+                        <bibl>ADCO 15 H 1, fol. 141<hi rend="superscript">v</hi> (Poiseul. F)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 94<hi rend="superscript">v</hi> (Poiseul. F) :
+                            « Donation de la terre de Bergeris au finage de Poiseul, faite par
+                            l’eveque de Langres aux religieux de Fontenet, a la prierre de st
+                            Bernard et de Gerard son frere auvec quittement de tous dixmes des
+                            terres de Fontenet a Echalotte, au finage de Poiseul et en Veaux le
+                            Bon »</bibl>
+                        <bibl>ADCO 15 H 4, p. 320 (XV. 12. 8) : « […] sans date […] titre en
+                            parchemin contenant don fait par révérend père Willelme évêque de
+                            Langres
+                            [<hi rend="italic" xml:space="preserve">dans l’interligne : </hi>Autun]
+                            à l’abbaye de Fontenet de la terre de Bergerosse près de Poiseul, avec
+                            acquittement des dîmes au finage d’Eschallot, de Poiseul et de Vaulebon,
+                            etc. et scellé d’un sceau qui y étoit autrefois à queue de parchemin
+                            pendant. Nota : cette pièce en renferme deux autres, dont une
+                            collationnée, signé Masnadault, abbé de Fontenet, Nadault, Leclerc, et
+                            Bigarne, notaire avec paraphe. L’autre n’est qu’une simple copie non
+                            signée sur papier libre »</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1125-01-01" notAfter="1136-08-31">[1125-1136, août] <note>Date d'après l'épiscopat de Guilenc à
+                            Langres</note>
+                    </date>
+                </creation>
+                <abstract>
+                <p><persName key="stutzmann_himanis#324646"
+                        corresp="Guillenc d'Aigremont, évêque de Langres (1125-1136)">Guillenc
+                        [d'Aigremont], évêque de Langres</persName>, à la demande <persName
+                        key="stutzmann_himanis#324533"
+                        corresp="Bernard I de Clairvaux, abbé de Clairvaux (1115-1153)">Bernard de
+                        Clairvaux</persName> et de son frère <persName
+                        key="stutzmann_himanis#325482" corresp="Gérard de Clairvaux (1138)"
+                        >Gérard</persName>, donne à l'abbaye de <orgName
+                        key="stutzmann_himanis#282689"
+                        corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenay</orgName> la terre
+                    de <placeName key="stutzmann_himanis#324409"
+                        corresp="Bergerosse (Côte-d'Or, Châtillon-sur-Seine)">Bergerosse</placeName>
+                    et des dîmes en plusieurs endroits. Parmi les témoins : <persName
+                        key="stutzmann_himanis#325484"
+                        corresp="Foucher, archidiacre de Langres (fl. 1136)">Foulcher, archidiacre
+                        de Langres</persName>.</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p/>
+            </body>
+        </text>
+    </TEI>

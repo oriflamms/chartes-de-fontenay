@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1170_d1e225650">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 57@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 32<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 21) ; table : « <hi rend="italic">Carta
+                                de bosco Petri Huldrei</hi> »</witness>
+                        <witness n="C">Dijon, Arch. dép. Côte d’Or, 1 F 423, fol. 21. — Papier.
+                            Copie par E. Petit d’après B.</witness>
+                        <witness n="a">a. Petit, t. II, p. 264, n° 347.</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps">Indiqué :</hi> Dijon, Arch. dép. Côte d’Or, 1 F
+                            423, fol. 36.</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1148" notAfter="1170">[1148-1170]<note>Date d'après l'épiscopat d'Henri
+                            de Bourgogne, évêque d’Autun (1148-1170/71) </note>
+                    </date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324588" xml:id="d1e153972">Henricus, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e153974">Eduensis</placeName>
+                        episcopus</persName>, tam futuris quam presentibus notum facio quod
+                        <persName key="d1e23381" xml:id="d1e153978">Petrus
+                            <addName>Huldrei</addName>
+                    </persName> et <persName key="d1e23388" xml:id="d1e153983">Haymo sororius
+                        ejus</persName> accensierunt monachis <orgName key="stutzmann_himanis#282689" xml:id="d1e153986">Fonteneti</orgName> nemus quod habebant contiguum finibus
+                        <placeName key="stutzmann_himanis#325060" xml:id="d1e153989">Villenarum</placeName> et
+                        <placeName key="stutzmann_himanis#324433" xml:id="d1e153993">Columberii</placeName> et
+                        <placeName key="stutzmann_himanis#324993" xml:id="d1e153996">
+                        <sic corresp="#B">Puteorum</sic>
+                    </placeName> ad censum <num>iiii</num>
+                    <hi rend="superscript">or</hi> solidorum proviniensis monete reddendorum in
+                    septimana penosa et habuerunt de intragio
+                    <hi rend="smallcaps" xml:space="preserve">viii </hi>libras. Hoc autem laudavit
+                        <persName key="d1e23394" xml:id="d1e154008">uxor ipsius <persName key="d1e23400" xml:id="d1e154010">Petri</persName>
+                    </persName> et <persName key="d1e23406" xml:id="d1e154014">Willermus filius
+                        ejus</persName>. Hujus rei testes sunt <persName key="d1e23412" xml:id="d1e154017">Andreas <placeName key="stutzmann_himanis#324487" xml:id="d1e154019">Montis Barri</placeName>
+                    </persName>, <persName key="d1e23418" xml:id="d1e154022">Robertus de <placeName key="stutzmann_himanis#324359" xml:id="d1e154024">Sancta Columba</placeName>
+                    </persName>, <persName key="d1e23425" xml:id="d1e154027">Symon de <placeName key="stutzmann_himanis#324438" xml:id="d1e154029">
+                            <foreign>Curtenge</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e23431" xml:id="d1e154033">Haymo
+                            <addName>Gormundi</addName>
+                    </persName>, <persName key="d1e23437" xml:id="d1e154038">Calo de <placeName key="stutzmann_himanis#324459" xml:id="d1e154040">Grinione</placeName>
+                    </persName>, <persName key="d1e23443" xml:id="d1e154044">Garnerius
+                        presbiter</persName> et <persName key="d1e23449" xml:id="d1e154047">Vaslinus
+                        major <placeName key="stutzmann_himanis#324450" xml:id="d1e154049">Fanii</placeName>
+                    </persName>.</p>
+            </body>
+        </text>
+    </TEI>

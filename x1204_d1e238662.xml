@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1204_d1e238662">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 216@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu, scellé de cire blanche</witness>
+                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 3<hi rend="superscript">v-</hi>4<hi rend="superscript">r</hi> (Princes, V) : « <hi rend="italic">Restat sigillum integrum in cera alba. »</hi>
+                        </witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps">Inventaire</hi> : ADCO 15 H 1, fol. XIV<hi rend="superscript">r</hi> (Princes, V)</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1204-01-31">1204, janvier [n. st.]</date>
+                </creation>
+                <abstract>
+                    <p>Régeste </p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e163335">Odo dux <placeName key="stutzmann_himanis#325098" xml:id="d1e163337">Burgundiae</placeName>
+                    </persName>, notum facio presentibus et futuris me concessisse fratribus
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e163340">Fontineti</orgName> unum
+                    denarium in uno quoque trossello in pedagio <placeName key="stutzmann_himanis#324426" xml:id="d1e163347">Castellionis</placeName> recipiendum a famulo ipsorum
+                    fratrum, quousque valens quingentas et sexaginta libras <sic>provinienses</sic>
+                    habuerint, de quibus eisdem fratribus pro patre meo quingentas libras et pro me
+                    sexaginta debeo. Incipere autem debet receptio praedictorum nummorum in quindena
+                    instantis Paschae. Actum est hoc anno incarnati verbi millesimo ducentesimo
+                    tertio mense januario.</p>
+            </body>
+        </text>
+    </TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1173_d1e227411">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 72[bis]@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu.</witness>
+                        <witness n="B">ADCO 15 H 320, pièce 7. — Première pièce dans un vidimus de 3
+                            actes <hi rend="background(red)">[acte n° @@]</hi> par Marguerite,
+                            prieure de Juilly. — Parchemin ; 170 x 190 mm ; justification 185 x
+                            140 mm ; réglure effacée ; repli absent, une longue entaille centrale ;
+                            écriture diplomatique. Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                            <hi rend="superscript">e</hi> s.) « Transcriptum cartarum de Juleis » ;
+                            « Fontanarum » ; gratté « XXIII » ( ?) ; « .XXV<hi rend="superscript">a</hi>. » ; (<hi rend="smallcaps">xvii</hi>
+                            <hi rend="superscript">e</hi> s.) « Fontainnes les Seiches » ; (1787)
+                            « N° 2 / 1177 »</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1 et ADCO 15 H 2, absent</bibl>
+                        <bibl>B. : ADCO 15 H 3, p. 883 (XXXIX. 2. 2) : « scellé d’un sceau de cire
+                            jaune à queue de parchemin pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1163-01-01" notAfter="1173-12-31">[1163-1173…1180]<note>Gautier, évêque de Langres : 1163-1180 ; Renaud,
+                            doyen de Montbard, attesté jusqu’en 1173 ; suivi par Eudes, attesté dans
+                            des actes non datés : 1173-1189. ; Bernard Nariod : attesté de …1162 à
+                            1174 …(En 1162 : ADCO 15 H 243 / 2 ; en 1171 : ADCO 15 H 249 / 2 ; en
+                            1173 : ADCO 15 H 249 / 9, et Cartulaire 1, fol. 46<hi rend="superscript">r-</hi>48<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 31) ; en 1174, Cartulaire 1, fol. 25<hi rend="superscript">v</hi>-27<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 11). Parmi les actes non datés, les
+                            intervalles sont 1154-1162 (ADCO 15 H 190 / 7) ; 1148-1170 (<hi rend="italic">Abbatia</hi>, 8 ; <hi rend="italic">Flaciacum</hi>,
+                            15) ; 1163-1179 (ADCO 15 H 156 / 4) ; et <hi rend="italic">Abbatia</hi>,
+                            32, daté en fonction de Bernard Nariod.) </note></date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324566" xml:id="d1e155317">Gauterius, Dei gratia
+                            <placeName key="stutzmann_himanis#317574" xml:id="d1e155319">Lingonensis</placeName> episcopus</persName>, notum facio futuris et
+                    presentibus quod dominus <persName key="d1e24183" xml:id="d1e155323">Rainerius
+                        de <placeName key="stutzmann_himanis#325023" xml:id="d1e155325">Saneveto</placeName>
+                    </persName> in elemosina et sine occasione concessit sanctimonialibus <orgName key="stutzmann_himanis#281651" xml:id="d1e155328">sancte Marie Juliaci</orgName>
+                    partem suam terre illius quam a <persName key="d1e24189" xml:id="d1e155331">Guiardo</persName> et <persName key="d1e24195" xml:id="d1e155334">Johanne
+                        avunculis suis</persName> antequam fuisset miles habebant, et pasturam per
+                    totum finagium <placeName key="stutzmann_himanis#325007" xml:id="d1e155338">Sanaveti</placeName>, et aquam ad aquandum ad universa animalia
+                        <add>domus</add>, ea pactione quod dampna ubicumque facerent illa redderent
+                    sine forisfacto et occasione donec predictis sanctimonialibus .XX<hi rend="superscript">ti</hi>. et II<hi rend="superscript">o</hi>. libras
+                    divionensis monete redderet. Et laudavit quicquid avunculi sui eisdem dederant
+                    vel invadiaverant, laude et <sic corresp="#B">asensu</sic>
+                    <persName key="d1e24202" xml:id="d1e155352">
+                        <foreign>Damnun</foreign> uxoris sue</persName>, <persName key="d1e24208" xml:id="d1e155358">Eluidis</persName> et <persName key="d1e24214" xml:id="d1e155361">Johannis</persName> de quorum casamento terra pendet.
+                    Hujus rei testes sunt <persName key="d1e24220" xml:id="d1e155364">Renaudus
+                        decanus <placeName key="stutzmann_himanis#324487" xml:id="d1e155366">Montis
+                            Barri</placeName>
+                    </persName>, <persName key="d1e24226" xml:id="d1e155369">Hubertus presbiter
+                            <placeName key="stutzmann_himanis#324350" xml:id="d1e155371">Raveriarum</placeName>
+                    </persName>, <persName key="d1e24232" xml:id="d1e155374">Guillelmus de
+                            <placeName key="stutzmann_himanis#324485" xml:id="d1e155376">Monla</placeName>
+                    </persName>, <persName key="d1e24239" xml:id="d1e155379">Hugo <placeName key="stutzmann_himanis#324331" xml:id="d1e155381">Naellarum</placeName>
+                    </persName>, <persName key="d1e24245" xml:id="d1e155385">Bernardus <addName>
+                            <foreign>Narioz</foreign>
+                        </addName>
+                    </persName>. </p>
+            </body>
+        </text>
+    </TEI>

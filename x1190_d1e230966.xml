@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1190_d1e230966">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original *219 bis@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="l">liens avec 15 H 357 / 1 et 3 (Tonnerre. HHHH)</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, <hi rend="background(red)">fol. @</hi> (@@@. <hi rend="background(red)">@</hi>)</bibl>
+                        <bibl>ADCO 15 H 2, <hi rend="background(red)">fol. @</hi>
+                            <hi rend="superscript background(red)">@</hi> (@@@. <hi rend="background(red)">@</hi>)</bibl>
+                        <bibl>ADCO 15 H 3, p. 195 (XX. 1. 1) : « […] en date de 1190 […] titre latin
+                            en parchemin, contenant vente faite à MM. de Fontenet par Renaud vicomte
+                            de Quincy, de huit septiers de bled, moitié froment et avène et 10 s. de
+                            revenus qui lui étoient dûs à la grange d’Estormay, etc. et scellé d’un
+                            sceau de cire jaune à queue de peau jaune pendant »</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1190-12-31">1190</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p/>
+            </body>
+        </text>
+    </TEI>

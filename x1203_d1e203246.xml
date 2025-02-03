@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1203_d1e203246">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 2103</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A1">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 278, pièce 1</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>113/107</height>
+                                                  <width>140</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>75</height>
+                                                  <width>130</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="12">réglure non vue
+                                                (piqûres latérales ne correspondant pas aux
+                                                lignes) ; repli de 5/15 mm, avec une simple entaille
+                                                et bande de parchemin écrite à l'intérieur, fragment
+                                                d’un autre acte « <hi rend="italic">Chaudesaul et
+                                                  Oda uxor sua laudantibus</hi> » (cf. ADCO 15 H 328
+                                                / 4). Mention hors teneur : devise chirographaire
+                                                « CYROGRAPHUM ».</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) mention effacée lue à la
+                                        lampe de Wood « Carta domine Aalis de Asneriis super … » ;
+                                            (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « A » ; « Raviere. Don
+                                        fait par dame Alix de Raviere de la quatrieme partie des
+                                        dixmes qu’elle avoit a Ravieres a Mrs de Fontenay. 1203.
+                                        Cotté D » ; (1787) « N° 1 / 1203 »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1203@circa</origDate>
+                                        <p>date pcq lien avec 15 H 278 / 2</p>
+                                        <p>morceau du repli : « <hi rend="italic">Chaudesaul et Oda
+                                                uxor sua laudantibus</hi> » : Itier et <hi rend="italic">Oda</hi>, cf. 15 H 328, pièce 4, daté
+                                            de 1205 ; Cartulaire 1, fol. 35<hi rend="superscript">v</hi>-36<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 33), daté de 1211</p>
+                                        <p>
+                                            <hi rend="background(green)">comparer listes de témoins
+                                                avec Jaliacum 7 pour identifications</hi>
+                                        </p>
+                                        <p>
+                                            <hi rend="background(red)">la copie de Bigarne est
+                                                apparemment 15 H 278 (17) et correspond à 15 H 278
+                                                (2), pourtant celui-ci n’a pas de cote du 18</hi>
+                                            <hi rend="superscript background(red)">e</hi>
+                                            <hi rend="background(red)" xml:space="preserve"> s. au dos ; d’où la confusion des dates ? actes anciennement attachés ?</hi>
+                                        </p>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="A2">Original perdu</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 164<hi rend="superscript">r</hi> (Ravières.
+                            D)</bibl>
+                        <bibl>ADCO 15 H 2, fol. @<hi rend="superscript">@</hi> (Ravières. D)</bibl>
+                        <bibl>ADCO 15 H 278, pièce 11, fol. 1<hi rend="superscript">v</hi>
+                        </bibl>
+                        <bibl>ADCO 15 H 3, p. 721 (XXXVI. 3. 1), pour 15 H 178, pièces 1 et 2 :
+                            « scellé d’un sceau de cire jaune à double queue de parchemin pendant.
+                            Nota : est joint à ce titre une copie collationnée sur papier, par
+                            Bigarne, notaire à Montbard ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1203">[vers 1203]</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_278_0002.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_278_0003.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body> <p>Ego <persName key="d1e13694" xml:id="d1e137721">Bernardus, dictus abbas
+                                <orgName key="stutzmann_himanis#282689" xml:id="d1e137723">Fonten(etensis)</orgName>
+                        </persName>, per hujus <sic corresp="#A1">cyrophi</sic> scriptum notum facio
+                            <lb n="2"/> universis quod domina <persName key="d1e13700" xml:id="d1e137731">Aalaiz de <placeName key="stutzmann_himanis#324373" xml:id="d1e137733">Asneriis</placeName>
+                        </persName>, laudante <persName key="d1e13706" xml:id="d1e137736">Margarita</persName> filia sua, dedit in perpetu<lb n="3" break="no"/>am elemosinam ecclesie nostre de <orgName key="stutzmann_himanis#282689" xml:id="d1e137742">Fonten(eto)</orgName> pro salute anime sue quartam
+                        partem decime bla<lb n="4" break="no"/>di apud <placeName key="stutzmann_himanis#324350" xml:id="d1e137747">Raverias</placeName>, quam de
+                        proprio alodio suo ibi possidebat, et de hoc adversus omnes homines <lb n="5"/> nobis garantiam portabit. Nos vero intuitu caritatis et pacis
+                        dabimus ei annuatim ad <lb n="6"/> festum Sancti Remigii quamdiu vixerit et
+                        ubicumque fuerit .L. solidos illius monete que cursalis <lb n="7"/> erit in
+                        terra ducis. Insuper fecimus eam participem omnium beneficiorum que fient in
+                            do<lb n="8" break="no"/>mo nostra et plenarium servicium ei in obitu suo
+                        sicut uni monachorum nostrorum persolvemus. <lb n="9"/> Hujus rei testes
+                        sunt <persName key="d1e13712" xml:id="d1e137761">Humbertus
+                            grangiarius</persName>, <persName key="d1e13718" xml:id="d1e137764">Hugo
+                            cellerarius</persName>, <persName key="d1e13724" xml:id="d1e137767">Adam</persName> monachi nostri, <persName key="d1e13731" xml:id="d1e137771">Leo<lb n="10" break="no"/>nardus presbiter de
+                                <placeName key="stutzmann_himanis#324475" xml:id="d1e137775">Marmania</placeName>
+                        </persName>, <persName key="d1e13737" xml:id="d1e137778">Girardus de
+                                <placeName key="stutzmann_himanis#324373" xml:id="d1e137780">Asneriis</placeName>
+                        </persName>, maritus prefate <persName key="d1e13743" xml:id="d1e137783">Margarite</persName>, <persName key="d1e13749" xml:id="d1e137786">Teobaudus <lb n="11"/> prepositus de <placeName key="stutzmann_himanis#324487" xml:id="d1e137790">Monte Barro</placeName>
+                        </persName>. Ad cujus rei memoriam sigillum meum cyrographo presenti appo<lb n="12" break="no"/>sui.</p>
+                
+            </body>
+        </text>
+    </TEI>

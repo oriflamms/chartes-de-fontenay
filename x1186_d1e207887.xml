@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1186_d1e207887">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 2568 + Access n° 2570</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A1">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 199, pièce 4</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>222/215</height>
+                                                  <width>222</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>180</height>
+                                                  <width>195</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="15">réglure à la mine
+                                                de plomb (8, 6, 195, 5, 5 x 180 x 40 mm) ; repli de
+                                                20 mm, à une entaille simple. Mention hors teneur :
+                                                (marge gauche, haut des lettres seulement)
+                                                « CI RO GRAPHUM »</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mention hors teneur : (sur le repli) « .xvi. ».
+                                        Mentions dorsales : (<hi rend="smallcaps">xii-xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Raimundi de Lucenn. » ;
+                                            (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « De estormer » ; « .X<hi rend="superscript">a</hi> » ; « de pasturis Lucenaii » ;
+                                            (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Estormey » ; « LLL » ;
+                                        « Estormey. Don du pasturage en tout le finage de Lucenay
+                                        l’an 1186, cotte LLL » ; (1787) « N° 4 / 1186 » ; (<hi rend="smallcaps">xviii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Cent trente neuf. Alex.
+                                        Derepas ».</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1186</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="A2">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 199, pièce 6</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>220</height>
+                                                  <width>222</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>180</height>
+                                                  <width>195</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="15">réglure (7, 7,
+                                                195, 6, 7 x 185, 45 mm) ; repli de 20 mm à une
+                                                simple entaille centrale</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mention hors teneur : (marge gauche, haut des lettres
+                                        seulement) « CI RO GRAPHUM ». Mentions dorsales : (<hi rend="smallcaps">xii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Raimundi de Lucenn. » ;
+                                        « de pasturis Lucennaci » ; (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Estormer » ; « X<hi rend="superscript">a</hi> » ; (barré) « IIII<hi rend="superscript">a</hi> » ; « V<hi rend="superscript">a</hi> » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Estormey » ; « II » ;
+                                        « Droit de pasturage accordé a Mrs de Fontenay par Remond de
+                                        Lucenay dans tous les bois et terres dud. Lucenay specifiees
+                                        aud. titre l’an 1186 cotte BB » ; (au-dessus de l’analyse
+                                        précédente) « Lucenay » ; (1787) « N° 4 / 1186 »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1186</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="a">
+                            <bibl sameAs="#Petit1885">
+                                <biblScope>t. III, p. 367, n° 998</biblScope>
+                            </bibl>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 56<hi rend="superscript">v</hi>-57<hi rend="superscript">r</hi> (Etormay. II)<note xml:id="ftn684-1" n="684-1"> La cote BB, indiquée en grand, ne correspond pas aux
+                                inventaires, ni pour Etormay, ni pour Bussy-Lucenay.</note>. </bibl>
+                        <bibl>ADCO 15 H 1, fol. 61<hi rend="superscript">r</hi> (Etormay. LLL). </bibl>
+                        <bibl>ADCO 15 H 2, fol. 48<hi rend="superscript">r</hi> (Etormay. II)<note xml:id="ftn685-1" n="685-1"> La cote BB, indiquée en grand, ne
+                                correspond pas aux inventaires, ni pour Etormay, ni pour
+                                Bussy-Lucenay.</note>. </bibl>
+                        <bibl>ADCO 15 H 2, fol. 50<hi rend="superscript">v</hi> (Etormay. LLL). </bibl>
+                        <bibl>ADCO 15 H 3, p. 95 (VI<hi rend="superscript">2</hi>. 3. 4) : « scellé
+                            d’un grand sceau représentant un évêque, à queue de peau blanche pendant
+                            ». </bibl>
+                        <bibl>ADCO 15 H 3, p. 267 (XX. 10. 4) : « scellé d’un sceau de cire jaune à
+                            queue de peau jaune pendant » </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1186-12-31">1186</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_199_0008.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_199_0009.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_199_0012.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_199_0013.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                                        <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e140906">Stephanus, Dei gratia
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e140908">Eduensis</placeName> episcopus</persName>, notum facio omnibus tam
+                        futuris quam presentibus <lb n="2"/> quod <persName key="d1e14711" xml:id="d1e140914">
+                            <app>
+                                <lem wit="A2">Raimundus</lem>
+                                <rdg wit="A1">Raimudus</rdg>
+                            </app> de <placeName key="stutzmann_himanis#324470" xml:id="d1e140921">Lucennaco</placeName>
+                        </persName> in obitu suo dedit domui et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e140924">Fonteneti</orgName> pro <lb n="3"/> remedio anime sue, patris quoque ac matris, fratrum et sororum,
+                        necnon et antecessorum suorum pasturas <lb n="4"/> territorii de <placeName key="stutzmann_himanis#324470" xml:id="d1e140932">Lucennaco</placeName> tam in
+                        bosco quam in plano, sicut dividit chiminus qui <lb n="5"/> ducit de
+                            <placeName key="stutzmann_himanis#324426" xml:id="d1e140937">Castellione</placeName> versus <placeName key="stutzmann_himanis#322865" xml:id="d1e140940">
+                            <app>
+                                <lem wit="A1">Flaviniacum</lem>
+                                <rdg wit="A2">Flavineium</rdg>
+                            </app>
+                        </placeName> a parte <placeName key="stutzmann_himanis#324370" xml:id="d1e140947">Tullionis</placeName> usque ad ipsum chiminum, <lb n="6"/> hoc retento
+                        quod si animalia eorum in pratis vel in bladis dampnum aliquod intulerint
+                            <lb n="7"/> ipsi dampnum illatum restituant sine alia emendatione. Hoc
+                        ipsum laudavit <persName key="d1e14717" xml:id="d1e140955">Agnes</persName>
+                        <lb n="8"/> mater ejusdem <persName key="d1e14723" xml:id="d1e140959">Raimundi</persName> et <persName key="d1e14730" xml:id="d1e140962">Margarita</persName> uxor ejus et <persName key="d1e14736" xml:id="d1e140966">Helisabeth</persName> soror ejus et <persName key="d1e14742" xml:id="d1e140969">Gille<lb n="9" break="no"/>bertus de
+                                <placeName key="stutzmann_himanis#324460" xml:id="d1e140973">Grisinneio</placeName>
+                        </persName>, maritus ejusdem <persName key="d1e14748" xml:id="d1e140976">Helisabeth</persName>. Horum omnium testes sunt <persName key="d1e14754" xml:id="d1e140979">Willelmus, <lb n="10"/> prior <orgName key="stutzmann_himanis#282689" xml:id="d1e140983">Fonteneti</orgName>
+                        </persName>, <persName key="d1e14760" xml:id="d1e140986">Philippus de
+                                <placeName key="stutzmann_himanis#325251" xml:id="d1e140988">Curte
+                                Rabodi</placeName>
+                        </persName> monachus, <persName key="d1e14767" xml:id="d1e140991">Andreas de
+                                <placeName key="stutzmann_himanis#324421" xml:id="d1e140993">Busseio</placeName>
+                        </persName>
+                        <app>
+                            <lem wit="A1">monachus</lem>
+                            <rdg wit="A2"> monacus</rdg>
+                        </app>, <lb n="11"/>
+                        <persName key="d1e14773" xml:id="d1e141003">Matheus <app>
+                                <lem wit="A2">monacus</lem>
+                                <rdg wit="A1"> monachus</rdg>
+                            </app> de <orgName key="stutzmann_himanis#284222" xml:id="d1e141011">Firmitate</orgName>
+                        </persName>, <persName key="d1e14779" xml:id="d1e141014">Bernardus magister
+                            de <placeName key="stutzmann_himanis#324449" xml:id="d1e141016">
+                                <foreign>Estormer</foreign>
+                            </placeName>
+                        </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e141020">Odo
+                            archipresbiter <lb n="12"/> de <placeName key="stutzmann_himanis#324370" xml:id="d1e141024">Tullione</placeName>
+                        </persName>, <persName key="d1e14785" xml:id="d1e141027">Walterius canonicus
+                                <placeName key="stutzmann_himanis#319548" xml:id="d1e141029">Eduensis</placeName>
+                        </persName>, <persName key="d1e14791" xml:id="d1e141033">Walterius de
+                                <placeName key="stutzmann_himanis#324407" xml:id="d1e141035">Bennopera</placeName>
+                        </persName>, <persName key="d1e14797" xml:id="d1e141038">Milo de <placeName key="stutzmann_himanis#324467" xml:id="d1e141040">
+                                <foreign>Len<lb n="13" break="no"/>tille</foreign>
+                            </placeName>
+                        </persName>, <persName key="d1e14804" xml:id="d1e141046">Annas de <placeName key="stutzmann_himanis#324470" xml:id="d1e141048">Lucennaco</placeName>
+                        </persName>, miles ejusdem <persName key="d1e14810" xml:id="d1e141051">Raimundi</persName>, <persName key="d1e14816" xml:id="d1e141054">Robertus major <placeName key="stutzmann_himanis#324421" xml:id="d1e141056">Bus<lb n="14" break="no"/>seii</placeName>
+                        </persName>, <persName key="d1e14822" xml:id="d1e141061">Rainaudus major
+                                <placeName key="stutzmann_himanis#324370" xml:id="d1e141063">Tullionis</placeName>
+                        </persName>, <persName key="d1e14828" xml:id="d1e141067">Johannes de
+                                <placeName key="stutzmann_himanis#324370" xml:id="d1e141069">Tullione</placeName> filius <persName key="d1e14834" xml:id="d1e141072">Roberti</persName>
+                        </persName>. <lb n="15"/> Factum est hoc anno ab incarnatione Domini .M°.
+                        C°. LXXX° VI°.</p>
+                
+            </body>
+        </text>
+    </TEI>

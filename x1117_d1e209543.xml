@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1117_d1e209543">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 1@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 23<hi rend="superscript">r-v</hi> (<hi rend="italic">Abbatia</hi>, 6) ; table : « <hi rend="italic">Carta
+                                abbatis Mollismensis de dono domni Martini</hi> »</witness>
+                        <witness n="C">Paris, Bibl. nat. de France, ms. Collection Bourgogne 74,
+                                fol. 175<hi rend="superscript">v</hi>. —
+                            Papier.<hi rend="background(red)" xml:space="preserve"> non collationné</hi>,
+                            d’après A (« <hi rend="italic">Ex chartario Fonteneti</hi> ») et renvoi
+                            à B (« Cartulaire de l’abbaïe de Fontenay »).</witness>
+                        <witness n="D">Dijon, Arch. dép. Côte d’Or, 1 F 216, fol. 39-40, d’après
+                            a.</witness>
+                        <witness n="E">Dijon, Arch. dép. Côte d’Or, 1 F 423, fol. 2-4. — Papier.
+                            Copie par E. Petit d’après a.</witness>
+                        <witness n="a">
+                            <bibl sameAs="#Plancher1739">
+                                <biblScope>t. I, preuve p. xxxvii, n° L</biblScope>
+                                <note>D’après C</note>
+                            </bibl>
+                        </witness>
+                        <witness n="b">
+                            <bibl sameAs="#Laurent1907">
+                                <note>b. Fragment réimprimé d’après a : </note>
+                            </bibl>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>Paris, Bibl. nat. de France, Ms. Baluze 143,
+                            fol. 276<hi rend="superscript" xml:space="preserve">v </hi>(notes de
+                            P.-F. Chifflet, « ex duobus tabulariis »)</bibl>
+                        <bibl sameAs="#Chifflet1660">Chifflet<biblScope>p. 563 : « Stephano Eduensi
+                                episcopi, G. Molismensis abbas concedit locum, in quo frater
+                                Martinus eremita morabatur, ut ibi fiat abbatia fratrum regularium,
+                                juxta institutionem S. Benedicti viventium »</biblScope></bibl>
+                        <bibl sameAs="#Petit1885">
+                            <biblScope>t. I, p. 461, n° 171</biblScope>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                <date type="documentCreation" notAfter="1117-12-31">[1117]</date>
+            </creation>
+                <abstract>
+                    <p>Lettre de G[uy], abbé de Molesme, à Etienne [I de Baugé], évêque d’Autun,
+                    portant don, à la demande de l'évêque, de l'ermitage de frère Martin, dans le
+                    bois dit "Chastelum" à la charge d’y bâtir une abbaye bénédictine.</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Domino reverentissimo <persName key="stutzmann_himanis#324643"
+                    corresp="Étienne Ier de Baugé, évêque d'Autun (1112 -1139)">Stephano Dei gratia
+                        <placeName key="stutzmann_himanis#319548"
+                        corresp="Autun (Saône-et-Loire, Autun)">Eduensi</placeName>
+                    episcopo</persName> et omni ipsius ecclesie devotissimo clero, <persName
+                    key="stutzmann_himanis#325465" corresp="Gui, abbé de Molesme (ca. 1117)">frater
+                    G. <orgName key="stutzmann_himanis#283278"
+                        corresp="abbaye Notre-Dame de Molesme(s) (1075 - 1790)"
+                        >Molismensis</orgName> cenobii abbas</persName> licet indignus cum omni
+                fratrum suorum conventu salutem vite presentis et future. Quia vestre pie petitioni
+                que nobis in presenti beate Marie assumptione per clericum vestrum in nostro
+                capitulo devote offertur resistere nec volumus nec debemus, sancte vestre voluntati
+                quod petitis concedimus ut locus ille videlicet in quo <persName
+                    key="stutzmann_himanis#325467" corresp="Martinus heremita (ca. 1117)">frater
+                    Martinus hermita</persName> morabatur pro voto et desiderio vestro abbatia
+                fratrum regularium juxta institutionem almi patris Benedicti viventium fiat, ut
+                autem et nos eorum beneficiis eorum congaudendo remunerationis quoque participes
+                vobiscum inveniri mereamur, hac presenti paginula etiam concessionem nostram
+                firmamus sigillique nostri impressione roboramus quatinus tam presentes quam futuri
+                et vestre petitionis et nostre concessionis certitudinem habeant utrorumque paci et
+                quieti in posterum studentes. Hoc ergo in predicta festivitate in commune
+                firmavimus. Sed ne aliqua scrupulositas inde oriatur etiam locum ipsum nostre
+                concessionis denominamus. Concedimus vobis locum <persName
+                    key="stutzmann_himanis#325467" corresp="Martinus heremita (ca. 1117)">fratris
+                    Martini</persName> cum omnibus appendiciis suis, nemus videlicet quod <placeName
+                    key="stutzmann_himanis#325243" xml:id="d1e141931">
+                    <foreign>Chastelum</foreign>
+                </placeName> vocatur ea videlicet ratione et devotione qua supra definivimus sub
+                presentia totius capituli nostri, domno <persName key="stutzmann_himanis#325463"
+                    corresp="Gautier, prieur de Molesme (ca. 1117)">Galterio priore</persName> cum
+                ceteris prioribus, <persName key="stutzmann_himanis#325468"
+                    corresp="Thibaut, prieur de Molesme (ca. 1117)">Teobaudo</persName> scilicet et
+                    <persName key="stutzmann_himanis#325470"
+                    corresp="Deodatus, prieur de Molesme (ca. 1117)">Deodato</persName> laudante,
+                    <persName key="stutzmann_himanis#325472"
+                    corresp="Richer, camérier de Molesme (ca. 1117), Richerius camerarius Molismensis"
+                    >Richerio camerario</persName> et <persName key="stutzmann_himanis#325474"
+                    corresp="Robert, cellérier de Molesme (ca. 1117)">Roberto cellerario</persName>
+                cum ceteris omnibus confirmantibus. Valete.</p>
+            </body>
+        </text>
+    </TEI>

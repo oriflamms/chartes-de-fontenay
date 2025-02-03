@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1200_d1e204978">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 2270 + Access n° 2271</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A1">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 320, pièce 1</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>255</height>
+                                                  <width>207</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>220</height>
+                                                  <width>195</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="18"> réglure à la mine
+                                                de plomb effacée ; repli absent ou coupé ; deux
+                                                entailles simples. Mention hors teneur : marge sup.,
+                                                bas des lettres « CY RO GRA PH UM ».</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture livresque</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « .C. de pasturis
+                                        Sanaveti » ; « X » ; (<hi rend="smallcaps">xiv-xv</hi>
+                                        <hi rend="superscript">e</hi> s.) « Senevoy » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Sennevoy. Accord entre
+                                        les religieux abbé et couvent de Fontenay et les religieuses
+                                        de Jully pour la communauté des pasturages et usages de
+                                        Sennevoy. 1200 » ; « Cett. Jully. Senevoy. Accord avec les
+                                        religieux de Fontenay pour les pâturages de Senevoy.
+                                        1200 »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1200</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="A2">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 320, pièce 2</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>250</height>
+                                                  <width>210</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>220</height>
+                                                  <width>200</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="18">réglure à la mine
+                                                de plomb effacée ; repli absent ou coupé ; deux
+                                                entailles simples ; écriture livresque adaptée.
+                                                Mention hors teneur : marge sup., haut des lettres,
+                                                à l’envers « CY RO GRA PH UM ». </layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture livresque</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Carta de communitate
+                                        inter nos et Juliacenses. » ; gratté « XXIIII. » ;
+                                        « Font. » ; « .XXVI<hi rend="superscript">a</hi> » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Senevoy » ; « Senevoy.
+                                        Accord faict entre les dames religieuses de Juilly et les
+                                        religieux de Fontenay au faict du pasturage a Senevoy. 1200.
+                                        Cotte I » ; (1787) « N° 7 / 1200 »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1200</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="a">
+                            <bibl sameAs="#Jobin1891">
+                                <biblScope>p. 630 n° 59</biblScope>
+                            </bibl>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 182<hi rend="superscript">v</hi> (Senevoy. I)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 105<hi rend="superscript">v</hi> (Senevoy. I)</bibl>
+                        <bibl>ADCO 15 H 3, p. 884 (XXXIX. 2. 7) : « Et scellé d’un sceau qui y étoit
+                            autrefois »</bibl>
+                        <bibl sameAs="#Petit1885">
+                            <biblScope>p. 31, avec édition partielle</biblScope>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1200-12-31">1200</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_320_0002.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_320_0003.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_320_0004.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_320_0005.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                                        <p>Ego <persName key="d1e14057" xml:id="d1e138918">Bernardus, dictus abbas
+                                <orgName key="stutzmann_himanis#282689" xml:id="d1e138920">Fonteneti</orgName>
+                        </persName>, et ego <persName key="d1e14064" xml:id="d1e138923">Margarita,
+                            priorissa <orgName key="stutzmann_himanis#281651" xml:id="d1e138925">Juliaci</orgName>
+                        </persName>, no<lb n="2" break="no" corresp="#A2"/>tum <lb n="2" corresp="#A1"/> fieri volumus presentibus pariter et futuris quod
+                        querela que vertebatur <lb n="3" corresp="#A2"/> inter domum <lb n="3" corresp="#A1"/>
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e138936">Fonteneti</orgName> et
+                        domum <orgName key="stutzmann_himanis#281651" xml:id="d1e138939">Juliaci</orgName>
+                        super pasturis de <placeName key="stutzmann_himanis#325023" xml:id="d1e138942">Saneveto</placeName>, quas pars utra<lb n="4" break="no" corresp="#A2"/>que partim guage<lb n="4" break="no" corresp="#A1"/>ria partim elemosina
+                        possidebat, de utriusque capituli assensu <lb n="5" corresp="#A2"/> hoc modo
+                        pacificata <lb n="5" corresp="#A1"/> est. Videlicet quod animalia seu
+                        peccora utriusque domus eisdem <lb n="6" corresp="#A2"/> pasturis in commune
+                            uten<lb n="6" break="no" corresp="#A1"/>tur secundum possibilitatem
+                        utriusque domus. Si vero pro <app>
+                            <lem wit="#A1">adquisitione</lem>
+                            <rdg>acquisitione</rdg>
+                        </app>
+                        <lb n="7" corresp="#A2"/> pasturarum <lb n="7" corresp="#A1"/> quas utrique
+                        in vadimonio habemus expensas fieri contigerit, per medium per<lb n="8" break="no" corresp="#A2"/>solventur, <lb n="8" corresp="#A1"/> et <app>
+                            <lem wit="#A1">adquisitio</lem>
+                            <rdg wit="#A2">acquisitio</rdg>
+                        </app> ipsa assensu utriusque partis fiat. Carte vero quas de eisdem <lb n="9" corresp="#A2"/> pasturis <orgName key="stutzmann_himanis#281651" xml:id="d1e138980">Juli<lb n="9" break="no" corresp="#A1"/>acenses</orgName> habent, huic compositioni obviare non poterunt. Hec
+                            autem<lb n="10" corresp="#A2"/> communitas solun<lb n="10" break="no" corresp="#A1"/>modo de pasturis et de aasentiis aquarum facta est.
+                        Ceterum de fun<lb n="11" break="no" corresp="#A2"/>do terre in pratis et
+                        terris pre<lb n="11" break="no" corresp="#A1"/>fati territorii prout queque
+                        domus sibi <app>
+                            <lem wit="#A1">adquisivit</lem>
+                            <rdg wit="#A2">acquisivit</rdg>
+                        </app> emptione <lb n="12" corresp="#A2"/> vel elemosina vel <app>
+                            <lem wit="#A1">ad<lb n="12" break="no" corresp="#A1"/>quirere</lem>
+                            <rdg wit="#A2">acquirere</rdg>
+                        </app>poterit, sine contradictione alterius sibi adquirat. Et quia <lb n="13" corresp="#A2"/> sanctimoniales in pasturarum <lb n="13" corresp="#A1"/>
+                        <app>
+                            <lem wit="#A1">adquisitione</lem>
+                            <rdg wit="#A2">acquisitione</rdg>
+                        </app> amplius se gravari conquerebantur, de be<lb n="14" break="no" corresp="#A2"/>neficio ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e139022">Fonteneti</orgName>
+                        <lb n="14" corresp="#A1"/> XXX<hi rend="superscript">ta</hi>. libras
+                        provinensium habuerunt. Hujus rei testes sunt : <persName key="d1e14070" xml:id="d1e139030">Gervasius came<lb n="15" break="no" corresp="#A2"/>rarius</persName>, <persName key="d1e14076" xml:id="d1e139035">Ysenbardus <lb n="15" corresp="#A1"/> capellanus <orgName key="stutzmann_himanis#281651" xml:id="d1e139039">Juliaci</orgName>
+                        </persName>, <persName key="d1e14082" xml:id="d1e139042">Hugo</persName> et
+                            <persName key="d1e14088" xml:id="d1e139045">Willelmus cellerarii
+                                <orgName key="stutzmann_himanis#282689" xml:id="d1e139047">Fonten(eti)</orgName>
+                        </persName>, <persName key="d1e14094" xml:id="d1e139050">Josbertus de <lb n="16" corresp="#A2"/>
+                            <foreign>Masi</foreign>
+                        </persName> et <persName key="d1e14101" xml:id="d1e139057">Johannes <lb n="16" corresp="#A1"/> de <placeName key="stutzmann_himanis#325023" xml:id="d1e139061">Saneveto</placeName>
+                        </persName>, milites, <persName key="d1e14107" xml:id="d1e139064">Theobaudus
+                            prepositus <placeName key="stutzmann_himanis#324487" xml:id="d1e139066">Montis
+                                Barri</placeName>
+                        </persName>. Quod totum <lb n="17" corresp="#A2"/> ut ratum habe<lb n="17" break="no" corresp="#A1"/>atur in posterum, sigillis nostris hanc
+                        cartulam munivimus<lb n="18" corresp="#A2"/>. Anno Verbi incar<lb n="18" break="no" corresp="#A1"/>nati millesimo ducentesimo.</p>
+                
+            </body>
+        </text>
+    </TEI>

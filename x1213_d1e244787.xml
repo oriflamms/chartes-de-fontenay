@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e244787">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 283@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">ADCO 15 H 11* (cart. 202), fol. 175<hi rend="superscript">v</hi> (Grignon. YY) : « <hi rend="italic">Restat sigillum dicti
+                                episcopi </hi>».</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 104<hi rend="superscript">r</hi> (Grignon.
+                            YY)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 80<hi rend="superscript">r</hi> (Grignon. YY). —ADCO
+                            15 H <hi rend="background(red)">@</hi>, p. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>).</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1213-12-31">1213, décembre. —
+                        Fontenay</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e167528">Galterus, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e167530">Eduensis</placeName>
+                        episcopus</persName>, universis præsentem paginam inspecturis notum facimus
+                    quod <persName key="d1e29493" xml:id="d1e167534">Galterus</persName> et
+                        <persName key="d1e29499" xml:id="d1e167537">Simon, milites de <placeName key="stutzmann_himanis#324487" xml:id="d1e167539">Monte Barro</placeName>
+                    </persName>, vendiderunt fratribus ecclesiæ sanctæ Mariæ <orgName key="stutzmann_himanis#282689" xml:id="d1e167542">Fonteneti</orgName> libere et
+                    absolute partem suam decimarum de <placeName key="stutzmann_himanis#324356" xml:id="d1e167545">
+                        <foreign>Saigne</foreign>
+                    </placeName>, tam bladi quam vini, pro quinquaginta libris proviniensis monetæ.
+                    Quam venditionem laudavit <persName key="d1e29505" xml:id="d1e167550">uxor dicti
+                            <persName key="d1e29512" xml:id="d1e167552">Galteri</persName> nomine
+                        Emengardix</persName> et <persName key="d1e29518" xml:id="d1e167556">Simon
+                        filius eorum</persName>, <persName key="d1e29524" xml:id="d1e167559">filiæ
+                        quoque eorum, Maria</persName> et <persName key="d1e29530" xml:id="d1e167562">Aaliz</persName>. Et <persName key="d1e29536" xml:id="d1e167565">Bietrix uxor superius nominati <persName key="d1e29542" xml:id="d1e167570">Simonis</persName>
+                    </persName> eandem venditionem bona fide laudavit cum <persName key="d1e29549" xml:id="d1e167573">filiis suis Joanne</persName> et <persName key="d1e29555" xml:id="d1e167577">Vuillelmo</persName> et <persName key="d1e29561" xml:id="d1e167580">sororibus eorumdem Damnum</persName>, <persName key="d1e29567" xml:id="d1e167583">Maria</persName> et <persName key="d1e29573" xml:id="d1e167586">Emengardi</persName>. Nos vero ut majorem
+                    hæc omnia habeant firmitatem ad petitionem militum superius nominatorum,
+                        <persName key="d1e29579" xml:id="d1e167589">Galteri</persName> scilicet et
+                        <persName key="d1e29586" xml:id="d1e167592">Simonis</persName>, præsentem
+                    paginam sigillo nostro fecimus roborari. Actum anno ab incarnatione Domini
+                    millesimo ducentesimo terciodecimo, mense decembri, apud <placeName key="stutzmann_himanis#324453" xml:id="d1e167596">Fontenetum</placeName>.</p>
+            </body>
+        </text>
+    </TEI>

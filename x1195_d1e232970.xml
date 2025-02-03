@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1195_d1e232970">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 144@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 48<hi rend="superscript">v-</hi>49<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 34) ;
+                            table mutilée</witness>
+                        <witness n="C">C. Vidimus perdu du <hi rend="background(red)">@</hi> février
+                            1286 [n.st.]. — Parchemin. Mention de copie : « En nom de nostre
+                            seigneur, amen. En l’an de l’incarnation d’iceluy mil deux cent
+                            quatrevingt et cinq ou mois de fevrier, je Pierre, dict de Maligno,
+                            chanoine de Tonnerre et notaire juré du sceau de Tonnerre a tres haute
+                            dame Margueritte, jadis reyne de Secille et comtesse de Tonnerre, fais
+                            sçavoir a tous ceulx qui sont et seront que j’ay veu, leu et tenu les
+                            lettres ensuyvant seines et entieres sans rature et sans correction et
+                            les ay transcrittes mot a mot sans changer rien et sans muer d’icelles
+                            lettres qui ainsy s’encommencent. » et à la suite de l’acte « Et cet
+                            escrit fust faict l’an de l’incarnation dessusdict quatrevingt et cinq,
+                            le mardy devant la feste de la Chere St-Pierre et fust scellé du sceau
+                            de la cour du [p]redict notaire. ».</witness>
+                        <witness n="D">D. Cartulaire 2, fol. 110<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 34) ; table mutilée</witness>
+                        <witness n="E">E. ADCO 15 H 83, pièce 1 : Vidimus de C, du 11 juillet 1611.
+                            —Papier non timbré ; 175 x 285 mm. Mention de collaction : « Collationné
+                            par moy Anthoine Taphinon, notaire royal, resident a Mombard sur
+                            l’original escript en parchemin auquel est aspendu un sceau en cire
+                            verte a simple queue de parchemin armorié de part et d’autre, sans y
+                            avoir aucune chose adjousté ny diminuée, ledit original ayant esté tiré
+                            du coffre qui est au thresor de l’abbaye de Nostre Dame de Fontenay par
+                            dom René de Fresne, celerier, et Me Marc Anthoine Malledan, prestre
+                            doyen de Moustier Saint Jean, procureur special du seigneur abbé dudit
+                            Fontenay […]. En présence de Sebastien Dubois et Guillaume Anginot,
+                            sergentz en la mairye dudit Montbard […]. ».</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 24<hi rend="superscript">r</hi> (Buffon, I) : « Don
+                            faict a Mrs de Fontenay du droit de pesche et de pasturage par le
+                            seigneur de Rougemont. 1285 [<hi rend="italic">corrigé en :</hi>] 1195 »
+                            (d’après la correction, il s’agit de C)</bibl>
+                        <bibl>Non repéré dans ADCO 15 H 4.</bibl>
+                        <bibl sameAs="#Bouchard1991b">
+                            <biblScope>p. 178</biblScope>
+                            <note>Mention</note>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1195-12-31">1195</date>
+                </creation>
+                <abstract>
+                    <p>G[arnier], évêque de Langres, notifie ... Régeste : déjà notifié en 1194 par
+                        le duc</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324647" xml:id="d1e159327">G., Dei gratia <placeName key="stutzmann_himanis#317574" xml:id="d1e159329">Lingonensis</placeName>
+                        episcopus</persName>, notum facio presentibus et futuris quod <persName key="d1e26397" xml:id="d1e159333">Osmundus de <placeName key="stutzmann_himanis#324355" xml:id="d1e159335">Rubeo Monte</placeName>
+                    </persName> dedit et concessit in perpetuam elemosinam <app>
+                        <lem>ecclesie</lem>
+                        <rdg wit="#E">ecclesiae</rdg>
+                    </app>
+                    <orgName key="stutzmann_himanis#282689" xml:id="d1e159343">Fonteneti</orgName> pro anima
+                    sua piscaturam <placeName key="stutzmann_himanis#325264" xml:id="d1e159346">Curcellarum</placeName>
+                    <app>
+                        <lem>et pasturas</lem>
+                        <rdg wit="#E" type="omission"/>
+                    </app> a <placeName key="stutzmann_himanis#324450" xml:id="d1e159354">Fano</placeName> in
+                    sursum et omnes aasantias citra aquam et ultra aquam, in valle <app>
+                        <lem>et</lem>
+                        <rdg wit="#D">et in</rdg>
+                    </app> monte, in bosco <app>
+                        <lem>et</lem>
+                        <rdg wit="#D">et in</rdg>
+                    </app> plano. Dedit etiam <app>
+                        <lem>jamdicte ecclesie</lem>
+                        <rdg wit="#E">jamdictae ecclesiae</rdg>
+                    </app>
+                    <app>
+                        <lem>in</lem>
+                        <rdg wit="#D">im</rdg>
+                    </app> perpetuum piscaturam et pasturas <placeName key="stutzmann_himanis#324360" xml:id="d1e159380">Sancti Remigii</placeName> et <placeName key="stutzmann_himanis#324419" xml:id="d1e159384">
+                        <app>
+                            <lem>Bufonii</lem>
+                            <rdg wit="#E">Buffonii</rdg>
+                        </app>
+                    </placeName> per totum finagium earumdem villarum et omnes aasantias citra aquam
+                    et ultra aquam in valle <app>
+                        <lem>et</lem>
+                        <rdg wit="#D">et in</rdg>
+                    </app> monte, in bosco <app>
+                        <lem>et</lem>
+                        <rdg wit="#D">et in</rdg>
+                    </app> plano. Et hoc totum laudavit <persName key="d1e26404" xml:id="d1e159403">uxor ejus</persName>, <persName key="d1e26410" xml:id="d1e159406">Willelmus</persName> et <persName key="d1e26416" xml:id="d1e159409">Nariodius</persName>, filii ejus. <app>
+                        <lem>Acta</lem>
+                        <rdg wit="#E">Facta</rdg>
+                    </app> sunt <app>
+                        <lem>hec</lem>
+                        <rdg wit="#E">haec</rdg>
+                    </app> anno ab incarnatione Domini <app>
+                        <lem>
+                            <num>m° c° xc° v°</num>
+                        </lem>
+                        <rdg wit="#E">millesimo centesimo nonagesimo quinto</rdg>
+                    </app>.</p>
+            </body>
+        </text>
+    </TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e245170">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 289@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <head>Edité d’après B puis C.</head>
+                        <witness n="A">Original perdu.</witness>
+                        <witness n="B">B. Copie mutilée dans Cartulaire 1, fol. 38<hi rend="superscript">v</hi> (<hi rend="italic">Abbatia</hi>, 46 ; non
+                            numéroté, non rubriqué) ; table : « <hi rend="italic">XLVI. Carta
+                                Johannis filii Yle de Monte sancti Johannis de terra
+                            Goliart</hi> ».</witness>
+                        <witness n="C">ADCO 15 H 10* (cart. 201<hi rend="superscript">bis</hi>),
+                            fol. 103<hi rend="superscript">r</hi> (Marmagne. OOOO) : « <hi rend="italic">Restat appensura s</hi>
+                            <hi rend="italic background(red)">etæ</hi>
+                            <hi rend="italic" xml:space="preserve"> rubræ et viridis cui videtur fuisse appensum sigillum</hi> ».</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (Marmagne.
+                            OOOO)</bibl>
+                        <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">@</hi> (Marmagne.
+                            OOOO)</bibl>
+                        <bibl>ADCO 15 H <hi rend="background(red)">@</hi>, p. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>)</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1213-12-31">1213</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                    <app>
+                        <lem>
+                            <supplied>E</supplied>go</lem>
+                        <rdg wit="#C">Ego</rdg>
+                    </app>
+                    <witDetail wit="#B">Initiale rubriquée non exécutée</witDetail>
+                    <persName key="stutzmann_himanis#324610" xml:id="d1e167843">Galterius, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e167845">Eduensis</placeName>
+                        episcopus</persName>, universis presentes litteras inspecturis notum facimus
+                    quod <persName key="d1e29672" xml:id="d1e167849">Johannes filius <persName key="d1e29678" xml:id="d1e167851">domine <app>
+                                <lem>Yle</lem>
+                                <rdg wit="#C">Yllæ</rdg>
+                            </app> de <placeName key="stutzmann_himanis#324962" xml:id="d1e167859">Monte
+                                Sancti <app>
+                                    <lem>Johannis</lem>
+                                    <rdg wit="#C">Joannis</rdg>
+                                </app>
+                            </placeName>
+                        </persName>
+                    </persName> in presentia nostra constitutus <persName key="d1e29684" xml:id="d1e167867">guerpivit</persName> et bona fide <app>
+                        <lem>quitavit</lem>
+                        <rdg wit="#C">quittavit</rdg>
+                    </app> ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e167876">Fonteneti</orgName>, pro remedio anime sue et suorum, <app>
+                        <lem>omnes</lem>
+                        <rdg wit="#C">omnium</rdg>
+                    </app> querelas et <app>
+                        <lem>calumpnias</lem>
+                        <rdg wit="#C">calumnias</rdg>
+                    </app> quas habebat adversus dictam ecclesiam <orgName key="stutzmann_himanis#282689" xml:id="d1e167892">Fonteneti</orgName> de terris que fuerant <persName key="d1e29690" xml:id="d1e167895">Guiardi cognomento <addName>
+                            <app>
+                                <lem>Goliardi</lem>
+                                <rdg wit="#C">Goliard</rdg>
+                            </app>
+                        </addName>
+                    </persName> et apud villam de <placeName key="stutzmann_himanis#324475" xml:id="d1e167904">
+                        <app>
+                            <lem>Marmania</lem>
+                            <rdg wit="#C">Marmegnia</rdg>
+                        </app>
+                    </placeName> et de <placeName key="stutzmann_himanis#324916" xml:id="d1e167911">
+                        <foreign>
+                            <app>
+                                <lem>Corbetun</lem>
+                                <rdg wit="#C">Corbetton</rdg>
+                            </app>
+                        </foreign>
+                    </placeName> et in <app>
+                        <lem>
+                            <witEnd wit="#B"/>
+                            <witDetail wit="#B">et in fi-||</witDetail>
+                        </lem>
+                    </app>finagio earumdem villarum. In testimonium autem hujus rei, presentem
+                    paginam sigilli nostri impressione communivimus. Actum est hoc anno ab
+                    incarnatione Domini millesimo ducentesimo terciodecimo.</p>
+            </body>
+        </text>
+    </TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1209_d1e242157">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original *252 [bis]@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu.</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="background(red)">ADCO 15 H 1, fol. 51r (Etais, A).</hi>
+                        </bibl>
+                        <bibl>ADCO 15 H 3, p. 60 (V. 2. 2) : « en date de 1209, est un autre titre
+                            latin en parchemin, portant don fait à l’Eglise de Fontenet, par Hayme,
+                            Jean de Corbetan et Pierre leur frère, de trois soitures de pré sises au
+                            finage de Corbetant aux prés de Presles, etc. et scellé d’un sceau qui y
+                            étoit autrefois, ne restant plus que deux queues de parchemin
+                            pendant »</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1209-12-31">1209</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p/>
+            </body>
+        </text>
+    </TEI>

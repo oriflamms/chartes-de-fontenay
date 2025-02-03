@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1193_d1e207221">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 2560</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 357, pièce 1</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>87</height>
+                                                  <width>140/125</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>65</height>
+                                                  <width>115/125</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="12">réglure absente ;
+                                                repli de 11 mm, entaille simple</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Novillemontis » ;
+                                        mention effacée sur laquelle est partiellement écrite
+                                        l’analyse du <hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s. « Carta ......... de
+                                        ..... » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « La Ville Neuve » ;
+                                        « k » ; « Villeneuve. Engagement faict par le vicomte de
+                                        Quincy de quatre stiers froment et quatre d’avoyne et de dix
+                                        sols dijonois a luy deux de cense a Villeneuve a Mrs de
+                                        Fontenay. Cotte Q » ; (1787) « N° 16 / Sans
+                                        date »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1179-1193</origDate>
+                                        <note>
+                                            <p>
+                                                <hi rend="background(green)" xml:space="preserve">terminus ad quem </hi>
+                                            </p>
+                                            <p>
+                                                <hi rend="background(green)">- 1185/1189 :
+                                                  Rainaldus, abbé de Moutier Saint Jean, Gallia
+                                                  Christiana, t. IV, col. 662, attesté 1182-85,
+                                                  suivi par Hugues III en 1189</hi>
+                                            </p>
+                                            <p>
+                                                <hi rend="background(green)">-1190 : actes 15 H 357
+                                                  / 1 et 3 + ADCO 15 H 3, p. 195 (XX. 1. 1) :
+                                                  Renaud, fils du vicomte Viard, puis vicomte</hi>
+                                            </p>
+                                            <p>
+                                                <hi rend="background(green)">- 1193 = Manasses,
+                                                  évêque de Langres</hi>
+                                            </p>
+                                        </note>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 216<hi rend="superscript">v</hi> (Villeneuve. Q). </bibl>
+                        <bibl>ADCO 15 H 2, fol. 117<hi rend="superscript">r</hi> (Villeneuve. Q). </bibl>
+                        <bibl>ADCO 15 H 3, p. 1052 (XLVI. 5. 16) : « scellé d’un sceau qui y étoit
+                            autrefois ». </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1179" notAfter="1193">[1179… 1185-1190
+                        ... 1193]<note>Terminus a quo d'après l'épiscopat de Manassès.
+                        </note></date>
+                </creation>
+                <abstract>
+                    <p>M[anassès], évêque de Langres</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_357_0003.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_357_0004.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                    <p>Ego <persName key="stutzmann_himanis#324599" xml:id="d1e140368">.M., Dei gratia
+                                <placeName key="stutzmann_himanis#317574" xml:id="d1e140370">Lingonensis</placeName> episcopus</persName>, litteris nostris
+                        sigillatis notum facio de gage<lb n="2" break="no"/>ria <persName key="d1e14526" xml:id="d1e140376">Reginaudi filii vicecomitis de
+                                <placeName key="stutzmann_himanis#324349" xml:id="d1e140378">Quinceio</placeName>
+                        </persName>, quia predictus <persName key="d1e14532" xml:id="d1e140381">Reginaudus</persName> po<lb n="3" break="no"/>suit in vadimonium pro
+                            XX<hi rend="superscript">ti</hi> libris de divionensisbus fratribus
+                        ecclesie Sancte Marie de <lb n="4"/>
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e140391">Fonteneto</orgName> censam
+                            <placeName key="stutzmann_himanis#324335" xml:id="d1e140394">Noville
+                            Montis</placeName>, scilicet .IIII<hi rend="superscript">or</hi>
+                        sestarios frumenti, .IIII<hi rend="superscript">or</hi>. sestarios <lb n="5"/> avene, .X. solidos divionensis monete. Hoc laudaverunt in presentia
+                        nostra <lb n="6"/>
+                        <persName key="d1e14538" xml:id="d1e140407">Margarita</persName> mater ejus,
+                            <persName key="d1e14545" xml:id="d1e140410">Odo</persName> frater ejus.
+                        Quando predictus <persName key="d1e14551" xml:id="d1e140413">.R.</persName>
+                        vel aliquis suorum <lb n="7"/> fratrum voluerit redimere, redimet predictis
+                            .XX<hi rend="superscript">ti</hi> libris acceptis, in ea<lb n="8" break="no"/>dem valitudine in qua tunc erant. Tunc vero quinquaginta
+                        solidi illius monete <lb n="9"/> marcam valebant. Et si de moneta illa
+                        fieret contentio, pro .L. solidis mar<lb n="10" break="no"/>ca solveretur.
+                        Inde testes sunt : <persName key="d1e14557" xml:id="d1e140428">.R. abbas de
+                                <orgName key="stutzmann_himanis#283938" xml:id="d1e140430">Monasterio Sancti
+                                Johannis</orgName>
+                        </persName>, <persName key="d1e14563" xml:id="d1e140433">.G. decanus <lb n="11"/> de <placeName key="stutzmann_himanis#324487" xml:id="d1e140437">Monte
+                                Barro</placeName>
+                        </persName>, <persName key="d1e14569" xml:id="d1e140441">magister Erembertus
+                            de <placeName key="stutzmann_himanis#324355" xml:id="d1e140443">Rubeo
+                                Monte</placeName>
+                        </persName>. Quicumque contra hoc quod de pre<lb n="12" break="no"/>fata
+                        gageria scripsimus ire voluerit, anatema sit.<figure rend="trait"/>
+                    </p>
+                
+            </body>
+        </text>
+    </TEI>

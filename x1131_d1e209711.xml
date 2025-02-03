@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1131-01-01_d1e209711">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 2@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 40<hi rend="superscript">r-v</hi> (Papes, TT) : « Restat sigillum plumbeum ».</witness>
+                        <witness n="a">a. <bibl sameAs="#Wiederhold1985"><biblScope>t. I,
+                                    p. 166-167, d’après B</biblScope></bibl></witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps">Inventaire</hi> : ADCO 15 H 1, fol. V<hi rend="superscript">v</hi> (Papes, TT) : « Bulle du pape Innocent
+                            second, du premier an de son pontificat… »</bibl>
+                        <bibl>ADCO 15 H 4, p. <hi rend="background(red)">@@</hi> (XXIII. 3. 6) :
+                            « Bulle du pape Innocent II … scellé d’un sceau de plomb à lacs de soye
+                            jaune pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1131-01-01">1131, 1er janvier [n. st.]. —
+                        Vézelay.</date>
+                </creation>
+                <abstract>
+                    <p>Innocent [II] place l’abbaye de Fontenay, sous la direction de l’abbé
+                        Guillaume, sous la protection apostolique et lui confirme ses
+                        propriétés.</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>
+                <persName key="stutzmann_himanis#324638" corresp="Innocens II papa (1130-1143)"
+                    >Innocentius, episcopus</persName>, servus servorum Dei, dilecto filio <persName
+                    key="stutzmann_himanis#324659"
+                    corresp="Guillaume I d’Epiry, abbé de Fontenay (1126-1154)">Guillelmo, abbati
+                    monasterii Sanctae Mariae <orgName key="stutzmann_himanis#282689"
+                        corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                </persName> ejusque successoribus regulariter substituendis, <app>
+                    <lem wit="#a">in perpetuum</lem>
+                    <rdg wit="#B">in pontificatu pontifex maximus</rdg>
+                    <note>Variante issue de l’abréviation ‘in ppm’ et corrigée silencieusement par
+                        Wiederhold</note>
+                </app>. Desiderium quod ad religionis propositum et animarum salutem pertinere
+                monstratur auctore Deo effectu est prosequente complendum. Quocirca, dilecte in
+                Domino fili <persName key="stutzmann_himanis#324659"
+                    corresp="Guillaume I d’Epiry, abbé de Fontenay (1126-1154)">Guillelme
+                    abbas</persName>, tuis rationabilibus postulationibus annuentes, monasterium
+                ipsum, cui Deo aucthore presides sub apostolicae Sedis tutela et protectione
+                suscipimus et presentis scripti patrocinio communimus. Statuentes ut quaecumque bona
+                seu possessiones prefatum monasterium in presentiarum juste et legitime possidet aut
+                in futurum concessione pontificum, largitione principum, oblatione fidelium seu
+                aliis justis modis prestante Domino poterit adipisci, firma tibi tuisque
+                successoribus et illibata permaneant. Decernimus ergo ut nulli omnino hominum liceat
+                idem monasterium temere perturbare aut ejus possessiones aufferre vel ablatas
+                retinere, minuere aut temerariis vexationibus fatigare, sed omnia integra
+                conserventur, eorum pro quorum gubernatione et sustentatione concessa sunt usibus
+                omnimodis profutura. Si qua igitur in futurum ecclesiastica secularisve persona hanc
+                nostrae constitutionis paginam sciens contra eam temere venire temptaverit, secundo
+                tertiove commonita, si non satisfactione congrua emendaverit, potestatis honorisque
+                sui dignitate careat reamque se divino judicio existere de perpetrata iniquitate
+                cognoscat et a sacratissimo corpore et sanguine Dei ac domini redemptoris nostri
+                Jesu Christi aliena fiat atque in extremo examine districtae ultioni subjaceat.
+                Cunctis autem eidem loco justa servantibus sit pax domini nostri Jesu Christi,
+                quatenus et hic fructum bonae actionis percipiant et apud districtum judicem praemia
+                eternae pacis inveniant. Amen. Amen. <app>
+                    <lem wit="#B">Amen</lem>
+                    <rdg type="nihil" wit="#a"/>
+                </app>
+                <note>Dernier 'Amen' omis par a </note>
+                <figure>
+                    <desc>Rota</desc>
+                </figure>
+                <note>Description de la rota omise par a</note>.</p>
+                <witDetail wit="#B">Ajoute : "In sigillo habetur"</witDetail>
+                <p>Sanctus Petrus, Sanctus Paulus. Innocentius papa secundus.</p>
+                <p>Adjuva<note>
+                        <hi rend="italic" xml:space="preserve">Précédé de </hi>In legenda <hi rend="italic">B</hi>.</note> nos Deus salutaris noster.</p>
+                <p>Ego<note> Ego <hi rend="italic" xml:space="preserve">précédé de </hi>In
+                    signaturis <hi rend="italic">B</hi>.</note>
+                <persName key="stutzmann_himanis#324638" corresp="Innocentius II papa (1130-1143)"
+                    >Innocentius catholicae ecclesiae episcopus</persName> [ss]<note>
+                    <hi rend="italic" xml:space="preserve">Omis </hi>B<hi rend="italic">, restitué
+                        d’après le formulaire pontifical a</hi>.</note>. Datum <placeName
+                    key="stutzmann_himanis#101933" corresp="Vézelay (Yonne, Avallon, Joux-la-Ville)"
+                    >Virgeliaci</placeName> per manum <persName key="stutzmann_himanis#325476"
+                    corresp="Luca scriptor papae">Lucae scriptoris</persName>, domini <persName
+                    key="stutzmann_himanis#325477"
+                    corresp="Aimericus, cardinal-diacre de Sancta Maria Nova (1123–1141), chancelier apostolique"
+                    >Aimerici cancellarii</persName>, calendis januarii incarnationis dominicae anno <app>
+                    <lem>millesimo centesimo trigesimo</lem>
+                    <rdg wit="#a">M° C° XXX°</rdg>
+                </app>, indictione <app>
+                    <lem>octava</lem>
+                    <rdg wit="#a">VIII<hi rend="superscript">a</hi>
+                    </rdg>
+                </app>, pontificatus vero domini <persName key="stutzmann_himanis#324638"
+                    corresp="Innocentius II papa (1130-1143)">Innocentii papae</persName> [II]<note>
+                    <hi rend="italic">Omis B, restitué d’après le formulaire pontifical
+                    a</hi>.</note> anno primo.</p>
+            </body>
+        </text>
+    </TEI>

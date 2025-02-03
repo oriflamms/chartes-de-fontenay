@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e199172">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 1355 + Access n° 1356</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A1">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 163, pièce 12</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>130/110</height>
+                                                  <width>210</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>60</height>
+                                                  <width>185</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="7">réglure non
+                                                visible ; repli de 25 mm à une double entaille
+                                                centrale</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture livresque</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Littera Renaudi et
+                                        Pagani de Fraxino de quodam prato » ; « Morville. 3 » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Morville ». </additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1213</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="A2">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 163, pièce 13</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>155</height>
+                                                  <width>185</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>110</height>
+                                                  <width>160</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="9">réglure à la mine
+                                                de plomb (2, 9, 160, 9, 5 x 10, 115, 10 mm) ; repli
+                                                de 17 mm à 1 double entaille centrale 12 mm.
+                                                Mentions hors teneur : <hi rend="background(yellow)">traces d’écriture en marge sup</hi>. </layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture livresque </term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « V<hi rend="superscript">a</hi> » ; « Carta Girardi de Fraxi de quodam prato » ;
+                                        « Morville. 12 » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Fraisne. Accord faict
+                                        entre Girard de Fraisne et le s<hi rend="superscript">r</hi>
+                                        abbé de Fontenay par lequel il delaisse a Mrs de Fontenay un
+                                        preis au dessous la grange de Morville, l’an 1212. Cotte
+                                        III. 2 titres pareils » ; (1787) « N° 2 / 1213 »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1213</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 92<hi rend="superscript">[bis]r</hi> (Fresne,
+                            III[2])</bibl>
+                        <bibl>ADCO 15 H 2, fol. 73<hi rend="superscript">v</hi> (Fresne,
+                            III[2])</bibl>
+                        <bibl>ADCO 15 H 3, p. 485 (XXV. 18. 2) : « deux titres latins en parchemin
+                            joints ensemble (...) scellés chacun d’un sceau de cire jaune à queue de
+                            parchemin pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1213-12-31">1213</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_163_0026.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_163_0027.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_163_0028.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_163_0029.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                                        <p>Ego <persName key="d1e12775" xml:id="d1e135007">Martinus, archidiaconus
+                                <orgName key="stutzmann_himanis#284217" xml:id="d1e135009">Flaviniaci</orgName>
+                        </persName>, notum facio omnibus presentes litteras inspecturis <lb n="2"/>
+                        quod <persName key="d1e12781" xml:id="d1e135014">Girardus de <placeName key="stutzmann_himanis#324455" xml:id="d1e135016">Fraxino</placeName>
+                        </persName> et <persName key="d1e12787" xml:id="d1e135019">Paganus</persName>, frater ejus, apud grangiam que <placeName key="stutzmann_himanis#324489" xml:id="d1e135022">Morvilla</placeName> dicitur, in
+                        presentia <lb n="3"/> mea constituti siquid juris habebant in quodam prato
+                        super quo querelam movebant <orgName key="stutzmann_himanis#282689" xml:id="d1e135028">Fonte<lb n="4" break="no"/>netensibus</orgName> in manu <persName key="d1e12793" xml:id="d1e135033">Willelmi abbatis <orgName key="stutzmann_himanis#282689" xml:id="d1e135035">Fonteneti</orgName>
+                        </persName> precise et absolute dictis <orgName key="stutzmann_himanis#282689" xml:id="d1e135038">Fontenetensibus</orgName> quitaverunt. <lb n="5"/>
+                        Quod pratum sicut predicti <persName key="d1e12799" xml:id="d1e135043">Girardus</persName> et <persName key="d1e12806" xml:id="d1e135047">Paganus</persName> confitebantur ecclesia <orgName key="stutzmann_himanis#282689" xml:id="d1e135050">Fontentensis</orgName> per quinquaginta annos et <lb n="6"/> amplius possederat pacifice et quiete. In cujus rei testimonium
+                        ad petitionem partium presenti scripto <lb n="7"/> sigilli mei apposui
+                        firmamentum. Actum anno gratie millesimo ducentesimo terciodecimo.</p>
+                
+            </body>
+        </text>
+    </TEI>

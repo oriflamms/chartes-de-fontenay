@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1186_d1e206579">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 2465</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 337, pièce 1</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>365/355</height>
+                                                  <width>300</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>280</height>
+                                                  <width>270</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="19">réglure à la mine
+                                                de plomb (2, 5, 6, 270, 6, 6 x 7, 280, 85/75 mm) ;
+                                                repli de 40/35 mm, une double entaille
+                                                centrale</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions> Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Mathei de Ested » ;
+                                        « .Jale. » ; de usagio duarum villarum de Puteis et de
+                                        Estez » ; « .II<hi rend="superscript">a</hi>. » ; « .IJ<hi rend="superscript">a</hi>. » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « B » ; « trente deux
+                                        Guillaume » ; « trente deux Ferrieres p. » ; inscription
+                                        lesée par une tache « Marmagne. Don par M[...] de Puis et de
+                                        [...] forest sur [...] pasturage [...] ezdict deux lieux.
+                                        1186. Cotte IA » ; (1787) « N° 1 / 1186 » </additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1186</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="B">
+                            <desc>ADCO 15 H 10* (cart. 201<hi rend="superscript">bis</hi>), fol.
+                                    231<hi rend="superscript">v</hi>-232<hi rend="superscript">v</hi> (Marmagne. IA) : « <hi rend="italic">Restat
+                                    sigillum</hi> » ; <hi rend="background(red)">non
+                                    collationné</hi>.</desc>
+                        </witness>
+                        <witness n="a">
+                            <bibl sameAs="#Petit1885">
+                                <biblScope>t. III, n° 739</biblScope>
+                            </bibl>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, absent.</bibl>
+                        <bibl>ADCO 15 H 2, fol. 89<hi rend="superscript">v</hi> (Marmagne.
+                            IA)</bibl>
+                        <bibl>ADCO 15 H 4, p. 189 (XI. 8. 1) : « scellé d’un sceau qui y étoit
+                            autrefois, ne restant plus qu’une peau blanche pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1186-12-31">1186</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_337_0006.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_337_0007.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                                        <p>Ego <persName key="stutzmann_himanis#324577" xml:id="d1e139943">Hugo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e139945">Burgundie</placeName>
+                        </persName>, scripto presenti notifico presentibus et futuris quod <persName key="d1e14372" xml:id="d1e139948">Matheus de <placeName key="stutzmann_himanis#324448" xml:id="d1e139950">
+                                <foreign>Estez</foreign>
+                            </placeName>
+                        </persName>
+                        <lb n="2"/> dedit et concessit ecclesie Fonteneti in elemosinam terram super
+                        abbatiam que dicitur <placeName key="stutzmann_himanis#325280" xml:id="d1e139955">Foresta</placeName>, in qua <persName key="d1e14378" xml:id="d1e139958">Matheus</persName> habe<lb n="3" break="no"/>bat duas partes et monachi
+                        terciam, et terram de <placeName key="stutzmann_himanis#324924" xml:id="d1e139964">
+                            <foreign>Juvence</foreign>
+                        </placeName>, que dicitur <placeName key="stutzmann_himanis#325281" xml:id="d1e139968">Foresta sancti Petri</placeName>. Pro his duabus duo solidi cen<lb n="4" break="no"/>suales in marcio reddendi sunt majori de <placeName key="stutzmann_himanis#324448" xml:id="d1e139973">
+                            <foreign>Estez</foreign>
+                        </placeName>. Dedit etiam hisdem fratribus quantum sui juris erat ad omnia
+                            <lb n="5"/> animalia sua usagium in pasturis et pastionem porcis in
+                        finagiis duarum villarum, scilicet de <placeName key="stutzmann_himanis#324348" xml:id="d1e139979">Puteis</placeName>
+                        <surplus>
+                            <del rend="barré">et de <lb n="6"/>Puteis</del>
+                        </surplus> et de <placeName key="stutzmann_himanis#324448" xml:id="d1e139988">
+                            <foreign>Estez</foreign>
+                        </placeName>, quas pasturas et pastiones de <persName key="d1e14384" xml:id="d1e139992">Rogerio, patre <persName key="d1e14390" xml:id="d1e139994">Mathei</persName>
+                        </persName>, habebant in vagio pro quingentis solidis et <lb n="7"/>
+                        graantavit <persName key="d1e14397" xml:id="d1e139999">Matheus</persName>
+                        quod de his omnibus legitimam garentiam pro posse suo portabit sicut debebit
+                        et tali quidem conditione <lb n="8"/> utentur <orgName key="stutzmann_himanis#282689" xml:id="d1e140005">Fontenetenses</orgName> predictis pasturis et
+                        pastionibus omni tempore quod si animalia eorum aliquod damnum in pratis vel
+                            bla<lb n="9" break="no"/>dis fecerint, damnum solummodo restituent sine
+                        alia emendatione. Si usque ad festum Omnium sanctorum in pratis <lb n="10"/>
+                        fena remanserint et animalia monachorum ibi damnum fecerint, damnum
+                        solummodo sine alia lege restituetur. Si post <lb n="11"/> festum Omnium
+                        sanctorum de fenis damnum factum fuerit, nichil inde <orgName key="stutzmann_himanis#282689" xml:id="d1e140014">Fontenetenses</orgName> reddent.
+                        Et sciendum quod Fontene<lb n="12" break="no"/>tenses nulla animalia nisi
+                        sua in easdem pasturas et pastiones adducent, nec <persName key="d1e14403" xml:id="d1e140020">Matheus </persName>eas alicui vendere po<lb n="13" break="no"/>terit nec ullius religionis homines nullo modo superinducet.
+                        Pro his omnibus dederunt <orgName key="stutzmann_himanis#282689" xml:id="d1e140025">Fontenetenses</orgName>
+                        <persName key="d1e14409" xml:id="d1e140027">Matheo</persName> et uxori <lb n="14"/> ejus <persName key="d1e14415" xml:id="d1e140032">Adeline</persName> que hec omnia laudavit quinquaginta libras
+                        proveniensis monete et concesserunt eis ut pro utroque in <lb n="15"/> obitu
+                        suo tantum facerent quantum pro uno monacho. Hinc testes sunt : <persName key="d1e14421" xml:id="d1e140038">Josbertus abbas <orgName key="stutzmann_himanis#282689" xml:id="d1e140040">Fonteneti</orgName>
+                        </persName>, <persName key="d1e14427" xml:id="d1e140043">Willelmus
+                            prior</persName>, <lb n="16"/>
+                        <persName key="d1e14434" xml:id="d1e140047">Philippus de <placeName key="stutzmann_himanis#325251" xml:id="d1e140049">Curte Rabodi</placeName>
+                        </persName>, <persName key="d1e14440" xml:id="d1e140052">Bernardus de
+                                <placeName key="stutzmann_himanis#324459" xml:id="d1e140054">Grinione</placeName>
+                        </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e140058">Odo
+                            archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e140060">Tullionis</placeName>
+                        </persName>, <persName key="d1e14446" xml:id="d1e140063">Andreas de
+                                <placeName key="stutzmann_himanis#324438" xml:id="d1e140065">
+                                <foreign>Cortenge</foreign>
+                            </placeName>
+                        </persName>, <persName key="d1e14452" xml:id="d1e140069">Robertus <lb n="17"/> major <placeName key="stutzmann_himanis#324370" xml:id="d1e140073">Tullionis</placeName> et camerarius ducis</persName>. De laude
+                        predicte <persName key="d1e14458" xml:id="d1e140077">Adeline</persName>
+                        uxoris ejus testes sunt : <persName key="d1e14464" xml:id="d1e140080">Rainaudus de <placeName key="stutzmann_himanis#325251" xml:id="d1e140082">Curte
+                                    <lb n="18"/> Rabodi</placeName>
+                        </persName>, <persName key="d1e14471" xml:id="d1e140087">Bernardus de
+                                <placeName key="stutzmann_himanis#324459" xml:id="d1e140089">Grinione</placeName>
+                        </persName>, <persName key="stutzmann_himanis#324623" xml:id="d1e140093">Odo
+                            archipresbiter</persName>, <persName key="d1e14477" xml:id="d1e140096">Hugo de <placeName key="stutzmann_himanis#324998" xml:id="d1e140098">
+                                <foreign>Baisse</foreign>
+                            </placeName>
+                        </persName>, <persName key="d1e14483" xml:id="d1e140102">Robertus major
+                                <placeName key="stutzmann_himanis#324370" xml:id="d1e140104">Tullionis</placeName>
+                        </persName>. <lb n="19"/> Actum est hoc anno ab incarnatione Domini .M°. C°.
+                        <space/>LXXX. <space/>VI°.</p>
+                
+            </body>
+        </text>
+    </TEI>

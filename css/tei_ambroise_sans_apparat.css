@@ -1,0 +1,92 @@
+@import "tei.css";
+
+abbr {
+  display:none;
+  font-size:smaller;
+  color:gray;
+  }
+
+expan{
+    background-color: inherit;
+    font-style:italic;
+    color:blue;
+    }
+
+witDetail:before {
+  content: attr(wit) " : "; 
+  }
+
+witDetail{
+    display:block
+}
+
+p{
+    text-transform:lowercase;
+        }
+
+
+
+lb {
+    content:"[" attr(n) "] ";
+    display:inline;
+}
+
+lem{
+    color:blue
+}
+
+rdg[wit]{display:none}
+
+
+hi[rend="suscrit"]{
+    vertical-align:super
+}
+
+pb{
+    font-weight:bold;
+    display:block;
+    
+}
+
+note {
+    font-size:smaller;
+  color:green;
+}
+
+note:before,
+space:before {
+  content: "["; 
+  background-color: inherit;
+  font-size:smaller;
+  color:gray;
+}
+
+
+
+
+note:after,
+space:after {
+    content: "] ";
+    font-size:smaller;
+  color:gray;
+}
+
+space {
+    content: "espace blanc";
+font-size:smaller;
+  color:gray;
+   
+}
+
+persName {
+    background-color:#FF1493;
+}
+
+placeName {
+    background-color:#FF1493;
+}
+
+persName, placeName, orgName, addName {
+    text-transform:capitalize
+   
+}

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1189_d1e248360">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 112@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Copie perdue dans Cartulaire 1</witness>
+                        <witness n="C">Cartulaire 2, fol. 103<hi rend="superscript">v</hi>-104<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 19) ;
+                            table mutilée</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (@@@. @)</bibl>
+                        <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">@</hi> (@@@. @)</bibl>
+                        <bibl>ADCO 15 H 3 / 4, p. @ (@. @. @).</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notBefore="1173-01-01" notAfter="1189-12-31">[1173-1189]<note>Le terminus ad quem correspond à la mort de l'évêque
+                            Etienne d'Autun. Le terminus post quem est donné par la présence
+                            d'Eudes, doyen de Montbard, alors que Renaud est encore attesté en 1173,
+                            voire en 1177.</note>
+                    </date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324645" xml:id="d1e170062">Stephanus Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e170064">Eduensis</placeName>
+                        episcopus</persName>, notum fieri volo presentibus et futuris quod <persName key="d1e30751" xml:id="d1e170068">Oliverius filius <persName key="d1e30757" xml:id="d1e170070">Brutini</persName>
+                    </persName> dedit ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e170073">Fonteneti</orgName> totam terram quam habebat in summitate campi <placeName key="stutzmann_himanis#324451" xml:id="d1e170076">Flaci<hi rend="background(red)">a</hi>ci</placeName> desuper chiminum versus <placeName key="stutzmann_himanis#324356" xml:id="d1e170082">Saigniacum</placeName> sub annuo
+                    censu <num>vi</num> denariorum in marcio reddendorum. Item unum jornale retro
+                        <placeName key="stutzmann_himanis#324451" xml:id="d1e170089">Flaciacum</placeName> pro
+                    uno denario censuali. Item <placeName key="stutzmann_himanis#325177" xml:id="d1e170092">pratum de Noa Beleth</placeName> pro <num>iiii</num> denariis census.
+                    Laudavit etiam et concessit omnes elemosinas quas eidem ecclesie fecerant
+                    antecessores suis, sive avunculi ipsius, et omnia tenementa de quibus eo die
+                    investiti erant <orgName key="stutzmann_himanis#282689" xml:id="d1e170098">Fontenetenses</orgName> bona fide guerpivit. Inde habuit de beneficio
+                    ejusdem ecclesie tam ipse quam uxor ejus <num>viii</num> libras. Horum omnium
+                    testes sunt <persName key="d1e30763" xml:id="d1e170105">Odo decanus <placeName key="stutzmann_himanis#324487" xml:id="d1e170107">Montis Barri</placeName>
+                    </persName>, <persName key="d1e30770" xml:id="d1e170110">Osmundus de <placeName key="stutzmann_himanis#324341" xml:id="d1e170112">Plaaneto</placeName>
+                    </persName>, <persName key="d1e30776" xml:id="d1e170115">Rainerius de <placeName key="stutzmann_himanis#324359" xml:id="d1e170117">Sancta Columba</placeName>
+                    </persName>. Qui <persName key="d1e30782" xml:id="d1e170120">Rainerius</persName> graantavit se responsorem esse de hiis omnibus si
+                    predictus <persName key="d1e30788" xml:id="d1e170123">Oliverius</persName> eidem
+                    ecclesie garentiam portare non posset aut nollet. Hoc etiam laudavit <persName key="d1e30794" xml:id="d1e170126">Laura uxor <persName key="d1e30800" xml:id="d1e170128">predicti Oliverii</persName>
+                    </persName>. Unde testes sunt <persName key="d1e30807" xml:id="d1e170132">Wido
+                        presbiter de <placeName key="stutzmann_himanis#324437" xml:id="d1e170134">
+                            <foreign>Cumigne</foreign>
+                        </placeName>
+                    </persName>, <persName key="d1e30813" xml:id="d1e170138">Johannes miles ejusdem
+                        ville</persName>, <persName key="d1e30819" xml:id="d1e170141">Rainerius <addName>
+                            <foreign>Martros</foreign>
+                        </addName>
+                    </persName> et <persName key="d1e30825" xml:id="d1e170147">Haymo filius
+                        ejus</persName>. Ut igitur hec imposterum rata firmaque permaneant,
+                    presentem cartam sigilli nostri inpressione munientes ne quis hiis contraire
+                    presumat sub anathematis sentencia interdicimus.</p>
+            </body>
+        </text>
+    </TEI>

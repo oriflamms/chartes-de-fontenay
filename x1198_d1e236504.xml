@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1198_d1e236504">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 178@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 35<hi rend="superscript">v</hi> (<hi rend="italic">Abbatia</hi>, 32) ; table « <hi rend="italic">Carta
+                                Viardi de Senevei et Johannis fratris ejus </hi>».</witness>
+                        <witness n="C">ADCO 15 H 10* (cart. 201<hi rend="superscript">bis</hi>),
+                            fol. 48<hi rend="superscript">r-v</hi> (Marmagne. O)</witness>
+                        <witness n="D">Paris, BnF, Baluze 143, fol. 260<hi rend="superscript">r</hi>, d’après B (« ex tabulario Fontenetensi »).</witness>
+                        <witness n="a">
+                            <hi rend="italic">a</hi>. Pierre-François Chifflet, <hi rend="italic">S.
+                                Bernardi Clarevallensis abbatis genus illustre assertum</hi>, Dijon,
+                            1660, p. 552, Probationes diatribae, n° 111 (« Ex tabulario Fonteneti »,
+                            d’après B).</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, <hi rend="background(red)">fol. @</hi> (Marmagne.
+                            O)</bibl>
+                        <bibl>ADCO 15 H 2, <hi rend="background(red)">fol. @</hi> (Marmagne.
+                            O)</bibl>
+                        <bibl>ADCO 15 H 4, p. 195 (XI. 8. 36) : « don fait à l’église de Fontenet
+                            par Viard de Senevoy, Jean son frère, et Renier de Caldeisel … scellé
+                            d’un sceau qui y étoit autrefois ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1198">[1198]</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="d1e27507" xml:id="d1e161819">Andreas <placeName key="stutzmann_himanis#324487" xml:id="d1e161821">Montis Barri</placeName>
+                        dominus</persName> testificor scire volentibus quod <persName key="d1e27514" xml:id="d1e161825">Viardus de <placeName key="stutzmann_himanis#325029" xml:id="d1e161827">Seneveio</placeName>
+                    </persName> et <persName key="d1e27520" xml:id="d1e161830">Johannes frater
+                        ejus</persName> et <persName key="d1e27526" xml:id="d1e161833">
+                        <app>
+                            <lem>Renerius</lem>
+                            <rdg wit="#D #a">Reinerius</rdg>
+                        </app> de <placeName key="stutzmann_himanis#324430" xml:id="d1e161840">
+                            <foreign>Chaudoisel</foreign>
+                        </placeName>
+                    </persName> dederunt ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e161844">
+                        <app>
+                            <lem>Fonteneti</lem>
+                            <rdg wit="#D #a">Fontenetensi</rdg>
+                        </app>
+                    </orgName> totam terram arabilem quam habebant a <placeName key="stutzmann_himanis#324453" xml:id="d1e161852">Fonteneto</placeName> usque <placeName key="stutzmann_himanis#324475" xml:id="d1e161855">
+                        <app>
+                            <lem>Marmaniam</lem>
+                            <rdg wit="#D">Marm</rdg>
+                            <rdg wit="#Dpc #a">Marineium</rdg>
+                        </app>
+                    </placeName>
+                    <app>
+                        <lem>
+                            <witEnd wit="#D #a"/>
+                        </lem>
+                    </app>et quod habebant ad <placeName key="stutzmann_himanis#325272" xml:id="d1e161867">Altam ripam</placeName> et quod habebant in <placeName key="stutzmann_himanis#325253" xml:id="d1e161870">
+                        <foreign>Curtresum</foreign>
+                    </placeName> a chimino susum versus. Habebunt autem pro his omnibus singulis
+                    annis <num>xii</num> denarios census. Hoc donum fecit <persName key="d1e27532" xml:id="d1e161878">Viardus</persName> prius de sua parte et habuit inde
+                    equum <num>vi</num>librarum. Postea de sua parte fecerunt donum <persName key="d1e27538" xml:id="d1e161887">Johannes</persName> et <persName key="d1e27544" xml:id="d1e161890">Renerius</persName> apud <placeName key="stutzmann_himanis#324453" xml:id="d1e161894">Fontenetum</placeName> et <persName key="d1e27551" xml:id="d1e161897">Viardus</persName> hoc laudavit <app>
+                        <lem>
+                            <witStart wit="#D #a"/>
+                        </lem>
+                    </app>coram me et <persName key="d1e27557" xml:id="d1e161904">domino meo
+                        Anserico <placeName key="stutzmann_himanis#324959" xml:id="d1e161906">Montis
+                            Regii</placeName>
+                    </persName> et <persName key="d1e27563" xml:id="d1e161909">Anserico
+                        juvene</persName>, <persName key="d1e27569" xml:id="d1e161912">Hugone quoque
+                        de <placeName key="stutzmann_himanis#324331" xml:id="d1e161914">Nigellis</placeName>
+                    </persName> et <persName key="d1e27575" xml:id="d1e161921">Bernardo
+                            <addName>Nariodi</addName>
+                    </persName> et <persName key="d1e27581" xml:id="d1e161926">Andrea de <placeName key="stutzmann_himanis#324452" xml:id="d1e161928">Fontanis</placeName>
+                    </persName>
+                    <app>
+                        <lem>
+                            <witEnd wit="#D #a"/>
+                            <witDetail wit="#D #a">Fin omise et remplacée par "etc."</witDetail>
+                        </lem>
+                    </app>. <persName key="d1e27588" xml:id="d1e161936">Johannes</persName> habuit
+                    pro sua parte <num>lx</num> solidos et <persName key="d1e27594" xml:id="d1e161942">Renerio</persName> de sua parte dedit alibi scambium
+                    eidem <persName key="d1e27600" xml:id="d1e161946">Renerio</persName>
+                    placitum.</p>
+            </body>
+        </text>
+    </TEI>

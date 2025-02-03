@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1205_d1e194753">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 510 + Access n° 512</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="α">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 66, pièce 5</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>130</height>
+                                                  <width>183/187</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>100</height>
+                                                  <width>175</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="12"> pas de réglure,
+                                                pas de marge sup. ; repli de 15 mm avec une entaille
+                                                (non usée ?)</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique.</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Auxerre. Joindre a la
+                                        cotte A ». Nota : pièces 5, 6 et 7 attachées ensemble ; au
+                                        dos de cet acte est copié le texte de ADCO 15 H 66, pièce 3.
+                                            <hi rend="italic background(yellow)">A</hi>
+                                        <hi rend="background(yellow)" xml:space="preserve">, à l’entaille non usée, semble le brouillon de </hi>
+                                        <hi rend="italic background(yellow)">B</hi>
+                                        <hi rend="background(yellow)">, dont l’entaille usée montre
+                                            qu’un sceau y a été appendu.</hi>
+                                    </additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1205 / 12</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 66, pièce 7</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>255/250</height>
+                                                  <width>240</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>190</height>
+                                                  <width>225</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="13">réglure à la mine
+                                                de plomb ; repli de 25/30 mm ; double entaille
+                                                centrale</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s., contemporain de l’acte,
+                                        effacé) « Donum H. […] » ; (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Autisiod. » ; « Prima ;
+                                        (autour de l’entaille) « Carta domini H. episcopi [de terra]
+                                        apud Augiacum, de pace inter nos et canonicos Sancte
+                                        Trinitatis » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Auxerre. Don d’une terre
+                                        à Augy à Mrs de Fontenay, l’an 1205. Cotte A » ; (1787)
+                                        « N° 5 / Xbre 1205 ».</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1205, décembre</origDate>
+                                        <origPlace>Régennes</origPlace>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 17<hi rend="superscript">r</hi> (Auxerre, A) :
+                            « …terre d’Ogy … Estienne Machaut ».</bibl>
+                        <bibl>ADCO 15 H 3, p. 53-54 (IV. 3. 5) : « scellé d’un grand sceau de cire
+                            verte à double queue de peau jaune pendant. Nota : est joint à cette
+                            piéce un autre titre de la même donnation, etc. et scellé d’un grand
+                            sceau à double lacs de soye rouge et verd pendant ». La seconde note
+                            s’applique peut-être plutôt à ADCO 15 H 66, pièce 6 qu’à l’un des deux
+                            actes ici édités.</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1205-12-31">1205, décembre</date>
+                    <placeName>Régennes</placeName>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_66_0004.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_66_0005.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_66_0008.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_66_0009.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body><p>
+                        <persName key="stutzmann_himanis#324640" xml:id="d1e132113">Hugo, Dei gratia <orgName key="stutzmann_himanis#290942" xml:id="d1e132115">Autissiodorensis</orgName>
+                            episcopus</persName>, omnibus presentes litteras inspecturis in Domino
+                        salutem. Noverit universitas <lb n="2"/> vestra quod, cum defunctus
+                            <persName key="d1e11979" xml:id="d1e132121">Stephanus
+                                <addName>Mercator</addName>
+                        </persName> dedisset uni altari in <orgName key="stutzmann_himanis#284025" xml:id="d1e132126">ecclesia nostra cathedrali beati Stephani</orgName>
+                        pro remedio ani<lb n="3" break="no"/>me sue quamdam terram aput <placeName key="stutzmann_himanis#97612" xml:id="d1e132131">
+                            <app>
+                                <lem wit="#A">Augiacum</lem>
+                                <rdg wit="#α">Augeiacum</rdg>
+                            </app>
+                        </placeName> in <placeName key="stutzmann_himanis#325095" xml:id="d1e132139">censu
+                                <persName key="d1e11985" xml:id="d1e132141">Hoberti de <placeName key="stutzmann_himanis#324978" xml:id="d1e132143">Petra
+                                    Pertusi</placeName>
+                            </persName>
+                        </placeName> et nos pro utilitate nominati defuncti <lb n="4"/> qui eam
+                        dederat et omnium defunctorum fidelium convertissemus illam terram ad
+                        servitium altaris Sancte Tri<lb n="5" break="no"/>nitatis, terra illa valuit
+                        per aliquot annos canonicis illius altaris quadraginta solidos redditivos
+                        annuatim per <lb n="6"/> manum dilecti filii <persName key="d1e11992" xml:id="d1e132155">Arnulphi abbatis <orgName key="stutzmann_himanis#284221" xml:id="d1e132157">Sancti Petri Autissiodori</orgName>
+                        </persName>, cui data fuerat ad colendum. Tandem nos de<lb n="7" break="no"/>siderantes proficere menbris sancte matris Ecclesie, dedimus <orgName key="d6e19500" xml:id="d1e132163">sancte Trinitati</orgName> et
+                        servitoribus suis centum solidos redditus in <lb n="8"/> nostro adquisitu
+                        eis annuatim persolvendos et ipsis canonicis <orgName key="d6e19500" xml:id="d1e132168">sancte Trinitatis</orgName> consentientibus et
+                        volentibus terram <lb n="9"/> illam ita in melius commutatam pro salute
+                        anime nostre et pro anniversario nostro et nostrorum predecessorum faciendo,
+                            <lb n="10"/> donavimus domino <persName key="d1e11998" xml:id="d1e132175">Bernardo abbati</persName> et fratribus Deo
+                        servientibus in monasterio Cisterciensis ordinis de <orgName key="stutzmann_himanis#282689" xml:id="d1e132179">Fonteneto</orgName> in
+                            perpetu<lb n="11" break="no"/>um possidendam. Quod ne possit a posteris
+                        infirmari, dictis fratribus et monasterio <orgName key="stutzmann_himanis#282689" xml:id="d1e132184">Fonteneti</orgName> litteras inde fecimus <lb n="12"/> sigillo nostro confirmatas. Datum <app>
+                            <lem wit="#A">apud</lem>
+                            <rdg wit="#α">aput</rdg>
+                        </app> Regium Annem, anno Domini <num>m° cc°</num> quinto, mense
+                        decembri.</p>
+                
+            </body>
+        </text>
+    </TEI>

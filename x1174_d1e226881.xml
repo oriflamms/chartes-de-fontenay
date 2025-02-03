@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1174_d1e226881">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original *67 bis@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (@@@. @)</bibl>
+                        <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">@</hi> (@@@. @)</bibl>
+                        <bibl>ADCO 15 H 3, p. 331 (XXIII. 2. 1) : « en date de 1174 […] titre latin
+                            en parchemin […] accord fait avec MM les religieux de Flavigny et ceux
+                            de Fontenet, lesd. de Flavigny accordant aux Vénérables de Fontenet de
+                            bâtir un pressoir, et autres choses portées par ledit titre […] sceau
+                            qui y étoit autrefois ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1174-12-31">1174</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p/>
+            </body>
+        </text>
+    </TEI>

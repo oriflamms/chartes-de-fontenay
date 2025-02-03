@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1213_d1e246325">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 296 bis@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. @<hi rend="superscript">@</hi> (Fain. CC)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 57<hi rend="superscript">r</hi> (Fain. CC) :
+                            « donation d’une partie des dixmes du Fain par damme Mathilde »</bibl>
+                        <bibl>ADCO 15 H 4, p. 97 (IX. 5. 3) : « sans date […] petit titre latin en
+                            parchemin portant donnation faite aux Vénérables de Fontenet par Dame
+                            Mathilde, de tout ce qu’elle avoit ou devoit avoir dans toutes ses dîmes
+                            au village du Fain, etc., et scellé d’un sceau qui y étoit
+                            autrefois »</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" notAfter="1213-12-31">[avant 1213]</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p/>
+            </body>
+        </text>
+    </TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1177_d1e227783">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 72[bis]@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu.</witness>
+                        <witness n="B">ADCO 15 H 320, pièce 7. — Troisième pièce dans un vidimus de
+                            3 actes <hi rend="background(red)">[acte n° @@]</hi> par Marguerite,
+                            prieure de Juilly. — Parchemin ; 170 x 190 mm ; justification 185 x
+                            140 mm ; réglure effacée ; repli absent, une longue entaille centrale ;
+                            écriture diplomatique. Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                            <hi rend="superscript">e</hi> s.) « Transcriptum cartarum de Juleis » ;
+                            « Fontanarum » ; gratté « XXIII » ( ?) ; « .XXV<hi rend="superscript">a</hi>. » ; (<hi rend="smallcaps">xvii</hi>
+                            <hi rend="superscript">e</hi> s.) « Fontainnes les Seiches » ; (1787)
+                            « N° 2 / 1177 »</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1 et ADCO 15 H 2, absent</bibl>
+                        <bibl>B. : ADCO 15 H 3, p. 883 (XXXIX. 2. 2) : « scellé d’un sceau de cire
+                            jaune à queue de parchemin pendant ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1177-12-31">1177 <note>La date de 1177
+                            intervient en finale d'un vidimus de trois actes donné par Marguerite,
+                            prieure de Juilly. Ce date correspond aux acteurs du présent acte,
+                            notamment l'abbé Andelin (Nantelmus) de Châtillon-sur-Seine de 1160 à
+                            1185 (<bibl sameAs="#zoteroItem_GV96TMPN">
+                                <biblScope>t. IV, col. 773</biblScope></bibl>; DHGE, 12, cols
+                            588-590). Le vidimus lui-même est plus tardif, sans doute du début du
+                            XIIIe siècle.</note>
+                    </date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324566" xml:id="d1e155592">Gauterius, Dei gratia
+                            <placeName key="stutzmann_himanis#317574" xml:id="d1e155594">Lingonensis</placeName> episcopus</persName>, notum facio presentibus
+                    et futuris quod <persName key="d1e24319" xml:id="d1e155598">Johannes, miles de
+                            <placeName key="stutzmann_himanis#325023" xml:id="d1e155600">Saneveto</placeName>
+                    </persName>, laudavit in presentia mea vadi-[17]-atiam quam <persName key="d1e24325" xml:id="d1e155603">Wiardus miles de <placeName key="stutzmann_himanis#325023" xml:id="d1e155605">Saneveto</placeName>, frater
+                        ejus</persName>, invadiaverat<note> invadivierat <hi rend="italic">ante
+                            corr. B</hi>.</note> sanctimonialibus de Juliaco in agris, in pratis, in
+                    pastura tocius finagii de Saneve-[18]-to. Accepit autem idem Johannes de
+                    Saneveto a prenominatis sanctimonialibus XX. libras super suam partem jam
+                    nominate pasture, clamavitque quittos omnes catallos [19] de predicta vaderia
+                    receptos. Catallos autem in elemosinam eisdem sanctimonialibus dedit usque ad
+                    redemptionem vaderie de ipsa vaderia recipiendos. [20] Est autem summa tam
+                    prioris quam posterioris vaderie super partem hujus Johannis .LIIII. <hi rend="background(green)">lb</hi>. Laudaverunt hec omnia Hylla, uxor jam
+                    nominati Johannis, et Dodo [21] de Floenio, de cujus casamento erant. Horum
+                    omnium testes sunt : Nantelmus abbas Castellionis, Hugo decanus de Calma, Petrus
+                    villicus Castellionis, [22] Andreas gener Boini<note>
+                        <hi rend="italic">Add. post corr. B</hi>.</note> prepositi Castellionis,
+                    Robertus de Bunceio. Acta sunt hec anno ab incarnatione Verbi Dei .M°. C°. LXX°.
+                    VII°.</p>
+            </body>
+        </text>
+    </TEI>

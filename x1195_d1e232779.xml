@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1195_d1e232779">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 143@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Copie perdue dans Cartulaire 1</witness>
+                        <witness n="C">Cartulaire 2, fol. 104<hi rend="superscript">v</hi>-105<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 21) ;
+                            table mutilée</witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. @<hi rend="superscript">@</hi> (@@. @)</bibl>
+                        <bibl>ADCO 15 H 2, fol. @<hi rend="superscript">@</hi> (@@. @)</bibl>
+                        <bibl>ADCO 15 H 3 / 4, p. @ (@. @. @)</bibl>
+                        <bibl sameAs="#Bouchard1991b">
+                            <biblScope>p. 39</biblScope>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1195-12-31">1195</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="d1e26330" xml:id="d1e159181">Matildis, comitissa <placeName key="stutzmann_himanis#324459" xml:id="d1e159183">Grinionis</placeName>
+                    </persName>, notum facio presentibus pariter et futuris quod <persName key="d1e26336" xml:id="d1e159186">Villermus <addName>Huldrea</addName>
+                    </persName> cum laboraret in extremis donavit ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e159191">Fonteneti</orgName> in perpetuam
+                    elemosinam <num>iiii</num>
+                    <hi rend="superscript">or</hi> solidos qui sibi ab eadem ecclesia censualiter
+                    debebantur et <num>iiii</num>
+                    <hi rend="superscript">or</hi> libras monete divionensis pro quibus
+                        <num>iiii</num>
+                    <hi rend="superscript">or</hi>
+                    <persName key="d1e26342" xml:id="d1e159209">Robertus frater ejusdem <persName key="d1e26348" xml:id="d1e159211">Willermi</persName>
+                    </persName> quittavit jamdicte ecclesie terram quandam apud <placeName key="stutzmann_himanis#324451" xml:id="d1e159214">Flaciacum</placeName> que jam
+                        <orgName key="stutzmann_himanis#282689" xml:id="d1e159217">Fontenetensibus</orgName>
+                    pro <num>lx</num> solidis invadiata fuerat. Hoc totum laudavit <persName key="d1e26354" xml:id="d1e159224">Helysabeth uxor predicti
+                        Willermi</persName> et <persName key="d1e26360" xml:id="d1e159227">Hodierna
+                        uxor Roberti</persName>. Hujus rei testes sunt <persName key="d1e26367" xml:id="d1e159230">abbas Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e159232">Grinione</placeName>
+                    </persName>, <persName key="d1e26373" xml:id="d1e159235">Hugo de <placeName key="stutzmann_himanis#324349" xml:id="d1e159237">Quinciaco</placeName>
+                    </persName>, <persName key="d1e26379" xml:id="d1e159240">Odo de <placeName key="stutzmann_himanis#324459" xml:id="d1e159242">Grinione</placeName>
+                    </persName> monachi, <persName key="stutzmann_himanis#324623" xml:id="d1e159245">Odo
+                        archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e159247">Tullionis</placeName>
+                    </persName>, <persName key="d1e26385" xml:id="d1e159251">Renerius de <placeName key="stutzmann_himanis#324356" xml:id="d1e159253">Saigniaco</placeName>
+                    </persName> et <persName key="d1e26391" xml:id="d1e159256">
+                        <hi rend="background(cyan)">P.</hi> frater ejus</persName>. Quod totum ut
+                    ratum habeatur imperpetuum sigilli mei impressione confirmavi, anno ab
+                    incarnatione Domini <num>m° c° xc° v°</num>.</p>
+            </body>
+        </text>
+    </TEI>

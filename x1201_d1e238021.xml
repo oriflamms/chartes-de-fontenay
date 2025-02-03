@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1201_d1e238021">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 193@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 57<hi rend="superscript">v</hi>-58<hi rend="superscript">r</hi> (<hi rend="italic">Estormer</hi>,
+                            36)</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. @<hi rend="superscript">@</hi> (@@. @)</bibl>
+                        <bibl>ADCO 15 H 2, fol. @<hi rend="superscript">@</hi> (@@. @)</bibl>
+                        <bibl>ADCO 15 H 3 / 4, p. @ (@. @. @)</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1201-12-31">1201</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324626" xml:id="d1e162887">Robertus archipresbiter
+                            <placeName key="stutzmann_himanis#324370" xml:id="d1e162889">Tullionis</placeName>
+                    </persName>, presentibus et futuris notum facio quod <persName key="d1e28062" xml:id="d1e162892">Garnerius de <placeName key="stutzmann_himanis#324415" xml:id="d1e162894">Blaseio</placeName>
+                    </persName> et <persName key="d1e28069" xml:id="d1e162897">Agnes uxor
+                        ejus</persName> proficiscentes ad <persName key="d1e28075" xml:id="d1e162900">Sanctum Jacobum</persName> dederunt in elemosinam
+                    ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e162903">Fonteneti</orgName>
+                    <num>xix</num> denarios et obolum in perpetuum in finagio de <placeName key="stutzmann_himanis#324966" xml:id="d1e162909">
+                        <foreign>Muneix</foreign>
+                    </placeName>. Verum si contigerit eam in isto viagio mori, ipsa donavit et
+                    concessit eidem ecclesie sua prata de <placeName key="stutzmann_himanis#324966" xml:id="d1e162913">
+                        <foreign>Muneis</foreign>
+                    </placeName> et pasturas suas. Si vero predicta <persName key="d1e28081" xml:id="d1e162917">Agnes</persName> redierit de predicto viagio pasturas
+                    redimet cum ipsa voluerit de <num>c</num> solidos divionensium et prata sua
+                    habebit in reditu quita. Testes sunt <persName key="d1e28087" xml:id="d1e162923">Oliverius de <placeName key="stutzmann_himanis#324459" xml:id="d1e162925">Grinione</placeName>
+                    </persName> et <persName key="d1e28093" xml:id="d1e162928">Robertus <addName>
+                            <foreign>li Sas</foreign>
+                        </addName>
+                    </persName> et <persName key="d1e28099" xml:id="d1e162935">Bartholomeus de
+                            <placeName key="stutzmann_himanis#324415" xml:id="d1e162937">Blaseio</placeName>
+                    </persName> milites. Actum est hoc apud <placeName key="stutzmann_himanis#324459" xml:id="d1e162940">Grinionem</placeName>, anno incarnationis Ihesus Christi
+                        <num>m° cc° i°</num>.</p>
+            </body>
+        </text>
+    </TEI>

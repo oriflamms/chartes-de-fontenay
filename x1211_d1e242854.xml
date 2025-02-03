@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1211_d1e242854">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 264@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 32<hi rend="superscript">v</hi> (<hi rend="italic">Abbatia</hi>, 30) ; table : « <hi rend="italic">Carta
+                                filie ejusdem Johannis</hi> », suivant
+                            « <hi rend="italic" xml:space="preserve">Carta Johannis de Seneveio et Renerii de </hi>Chaudoisel<hi rend="italic" xml:space="preserve"> de terris Marmanie </hi>»</witness>
+                        <witness n="E"/>
+                    </listWit>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1211-08-31">1211, août</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e166159">Gauterius, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e166161">Eduensis</placeName>
+                        episcopus</persName>, omnibus presentes litteras inspecturis in Domino
+                    salutem. <hi rend="background(yellow)">Sicut ex testimonio venerabilium patrum
+                            <persName key="d1e29154" xml:id="d1e166167">Manasse <placeName key="stutzmann_himanis#99215" xml:id="d1e166169">Aureliensis</placeName>
+                        </persName> et <persName key="d1e29160" xml:id="d1e166172">Willermi
+                                <placeName key="stutzmann_himanis#324435" xml:id="d1e166174">Autisiodorensis</placeName>
+                        </persName> episcoporum intelleximus</hi>, <persName key="d1e29166" xml:id="d1e166178">nobilis mulier Agnes, filia <persName key="d1e29172" xml:id="d1e166180">Johannis militis de <placeName key="stutzmann_himanis#325029" xml:id="d1e166182">
+                                <foreign>Senevoi</foreign>
+                            </placeName>
+                        </persName>
+                    </persName>, in presentia eorum constituta dedit et concessit in perpetuam
+                    elemosinam ecclesie et fratribus <orgName key="stutzmann_himanis#282689" xml:id="d1e166186">Fonteneti</orgName> pro remedio anime sue et antecessorum
+                    suorum quiquid habebat apud villam que <placeName key="stutzmann_himanis#324475" xml:id="d1e166189">Marmania</placeName> nuncupatur et in territorio ejusdem
+                    ville et in territorio <placeName key="stutzmann_himanis#324487" xml:id="d1e166193">Montis
+                        Barri</placeName>. Quam elemosinam postmodum <persName key="d1e29179" xml:id="d1e166196">Manasses, vir ejus</persName>, in presentia nostra
+                    comparens laudavit et nos ad instantiam ejus presentes litteras sigillo nostro
+                    in testimonium fecimus communeri. Actum anno gratie <num>m° cc° xi°</num> mense
+                    augusto.</p>
+            </body>
+        </text>
+    </TEI>

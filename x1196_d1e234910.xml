@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1196_d1e234910">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 162@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu.</witness>
+                        <witness n="B">ADCO 15 H 354, pièce 1. — Copie du 28 février 1692. Papier ;
+                            240 x 180 mm. Collation par Taphinon, notaire de Montbard, sur
+                            « l’original en parchemin au bas duquel est ataché partie d’un sceau de
+                            cire rouge sur lequel est empraint l’effigie d’un homme et de l’autre
+                            costé une armes »</witness>
+                        <witness n="C">ADCO 15 H 354, pièce 2. — Copie de la fin du <hi rend="smallcaps">xvii</hi>
+                            <hi rend="superscript">e</hi> s., signée par Guyton. Papier ; 2 ff. ;
+                            245 x 180 mm.</witness>
+                        <witness n="D">ADCO 15 H 354, pièce 3. — Copie de la fin du <hi rend="smallcaps">xvii</hi>
+                            <hi rend="superscript">e</hi> s. ou du <hi rend="smallcaps">xviii</hi>
+                            <hi rend="superscript">e</hi> s. Papier ; 2 ff. ; 245 x 190
+                            mm.</witness>
+                        <witness n="E">ADCO 15 H 10* (cart. 201<hi rend="superscript">bis</hi>),
+                                fol. 146<hi rend="superscript">v</hi> (Fontaines-en-Duesmois -
+                            Emorots. H) : « <hi rend="italic">Restat fragmentum sigilli in quo
+                                apparet figura sacerdotis in intalis</hi> ».</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 354, pièce 5, fol. 1<hi rend="superscript">r</hi></bibl>
+                        <bibl>ADCO 15 H 1, fol. <hi rend="background(red)">@</hi>
+                            <hi rend="superscript background(red)">@</hi> (Fontaines-en-Duesmois -
+                            Emorots. H)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 68<hi rend="superscript">v</hi>
+                            (Fontaines-en-Duesmois - Emorots. H)</bibl>
+                        <bibl>
+                            <hi rend="background(red)">ADCO 15 H 3 / 4, p. @ (@. @. @)</hi>
+                        </bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1196-12-31">1196</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324624" xml:id="d1e160686">Odo, dux <placeName key="stutzmann_himanis#325098" xml:id="d1e160688">Burgundie</placeName>
+                    </persName>, notum facio tam futuris quam presentibus quod <persName key="d1e26989" xml:id="d1e160691">Matheus <app>
+                            <lem>de <placeName key="stutzmann_himanis#324448" xml:id="d1e160697">
+                                    <foreign>Stet</foreign>
+                                </placeName>
+                            </lem>
+                            <rdg wit="#D">d’Etay</rdg>
+                            <rdg wit="#E">Destez</rdg>
+                        </app>
+                    </persName> donavit in perpetuam <app>
+                        <lem>elemosinam</lem>
+                        <rdg wit="#E">eleemozinam</rdg>
+                    </app> ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e160712">
+                        <app>
+                            <lem>Fonteneti</lem>
+                            <rdg wit="#C">Fonteñ</rdg>
+                            <rdg wit="#D">Fontenetensi</rdg>
+                        </app>
+                    </orgName> unum modium bladi frumenti et avene per medium ad mensuram de
+                        <placeName key="stutzmann_himanis#324426" xml:id="d1e160721">Castellione</placeName>
+                    singulis annis percipiendum in grangia sua de <placeName key="stutzmann_himanis#325060" xml:id="d1e160725">Villanis</placeName> pro anniversario suo faciendo. Hoc
+                    laudavit <persName key="d1e26996" xml:id="d1e160728">Adelina, uxor
+                        sua</persName>, et <persName key="d1e27002" xml:id="d1e160731">filia sua
+                        Eglentina</persName>. Hujus rei testes sunt : <persName key="d1e27008" xml:id="d1e160734">
+                        <app>
+                            <lem>Willermus</lem>
+                            <rdg wit="#C #D">Villermus</rdg>
+                        </app> prior</persName>, <persName key="d1e27014" xml:id="d1e160742">Renaudus de <placeName key="stutzmann_himanis#325251" xml:id="d1e160744">Curte <sic corresp="#B #C #D">Rabadi</sic>
+                        </placeName>
+                    </persName> , <persName key="d1e27020" xml:id="d1e160749">
+                        <app>
+                            <lem>Willermus</lem>
+                            <rdg wit="#C #D">Villermus</rdg>
+                        </app> cantor</persName>, <persName key="d1e27026" xml:id="d1e160758">Girardus major de <placeName key="stutzmann_himanis#324448" xml:id="d1e160760">
+                            <app>
+                                <lem>de <placeName key="stutzmann_himanis#324448" xml:id="d1e160765">
+                                        <foreign>Stet</foreign>
+                                    </placeName>
+                                </lem>
+                                <rdg wit="#D">d’Etay</rdg>
+                                <rdg wit="#E">Destez</rdg>
+                            </app>
+                        </placeName>
+                    </persName>, <persName key="d1e27033" xml:id="d1e160774">
+                        <app>
+                            <lem>Huelinus</lem>
+                            <rdg wit="#D">Uelinus</rdg>
+                        </app>, filius <persName key="d1e27039" xml:id="d1e160781">Turrini</persName>
+                    </persName>, <persName key="d1e27045" xml:id="d1e160784">Hugo filius <persName key="d1e27051" xml:id="d1e160786">Oliveri de Grinione</persName>
+                    </persName> et Girardus filius <app>
+                        <lem>Vatteri</lem>
+                        <rdg wit="#D">Valtheri</rdg>
+                        <rdg wit="#E">Vualteri</rdg>
+                    </app>. Quod ut ratum habeatur in posterum, sigilli mei impressione confirmavi.
+                    Actum anno ab incarnatione Domini millesimo <app>
+                        <lem>
+                            <num>c° xcvi°</num>
+                        </lem>
+                        <rdg wit="#C">centesimo octogesimodecimo sexto <space/>
+                            <handShift/> XCVI</rdg>
+                        <rdg wit="#D #E">centesimo nonagesimo sexto</rdg>
+                    </app>.</p>
+            </body>
+        </text>
+    </TEI>

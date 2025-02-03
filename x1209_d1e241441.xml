@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1209_d1e241441">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 246@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 24<hi rend="superscript">v</hi>-25<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 9,
+                            annotation marginale « <hi rend="italic">redd.</hi> »)</witness>
+                        <witness n="C">ADCO 15 H 11* (cart. 202), fol. 71<hi rend="superscript">v</hi> (Fain. P) : « <hi rend="italic">Restat sigillum ab appensura
+                                separatum et in carta inclusum</hi> » ; non collationné.</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (Fain. P)</bibl>
+                        <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">@</hi> (Fain. P)</bibl>
+                        <bibl>ADCO 15 H 4, p. 103 (IX. 7. 1).</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1209-06-30">1209, juin</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e165255">Gauterius, Dei gratia
+                            <placeName key="stutzmann_himanis#319548" xml:id="d1e165257">Eduensis</placeName>
+                        episcopus</persName>, omnibus notum facio tam presentibus quam futuris quod
+                        <persName key="d1e28864" xml:id="d1e165261">Ricardus miles de <placeName key="stutzmann_himanis#325251" xml:id="d1e165263">Curte Rabodi</placeName>
+                    </persName> dedit et concessit in perpetuam elemosinam pro salute sua et
+                    antecessorum suorum ecclesie sancte Marie <orgName key="stutzmann_himanis#282689" xml:id="d1e165266">Fonteneti</orgName> et fratribus ejusdem loci quicquid
+                    juris habebat in <placeName key="stutzmann_himanis#325148" xml:id="d1e165269">molendino
+                            <placeName key="stutzmann_himanis#324450" xml:id="d1e165271">Fanii</placeName>
+                        quod dicitur de Colle</placeName> et in omnibus ad ipsum molendinum
+                    pertinentibus et potestatem totum molendinum adquirendi et omnia ad eumdem
+                    molendinum pertinentia. Concessit etiam liberum transitum sicut consuetudo erat
+                    ante donum istud omnibus ire volentibus ad molendinum et in foresta <placeName key="stutzmann_himanis#324450" xml:id="d1e165275">Fanii</placeName> omnia necessaria
+                    ad usus molendini. Hoc totum sicut premisimus laudaverunt <persName key="d1e28870" xml:id="d1e165279">Helysabez <persName key="d1e28876" xml:id="d1e165281">supradicti Ricardi</persName> mater</persName>,
+                        <persName key="d1e28883" xml:id="d1e165285">Aaliz soror ejus</persName> et
+                        <persName key="d1e28889" xml:id="d1e165288">Agnes uxor ejus</persName>,
+                        <persName key="d1e28895" xml:id="d1e165291">Willermus miles de <placeName key="stutzmann_himanis#324956" xml:id="d1e165293">
+                            <foreign>Monesteruel</foreign>
+                        </placeName>
+                    </persName> et <persName key="d1e28901" xml:id="d1e165297">Bartholomeus frater
+                        ejus</persName>, <persName key="d1e28907" xml:id="d1e165300">Willermus miles
+                        de <placeName key="stutzmann_himanis#324456" xml:id="d1e165302">Gisseio</placeName>
+                        cognomento <addName>
+                            <foreign>Godins</foreign>
+                        </addName>
+                    </persName>, et <persName key="d1e28913" xml:id="d1e165310">Odo frater
+                        ejus</persName>. Quod totum ut ratum sit sigilli nostri munimine presentem
+                    paginam roboramus, anno incarnati Verbi <num>m° cc° ix°</num>, mense junio.</p>
+            </body>
+        </text>
+    </TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1199_d1e237175">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original 190@</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">B. Cartulaire 1, fol. 30<hi rend="superscript">r</hi>-31<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 35 ;
+                            annotation marginale « <hi rend="italic">Cum Flaviniaco</hi> ») ;
+                            table : « <hi rend="italic">Carta ejusdem de vinea apud Alisiam</hi> »,
+                            suivant « <hi rend="italic">Carta Odonis archipresbiteri et nepotum
+                                ejus</hi> »</witness>
+
+                    </listWit>
+                    <listBibl>
+                        <bibl>
+                            <hi rend="smallcaps" xml:space="preserve">Inventaire  : </hi>ADCO 15 H
+                            1, fol. @<hi rend="superscript">@</hi> (@@, @)</bibl>
+                        <bibl>ADCO 15 H 2, fol. @<hi rend="superscript">@</hi> (@@, @)</bibl>
+                        <bibl>ADCO 15 H <hi rend="background(red)">@</hi>, p. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>).</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1199-12-31">1199</date>
+                </creation>
+                <abstract>
+                    <p>Régeste</p>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>Ego <persName key="stutzmann_himanis#324610" xml:id="d1e162293">G<supplied>auterius</supplied> Dei gratia <placeName key="stutzmann_himanis#319548" xml:id="d1e162298">Eduensis</placeName>
+                        episcopus</persName>, notum facio presentibus et futuris quod <persName key="stutzmann_himanis#324623" xml:id="d1e162302">O<supplied>do</supplied>
+                        archipresbiter <placeName key="stutzmann_himanis#324370" xml:id="d1e162307">Tullionis</placeName>
+                    </persName> dedit et concessit in perpetuam elemosinam Deo et ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e162310">Fonteneti</orgName> ad omnium
+                    missarum usus vineam quam habebat apud <placeName key="stutzmann_himanis#324424" xml:id="d1e162313">Alysiam</placeName>. Unde testes sunt <persName key="d1e27779" xml:id="d1e162316">Willermus prior <orgName key="stutzmann_himanis#282689" xml:id="d1e162318">Fonteneti</orgName>
+                    </persName>, <persName key="d1e27785" xml:id="d1e162322">Humbertus
+                        sacrista</persName>, <persName key="d1e27791" xml:id="d1e162325">Johannes de
+                            <placeName key="stutzmann_himanis#324408" xml:id="d1e162327">Bonesi</placeName>
+                    </persName>, <persName key="d1e27797" xml:id="d1e162333">Hugo
+                        cellerarius</persName>, monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e162336">Fonteneti</orgName> ; <persName key="d1e27803" xml:id="d1e162339">Haymo de <placeName key="stutzmann_himanis#324374" xml:id="d1e162341">
+                            <foreign>Venerre</foreign>
+                        </placeName>
+                    </persName> et <persName key="d1e27810" xml:id="d1e162345">Leonardus de
+                            <placeName key="stutzmann_himanis#324475" xml:id="d1e162347">Marmania</placeName>
+                        capellani</persName>. Ut igitur hoc ratum et firmum habeatur in posterum
+                    presentem cartulam sigilli impressione precepi roborari. Anno incarnationis
+                    dominice <num>m° c° xc° ix°</num>.</p>
+            </body>
+        </text>
+    </TEI>

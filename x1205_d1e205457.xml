@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1205_d1e205457">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 2273</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 320, pièce 4</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>240</height>
+                                                  <width>210/195</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>190</height>
+                                                  <width>160</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="11">réglure à la mine
+                                                de plomb (20, 4, 160, 4, 17 x 27, 165, 40 mm) ;
+                                                repli de 20 mm, à deouble entaille centrale</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>Mentions dorsales : (<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « De quodam prato in
+                                        territorio de Senevos et de pasturis » ; « Senevei et de
+                                        elemosina domini Yteric apud Tornod. ( ?) » ; « Carta
+                                        Bartolomei ad Pollices » ; « Fontanarum » ; « XXXIX<hi rend="superscript">a</hi> » ; « Donum Bartolomei Ad
+                                        Pollices Altissiodori » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « B » ; « Senevoy.
+                                        Plusieurs titres concernans le droit de pasturage donné a
+                                        Senevoy a Mrs de Fontenay depuis 1205 et plusieurs autres
+                                        annees, cotté B » ; (1787) « N° 5 / 1215 »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1205</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 182<hi rend="superscript">r</hi> (Senevoy. B)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 105<hi rend="superscript">v</hi> (Senevoy. B)</bibl>
+                        <bibl>ADCO 15 H 3, p. 884 (XXXIX. 2. 5) : « scellé d’un grand sceau de cire
+                            jaune à queue de parchemin ».</bibl>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1205-12-31">1205</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_320_0008.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_320_0009.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                                        <p>
+                        <persName key="stutzmann_himanis#324648" xml:id="d1e139170">Robertus, Dei gratia
+                                <placeName key="stutzmann_himanis#317574" xml:id="d1e139172">Lingonensis</placeName> episcopus</persName>, universis presentem
+                        paginam in<lb n="2" break="no"/>specturis in perpetuum. Notum volumus fieri
+                        quod <persName key="d1e14113" xml:id="d1e139178">Bartholomeus <addName>Ad
+                                Pollices</addName>
+                        </persName>
+                        <lb n="3"/> in presentia nostra dedit in elemosinam Deo et ecclesie de
+                            <orgName key="stutzmann_himanis#282689" xml:id="d1e139184">Fonteneto</orgName>
+                        quoddam pratum quod est <lb n="4"/> situm in territorio de <placeName key="stutzmann_himanis#325023" xml:id="d1e139190">
+                            <foreign>Sanevoi</foreign>
+                        </placeName>. Laudavit idem <persName key="d1e14119" xml:id="d1e139194">Bartholomeus</persName> elemosinas quas <persName key="d1e14125" xml:id="d1e139197">Avalo, cog<lb n="5" break="no"/>natus
+                        ejus</persName>, et <persName key="d1e14131" xml:id="d1e139202">Gaufridus</persName>, miles, cognatus ejus, et <persName key="d1e14138" xml:id="d1e139205">Emelina</persName>, soror ejusdem <persName key="d1e14144" xml:id="d1e139208">Gaufridi</persName>, fece<lb n="6" break="no"/>rant eidem ecclesie de <orgName key="stutzmann_himanis#282689" xml:id="d1e139214">Fonteneto</orgName>, videlicet portionem pasturarum
+                        de <placeName key="stutzmann_himanis#325023" xml:id="d1e139217">
+                            <hi rend="italic" xml:space="preserve">Sanevoi </hi>
+                        </placeName> que eos <lb n="7"/> contingebant et erant de casamento ejusdem
+                            <persName key="d1e14150" xml:id="d1e139223">Bartholomei</persName>.
+                        Laudavit etiam idem <persName key="d1e14156" xml:id="d1e139226">Bar<lb n="8" break="no"/>tolomeus</persName> elemosinam quam <persName key="d1e14162" xml:id="d1e139232">Ytericus de <placeName key="stutzmann_himanis#324430" xml:id="d1e139234">
+                                <foreign>Chaudesaul</foreign>
+                            </placeName>
+                        </persName> fecit sepedicte ecclesie fratribus apud <lb n="9"/>
+                        <placeName key="stutzmann_himanis#101449" xml:id="d1e139239">Tornodorum</placeName>
+                        que erat de casamento sepedicti <persName key="d1e14168" xml:id="d1e139242">Bartholomei</persName>. Ut igitur hoc totum ratum <lb n="10"/> habeatur
+                        in posterum, sigillum nostrum presenti pagine apponi precepimus. Anno Verbi
+                            <lb n="11"/> incarnati millesimo. <space/>ducentesimo.
+                        <space/>quinto.</p>
+                
+            </body>
+        </text>
+    </TEI>

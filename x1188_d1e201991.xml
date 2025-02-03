@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="x1188_d1e201991">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title>Acte original n° @ = Access n° 1868</title>
+                    <author/>
+                </titleStmt>
+                <publicationStmt>
+                    <p>See the header of the teiCorpus</p>
+                </publicationStmt>
+                <sourceDesc>
+                    <listWit>
+                        <witness n="A">
+                            <msDesc>
+                                <msIdentifier>
+                                    <settlement>Dijon</settlement>
+                                    <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                                    <idno>15 H 193, pièce 9</idno>
+                                </msIdentifier>
+                                <physDesc>
+                                    <objectDesc>
+                                        <supportDesc material="perg">
+                                            <support>
+                                                <p>Original en parchemin</p>
+                                            </support>
+                                            <extent>
+                                                <dimensions type="leaves" unit="mm">
+                                                  <height>135</height>
+                                                  <width>165</width>
+                                                </dimensions>
+                                                <dimensions type="written" unit="mm">
+                                                  <height>100</height>
+                                                  <width>155</width>
+                                                </dimensions>
+                                            </extent>
+                                        </supportDesc>
+                                        <layoutDesc>
+                                            <layout columns="1" writtenLines="9">réglure à la mine
+                                                de plomb (7, 154, 7 x 8, 100, 25 mm) ; repli de 12
+                                                mm à une entaille centrale</layout>
+                                        </layoutDesc>
+                                    </objectDesc>
+                                    <scriptDesc>
+                                        <scriptNote>
+                                            <term type="script">écriture diplomatique</term>
+                                        </scriptNote>
+                                    </scriptDesc>
+                                    <additions>(<hi rend="smallcaps">xiii</hi>
+                                        <hi rend="superscript">e</hi> s.) « De Fontanis » ; « Carta
+                                        Hugonis de Jaigniaco et Pontii fratris ejus » ; « .XL. » ;
+                                        « de pasturis Jaignici » ; (<hi rend="smallcaps">xvii</hi>
+                                        <hi rend="superscript">e</hi> s.) « CC » ; « Leignes. Droit
+                                        de pasturage a Leygnes vendu par Hugues de Jigny l’an 1188
+                                        cotté CC ; (1787) « N° 6 / 1188 » ; (<hi rend="smallcaps">xviii</hi>
+                                        <hi rend="superscript">e</hi> s.) « Cent quatorze. Alex.
+                                        Derepas »</additions>
+                                </physDesc>
+                                <history>
+                                    <origin>
+                                        <origDate>1188</origDate>
+                                    </origin>
+                                </history>
+                            </msDesc>
+                        </witness>
+                    </listWit>
+                    <listBibl>
+                        <bibl>ADCO 15 H 1, fol. 109<hi rend="superscript">v</hi> (Laignes.
+                            CC)</bibl>
+                        <bibl>ADCO 15 H 2, fol. 83<hi rend="superscript">v</hi> (Laignes. CC)</bibl>
+                        <bibl>ADCO 15 H 3, p. 598 (XXIX. 6. 6) : « scellé d’un sceau de cire jaune à
+                            queue de peau blanche pendant »</bibl>
+                        <bibl/>
+                    </listBibl>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation>
+                    <date type="documentCreation" when="1188-12-31">1188</date>
+                </creation>
+                <abstract>
+                    <p/>
+                </abstract>
+            </profileDesc>
+        </teiHeader>
+        <facsimile>
+            <graphic url="../../../Fontenay/FRAD021_15_H_193_0018.jpg" scale="20"/>
+            <graphic url="../../../Fontenay/FRAD021_15_H_193_0019.jpg" scale="20"/>
+        </facsimile>
+        <text>
+            <body>
+                
+                                        <p>Ego <persName key="d1e13342" xml:id="d1e136826">
+                            <sic>Matilld.</sic>, comitissa <placeName key="stutzmann_himanis#101449" xml:id="d1e136830">Tornodorensis</placeName>
+                        </persName>, notum fieri volo presentibus et futuris quod <persName key="d1e13348" xml:id="d1e136833">Hugo <lb n="2"/> de <placeName key="stutzmann_himanis#325298" xml:id="d1e136837">Jaigniaco</placeName>
+                        </persName> et <persName key="d1e13354" xml:id="d1e136840">Pontius</persName> frater ejus, laudante matre eorum <persName key="d1e13361" xml:id="d1e136843">
+                            <foreign>Damerun</foreign>
+                        </persName>, dederunt in <lb n="3"/> elemosinam eclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e136850">Fonteneti</orgName> quicquid
+                        juris pasturarum habebant in omni finagio <lb n="4"/>
+                        <placeName key="stutzmann_himanis#325298" xml:id="d1e136854">Jaigniaci</placeName> et
+                            <placeName key="stutzmann_himanis#324466" xml:id="d1e136857">Lanie</placeName> et
+                        pro hoc habuerunt de beneficio eclesie <persName key="d1e13367" xml:id="d1e136860">Hugo</persName> .X. libras <lb n="5"/> et frater ejus
+                            <persName key="d1e13373" xml:id="d1e136866">P.</persName> XX. solidos et
+                        ego <persName key="d1e13379" xml:id="d1e136869">Matilldis</persName>
+                        <term>pleggia</term> sum et garantiam <lb n="6"/> porto contra omnes qui de
+                        hoc aliquam calumpniam fecerint. Hujus <lb n="7"/> rei testes sunt <persName key="d1e13385" xml:id="d1e136878">Bernardus de <placeName key="stutzmann_himanis#324459" xml:id="d1e136880">
+                                <foreign>Grignun</foreign>
+                            </placeName>
+                        </persName> et <persName key="d1e13391" xml:id="d1e136885">Andreas de
+                                <placeName key="stutzmann_himanis#324421" xml:id="d1e136887">Buisseio</placeName>
+                        </persName>
+                        <lb n="8"/> monachi de <orgName key="stutzmann_himanis#282689" xml:id="d1e136891">Fonteneto</orgName>, <persName key="d1e13398" xml:id="d1e136894">Wido
+                            de <placeName key="stutzmann_himanis#101449" xml:id="d1e136896">Tornod<supplied>oro</supplied>
+                            </placeName>
+                        </persName>, <persName key="d1e13404" xml:id="d1e136901">Haimo de <placeName key="stutzmann_himanis#324952" xml:id="d1e136903">
+                                <hi rend="italic">Milisse</hi>
+                            </placeName>
+                        </persName>, <persName key="d1e13410" xml:id="d1e136907">
+                            <foreign>Coluns</foreign>
+                            <lb n="9"/> prepositus <placeName key="stutzmann_himanis#101449" xml:id="d1e136912">Tornod<hi rend="background(red)">[ori]</hi>
+                            </placeName>
+                        </persName>. Annus verbi incarnati M<hi rend="superscript">us</hi>. C<hi rend="superscript">us</hi>. octogesimus. octavus.</p>
+                
+            </body>
+        </text>
+    </TEI>
