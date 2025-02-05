@@ -714,8 +714,9 @@
                         key="stutzmann_himanis#324356" xml:id="d1e143437">Saigniaco</placeName>
                 </persName>. De laude et concessione <persName key="stutzmann_himanis#325682"
                     corresp="Letuidis, épouse de Gérard de Duesme (fl. 1136)">Letuidis</persName>,
-                    <persName key="d1e16105" xml:id="d1e143443">Odo de <placeName
-                        key="stutzmann_himanis#324452" xml:id="d1e143445">Fontanis</placeName>
+                    <persName key="stutzmann_himanis#325688" corresp="Eudes de Fontaines (fl. 1136)"
+                    >Odo de <placeName key="stutzmann_himanis#324452" xml:id="d1e143445"
+                        >Fontanis</placeName>
                 </persName> et <persName key="stutzmann_himanis#325690" corresp="Lebaud (fl. 1136)"
                     >Lebaudus</persName>, <persName key="stutzmann_himanis#325691"
                     corresp="Ordeum (fl. 1136)">Ordeum</persName> et <persName
@@ -757,25 +758,37 @@
                         key="stutzmann_himanis#324356" xml:id="d1e143507">Saigniaxo</placeName>
                 </persName> et <persName key="stutzmann_himanis#325707"
                     corresp="Constantin, nepos de Robert de Seigny">Constantius nepos
-                    ejus</persName> et <persName key="d1e16185" xml:id="d1e143514">Radulphus
-                    cognatus <persName key="stutzmann_himanis#325652"
+                    ejus</persName> et <persName key="stutzmann_himanis#325842"
+                    corresp="Raoul, cognatus de Foucher de Velbrey (fl. 1136)">Radulphus cognatus
+                        <persName key="stutzmann_himanis#325652"
                         corresp="Foucher de Velbrey (fl. 1136)">Fulcherii</persName>
                 </persName>.     Hoc donum laudaverunt et concesserunt filii <persName
-                    key="d1e16197" xml:id="d1e143519">Fulcherii</persName>, <persName key="d1e16203"
-                    xml:id="d1e143522">Morinus</persName> et <persName key="d1e16210"
-                    xml:id="d1e143525">Giraudus</persName>. Unde sunt testes <persName
-                    key="d1e16216" xml:id="d1e143528">Josbertus presbiter</persName> et <persName
-                    key="d1e16222" xml:id="d1e143531">Petrus presbiter</persName> et <persName
-                    key="d1e16228" xml:id="d1e143535">Galterius filius <persName key="d1e16234"
-                        xml:id="d1e143537">Paredi</persName>
-                </persName>.    Hoc etiam donum laudavit <persName key="d1e16240" xml:id="d1e143540"
-                    >Radulphus prefati <persName key="d1e16247" xml:id="d1e143542"
-                        >Fulcherii</persName> cognatus</persName> et <persName key="d1e16253"
-                    xml:id="d1e143546">frater ejusdem Radulphi Johannes</persName> et <persName
-                    key="d1e16259" xml:id="d1e143549">mater eorum Anna</persName>. Unde sunt testes
-                    <persName key="d1e16265" xml:id="d1e143552">Martinus avunculus fratrum
-                    illorum</persName> et <persName key="d1e16271" xml:id="d1e143555">Johannes
-                    filius ejus</persName> et <persName key="d1e16277" xml:id="d1e143559">Hugo de
+                    key="stutzmann_himanis#325652" corresp="Foucher de Velbrey (fl. 1136)"
+                    >Fulcherii</persName>, <persName key="stutzmann_himanis#325838"
+                    corresp="Morin, fils de Foucher de Velbrey">Morinus</persName> et <persName
+                    key="stutzmann_himanis#325840"
+                    corresp="Giraud, fils de Foucher de Velbrey (fl. 1136)">Giraudus</persName>.
+                Unde sunt testes <persName key="stutzmann_himanis#325845"
+                    corresp="Josbert, prêtre (fl. 1136)">Josbertus presbiter</persName> et <persName
+                    key="stutzmann_himanis#325844" corresp="Pierre, prêtre (fl. 1136)">Petrus
+                    presbiter</persName> et <persName key="d1e16228" xml:id="d1e143535">Galterius
+                    filius <persName key="d1e16234" xml:id="d1e143537">Paredi</persName>
+                </persName>.    Hoc etiam donum laudavit <persName key="stutzmann_himanis#325842"
+                    corresp="Raoul, cognatus de Foucher de Velbrey (fl. 1136)">Radulphus prefati
+                        <persName key="stutzmann_himanis#325652"
+                        corresp="Foucher de Velbrey (fl. 1136)">Fulcherii</persName>
+                    cognatus</persName> et <persName key="stutzmann_himanis#325846"
+                    corresp="Jean, frère de Raoul cognatus de Foucher de Velbrey (fl. 1136)">frater
+                    ejusdem Radulphi Johannes</persName> et <persName key="stutzmann_himanis#325848"
+                    corresp="Anne, mère de Jean et Raoul cognatus de Foucher de Velbrey (fl. 1136)"
+                    >mater eorum Anna</persName>. Unde sunt testes <persName
+                    key="stutzmann_himanis#325851"
+                    corresp="Martin, oncle de Jean et Raoul cognatus de Foucher de Velbrey (fl. 1136)"
+                    >Martinus avunculus fratrum illorum</persName> et <persName
+                    key="stutzmann_himanis#325854"
+                    corresp="Jean, fils de Martin oncle de Jean et Raoul">Johannes filius
+                    ejus</persName> et <persName key="stutzmann_himanis#325555"
+                    corresp="Hugues de Seigny, fils de Geoffroy de Seigny (fl. 1136)">Hugo de
                         <placeName key="stutzmann_himanis#324356" xml:id="d1e143561"
                         >Saigniaco</placeName>
                 </persName>.</p>
@@ -927,10 +940,11 @@
                         key="stutzmann_himanis#324370" xml:id="d1e143829">Tullionis</placeName>
                 </persName> et <persName key="stutzmann_himanis#325678"
                     corresp="Renaud, fils de Robert major de Touillon">Rainaldus filius
-                    ejus</persName> et <persName key="d1e16536" xml:id="d1e143835">Haimo homo
-                        <persName key="stutzmann_himanis#325553"
-                        corresp="Geoffroy de Seigny (fl. 1136)">Godefridi de <placeName
-                            key="stutzmann_himanis#324356" xml:id="d1e143839">Saigniaco</placeName>
+                    ejus</persName> et <persName key="stutzmann_himanis#325808"
+                    corresp="Aimon, homo de Geoffroy de Seigny (fl. 1136)">Haimo homo <persName
+                        key="stutzmann_himanis#325553" corresp="Geoffroy de Seigny (fl. 1136)"
+                        >Godefridi de <placeName key="stutzmann_himanis#324356" xml:id="d1e143839"
+                            >Saigniaco</placeName>
                     </persName>
                 </persName>.    <app>
                     <rdg>
@@ -938,10 +952,14 @@
                         <witDetail wit="#a">p. 544 n° 102</witDetail>
                         <witStart wit="#D #a"/>
                     </rdg>
-                </app>Hoc donum laudavit <persName key="d1e16549" xml:id="d1e143850">Laura ipsius
-                        <persName key="d1e16555" xml:id="d1e143852">Godefridi</persName>
-                    filia</persName> et <persName key="d1e16561" xml:id="d1e143857">Helyas filius
-                        <persName key="d1e16567" xml:id="d1e143859">Laure</persName>
+                </app>Hoc donum laudavit <persName key="stutzmann_himanis#325810"
+                    corresp="Laure, fille de Geoffroy de Seigny (fl. 1136)">Laura ipsius <persName
+                        key="stutzmann_himanis#325553" corresp="Geoffroy de Seigny (fl. 1136)"
+                        >Godefridi</persName> filia</persName> et <persName
+                    key="stutzmann_himanis#325812"
+                    corresp="Helias, fils de Laure fille de Geoffroy de Seigny (fl. 1136)">Helyas
+                    filius <persName key="stutzmann_himanis#325810"
+                        corresp="Laure, fille de Geoffroy de Seigny (fl. 1136)">Laure</persName>
                 </persName>
                 <app>
                     <lem>
@@ -949,76 +967,108 @@
                     </lem>
                 </app> sub eisdem testibus.</p>
                 <p n="43">
-                    <hi rend="red">
-                        <num>xliii</num>
-                    </hi>. <app>
-                        <rdg>
-                            <witStart wit="#D #a"/>
-                            <witDetail wit="#D">fol. 275v</witDetail>
-                            <witDetail wit="#a">p. 541, n° 100</witDetail>
-                        </rdg>
-                    </app>
-                    <persName key="d1e16573" xml:id="d1e143877">Huldreus de <placeName key="stutzmann_himanis#324470" xml:id="d1e143879">Lucennaco</placeName>
-                    </persName> dedit ecclesie sancte Marie de <orgName key="stutzmann_himanis#282689" xml:id="d1e143882">Fonteneto</orgName> mansum unum apud <placeName key="stutzmann_himanis#324451" xml:id="d1e143885">Flaciacum</placeName>. Unde sunt
-                    testes <persName key="d1e16580" xml:id="d1e143888">Bartholomeus de <placeName key="stutzmann_himanis#324475" xml:id="d1e143890">Marmania</placeName>
-                    </persName>, <persName key="d1e16586" xml:id="d1e143894">Verricus de <placeName key="stutzmann_himanis#324426" xml:id="d1e143896">Castellione</placeName>
-                    </persName>. Hoc donum laudavit <persName key="d1e16592" xml:id="d1e143899">Petrus filius ejus</persName> sub eisdem testibus et sub istis <persName key="d1e16598" xml:id="d1e143902">Humberto de <placeName key="stutzmann_himanis#325273" xml:id="d1e143904">Fanco</placeName>
-                    </persName>
-                    <witDetail wit="#E">Il faut lire « Fanio » au lieu de « Fanco » E, fol. 18<hi rend="superscript">r</hi>
-                    </witDetail>. et <persName key="d1e16604" xml:id="d1e143911">Siguino de
-                            <placeName key="stutzmann_himanis#324370" xml:id="d1e143913">Tullione</placeName>
-                    </persName> et <persName key="d1e16610" xml:id="d1e143916">
-                        <app>
-                            <lem>Radulfo</lem>
-                            <rdg wit="#a">Radulpho</rdg>
-                        </app> de <placeName key="stutzmann_himanis#325273" xml:id="d1e143923">Fanco</placeName>
-                    </persName>. Ipsum <persName key="d1e16617" xml:id="d1e143927">Huldreum</persName> in senectute ejus <hi rend="background(green)">sub sua
-                        cura monachi receperunt</hi>
+                <hi rend="red">
+                    <num>xliii</num>
+                </hi>. <app>
+                    <rdg>
+                        <witStart wit="#D #a"/>
+                        <witDetail wit="#D">fol. 275v</witDetail>
+                        <witDetail wit="#a">p. 541, n° 100</witDetail>
+                    </rdg>
+                </app>
+                <persName key="stutzmann_himanis#325814" corresp="Huldreus de Lucenay (fl. 1136)"
+                    >Huldreus de <placeName key="stutzmann_himanis#324470" xml:id="d1e143879"
+                        >Lucennaco</placeName>
+                </persName> dedit ecclesie sancte Marie de <orgName key="stutzmann_himanis#282689"
+                    xml:id="d1e143882">Fonteneto</orgName> mansum unum apud <placeName
+                    key="stutzmann_himanis#324451" xml:id="d1e143885">Flaciacum</placeName>. Unde
+                sunt testes <persName key="stutzmann_himanis#325816"
+                    corresp="Barthelemi de Marmagne (fl. 1136)">Bartholomeus de <placeName
+                        key="stutzmann_himanis#324475" xml:id="d1e143890">Marmania</placeName>
+                </persName>, <persName key="stutzmann_himanis#325818"
+                    corresp="Verricus de Châtillon (fl. 1136)">Verricus de <placeName
+                        key="stutzmann_himanis#324426" xml:id="d1e143896">Castellione</placeName>
+                </persName>. Hoc donum laudavit <persName key="stutzmann_himanis#325821"
+                    corresp="Pierre, fils de Huldreus de Lucenay">Petrus filius ejus</persName> sub
+                eisdem testibus et sub istis <persName key="stutzmann_himanis#325823"
+                    corresp="Humbert de Fain (fl. 1136)">Humberto de <placeName
+                        key="stutzmann_himanis#325273" xml:id="d1e143904">Fanco</placeName>
+                </persName>
+                <witDetail wit="#E">Il faut lire « Fanio » au lieu de « Fanco » E, fol. 18<hi
+                        rend="superscript">r</hi>
+                </witDetail>. et <persName key="stutzmann_himanis#325825"
+                    corresp="Seguin de Touillon (fl. 1136)">Siguino de <placeName
+                        key="stutzmann_himanis#324370" xml:id="d1e143913">Tullione</placeName>
+                </persName> et <persName key="stutzmann_himanis#325827" corresp="Raoul de Fain">
                     <app>
-                        <rdg>
-                            <witEnd wit="#D #a"/>
-                            <witDetail wit="#a">p. 541, n° 100</witDetail>
-                        </rdg>
-                    </app>.</p>
+                        <lem>Radulfo</lem>
+                        <rdg wit="#a">Radulpho</rdg>
+                    </app> de <placeName key="stutzmann_himanis#325273" xml:id="d1e143923"
+                        >Fanco</placeName>
+                </persName>. Ipsum <persName key="stutzmann_himanis#325814"
+                    corresp="Huldreus de Lucenay (fl. 1136)">Huldreum</persName> in senectute ejus
+                    <hi rend="background(green)">sub sua cura monachi receperunt</hi>
+                <app>
+                    <rdg>
+                        <witEnd wit="#D #a"/>
+                        <witDetail wit="#a">p. 541, n° 100</witDetail>
+                    </rdg>
+                </app>.</p>
                 <p n="44">
-                    <hi rend="red">
-                        <num>xliiii</num>
-                    </hi>. <app>
-                        <rdg>
-                            <witStart wit="#D #a"/>
-                            <witDetail wit="#D">fol. 278r</witDetail>
-                            <witDetail wit="#a">p. 542, n° 101</witDetail>
-                        </rdg>
-                    </app>
-                    <persName key="d1e16623" xml:id="d1e143950">Girbertus de <placeName key="stutzmann_himanis#324487" xml:id="d1e143952">Monte Barro</placeName>
-                    </persName> laudante <persName key="d1e16629" xml:id="d1e143955">filio ejus
-                        Tecelino</persName> dedit ecclesie sancte Marie de <orgName key="stutzmann_himanis#282689" xml:id="d1e143958">Fonteneto</orgName> pratum in loco
-                    qui dicitur <placeName key="stutzmann_himanis#324986" xml:id="d1e143961">Pratum
-                        Deodati</placeName>. Hujus rei testes sunt <persName key="d1e16635" xml:id="d1e143965">Artaldus canonicus <placeName key="stutzmann_himanis#324366" xml:id="d1e143967">Sedeloci</placeName>
-                    </persName>, <persName key="d1e16641" xml:id="d1e143970">Petrus
-                        scriptor</persName>, <persName key="d1e16647" xml:id="d1e143973">Bruno
-                        filius <persName key="d1e16654" xml:id="d1e143975">Lamberti fabri de
-                                <placeName key="stutzmann_himanis#324366" xml:id="d1e143977">Sedeloco</placeName>
-                        </persName>
-                    </persName>. Hoc donum laudavit postea <persName key="d1e16660" xml:id="d1e143980">Girardus clericus filius <persName key="d1e16666" xml:id="d1e143982">Girberti</persName>
-                    </persName>. Unde sunt testes <persName key="d1e16672" xml:id="d1e143985">Petrus
-                        scriptor</persName> et <persName key="d1e16678" xml:id="d1e143988">Symon
-                        clericus</persName>.<app>
-                        <rdg>
-                            <witEnd wit="#D #a"/>
-                            <witDetail wit="#D">fol. 278r</witDetail>
-                            <witDetail wit="#a">p. 542, n° 101</witDetail>
-                        </rdg>
-                    </app>
-                </p>
+                <hi rend="red">
+                    <num>xliiii</num>
+                </hi>. <app>
+                    <rdg>
+                        <witStart wit="#D #a"/>
+                        <witDetail wit="#D">fol. 278r</witDetail>
+                        <witDetail wit="#a">p. 542, n° 101</witDetail>
+                    </rdg>
+                </app>
+                <persName key="stutzmann_himanis#325794" corresp="Gilbert de Montbard">Girbertus de
+                        <placeName key="stutzmann_himanis#324487" xml:id="d1e143952">Monte
+                        Barro</placeName>
+                </persName> laudante <persName key="stutzmann_himanis#325796"
+                    corresp="Tecelin, fils de Gilbert de Montbard (fl. 1136)">filio ejus
+                    Tecelino</persName> dedit ecclesie sancte Marie de <orgName
+                    key="stutzmann_himanis#282689" xml:id="d1e143958">Fonteneto</orgName> pratum in
+                loco qui dicitur <placeName key="stutzmann_himanis#324986" xml:id="d1e143961">Pratum
+                    Deodati</placeName>. Hujus rei testes sunt <persName
+                    key="stutzmann_himanis#325792" corresp="Artaud, chanoine de Saulieu (fl. 1136)"
+                    >Artaldus canonicus <placeName key="stutzmann_himanis#324366" xml:id="d1e143967"
+                        >Sedeloci</placeName>
+                </persName>, <persName key="stutzmann_himanis#325798"
+                    corresp="Pierre, scribe (fl. 1136)">Petrus scriptor</persName>, <persName
+                    key="stutzmann_himanis#325801"
+                    corresp="Bruno, fils de Lambert forgeron de Saulieu (fl. 1136)">Bruno filius
+                        <persName key="stutzmann_himanis#325799"
+                        corresp="Lambert, forgeron de Saulieu (fl. 1136)">Lamberti fabri de
+                            <placeName key="stutzmann_himanis#324366" xml:id="d1e143977"
+                            >Sedeloco</placeName>
+                    </persName>
+                </persName>. Hoc donum laudavit postea <persName key="stutzmann_himanis#325803"
+                    corresp="Girard, clerc, fils de Gilbert de Montbard (fl. 1136)">Girardus
+                    clericus filius <persName key="stutzmann_himanis#325794"
+                        corresp="Gilbert de Montbard">Girberti</persName>
+                </persName>. Unde sunt testes <persName key="stutzmann_himanis#325798"
+                    corresp="Pierre, scribe (fl. 1136)">Petrus scriptor</persName> et <persName
+                    key="stutzmann_himanis#325805" corresp="Simon, clerc (fl. 1136)">Symon
+                    clericus</persName>.<app>
+                    <rdg>
+                        <witEnd wit="#D #a"/>
+                        <witDetail wit="#D">fol. 278r</witDetail>
+                        <witDetail wit="#a">p. 542, n° 101</witDetail>
+                    </rdg>
+                </app>
+            </p>
                 <p n="45">
                 <hi rend="red">
                     <num>xlv</num>
-                </hi>. <persName key="d1e16684" xml:id="d1e144005">Ermensendis de <placeName
-                        key="stutzmann_himanis#324374" xml:id="d1e144007">Venerre</placeName>
-                </persName> neptis <persName key="d1e16691" xml:id="d1e144010">Gisleberti de
-                        <placeName key="stutzmann_himanis#324475" xml:id="d1e144012"
-                        >Marmania</placeName>
+                </hi>. <persName key="stutzmann_himanis#325789" corresp="Ermesende de Venarey"
+                    >Ermensendis de <placeName key="stutzmann_himanis#324374" xml:id="d1e144007"
+                        >Venerre</placeName>
+                </persName> neptis <persName key="stutzmann_himanis#325787"
+                    corresp="Gilbert de Marmagne (fl. 1136)">Gisleberti de <placeName
+                        key="stutzmann_himanis#324475" xml:id="d1e144012">Marmania</placeName>
                 </persName> dedit ecclesie sancte Marie de <orgName key="stutzmann_himanis#282689"
                     xml:id="d1e144015">Fonteneto</orgName> quicquid habebat de chasamento episcopi
                 Eduensis a <placeName key="stutzmann_himanis#324455" xml:id="d1e144018"
@@ -1028,30 +1078,40 @@
                 censum suum non perderet, sed ipsi monachi secundum quod de pratis adquirerent ei
                 redderent. Pro dono isto habuit de caritate ecclesie <num>xxx</num>
                 <hi rend="superscript">ta</hi>
-                <num>v</num> solidos et sextarium frumenti. Sed et <persName key="d1e16697"
-                    xml:id="d1e144032">filium ejus Haymonem</persName> quem ipsa <persName
-                    key="stutzmann_himanis#324659"
+                <num>v</num> solidos et sextarium frumenti. Sed et <persName
+                    key="stutzmann_himanis#325806"
+                    corresp="Aimon, fils d'Ermensende de Venarey (fl. 1136)">filium ejus
+                    Haymonem</persName> quem ipsa <persName key="stutzmann_himanis#324659"
                     corresp="Guillaume I d’Epiry, abbé de Fontenay (1126-1154)">abbati
                     Willelmo</persName> obtulit ad nutriendum ut conversus fieret monachi
-                susceperunt.    Hujus doni testes sunt <persName key="d1e16709" xml:id="d1e144038"
-                    >Osmundus de <placeName key="stutzmann_himanis#324374" xml:id="d1e144040"
-                        >Venerre</placeName>
-                </persName>, <persName key="d1e16715" xml:id="d1e144043">Gislebertus de <placeName
+                susceperunt.    Hujus doni testes sunt <persName key="stutzmann_himanis#325829"
+                    corresp="Osmond de Venarey (fl. 1136)">Osmundus de <placeName
+                        key="stutzmann_himanis#324374" xml:id="d1e144040">Venerre</placeName>
+                </persName>, <persName key="stutzmann_himanis#325787"
+                    corresp="Gilbert de Marmagne (fl. 1136)">Gislebertus de <placeName
                         key="stutzmann_himanis#324475" xml:id="d1e144045">Marmania</placeName>
-                </persName>, <persName key="d1e16721" xml:id="d1e144049">Hugo de <placeName
+                </persName>, <persName key="stutzmann_himanis#325555"
+                    corresp="Hugues, fils de Geoffroy de Seigny (fl. 1136)">Hugo de <placeName
                         key="stutzmann_himanis#324356" xml:id="d1e144051">Saigniaco</placeName>
-                </persName>, <persName key="d1e16728" xml:id="d1e144054">Robertus de <placeName
+                </persName>, <persName key="stutzmann_himanis#325613"
+                    corresp="Robert, major de Touillon (fl. 1136)">Robertus de <placeName
                         key="stutzmann_himanis#324370" xml:id="d1e144056">Tullione</placeName>
-                    major</persName>, <persName key="d1e16734" xml:id="d1e144060">Milo filius
-                    Osmundi</persName>, <persName key="d1e16740" xml:id="d1e144063">Gislebertus
-                    frater <foreign>Malvaslet</foreign>
-                </persName>.    Hoc laudavit <persName key="d1e16746" xml:id="d1e144068"
-                    >Hermenjardis filia ipsius <persName key="d1e16752" xml:id="d1e144070"
-                        >Hermensendis</persName>
-                </persName> sub eisdem testibus et predictus <persName key="d1e16758"
-                    xml:id="d1e144073">Haumo</persName>, alius quoque frater, <persName
-                    key="d1e16765" xml:id="d1e144077">Pontius</persName> nomine, laudavit testibus
-                predicto <persName key="d1e16771" xml:id="d1e144080">Osmundo</persName>, <persName
+                    major</persName>, <persName key="stutzmann_himanis#325831"
+                    corresp="Milon, fils d'Osmond de Venarey (fl. 1136)">Milo filius <persName
+                        key="stutzmann_himanis#325829" corresp="Osmond de Venarey (fl. 1136)"
+                        >Osmundi</persName></persName>, <persName key="stutzmann_himanis#325837"
+                    corresp="Gilbert Malvaslet">Gislebertus frater <foreign>Malvaslet</foreign>
+                </persName>.    Hoc laudavit <persName key="stutzmann_himanis#325833"
+                    corresp="Ermengarde, fille d'Ermensende de Venarey (fl. 1136)">Hermenjardis
+                    filia ipsius <persName key="stutzmann_himanis#325789"
+                        corresp="Ermensende de Venarey">Hermensendis</persName>
+                </persName> sub eisdem testibus et predictus <persName
+                    key="stutzmann_himanis#325806"
+                    corresp="Aimon, fils d'Ermensende de Venarey (fl. 1136)">Haumo</persName>, alius
+                quoque frater, <persName key="stutzmann_himanis#325835"
+                    corresp="Ponce, fils d'Ermensende de Venarey (fl. 1136)">Pontius</persName>
+                nomine, laudavit testibus predicto <persName key="stutzmann_himanis#325829"
+                    corresp="Osmond de Venarey (fl. 1136)">Osmundo</persName>, <persName
                     key="stutzmann_himanis#325553" corresp="Geoffroy de Seigny (fl. 1136)">Godefrido
                     de <placeName key="stutzmann_himanis#324356" xml:id="d1e144085"
                         >Saigniaco</placeName>
@@ -1181,8 +1241,8 @@
                     <rdg wit="#a" type="omis"/>
                 </app>. SS. Ego <persName key="stutzmann_himanis#325557"
                     corresp="Gautier, sénéchal de l'évêque d'Autun, abbé de Saint-Etienne (de Dijon?) (fl. 1136)"
-                    >Gauterius dapifer et abbas <orgName xml:id="d1e144266">sancti
-                        Stephani</orgName>
+                    >Gauterius dapifer et abbas <orgName key="stutzmann_himanis#325711"
+                        corresp="abbaye Saint-Etienne d'Autun">sancti Stephani</orgName>
                 </persName>
                 <app>
                     <lem>subscripsi</lem>
