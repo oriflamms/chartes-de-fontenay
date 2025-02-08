@@ -11,13 +11,13 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. Cartulaire 1, fol. 41<hi rend="superscript">r-</hi>42<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 7) ;
+                        <witness n="B">Cartulaire 1, fol. 41<hi rend="superscript">r-</hi>42<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 7) ;
                             table : « <hi rend="italic">Carta Renerii de Froleis de eo quod injuste
                                 causabatur</hi> »</witness>
                         <witness n="C">Cartulaire 2, fol. 99<hi rend="superscript">r-v</hi> (<hi rend="italic">Flaciacum</hi>, 7) ; table mutilée</witness>
                         <witness n="D">Dijon, Arch. dép. Côte d’Or, 1 F 423, fol. 16-17. — Papier.
                             Copie par E. Petit d’après B.</witness>
-                        <witness n="a">a. Petit, t. II, p. 261-266, n° 344</witness>
+                        <witness n="a"><bibl sameAs="#Petit1885"><biblScope>t. II, p. 261-266, n° 344</biblScope></bibl></witness>
                     </listWit>
                 </sourceDesc>
             </fileDesc>

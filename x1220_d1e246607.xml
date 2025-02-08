@@ -13,7 +13,7 @@
                         <witness n="A">Original perdu.</witness>
                         <witness n="B">Paris, BnF, ms. Baluze 143, fol. 237<hi rend="superscript">r</hi> : « 123. Blancha Hervei domini Sonbernonis relicta, 1242. Ex
                             autographo Fontenetensi »</witness>
-                        <witness n="a">a. <bibl sameAs="#Chifflet1660"><biblScope>p. 566,
+                        <witness n="a"><bibl sameAs="#Chifflet1660"><biblScope>p. 566,
                                     n° 123</biblScope></bibl></witness>
 
                     </listWit>

@@ -10,9 +10,9 @@
                 </publicationStmt>
                 <sourceDesc>
                     <listWit>
-                        <witness n="A">A. <hi rend="background(red)">Original perdu</hi>
+                        <witness n="A"><hi rend="background(red)">Original perdu</hi>
                         </witness>
-                        <witness n="B">B. Cartulaire 1, fol. 43<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, <hi rend="smallcaps">11</hi>) ; table
+                        <witness n="B">Cartulaire 1, fol. 43<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, <hi rend="smallcaps">11</hi>) ; table
                                 (fol. 38[bis]<hi rend="superscript">r</hi>) : « <hi rend="italic">XI. Carta filiorum ejus</hi> », suivant « <hi rend="italic">Carta
                                 Renerii de Cerille</hi> ».</witness>
                         <witness n="C">Cartulaire 2, fol. 100<hi rend="superscript">v</hi>-101<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 11) ;

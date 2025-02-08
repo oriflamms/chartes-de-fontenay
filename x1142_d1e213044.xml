@@ -11,7 +11,7 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. Cartulaire 1, fol. 20<hi rend="superscript">r</hi>-21<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 1) ;
+                        <witness n="B">Cartulaire 1, fol. 20<hi rend="superscript">r</hi>-21<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 1) ;
                             table : « <hi rend="italic">I. Confirmatio Humberti episcopi omnium
                                 pertinentium ad abbatiam</hi> »</witness>
                         <witness n="C">ADCO 15 H 10* (cart. 201<hi rend="superscript">bis</hi>),
@@ -24,7 +24,7 @@
                         <witness n="E">Paris, Bibl. nat. de France, ms. Collection Bourgogne 74,
                                 fol. 175<hi rend="superscript">r-v</hi>. —
                             Papier.<hi rend="background(red)" xml:space="preserve"> non collationné</hi>.</witness>
-                        <witness n="a">a. Copie imprimée d’après A. — Viardot, [Factum. Zaluski,
+                        <witness n="a">Copie imprimée d’après A. — Viardot, [Factum. Zaluski,
                             Joseph André. 1772], [Dijon] : Impr. L. N. Frantin, 1771, p. 10.
                             Exemplaire conservé sous la cote ADCO 15 H 170, pièce 23.</witness>
 
@@ -45,7 +45,8 @@
                     <date type="documentCreation" when="1142-11-08">1142, 8 novembre</date>
                 </creation>
                 <abstract>
-                    <p>Régeste</p>
+                    <p>Lettre d'Humbert, évêque d'Autun, à Guillaume, abbé de Fontenay, confirmant
+                    les dons de son prédécesseur.</p>
                 </abstract>
             </profileDesc>
         </teiHeader>

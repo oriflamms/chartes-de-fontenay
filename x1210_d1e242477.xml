@@ -11,15 +11,13 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. Cartulaire 1, fol. 31<hi rend="superscript">v</hi>-32<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 20 ;
+                        <witness n="B">Cartulaire 1, fol. 31<hi rend="superscript">v</hi>-32<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 20 ;
                             annotation marginale « <hi rend="italic">redditivum</hi> ») ; table :
                                 « <hi rend="italic">Carta Bernardi domini de
                             Espissa</hi> ».</witness>
                         <witness n="C">Paris, BnF, Baluze 143, fol. 260<hi rend="superscript">r</hi>, d’après B (« ex tabulario Fontenetensi »).</witness>
-                        <witness n="a">a. Pierre-François Chifflet, <hi rend="italic">S. Bernardi
-                                Clarevallensis abbatis genus illustre assertum</hi>, Dijon, 1660,
-                            p. 553, Probationes diatribae, n° 113 (« Ex tabulario
-                            Fontenetensi »).</witness>
+                        <witness n="a"><bibl sameAs="#Chifflet1660"><biblScope>p. 553, Probationes diatribae, n° 113 (« Ex tabulario
+                            Fontenetensi »)</biblScope></bibl></witness>
                     </listWit>
                 </sourceDesc>
             </fileDesc>

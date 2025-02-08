@@ -11,19 +11,17 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. Copie perdue par lacune matérielle du Cartulaire 1 (<hi rend="italic">Abbatia</hi>, 48), attestée par la table (fol. 19<hi rend="superscript">r </hi>: « <hi rend="italic">XLVIII. Carta de
+                        <witness n="B">Copie perdue par lacune matérielle du Cartulaire 1 (<hi rend="italic">Abbatia</hi>, 48), attestée par la table (fol. 19<hi rend="superscript">r </hi>: « <hi rend="italic">XLVIII. Carta de
                                 eodem sigillo ducis</hi> » suivant le titre « <hi rend="italic">Carta de pace inter nos et Andream dominum
                             Espisse</hi> »)</witness>
-                        <witness n="C">C. Cartulaire 2, fol. 57<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 52)</witness>
+                        <witness n="C">Cartulaire 2, fol. 57<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 52)</witness>
                         <witness n="D">ADCO 15 H 10* (cart. 201<hi rend="superscript">bis</hi>),
                             fol. 45<hi rend="superscript">r</hi> (Marmagne. AE) : « <hi rend="italic">sigillatum sigillo ducis Burgundiæ</hi> ».</witness>
 
 
                     </listWit>
                     <listBibl>
-                        <bibl>
-                            <hi rend="background(red)">Inventaires : Marmagne. AE</hi>
-                        </bibl>
+                        <bibl>ADCO 15 H 1, Marmagne. AE</bibl>
                         <bibl sameAs="#Chifflet1660">
                             <biblScope>p. 555, Probationes diatribae, n° 114 (« Eodem anno et mense,
                                 haec ipsa Odo dux Burgundiae proprio diplomate, iisdem verbis

@@ -12,14 +12,14 @@
                     <listWit>
                         <witness n="A1">A<hi rend="superscript">1</hi>. Original perdu.</witness>
                         <witness n="A2">A<hi rend="superscript">2</hi>. Original perdu.</witness>
-                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 4<hi rend="superscript">r</hi> (Princes, H) :
+                        <witness n="B">ADCO 15 H 13* (cart. 204), fol. 4<hi rend="superscript">r</hi> (Princes, H) :
                             « <hi rend="italic" xml:space="preserve">Restat sigillum in cera alba. </hi>Il
                             y a avec ce tiltre un auttre semblable scellé en cire verte. »</witness>
 
                     </listWit>
                     <listBibl>
                         <bibl>
-                            <hi rend="smallcaps">Inventaire</hi> : ADCO 15 H 1, fol. XIII<hi rend="superscript">r</hi> (Princes, H)</bibl>
+                            ADCO 15 H 1, fol. XIII<hi rend="superscript">r</hi> (Princes, H)</bibl>
                         <bibl>ADCO 15 H 2, fol. <hi rend="background(red)">XIII</hi>
                             <hi rend="superscript background(red)">r</hi> (Princes, H)</bibl>
                         <bibl>ADCO 15 H 3, p. @ (@@@@)</bibl>

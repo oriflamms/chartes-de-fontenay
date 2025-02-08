@@ -11,15 +11,15 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 36<hi rend="superscript">r</hi> (Papes, RR) : « <hi rend="italic">Restat sigillum
+                        <witness n="B">ADCO 15 H 13* (cart. 204), fol. 36<hi rend="superscript">r</hi> (Papes, RR) : « <hi rend="italic">Restat sigillum
                                 plumbeum</hi>. »</witness>
-                        <witness n="a">a. <bibl sameAs="#Wiederhold1985"><biblScope>t. I, p. 180,
+                        <witness n="a"><bibl sameAs="#Wiederhold1985"><biblScope>t. I, p. 180,
                                     d’après B</biblScope></bibl></witness>
 
                     </listWit>
                     <listBibl>
                         <bibl>
-                            <hi rend="smallcaps" xml:space="preserve">Inventaire </hi> : ADCO
+                            ADCO
                             15 H 1, fol. V<hi rend="superscript">v</hi> (Papes, RR) : « Bulle du
                             pape Eugène trois, du sixiesme an de son pontificat… »</bibl>
                         <bibl>ADCO 15 H 4, p. 432 (XXIII. 2. 1) : « en date du 2 juin 1151 est une

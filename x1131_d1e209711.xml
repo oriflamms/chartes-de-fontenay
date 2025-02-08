@@ -11,14 +11,17 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 40<hi rend="superscript">r-v</hi> (Papes, TT) : « Restat sigillum plumbeum ».</witness>
-                        <witness n="a">a. <bibl sameAs="#Wiederhold1985"><biblScope>t. I,
-                                    p. 166-167, d’après B</biblScope></bibl></witness>
+                        <witness n="B">ADCO 15 H 13* (cart. 204), fol. 40<hi rend="superscript"
+                            >r-v</hi> (Papes, TT) : « Restat sigillum plumbeum ».</witness>
+                        <witness n="a">
+                        <bibl sameAs="#Wiederhold1985"><biblScope>t. I, p. 166-167, d’après
+                                B</biblScope></bibl>
+                    </witness>
 
                     </listWit>
                     <listBibl>
                         <bibl>
-                            <hi rend="smallcaps">Inventaire</hi> : ADCO 15 H 1, fol. V<hi rend="superscript">v</hi> (Papes, TT) : « Bulle du pape Innocent
+                            ADCO 15 H 1, fol. V<hi rend="superscript">v</hi> (Papes, TT) : « Bulle du pape Innocent
                             second, du premier an de son pontificat… »</bibl>
                         <bibl>ADCO 15 H 4, p. <hi rend="background(red)">@@</hi> (XXIII. 3. 6) :
                             « Bulle du pape Innocent II … scellé d’un sceau de plomb à lacs de soye

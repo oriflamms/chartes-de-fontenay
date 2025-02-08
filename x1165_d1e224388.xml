@@ -11,20 +11,20 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. Copie mutilée dans Cartulaire 1, fol. 38[ter]<hi rend="superscript">v</hi>-39<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 1) ; table :
+                        <witness n="B">Copie mutilée dans Cartulaire 1, fol. 38[ter]<hi rend="superscript">v</hi>-39<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 1) ; table :
                             « <hi rend="italic" xml:space="preserve">Carta Odonis de </hi>Yssodun »</witness>
                         <witness n="C">Cartulaire 2, fol. 96<hi rend="superscript">r</hi>-97<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 1) ;
                             table mutilée</witness>
                         <witness n="D">Paris, Bibl. nat. de France, ms. Baluze 143, fol. 296<hi rend="superscript">r</hi> (« ex tabulario Fontenetensi »)</witness>
                         <witness n="E">Dijon, Arch. dép. Côte d’Or, 1 F 423, fol. 46-47. — Papier.
                             Copie par E. Petit d’après B.</witness>
-                        <witness n="a">a. <bibl sameAs="#Chifflet1660"><biblScope>p. 556,
+                        <witness n="a"><bibl sameAs="#Chifflet1660"><biblScope>p. 556,
                                     Probationes diatribae, n° 116 (d’après
                             D)</biblScope></bibl></witness>
 
                     </listWit>
                     <listBibl>
-                        <bibl>Dijon, Arch. dép. Côte d’Or, 1 F 423, fol. 45, 48</bibl>
+                        <bibl>ADCO 1 F 423, fol. 45, 48</bibl>
                         <bibl sameAs="#Petit1885">
                             <biblScope>t. II, p. 311, n° 435</biblScope>
                         </bibl>

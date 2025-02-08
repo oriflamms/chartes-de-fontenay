@@ -11,16 +11,13 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. Cartulaire 1, fol. 35<hi rend="superscript">v</hi> (<hi rend="italic">Abbatia</hi>, 32) ; table « <hi rend="italic">Carta
+                        <witness n="B">Cartulaire 1, fol. 35<hi rend="superscript">v</hi> (<hi rend="italic">Abbatia</hi>, 32) ; table « <hi rend="italic">Carta
                                 Viardi de Senevei et Johannis fratris ejus </hi>».</witness>
                         <witness n="C">ADCO 15 H 10* (cart. 201<hi rend="superscript">bis</hi>),
                             fol. 48<hi rend="superscript">r-v</hi> (Marmagne. O)</witness>
                         <witness n="D">Paris, BnF, Baluze 143, fol. 260<hi rend="superscript">r</hi>, d’après B (« ex tabulario Fontenetensi »).</witness>
-                        <witness n="a">
-                            <hi rend="italic">a</hi>. Pierre-François Chifflet, <hi rend="italic">S.
-                                Bernardi Clarevallensis abbatis genus illustre assertum</hi>, Dijon,
-                            1660, p. 552, Probationes diatribae, n° 111 (« Ex tabulario Fonteneti »,
-                            d’après B).</witness>
+                        <witness n="a"><bibl sameAs="#Chifflet1660"><biblScope>p. 552, Probationes diatribae, n° 111 (« Ex tabulario Fonteneti »,
+                                    d’après B)</biblScope></bibl></witness>
 
                     </listWit>
                     <listBibl>

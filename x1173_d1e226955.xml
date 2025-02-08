@@ -11,15 +11,15 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 35<hi rend="superscript">r-v</hi> (Papes, DD) : « <hi rend="italic">Restat sigillum
+                        <witness n="B">ADCO 15 H 13* (cart. 204), fol. 35<hi rend="superscript">r-v</hi> (Papes, DD) : « <hi rend="italic">Restat sigillum
                                 plumbeum</hi>. »</witness>
-                        <witness n="a">a. <bibl sameAs="#Wiederhold1985"><biblScope>t. I,
+                        <witness n="a"><bibl sameAs="#Wiederhold1985"><biblScope>t. I,
                                     p. 201-202, d’après B</biblScope></bibl></witness>
 
                     </listWit>
                     <listBibl>
                         <bibl>
-                            <hi rend="smallcaps" xml:space="preserve">Inventaire </hi> : ADCO
+                            ADCO
                             15 H 1, fol. IV<hi rend="superscript">r</hi> (Papes, DD)</bibl>
                         <bibl>ADCO 15 H 4, p. 435 (XXIII. 3. 2) : « scellé d’un sceau de plomb à
                             queue de ficelle pendant ».</bibl>

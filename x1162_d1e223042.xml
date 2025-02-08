@@ -11,10 +11,10 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. Copie perdue dans Cartulaire 1</witness>
+                        <witness n="B">Copie perdue dans Cartulaire 1</witness>
                         <witness n="C">Cartulaire 2, fol. 104<hi rend="superscript">r-v</hi> (<hi rend="italic">Flaciacum</hi>. 20) ; table mutilée</witness>
                         <witness n="D">ADCO 15 H 11* (cart. 202), fol. 210<hi rend="superscript">v</hi>-211<hi rend="superscript">r</hi> (Flacey. E) : « <hi rend="italic">Restat sigillum</hi> » ; non collationné.</witness>
-                        <witness n="a">a. <bibl sameAs="#Petit1885"><biblScope>t. II, p. 283-284,
+                        <witness n="a"><bibl sameAs="#Petit1885"><biblScope>t. II, p. 283-284,
                                     n° 384, d’après C</biblScope></bibl></witness>
 
 
@@ -27,7 +27,7 @@
                             jaune représentant un évêque à double queue de peau blanche
                             pendant »</bibl>
                         <bibl>ADCO 15 H <hi rend="background(red)">3 / 4, p. @ (@. @. @)</hi>. </bibl>
-                        <bibl>Indiqué : Dijon, Arch. dép. Côte d’Or, 1 F 423, fol. 44.</bibl>
+                        <bibl>ADCO 1 F 423, fol. 44.</bibl>
                     </listBibl>
                 </sourceDesc>
             </fileDesc>

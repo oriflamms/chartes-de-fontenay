@@ -11,14 +11,14 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 42<hi rend="superscript">v</hi>-43<hi rend="superscript">v</hi> (Papes, O) : « <hi rend="italic">Restat pars corrigiae.</hi> »</witness>
-                        <witness n="a">a. <bibl sameAs="#Wiederhold1985"><biblScope>t. I, p.
+                        <witness n="B">ADCO 15 H 13* (cart. 204), fol. 42<hi rend="superscript">v</hi>-43<hi rend="superscript">v</hi> (Papes, O) : « <hi rend="italic">Restat pars corrigiae.</hi> »</witness>
+                        <witness n="a"><bibl sameAs="#Wiederhold1985"><biblScope>t. I, p.
                                     177-178, d’après B</biblScope></bibl></witness>
 
                     </listWit>
                     <listBibl>
                         <bibl>
-                            <hi rend="smallcaps">Inventaire</hi> : ADCO 15 H 1, fol. III<hi rend="superscript">v</hi> (Papes, O)</bibl>
+                            ADCO 15 H 1, fol. III<hi rend="superscript">v</hi> (Papes, O)</bibl>
                         <bibl>ADCO 15 H 4, p. 429 (XXIII. 1. 2).</bibl>
                     </listBibl>
                 </sourceDesc>

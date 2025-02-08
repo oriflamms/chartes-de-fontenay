@@ -10,62 +10,61 @@
                 </publicationStmt>
                 <sourceDesc>
                     <listWit>
-                        <witness n="A">
-                            <hi rend="italic">A</hi>.<hi rend="italic"> </hi>Original
-                            perdu.</witness>
-                        <witness n="B">
-                            <hi rend="italic">B</hi>.<hi rend="italic"> </hi>Cartulaire 1 (fol. 1<hi rend="superscript">r</hi>-4<hi rend="superscript">r</hi> et
-                                fol. 21<hi rend="superscript">v</hi>-22<hi rend="superscript">r</hi>) : copie partielle suite à la mutilation initiale du cartulaire
-                            (fin de [34] à la fin de l’acte).</witness>
-                        <witness n="C">
-                            <hi rend="italic">C</hi>. ADCO 15 H 156, pièce 14, lignes 4-19. —
-                            Vidimus partiel, en 1273, par Joannes de Toledo, O. Cist., cardinal de
-                            Porto et Sainte-Rufine (mort en 1274) : « litteram membranam sigillis
-                            venerabilis Stephani episcopi Eduensis ecclesie et ejusdem loci
-                            conventus sigillatam in se diversas litteras continentem, inter quas
-                            tenorem cujusdam littere de verbo ad verbum vidimus veraciter contineri
-                            prout inferius annotatur et est tenor talis. ». </witness>
-                        <witness n="C'">
-                            <hi rend="italic">C’</hi>. Paris, Bibl. nat. de France, ms. Collection
-                            Bourgogne 74, fol. 174r-174v. — Copie partielle d’après <hi rend="italic">C</hi>.</witness>
-                        <witness n="C''">
-                            <hi rend="italic">C’’</hi>. Paris, Bibl. nat. de France, ms. Collection
-                            Bourgogne 74, fol. 174v. — Copie du
-                            <hi rend="italic" xml:space="preserve">privilegium </hi>d’après A (« <hi rend="italic">ex chartario Fonteneti</hi> ») et renvoi à B
-                            (« cartulaire de la meme abbaïe »).</witness>
-                        <witness n="D">
-                            <hi rend="italic">D</hi>. Paris, Bibl. nat. de France, ms. Baluze 143,
-                            fol. 246<hi rend="superscript">r-v</hi>, 275<hi rend="superscript">v</hi>, 278<hi rend="superscript">r</hi>, 294<hi rend="superscript">r-v</hi>. — Copie partielle de la main de Pierre-François Chifflet,
-                            avec la mention « <hi rend="italic">Excerpta ex pancharta Fontenetensi
-                                1136, exstat in ejus monasterii autographo</hi> » et la description,
-                            à la fin des extraits (fol. 246<hi rend="superscript">v</hi>) « <hi rend="italic">Hucusque pancharta Fonteneti, alta pedes tres, lata
-                                fere duos, quatuor columnis utrimque exaratis distincta, data 1136,
-                                indictione 14, et sigillo munita Stephani Eduensis
-                            episcopi</hi> ».</witness>
-                        <witness n="E">
-                            <hi rend="italic">E</hi>. ADCO 1 F 216, fol. 42<hi rend="superscript">r</hi>-65<hi rend="superscript">r</hi>. — Copie et commentaires
-                            d’après <hi rend="italic">C</hi>,
-                            <hi rend="italic" xml:space="preserve">a </hi>et<hi rend="italic" xml:space="preserve"> b </hi>par
-                            l’abbé Grignard, datée de 1884. Dans une annotation (fol. 18<hi rend="superscript">r</hi>), il soutient à tort que la pancarte était
-                            déjà perdue au <hi rend="smallcaps">xvii</hi>
-                            <hi rend="superscript">e</hi> siècle et que le P. Chifflet copie
-                            <hi rend="italic" xml:space="preserve">Fanco </hi>d’après la copie du
-                            cartulaire, cependant que la pancarte originale devait être exempte de
-                            cette erreur.</witness>
-                        <witness n="F">Dijon, Arch. dép. Côte d’Or, 1 F 423, fol. 5-8. — Papier.
-                            Copie du § 1 par E. Petit d’après Plancher.</witness>
+                        <witness n="A"> Original perdu.</witness>
+                        <witness n="B"> Cartulaire 1 (fol. 1<hi rend="superscript">r</hi>-4<hi
+                            rend="superscript">r</hi> et fol. 21<hi rend="superscript">v</hi>-22<hi
+                            rend="superscript">r</hi>) : copie partielle suite à la mutilation
+                        initiale du cartulaire (fin de [34] à la fin de l’acte).</witness>
+                        <witness n="C"> ADCO 15 H 156, pièce 14, lignes 4-19. — Vidimus partiel, en
+                        1273, par Joannes de Toledo, O. Cist., cardinal de Porto et Sainte-Rufine
+                        (mort en 1274) : « litteram membranam sigillis venerabilis Stephani episcopi
+                        Eduensis ecclesie et ejusdem loci conventus sigillatam in se diversas
+                        litteras continentem, inter quas tenorem cujusdam littere de verbo ad verbum
+                        vidimus veraciter contineri prout inferius annotatur et est tenor talis. ». </witness>
+                        <witness n="C'"> Paris, Bibl. nat. de France, ms. Collection Bourgogne 74,
+                        fol. 174r-174v. — Copie partielle d’après <hi rend="italic"
+                        >C</hi>.</witness>
+                        <witness n="C''"> Paris, Bibl. nat. de France, ms. Collection Bourgogne 74,
+                        fol. 174v. — Copie du
+                        <hi rend="italic" xml:space="preserve">privilegium </hi>d’après A (« <hi
+                            rend="italic">ex chartario Fonteneti</hi> ») et renvoi à B (« cartulaire
+                        de la meme abbaïe »).</witness>
+                        <witness n="D"> Paris, Bibl. nat. de France, ms. Baluze 143, fol. 246<hi
+                            rend="superscript">r-v</hi>, 275<hi rend="superscript">v</hi>, 278<hi
+                            rend="superscript">r</hi>, 294<hi rend="superscript">r-v</hi>. — Copie
+                        partielle de la main de Pierre-François Chifflet, avec la mention « <hi
+                            rend="italic">Excerpta ex pancharta Fontenetensi 1136, exstat in ejus
+                            monasterii autographo</hi> » et la description, à la fin des extraits
+                            (fol. 246<hi rend="superscript">v</hi>) « <hi rend="italic">Hucusque
+                            pancharta Fonteneti, alta pedes tres, lata fere duos, quatuor columnis
+                            utrimque exaratis distincta, data 1136, indictione 14, et sigillo munita
+                            Stephani Eduensis episcopi</hi> ».</witness>
+                        <witness n="E"> ADCO 1 F 216, fol. 42<hi rend="superscript">r</hi>-65<hi
+                            rend="superscript">r</hi>. — Copie et commentaires d’après <hi
+                            rend="italic">C</hi>,
+                        <hi rend="italic" xml:space="preserve">a </hi>et<hi rend="italic" xml:space="preserve"> b </hi>par
+                        l’abbé Grignard, datée de 1884. Dans une annotation (fol. 18<hi
+                            rend="superscript">r</hi>), il soutient à tort que la pancarte était
+                        déjà perdue au <hi rend="smallcaps">xvii</hi>
+                        <hi rend="superscript">e</hi> siècle et que le P. Chifflet copie
+                        <hi rend="italic" xml:space="preserve">Fanco </hi>d’après la copie du
+                        cartulaire, cependant que la pancarte originale devait être exempte de cette
+                        erreur.</witness>
+                        <witness n="F">ADCO 1 F 423, fol. 5-8. — Papier. Copie du § 1 par E. Petit
+                        d’après Plancher.</witness>
                         <witness n="a">
-                            <hi rend="italic">a</hi>. Pierre-François Chifflet, <hi rend="italic">S.
-                                Bernardi Clarevallensis abbatis genus illustre assertum</hi>, Dijon,
-                            1660, p. 540-546, Probationes diatribae, n° 99-103 (édition
-                            partielle).</witness>
+                        <bibl sameAs="#Chifflet1660"><biblScope>p. 540-546, Probationes diatribae,
+                                n° 99-103 (édition partielle)</biblScope></bibl>
+                    </witness>
                         <witness n="b">
-                            <hi rend="italic">b</hi>. Dom
-                            Urbain<hi rend="smallcaps" xml:space="preserve"> Plancher</hi>, <hi rend="italic">Histoire générale et particulière de la
-                            Bourgogne</hi>, t. I, preuves n° LVII (d’après B « Cartulaire de
-                            Fontenay »), LVIII (d’après C ou plutôt C’).</witness>
-                        <witness n="c">c. <bibl sameAs="#Jobin1891"><biblScope>p. 579-580 (§ 37),
-                                    p. 641 n° 69 (§ 1)</biblScope></bibl></witness>
+                        <bibl sameAs="#Plancher1739"><biblScope>t. I, preuves n° LVII (d’après B
+                                « Cartulaire de Fontenay »), LVIII (d’après C ou plutôt
+                                C’)</biblScope></bibl>
+                    </witness>
+                        <witness n="c">
+                        <bibl sameAs="#Jobin1891"><biblScope>p. 579-580 (§ 37), p. 641 n° 69
+                                (§ 1)</biblScope></bibl>
+                    </witness>
                     </listWit>
                     <listBibl>
                         <bibl sameAs="#Petit1885">

@@ -11,9 +11,9 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. Cartulaire 1, fol. 48<hi rend="superscript">r-v</hi> (<hi rend="italic">Flaciacum</hi>, 33) ; table mutilée</witness>
+                        <witness n="B">Cartulaire 1, fol. 48<hi rend="superscript">r-v</hi> (<hi rend="italic">Flaciacum</hi>, 33) ; table mutilée</witness>
                         <witness n="C">Cartulaire 2, fol. 109<hi rend="superscript">v</hi>-110<hi rend="superscript" xml:space="preserve">r </hi>(<hi rend="italic">Flaciacum</hi>, 33) ; table mutilée</witness>
-                        <witness n="a">a. <bibl sameAs="#Petit1885"><biblScope>t. III, p. 331-332,
+                        <witness n="a"><bibl sameAs="#Petit1885"><biblScope>t. III, p. 331-332,
                                     n° 908, d’après C</biblScope></bibl></witness>
                     </listWit>
                     <listBibl>

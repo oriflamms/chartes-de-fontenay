@@ -10,34 +10,28 @@
                 </publicationStmt>
                 <sourceDesc>
                     <listWit>
-                        <witness n="A">
-                            <hi rend="italic">A</hi>. Original perdu, écrit au recto et au verso
-                            d’après <hi rend="italic" xml:space="preserve">B </hi>
-                        </witness>
-                        <witness n="B">
-                            <hi rend="italic">B</hi>. Cartulaire 1 (4<hi rend="superscript">r</hi>-18<hi rend="superscript">v</hi>). Copie précédée du titre
+                        <witness n="A" >Original perdu, écrit au recto et au verso selon
+                        <hi rend="italic" xml:space="preserve">B </hi>
+                    </witness>
+                        <witness n="B">Cartulaire 1 (4<hi rend="superscript">r</hi>-18<hi rend="superscript">v</hi>). Copie précédée du titre
                                 <hi rend="italic">&gt;  Incipit secunda magna carta scripta intus et
                                 foris  &lt;</hi>.</witness>
-                        <witness n="C">
-                            <hi rend="italic" xml:space="preserve">C. </hi>ADCO 15 H 257, pièce 14,
+                        <witness n="C">ADCO 15 H 257, pièce 14,
                             fol. 7<hi rend="superscript">r</hi>. — Copie autonome, libre et
                             informelle du paragraphe 46.</witness>
-                        <witness n="D">
-                            <hi rend="italic">D</hi>. Paris, BnF, coll. Baluze, ms. 143 (notes de
+                        <witness n="D">Paris, BnF, coll. Baluze, ms. 143 (notes de
                             P.-F. Chifflet)</witness>
-                        <witness n="F">
-                            <hi rend="italic">F</hi>. Dijon, Arch. Dép. Côte d’Or, 1 F 216, fol.
+                        <witness n="F">Dijon, Arch. Dép. Côte d’Or, 1 F 216, fol.
                                 66<hi rend="superscript">r</hi>-122<hi rend="superscript">r</hi>. —
                             Copie de l’abbé F. Grignard datée de 1884.</witness>
-                        <witness n="G">G. Dijon, Arch. dép. Côte d’Or, 1 F 423, fol. 9-14. — Papier.
+                        <witness n="G">Dijon, Arch. dép. Côte d’Or, 1 F 423, fol. 9-14. — Papier.
                             Copie par E. Petit des §§ 8-10, 40. </witness>
-                        <witness n="a">
-                            <hi rend="italic">a</hi>. Pierre-François Chifflet, <hi rend="italic">S.
+                        <witness n="a">Pierre-François Chifflet, <hi rend="italic">S.
                                 Bernardi Clarevallensis abbatis genus illustre assertum</hi>, Dijon,
                             1660, p. 541, 546-549, 562-563 et 574, Probationes diatribae, n° 100,
                             104-108, 121 et 133 (édition partielle).</witness>
-                        <witness n="b">b. Petit, t. II, p. 221-222, n°° 261-263, §§ 8-10,
-                            40</witness>
+                        <witness n="b"><bibl sameAs="#Petit1885"><biblScope>t. II, p. 221-222, n° 261-263, §§ 8-10,
+                                    40</biblScope></bibl></witness>
                         <witness n="c">
                             <bibl sameAs="#Jobin1891">
                                 <biblScope>p. 580-581, n° 21</biblScope>
@@ -47,40 +41,36 @@
                     <listBibl>
                         <bibl sameAs="#Petit1885">§ 46 : <biblScope>t. II, p. 222,
                                 n° 264</biblScope></bibl>
-                        <bibl sameAs="#Bouchard1987">§1 : <biblScope>p. 218, d’après
-                                Jobin</biblScope></bibl>
-                        <bibl sameAs="#Bouchard1987">§ 9 : <biblScope>p. 151, note
-                            4</biblScope></bibl>
-                        <bibl sameAs="#Bouchard1991b">§ 15-17 : <biblScope>p. 101 et note
-                                17</biblScope></bibl>
-                        <bibl sameAs="#Bouchard1987">§ 41 : <biblScope>p. 53-54, avec faute
-                                manifeste de compréhension sur le sens de « duplo redderet » qui a à
-                                voir avec la garantie et non pas avec l’entrée du fils en
-                                religion}</biblScope></bibl>
+                        <bibl sameAs="#Bouchard1987"><biblScope>p. 218 : §1, d’après
+                            Jobin</biblScope></bibl>
+                        <bibl sameAs="#Bouchard1987"><biblScope>p. 151, note 4: §
+                        9</biblScope></bibl>
+                        <bibl sameAs="#Bouchard1991b"><biblScope>p. 101 et note 17 :
+                            § 15-17</biblScope></bibl>
+                        <bibl sameAs="#Bouchard1987"><biblScope>p. 53-54 : § 41, avec faute
+                            manifeste de compréhension sur le sens de « duplo redderet » qui a à
+                            voir avec la garantie et non pas avec l’entrée du fils en
+                            religion}</biblScope></bibl>
                     </listBibl>
                 </sourceDesc>
             </fileDesc>
             <profileDesc>
                 <creation>
-                    <date type="documentCreation" notBefore="1140-01-01" notAfter="1143-12-31">[1140-1143]<note>L'intervalle strict de datation de la seconde pancarte
-                            est 1140-1148 avec des dates données par les épiscopats. À cela s’ajoute
-                            la mention de « Odo, filius ducis », devenu duc de Bourgogne en 1143, et
-                            de « Vido, comes Barri », remplacé par son fils Milon II vers 1146. La
-                            pratique du rédacteur de la pancarte est généralement d’actualiser les
-                            informations et de préciser les changements de fonction ou les décès,
-                            comme dans la formule « Robertus filius ducis post factus Eduensis
-                            episcopus ». Une bulle de Lucius II du 30 avril 1144 confirme les dons
-                            portés par la pancarte, qui pourrait ainsi avoir servi de support à la
-                            confirmation (W. WIEDERHOLD, L. DUVAL-ARNOULD (éd.), Papsturkunden in
-                            Frankreich : Reiseberichte zur Gallia Pontificia, Città del Vaticano,
-                            1985 (Acta Romanorum Pontificum, 7-8), t. I, p. 175-177). Cf. Dominique
-                            Stutzmann. « La seconde pancarte de Fontenay en contexte. Reconstitution
-                            de l’original perdu et interprétation des modèles diplomatiques ». In
-                            Productions et pratiques sociales de l’écrit médiéval en Bourgogne,
-                            édité par Eliana Magnani, 133‑52. Art &amp; société. Rennes: Presses
-                            Universitaires de Rennes, 2022, à la page 134 et note 6. Les lettres en
-                            marge a-p…, annotations peut-être antérieures à l'étude de P.-F.
-                            Chifflet portent sur les chapitres 15 = G, 16 = H, 17 = I, 20 = K (9<hi rend="superscript">r</hi>), 21 = L, 22 = M, 23 = N, 25 = O (11<hi rend="superscript">r</hi>), 26 = P, 28 = Q, 31 = R, 35 = S.</note>
+                    <date type="documentCreation" notBefore="1140-01-01" notAfter="1143-12-31">[1140-1143]<note>L'intervalle strict de datation de la seconde pancarte est 1140-1148 avec des dates
+                        données par les épiscopats. À cela s’ajoute la mention de « Odo, filius
+                        ducis », devenu duc de Bourgogne en 1143, et de « Vido, comes Barri »,
+                        remplacé par son fils Milon II vers 1146. La pratique du rédacteur de la
+                        pancarte est généralement d’actualiser les informations et de préciser les
+                        changements de fonction ou les décès, comme dans la formule « Robertus
+                        filius ducis post factus Eduensis episcopus ». Une bulle de Lucius II du 30
+                        avril 1144 confirme les dons portés par la pancarte, qui pourrait ainsi
+                        avoir servi de support à la confirmation (<bibl sameAs="Wiederhold1985"
+                                ><biblScope>t. I, p. 175-177</biblScope></bibl>. Cf. Dominique <bibl
+                            sameAs="Stutzmann2022"><biblScope>p. 134 et note 6</biblScope></bibl>.
+                        Les lettres en marge a-p…, annotations peut-être antérieures à l'étude de
+                        P.-F. Chifflet portent sur les chapitres 15 = G, 16 = H, 17 = I, 20 = K
+                            (9<hi rend="superscript">r</hi>), 21 = L, 22 = M, 23 = N, 25 = O (11<hi
+                            rend="superscript">r</hi>), 26 = P, 28 = Q, 31 = R, 35 = S.</note>
                     </date>Critères de datation.Les dates extrêmes 1140-1148 de la seconde pancarte
                     sont celles données par les épiscopats. À cela s’ajoute la mention de « Odo,
                     filius ducis », devenu duc de Bourgogne en 1143, et de « Vido, comes Barri »,
@@ -93,7 +83,8 @@
                         Pontificia</hi>, Città del Vaticano, 1985 (Acta Romanorum Pontificum, 7-8),
                     t. I, p. 175-177) </creation>
                 <abstract>
-                    <p>Régeste</p>
+                    <p>"Deuxième pancarte de Fontenay". Humbert, évêque d'Autun, et Geoffroy, évêque
+                    de Langres, confirment de multiples dons faits à l'abbaye de Fontenay.</p>
                 </abstract>
             </profileDesc>
         </teiHeader>

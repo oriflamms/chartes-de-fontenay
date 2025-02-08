@@ -65,10 +65,8 @@
                         <witness n="C">Cartulaire 2, fol. 57<hi rend="superscript">v</hi> (<hi rend="italic">Abbatia</hi>, 53)</witness>
                         <witness n="D">Paris, BnF, coll. Baluze, ms. 143, fol. 275<hi rend="superscript">r</hi> (d’après C, « ex tabulario
                             Fontenetensi »)</witness>
-                        <witness n="a">Pierre-François Chifflet, <hi rend="italic">S. Bernardi
-                                Clarevallensis abbatis genus illustre assertum</hi>, Dijon, 1660,
-                            p. 554-555, Probationes diatribae, n° 114 (d’après C via D, « ex
-                            tabulario Fontenetensi »).</witness>
+                        <witness n="a"><bibl sameAs="#Chifflet1660"><biblScope>p. 554-555, Probationes diatribae, n° 114 (d’après C via D, « ex
+                            tabulario Fontenetensi »)</biblScope></bibl></witness>
                     </listWit>
                     <listBibl>
                         <bibl>ADCO 15 H 1, fol. 120<hi rend="superscript">v</hi>-121<hi rend="superscript">r</hi> (Marmagne. SS)</bibl>

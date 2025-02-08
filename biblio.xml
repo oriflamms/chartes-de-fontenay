@@ -1,520 +1,561 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<listBibl xmlns="http://www.tei-c.org/ns/1.0">
-    <biblStruct type="book" xml:id="Régnier1988a"
-        corresp="http://zotero.org/groups/2223903/items/VK9FJI65">
-        <monogr>
-            <title level="m">Les évêques d'Autun</title>
-            <idno type="callNumber">Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de
-                l'homme - Magasin - 8-LN4-258</idno>
-            <author><forename>Jean</forename><surname>Régnier</surname></author>
-            <imprint>
-                <pubPlace>Dijon</pubPlace>
-                <publisher>J. Régnier</publisher>
-                <date>1988</date>
-            </imprint>
-        </monogr>
-        <note type="tags"><note type="tag">Autun (Saône-et-Loire)</note><note type="tag">Eglise
-                catholique</note><note type="tag">Évêques</note></note>
-    </biblStruct>
-    <biblStruct type="webpage" xml:id="Gams1873a"
-        corresp="http://zotero.org/groups/2223903/items/KFCIG5HX">
-        <analytic>
-            <title level="a">Series episcoporum ecclesiae catholicae : quotquot innotuerunt a beato
-                Petro apostolo</title>
-            <title type="short">Series episcoporum ecclesiae catholicae</title>
-            <author><forename>Pius Bonifatius</forename><surname>Gams</surname></author>
-        </analytic>
-        <monogr>
-            <imprint>
-                <date>1873</date>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Bernard1876"
-        corresp="http://zotero.org/groups/2223903/items/A4YG2RU6">
-        <monogr>
-            <title level="m">Recueil des chartes de l'abbaye de Cluny. Tome 1 / formé par Auguste
-                Bernard ; complété, rév. et publ. par Alexandre Bruel,...</title>
-            <author><forename>Auguste</forename><surname>Bernard</surname></author>
-            <imprint>
-                <date>1876</date>
-                <note type="accessed">2018-09-11T07:47:59Z</note>
-                <note type="url">https://gallica.bnf.fr/ark:/12148/bpt6k28908j</note>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Lefèvre1976"
-        corresp="http://zotero.org/groups/2223903/items/56KBWM57">
-        <monogr>
-            <title level="m">Le coutumier de l’abbaye d’Oigny en Bourgogne au XIIe siècle</title>
-            <author><forename>Placide Fernand</forename><surname>Lefèvre</surname></author>
-            <author><forename>Antonius H.</forename><surname>Thomas</surname></author>
-            <imprint>
-                <pubPlace>Louvain</pubPlace>
-                <publisher>Spicilegium sacrum Lovaniense</publisher>
-                <date>1976</date>
-            </imprint>
-        </monogr>
-        <series><title level="s">Spicilegium sacrum Lovaniense. Etudes et documents
-            39</title></series>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Chomton1891"
-        corresp="http://zotero.org/groups/2223903/items/HFBCHQZB">
-        <monogr>
-            <title level="m">Saint-Bernard et le château de Fontaines-lès-Dijon : étude historique
-                et archéologique</title>
-            <author><forename>abbé Louis</forename><surname>Chomton</surname></author>
-            <imprint>
-                <pubPlace>Dijon</pubPlace>
-                <publisher>Impr. de l’évêché</publisher>
-                <date>1891</date>
-                <note type="url">http://gallica.bnf.fr/ark:/12148/bpt6k5478161d,
-                    http://gallica.bnf.fr/ark:/12148/bpt6k5480017f,
-                    http://gallica.bnf.fr/ark:/12148/bpt6k5482106m</note>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Charmasse1880"
-        corresp="http://zotero.org/groups/2223903/items/E6KNNMPH">
-        <monogr>
-            <title level="m">Cartulaire de l’évêché d’Autun connu sous le nom de cartulaire rouge :
-                suivi d’une carte et d’un pouillé de l’ancien diocèse d’Autun</title>
-            <author><forename>Anatole de</forename><surname>Charmasse</surname></author>
-            <imprint>
-                <pubPlace>Autun</pubPlace>
-                <publisher>Dejussieu père et fils ; Paris : Durand et Pédone-Lauriel</publisher>
-                <date>1880</date>
-            </imprint>
-        </monogr>
-        <note type="tags"><note type="tag">Eglise catholique. Diocèse (Autun, Saône-et-Loire) --
-                Chartes Autun (France) Churches Autun (France) History Sources</note></note>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Charmasse1865"
-        corresp="http://zotero.org/groups/2223903/items/ESHDDXA6">
-        <monogr>
-            <title level="m">Cartulaire de l’église d’Autun</title>
-            <author><forename>Anatole de</forename><surname>Charmasse</surname></author>
-            <imprint>
-                <pubPlace>Paris</pubPlace>
-                <publisher>A. Durand ; Autun : M. Dejussieu</publisher>
-                <date>1865</date>
-            </imprint>
-        </monogr>
-        <series><title level="s">Publication de la Société Éduenne ; 1-3</title></series>
-        <note type="tags"><note type="tag">Autun (Saône-et-Loire) -- Cathédrale Saint-Lazare --
-                Chartes, privilèges, immunités Autun (France) Churches Autun (France) History
-                Sources</note></note>
-    </biblStruct>
-    <biblStruct type="book" xml:id="zoteroItem_GV96TMPN"
-        corresp="http://zotero.org/groups/2223903/items/GV96TMPN">
-        <monogr>
-            <title level="m">Gallia christiana in provincias ecclesiasticas distributa</title>
-            <title type="short">Gallia christiana</title>
-            <imprint>
-                <pubPlace>Paris</pubPlace>
-                <publisher>Impr. royale [Firmin Didot]</publisher>
-                <date>1716</date>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Jobin1881"
-        corresp="http://zotero.org/groups/2223903/items/33TH9GNP">
-        <monogr>
-            <title level="m">Histoire du prieuré de Jully-les-Nonnains, avec pièces
-                justificatives</title>
-            <author><forename>Jean-Baptiste</forename><surname>Jobin</surname></author>
-            <imprint>
-                <pubPlace>Paris</pubPlace>
-                <publisher>Bray et Retaux</publisher>
-                <date>1881</date>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="book" xml:id="zoteroItem_F8IX67YY"
-        corresp="http://zotero.org/groups/2223903/items/F8IX67YY">
-        <monogr>
-            <title level="m">Vente aux enchères publiques d'une collection importante de Chartes :
-                documents historiques, titres nobiliaires, etc. provenant du Cabinet de M.de
-                M.</title>
-            <imprint>
-                <pubPlace>Paris</pubPlace>
-                <publisher>Jacques Charavay aîné</publisher>
-                <date>1867</date>
-                <note type="url">http://bibnum.enc.sorbonne.fr/tires-a-part/0000005542185</note>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Pérard1664"
-        corresp="http://zotero.org/groups/2223903/items/XTUJ5Z2N">
-        <monogr>
-            <title level="m">Recueil de plusieurs pièces curieuses servant à l’histoire de
-                Bourgogne</title>
-            <author><forename>Etienne</forename><surname>Pérard</surname></author>
-            <imprint>
-                <pubPlace>Paris</pubPlace>
-                <publisher>C. Cramoisy</publisher>
-                <date>1664</date>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="bookSection" xml:id="Watanabe1991"
-        corresp="http://zotero.org/groups/2223903/items/TAKCVHSE">
-        <analytic>
-            <title level="a">Les fonctions des archidiacres à Langres aux XIe et XIIe
-                siècles</title>
-            <author><forename>Setsuo</forename><surname>Watanabe</surname></author>
-        </analytic>
-        <monogr>
-            <title level="m">A propos des actes d’évêques : hommage à Lucie Fossier</title>
-            <editor><forename>Michel</forename><surname>Parisse</surname></editor>
-            <imprint>
-                <pubPlace>Nancy</pubPlace>
-                <biblScope unit="page">277-294</biblScope>
-                <publisher>Presses universitaires de Nancy</publisher>
-                <date>1991</date>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="bookSection" xml:id="Richard1984"
-        corresp="http://zotero.org/groups/2223903/items/M3PXX9XC">
-        <analytic>
-            <title level="a">Le destin d’un texte bernardin : la première pancarte de l’abbaye de
-                Fontenay</title>
-            <title type="short">Le destin d’un texte bernardin</title>
-            <author><forename>Jean</forename><surname>Richard</surname></author>
-        </analytic>
-        <monogr>
-            <title level="m">Mélanges à la mémoire du Père Anselme Dimier. Tome II. Histoire
-                cistercienne. Volume 4. Abbayes</title>
-            <imprint>
-                <pubPlace>Arbois</pubPlace>
-                <biblScope unit="page">745-746</biblScope>
-                <publisher>Pupillin, B. Chauvin</publisher>
-                <date>1984</date>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Wiederhold1985"
-        corresp="http://zotero.org/groups/2223903/items/NJMVXSIJ">
-        <monogr>
-            <title level="m">Papsturkunden in Frankreich : Reiseberichte zur Gallia
-                Pontificia</title>
-            <author><forename>Wilhelm</forename><surname>Wiederhold</surname></author>
-            <author><forename>Louis</forename><surname>Duval-Arnould</surname></author>
-            <imprint>
-                <pubPlace>Città del Vaticano</pubPlace>
-                <publisher>Biblioteca Apostolica Vaticana</publisher>
-                <date>1985</date>
-            </imprint>
-        </monogr>
-        <series><title level="s">Acta Romanorum Pontificum</title><biblScope unit="volume"
-                >7-8</biblScope></series>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Quantin1854"
-        corresp="http://zotero.org/groups/2223903/items/YGFX2GI4">
-        <monogr>
-            <title level="m">Cartulaire général de l’Yonne : recueil de documents authentiques pour
-                servir à l’histoire des pays qui forment ce département</title>
-            <author><forename>Maximilien</forename><surname>Quantin</surname></author>
-            <respStmt>
-                <resp>contributor</resp>
-                <persName><name>Société des sciences historiques et naturelles de
-                    l’Yonne</name></persName>
-            </respStmt>
-            <imprint>
-                <pubPlace>Auxerre</pubPlace>
-                <publisher>Perriquet et Rouillé</publisher>
-                <date>1854</date>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Le_Gall1980"
-        corresp="http://zotero.org/groups/2223903/items/R85N8TP9">
-        <monogr>
-            <title level="m">Alésia : textes originaux et traductions</title>
-            <idno type="ISBN">2-251-63045-7</idno>
-            <author><forename>Joël</forename><surname>Le Gall</surname></author>
-            <author><forename>Eugène de</forename><surname>Saint-Denis</surname></author>
-            <author><forename>Raymond</forename><surname>Weil</surname></author>
-            <author><forename>Jean</forename><surname>Marilier</surname></author>
-            <imprint>
-                <pubPlace>Paris</pubPlace>
-                <publisher>Les Belles Lettres</publisher>
-                <date>1980</date>
-            </imprint>
-        </monogr>
-        <series><title level="s">Publications de l’Université de Dijon 45</title></series>
-        <note type="tags"><note type="tag">Bourgogne (France)--Histoire--Moyen âge Histoire
-                locale</note></note>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Chastellux1869"
-        corresp="http://zotero.org/groups/2223903/items/767MUTKI">
-        <monogr>
-            <title level="m">Histoire généalogique de la maison de Chastellux (seigneurs de
-                Montréal, Marmeaux, Beauvoir, Tart, Ravières, Bazarne, Chastellux, Avigneau,
-                Coulanges, etc.) avec pièces justificatives</title>
-            <author><forename>Henri-Paul-César</forename><surname>Chastellux</surname></author>
-            <imprint>
-                <pubPlace>Auxerre</pubPlace>
-                <publisher>Impr. de Gustave Perriquet</publisher>
-                <date>1869</date>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Flammarion2004"
-        corresp="http://zotero.org/groups/2223903/items/UEQL4RBY">
-        <monogr>
-            <title level="m">Cartulaire du chapitre cathédral de Langres</title>
-            <idno type="ISBN">2-503-51626-2</idno>
-            <author><forename>Hubert</forename><surname>Flammarion</surname></author>
-            <imprint>
-                <pubPlace>Turnhout</pubPlace>
-                <publisher>Brepols</publisher>
-                <date>2004</date>
-            </imprint>
-        </monogr>
-        <series><title level="s">ARTEM Atelier de recherches sur les textes
-            médiévaux</title></series>
-        <note type="tags"><note type="tag">Langres (France) Church history Eglise catholique.
-                Diocèse (Langres, Haute-Marne) -- Histoire -- Sources</note></note>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Bouchard1991a"
-        corresp="http://zotero.org/groups/2223903/items/ZBNQUSD9">
-        <monogr>
-            <title level="m">The cartulary of Flavigny : 717-1113</title>
-            <idno type="ISBN">0-915651-05-X (rel.)</idno>
-            <author><forename>Constance B.</forename><surname>Bouchard</surname></author>
-            <imprint>
-                <pubPlace>Cambridge (Mass.)</pubPlace>
-                <publisher>The Medieval academy of America</publisher>
-                <date>1991</date>
-            </imprint>
-        </monogr>
-        <note type="tags"><note type="tag">Abbaye de Flavigny -- Moyen âge -- Sources</note></note>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Bouchard1991b"
-        corresp="http://zotero.org/groups/2223903/items/BPGI7VU6">
-        <monogr>
-            <title level="m">Holy entrepreneurs : Cistercians, knights and economic exchange in
-                twelfth-century Burgundy</title>
-            <idno type="ISBN">0-8014-2527-1</idno>
-            <author><forename>Constance B.</forename><surname>Bouchard</surname></author>
-            <imprint>
-                <pubPlace>Ithaca</pubPlace>
-                <publisher>Cornell University Press</publisher>
-                <date>1991</date>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Veyssière2004"
-        corresp="http://zotero.org/groups/2223903/items/AQB2YHTP">
-        <monogr>
-            <title level="m">Recueil des chartes de l’abbaye de Clairvaux au XIIe siècle</title>
-            <title type="short">Recueil des chartes</title>
-            <idno type="ISBN">2-7355-0537-5 br. 70 EUR</idno>
-            <author><forename>Laurent</forename><surname>Veyssière</surname></author>
-            <imprint>
-                <pubPlace>Paris</pubPlace>
-                <publisher>CTHS</publisher>
-                <date>2004</date>
-            </imprint>
-        </monogr>
-        <series><title level="s">Collection de documents inédits sur l’histoire de France. Série
-                in-8°</title><biblScope unit="volume">32</biblScope></series>
-        <note type="tags"><note type="tag">Abbaye Notre-Dame de Clairvaux 12e si*ecle Sources
-                271.120 44331</note></note>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Bernard1853"
-        corresp="http://zotero.org/groups/2223903/items/XJND9JNM">
-        <monogr>
-            <title level="m">Cartulaire de l’abbaye de Savigny ; suivi du petit cartulaire de
-                l’abbaye d’Ainay</title>
-            <author><forename>Auguste-Joseph</forename><surname>Bernard</surname></author>
-            <imprint>
-                <pubPlace>Paris</pubPlace>
-                <publisher>Imprimerie impériale</publisher>
-                <date>1853</date>
-            </imprint>
-        </monogr>
-        <series><title level="s">Collection de documents inédits sur l’histoire de France. 1ère
-                série : histoire politique</title></series>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Petit1885"
-        corresp="http://zotero.org/groups/2223903/items/V85NDGLJ">
-        <monogr>
-            <title level="m">Histoire des ducs de Bourgogne de la race capétienne avec des documents
-                inédits et des pièces justificatives</title>
-            <title type="short">Histoire des ducs de Bourgogne</title>
-            <author><forename>Ernest</forename><surname>Petit</surname></author>
-            <imprint>
-                <pubPlace>Dijon</pubPlace>
-                <publisher>Lamarche</publisher>
-                <date>1885</date>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Laurent1907"
-        corresp="http://zotero.org/groups/2223903/items/NLY72F82">
-        <monogr>
-            <title level="m">Cartulaires de l’abbaye de Molesmes, ancien diocèse de Langres 916-1250
-                : recueil de documents sur le nord de la Bourgogne et le midi de la
-                Champagne</title>
-            <author><forename>Jacques</forename><surname>Laurent</surname></author>
-            <imprint>
-                <pubPlace>Paris</pubPlace>
-                <publisher>A. Picard</publisher>
-                <date>1907</date>
-            </imprint>
-        </monogr>
-        <note type="tags"><note type="tag">Abbaye Notre-Dame (Molesmes, Côte-d’Or)</note></note>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Jobin1891"
-        corresp="http://zotero.org/groups/2223903/items/WRYIFKK7">
-        <monogr>
-            <title level="m">Saint Bernard et sa famille</title>
-            <author><forename>Jean-Baptiste</forename><surname>Jobin</surname></author>
-            <imprint>
-                <pubPlace>Paris</pubPlace>
-                <publisher>Berche et Tralin</publisher>
-                <date>1891</date>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Corot1886"
-        corresp="http://zotero.org/groups/2223903/items/8TZSB2WZ">
-        <monogr>
-            <title level="m">A propos de Fontaines</title>
-            <author><forename>H.</forename><surname>Corot</surname></author>
-            <imprint>
-                <pubPlace>Dijon</pubPlace>
-                <date>1886</date>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Plancher1739"
-        corresp="http://zotero.org/groups/2223903/items/24JFSFHH">
-        <monogr>
-            <title level="m">Histoire générale et particulière de la Bourgogne, avec des notes, des
-                dissertations et les preuves justificatives</title>
-            <author><forename>Urbain</forename><surname>Plancher</surname></author>
-            <imprint>
-                <pubPlace>Dijon</pubPlace>
-                <publisher>A. de Fay</publisher>
-                <date>1739</date>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Bouchard1987"
-        corresp="http://zotero.org/groups/2223903/items/MRXZRLDJ">
-        <monogr>
-            <title level="m">Sword, miter and cloister : nobility and the church in Burgundy,
-                980-1198</title>
-            <idno type="ISBN">0-8014-1974-3</idno>
-            <author><forename>Constance B.</forename><surname>Bouchard</surname></author>
-            <imprint>
-                <pubPlace>Ithaca</pubPlace>
-                <publisher>Cornell University Press</publisher>
-                <date>1987</date>
-            </imprint>
-        </monogr>
-        <note type="tags"><note type="tag">Noblesse--France--Bourgogne (France)--Généalogie--Moyen
-                âge Monachisme et ordres religieux chrétiens--France--Bourgogne (France)--Moyen âge
-                Bourgogne (France)--Histoire religieuse--Moyen âge</note></note>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Chifflet1660"
-        corresp="http://zotero.org/groups/2223903/items/7RX9RERN">
-        <monogr>
-            <title level="m">S. Bernardi Clarevallensis abbatis genus illustre assertum</title>
-            <author><forename>Pierre-François</forename><surname>Chifflet</surname></author>
-            <imprint>
-                <pubPlace>Paris</pubPlace>
-                <publisher>Chavance</publisher>
-                <date>1660</date>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Omont1889"
-        corresp="http://zotero.org/groups/2223903/items/W3D4WJL2">
-        <monogr>
-            <title level="m">Catalogue général des manuscrits des bibliothèques publiques de France:
-                Départements, Tome V: Dijon</title>
-            <editor><forename>Henri</forename><surname>Omont</surname></editor>
-            <editor><forename>Auguste</forename><surname>Molinier</surname></editor>
-            <imprint>
-                <pubPlace>Paris</pubPlace>
-                <publisher>Librairie E. Plon, Nourrit et Cie</publisher>
-                <date>1889</date>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Bourgeois2000"
-        corresp="http://zotero.org/groups/2223903/items/WEPVBAKG">
-        <monogr>
-            <title level="m">Abbaye Notre-Dame de Fontenay, monument du patrimoine mondial :
-                architecture et histoire</title>
-            <author><forename>Pierre</forename><surname>Bourgeois</surname></author>
-            <imprint>
-                <pubPlace>Begrolles-en-Mauges</pubPlace>
-                <publisher>Abbaye de Bellefontaine</publisher>
-                <date>2000</date>
-            </imprint>
-        </monogr>
-        <note type="tags"><note type="tag">Architecture Cistercians Fontenay, Abbaye de, Cote d’ Or,
-                FRA France Monasteries 1100 1900 Abbaye Cisterciens</note></note>
-    </biblStruct>
-    <biblStruct type="journalArticle" xml:id="Constable1957"
-        corresp="http://zotero.org/groups/2223903/items/VB2F8QS7">
-        <analytic>
-            <title level="a">The disputed election at Langres in 1138</title>
-            <author><forename>Giles</forename><surname>Constable</surname></author>
-        </analytic>
-        <monogr>
-            <title level="j">Traditio</title>
-            <imprint>
-                <biblScope unit="volume">13</biblScope>
-                <biblScope unit="page">119-152</biblScope>
-                <date>1957</date>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Gams1873b"
-        corresp="http://zotero.org/groups/2223903/items/ZVNMA938">
-        <monogr>
-            <title level="m">Series episcoporum ecclesiae catholicae, quotquot innotuerunt a beato
-                Petro apostolo</title>
-            <author><forename>Pius Bonifacius</forename><surname>Gams</surname></author>
-            <imprint>
-                <pubPlace>Ratisbonae</pubPlace>
-                <publisher>G. J. Manz</publisher>
-                <date>1873</date>
-            </imprint>
-        </monogr>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Régnier1988b"
-        corresp="http://zotero.org/groups/2223903/items/SZZFKXU4">
-        <monogr>
-            <title level="m">Les évêques d'Autun</title>
-            <idno type="callNumber">Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de
-                l'homme - Magasin - 8-LN4-258</idno>
-            <author><forename>Jean</forename><surname>Régnier</surname></author>
-            <imprint>
-                <pubPlace>Dijon</pubPlace>
-                <publisher>J. Régnier</publisher>
-                <date>1988</date>
-            </imprint>
-        </monogr>
-        <note type="tags"><note type="tag">Autun (Saône-et-Loire)</note><note type="tag">Eglise
-                catholique</note><note type="tag">Évêques</note></note>
-    </biblStruct>
-    <biblStruct type="book" xml:id="Merton"
-        corresp="http://zotero.org/groups/2223903/items/DL7R8727">
-        <monogr>
-            <title level="m">Bernard de Clairvaux</title>
-            <author><forename>Thomas [Ed]</forename><surname>Merton</surname></author>
-            <imprint>
-                <publisher>Paris: Alsatia 1953.</publisher>
-                <date/>
-            </imprint>
-        </monogr>
-    </biblStruct>
-</listBibl>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Exported from Zotero</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated from Zotero database</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl>
+                <biblStruct type="book" xml:id="Bernard1876"
+                    corresp="http://zotero.org/groups/2223903/items/A4YG2RU6">
+                    <monogr>
+                        <title level="m">Recueil des chartes de l'abbaye de Cluny. Tome 1 / formé
+                            par Auguste Bernard ; complété, rév. et publ. par Alexandre
+                            Bruel,...</title>
+                        <author><forename>Auguste</forename><surname>Bernard</surname></author>
+                        <imprint>
+                            <date>1876</date>
+                            <note type="accessed">2018-09-11T07:47:59Z</note>
+                            <note type="url">https://gallica.bnf.fr/ark:/12148/bpt6k28908j</note>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Régnier1988a"
+                    corresp="http://zotero.org/groups/2223903/items/VK9FJI65">
+                    <monogr>
+                        <title level="m">Les évêques d'Autun</title>
+                        <idno type="callNumber">Tolbiac - Rez de Jardin - Philosophie, histoire,
+                            sciences de l'homme - Magasin - 8-LN4-258</idno>
+                        <author><forename>Jean</forename><surname>Régnier</surname></author>
+                        <imprint>
+                            <pubPlace>Dijon</pubPlace>
+                            <publisher>J. Régnier</publisher>
+                            <date>1988</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="webpage" xml:id="Bertrand2017"
+                    corresp="http://zotero.org/groups/2223903/items/F4MBLR5M">
+                    <analytic>
+                        <title level="a">CartulR. Répertoire des cartulaires médiévaux et
+                            modernes</title>
+                        <title type="short">CartulR</title>
+                        <respStmt>
+                            <resp>contributor</resp>
+                            <persName><forename>Paul</forename><surname>Bertrand</surname></persName>
+                        </respStmt>
+                    </analytic>
+                    <monogr>
+                        <imprint>
+                            <date>2017</date>
+                            <note type="accessed">2023-09-02</note>
+                            <note type="url">https://telma-repertoires.irht.cnrs.fr/cartulr</note>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Merton"
+                    corresp="http://zotero.org/groups/2223903/items/DL7R8727">
+                    <monogr>
+                        <title level="m">Bernard de Clairvaux</title>
+                        <author><forename>Thomas [Ed]</forename><surname>Merton</surname></author>
+                        <imprint>
+                            <publisher>Paris: Alsatia 1953.</publisher>
+                            <date/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Régnier1988b"
+                    corresp="http://zotero.org/groups/2223903/items/SZZFKXU4">
+                    <monogr>
+                        <title level="m">Les évêques d'Autun</title>
+                        <idno type="callNumber">Tolbiac - Rez de Jardin - Philosophie, histoire,
+                            sciences de l'homme - Magasin - 8-LN4-258</idno>
+                        <author><forename>Jean</forename><surname>Régnier</surname></author>
+                        <imprint>
+                            <pubPlace>Dijon</pubPlace>
+                            <publisher>J. Régnier</publisher>
+                            <date>1988</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Bourgeois2000"
+                    corresp="http://zotero.org/groups/2223903/items/WEPVBAKG">
+                    <monogr>
+                        <title level="m">Abbaye Notre-Dame de Fontenay, monument du patrimoine
+                            mondial : architecture et histoire</title>
+                        <author><forename>Pierre</forename><surname>Bourgeois</surname></author>
+                        <imprint>
+                            <pubPlace>Begrolles-en-Mauges</pubPlace>
+                            <publisher>Abbaye de Bellefontaine</publisher>
+                            <date>2000</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="journalArticle" xml:id="Constable1957"
+                    corresp="http://zotero.org/groups/2223903/items/VB2F8QS7">
+                    <analytic>
+                        <title level="a">The disputed election at Langres in 1138</title>
+                        <author><forename>Giles</forename><surname>Constable</surname></author>
+                    </analytic>
+                    <monogr>
+                        <title level="j">Traditio</title>
+                        <imprint>
+                            <biblScope unit="volume">13</biblScope>
+                            <biblScope unit="page">119-152</biblScope>
+                            <date>1957</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Gams1873"
+                    corresp="http://zotero.org/groups/2223903/items/ZVNMA938">
+                    <monogr>
+                        <title level="m">Series episcoporum ecclesiae catholicae, quotquot
+                            innotuerunt a beato Petro apostolo</title>
+                        <author><forename>Pius Bonifacius</forename><surname>Gams</surname></author>
+                        <imprint>
+                            <pubPlace>Ratisbonae</pubPlace>
+                            <publisher>G. J. Manz</publisher>
+                            <date>1873</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Lefèvre1976"
+                    corresp="http://zotero.org/groups/2223903/items/56KBWM57">
+                    <monogr>
+                        <title level="m">Le coutumier de l’abbaye d’Oigny en Bourgogne au XIIe
+                            siècle</title>
+                        <author><forename>Placide
+                            Fernand</forename><surname>Lefèvre</surname></author>
+                        <author><forename>Antonius H.</forename><surname>Thomas</surname></author>
+                        <imprint>
+                            <pubPlace>Louvain</pubPlace>
+                            <publisher>Spicilegium sacrum Lovaniense</publisher>
+                            <date>1976</date>
+                        </imprint>
+                    </monogr>
+                    <series><title level="s">Spicilegium sacrum Lovaniense. Etudes et documents
+                            39</title></series>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Chomton1891"
+                    corresp="http://zotero.org/groups/2223903/items/HFBCHQZB">
+                    <monogr>
+                        <title level="m">Saint-Bernard et le château de Fontaines-lès-Dijon : étude
+                            historique et archéologique</title>
+                        <author><forename>abbé Louis</forename><surname>Chomton</surname></author>
+                        <imprint>
+                            <pubPlace>Dijon</pubPlace>
+                            <publisher>Impr. de l’évêché</publisher>
+                            <date>1891</date>
+                            <note type="url">http://gallica.bnf.fr/ark:/12148/bpt6k5478161d,
+                                http://gallica.bnf.fr/ark:/12148/bpt6k5480017f,
+                                http://gallica.bnf.fr/ark:/12148/bpt6k5482106m</note>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Charmasse1880"
+                    corresp="http://zotero.org/groups/2223903/items/E6KNNMPH">
+                    <monogr>
+                        <title level="m">Cartulaire de l’évêché d’Autun connu sous le nom de
+                            cartulaire rouge : suivi d’une carte et d’un pouillé de l’ancien diocèse
+                            d’Autun</title>
+                        <author><forename>Anatole de</forename><surname>Charmasse</surname></author>
+                        <imprint>
+                            <pubPlace>Autun</pubPlace>
+                            <publisher>Dejussieu père et fils ; Paris : Durand et
+                                Pédone-Lauriel</publisher>
+                            <date>1880</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Charmasse1865"
+                    corresp="http://zotero.org/groups/2223903/items/ESHDDXA6">
+                    <monogr>
+                        <title level="m">Cartulaire de l’église d’Autun</title>
+                        <author><forename>Anatole de</forename><surname>Charmasse</surname></author>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>A. Durand ; Autun : M. Dejussieu</publisher>
+                            <date>1865</date>
+                        </imprint>
+                    </monogr>
+                    <series><title level="s">Publication de la Société Éduenne ;
+                        1-3</title></series>
+                </biblStruct>
+                <biblStruct type="book" xml:id="zoteroItem_GV96TMPN"
+                    corresp="http://zotero.org/groups/2223903/items/GV96TMPN">
+                    <monogr>
+                        <title level="m">Gallia christiana in provincias ecclesiasticas
+                            distributa</title>
+                        <title type="short">Gallia christiana</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>Impr. royale [Firmin Didot]</publisher>
+                            <date>1716</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Jobin1881"
+                    corresp="http://zotero.org/groups/2223903/items/33TH9GNP">
+                    <monogr>
+                        <title level="m">Histoire du prieuré de Jully-les-Nonnains, avec pièces
+                            justificatives</title>
+                        <author><forename>Jean-Baptiste</forename><surname>Jobin</surname></author>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>Bray et Retaux</publisher>
+                            <date>1881</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="zoteroItem_F8IX67YY"
+                    corresp="http://zotero.org/groups/2223903/items/F8IX67YY">
+                    <monogr>
+                        <title level="m">Vente aux enchères publiques d'une collection importante de
+                            Chartes : documents historiques, titres nobiliaires, etc. provenant du
+                            Cabinet de M.de M.</title>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>Jacques Charavay aîné</publisher>
+                            <date>1867</date>
+                            <note type="url"
+                                >http://bibnum.enc.sorbonne.fr/tires-a-part/0000005542185</note>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Pérard1664"
+                    corresp="http://zotero.org/groups/2223903/items/XTUJ5Z2N">
+                    <monogr>
+                        <title level="m">Recueil de plusieurs pièces curieuses servant à l’histoire
+                            de Bourgogne</title>
+                        <author><forename>Etienne</forename><surname>Pérard</surname></author>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>C. Cramoisy</publisher>
+                            <date>1664</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="bookSection" xml:id="Watanabe1991"
+                    corresp="http://zotero.org/groups/2223903/items/TAKCVHSE">
+                    <analytic>
+                        <title level="a">Les fonctions des archidiacres à Langres aux XIe et XIIe
+                            siècles</title>
+                        <author><forename>Setsuo</forename><surname>Watanabe</surname></author>
+                    </analytic>
+                    <monogr>
+                        <title level="m">A propos des actes d’évêques : hommage à Lucie
+                            Fossier</title>
+                        <editor><forename>Michel</forename><surname>Parisse</surname></editor>
+                        <imprint>
+                            <pubPlace>Nancy</pubPlace>
+                            <biblScope unit="page">277-294</biblScope>
+                            <publisher>Presses universitaires de Nancy</publisher>
+                            <date>1991</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="bookSection" xml:id="Richard1984"
+                    corresp="http://zotero.org/groups/2223903/items/M3PXX9XC">
+                    <analytic>
+                        <title level="a">Le destin d’un texte bernardin : la première pancarte de
+                            l’abbaye de Fontenay</title>
+                        <title type="short">Le destin d’un texte bernardin</title>
+                        <author><forename>Jean</forename><surname>Richard</surname></author>
+                    </analytic>
+                    <monogr>
+                        <title level="m">Mélanges à la mémoire du Père Anselme Dimier. Tome II.
+                            Histoire cistercienne. Volume 4. Abbayes</title>
+                        <imprint>
+                            <pubPlace>Arbois</pubPlace>
+                            <biblScope unit="page">745-746</biblScope>
+                            <publisher>Pupillin, B. Chauvin</publisher>
+                            <date>1984</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Wiederhold1985"
+                    corresp="http://zotero.org/groups/2223903/items/NJMVXSIJ">
+                    <monogr>
+                        <title level="m">Papsturkunden in Frankreich : Reiseberichte zur Gallia
+                            Pontificia</title>
+                        <author><forename>Wilhelm</forename><surname>Wiederhold</surname></author>
+                        <author><forename>Louis</forename><surname>Duval-Arnould</surname></author>
+                        <imprint>
+                            <pubPlace>Città del Vaticano</pubPlace>
+                            <publisher>Biblioteca Apostolica Vaticana</publisher>
+                            <date>1985</date>
+                        </imprint>
+                    </monogr>
+                    <series><title level="s">Acta Romanorum Pontificum</title><biblScope
+                            unit="volume">7-8</biblScope></series>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Quantin1854"
+                    corresp="http://zotero.org/groups/2223903/items/YGFX2GI4">
+                    <monogr>
+                        <title level="m">Cartulaire général de l’Yonne : recueil de documents
+                            authentiques pour servir à l’histoire des pays qui forment ce
+                            département</title>
+                        <author><forename>Maximilien</forename><surname>Quantin</surname></author>
+                        <respStmt>
+                            <resp>contributor</resp>
+                            <persName><name>Société des sciences historiques et naturelles de
+                                    l’Yonne</name></persName>
+                        </respStmt>
+                        <imprint>
+                            <pubPlace>Auxerre</pubPlace>
+                            <publisher>Perriquet et Rouillé</publisher>
+                            <date>1854</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Le_Gall1980"
+                    corresp="http://zotero.org/groups/2223903/items/R85N8TP9">
+                    <monogr>
+                        <title level="m">Alésia : textes originaux et traductions</title>
+                        <idno type="ISBN">2-251-63045-7</idno>
+                        <author><forename>Joël</forename><surname>Le Gall</surname></author>
+                        <author><forename>Eugène
+                            de</forename><surname>Saint-Denis</surname></author>
+                        <author><forename>Raymond</forename><surname>Weil</surname></author>
+                        <author><forename>Jean</forename><surname>Marilier</surname></author>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>Les Belles Lettres</publisher>
+                            <date>1980</date>
+                        </imprint>
+                    </monogr>
+                    <series><title level="s">Publications de l’Université de Dijon
+                        45</title></series>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Chastellux1869"
+                    corresp="http://zotero.org/groups/2223903/items/767MUTKI">
+                    <monogr>
+                        <title level="m">Histoire généalogique de la maison de Chastellux (seigneurs
+                            de Montréal, Marmeaux, Beauvoir, Tart, Ravières, Bazarne, Chastellux,
+                            Avigneau, Coulanges, etc.) avec pièces justificatives</title>
+                        <author><forename>Henri-Paul-César</forename><surname>Chastellux</surname></author>
+                        <imprint>
+                            <pubPlace>Auxerre</pubPlace>
+                            <publisher>Impr. de Gustave Perriquet</publisher>
+                            <date>1869</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Flammarion2004"
+                    corresp="http://zotero.org/groups/2223903/items/UEQL4RBY">
+                    <monogr>
+                        <title level="m">Cartulaire du chapitre cathédral de Langres</title>
+                        <idno type="ISBN">2-503-51626-2</idno>
+                        <author><forename>Hubert</forename><surname>Flammarion</surname></author>
+                        <imprint>
+                            <pubPlace>Turnhout</pubPlace>
+                            <publisher>Brepols</publisher>
+                            <date>2004</date>
+                        </imprint>
+                    </monogr>
+                    <series><title level="s">ARTEM Atelier de recherches sur les textes
+                            médiévaux</title></series>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Bouchard1991a"
+                    corresp="http://zotero.org/groups/2223903/items/ZBNQUSD9">
+                    <monogr>
+                        <title level="m">The cartulary of Flavigny : 717-1113</title>
+                        <idno type="ISBN">0-915651-05-X (rel.)</idno>
+                        <author><forename>Constance
+                            B.</forename><surname>Bouchard</surname></author>
+                        <imprint>
+                            <pubPlace>Cambridge (Mass.)</pubPlace>
+                            <publisher>The Medieval academy of America</publisher>
+                            <date>1991</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Bouchard1991b"
+                    corresp="http://zotero.org/groups/2223903/items/BPGI7VU6">
+                    <monogr>
+                        <title level="m">Holy entrepreneurs : Cistercians, knights and economic
+                            exchange in twelfth-century Burgundy</title>
+                        <idno type="ISBN">0-8014-2527-1</idno>
+                        <author><forename>Constance
+                            B.</forename><surname>Bouchard</surname></author>
+                        <imprint>
+                            <pubPlace>Ithaca</pubPlace>
+                            <publisher>Cornell University Press</publisher>
+                            <date>1991</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Veyssière2004"
+                    corresp="http://zotero.org/groups/2223903/items/AQB2YHTP">
+                    <monogr>
+                        <title level="m">Recueil des chartes de l’abbaye de Clairvaux au XIIe
+                            siècle</title>
+                        <title type="short">Recueil des chartes</title>
+                        <idno type="ISBN">2-7355-0537-5 br. 70 EUR</idno>
+                        <author><forename>Laurent</forename><surname>Veyssière</surname></author>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>CTHS</publisher>
+                            <date>2004</date>
+                        </imprint>
+                    </monogr>
+                    <series><title level="s">Collection de documents inédits sur l’histoire de
+                            France. Série in-8°</title><biblScope unit="volume"
+                        >32</biblScope></series>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Bernard1853"
+                    corresp="http://zotero.org/groups/2223903/items/XJND9JNM">
+                    <monogr>
+                        <title level="m">Cartulaire de l’abbaye de Savigny ; suivi du petit
+                            cartulaire de l’abbaye d’Ainay</title>
+                        <author><forename>Auguste-Joseph</forename><surname>Bernard</surname></author>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>Imprimerie impériale</publisher>
+                            <date>1853</date>
+                        </imprint>
+                    </monogr>
+                    <series><title level="s">Collection de documents inédits sur l’histoire de
+                            France. 1ère série : histoire politique</title></series>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Petit1885"
+                    corresp="http://zotero.org/groups/2223903/items/V85NDGLJ">
+                    <monogr>
+                        <title level="m">Histoire des ducs de Bourgogne de la race capétienne avec
+                            des documents inédits et des pièces justificatives</title>
+                        <title type="short">Histoire des ducs de Bourgogne</title>
+                        <author><forename>Ernest</forename><surname>Petit</surname></author>
+                        <imprint>
+                            <pubPlace>Dijon</pubPlace>
+                            <publisher>Lamarche</publisher>
+                            <date>1885</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Laurent1907"
+                    corresp="http://zotero.org/groups/2223903/items/NLY72F82">
+                    <monogr>
+                        <title level="m">Cartulaires de l’abbaye de Molesmes, ancien diocèse de
+                            Langres 916-1250 : recueil de documents sur le nord de la Bourgogne et
+                            le midi de la Champagne</title>
+                        <author><forename>Jacques</forename><surname>Laurent</surname></author>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>A. Picard</publisher>
+                            <date>1907</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Jobin1891"
+                    corresp="http://zotero.org/groups/2223903/items/WRYIFKK7">
+                    <monogr>
+                        <title level="m">Saint Bernard et sa famille</title>
+                        <author><forename>Jean-Baptiste</forename><surname>Jobin</surname></author>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>Berche et Tralin</publisher>
+                            <date>1891</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Corot1886"
+                    corresp="http://zotero.org/groups/2223903/items/8TZSB2WZ">
+                    <monogr>
+                        <title level="m">A propos de Fontaines</title>
+                        <author><forename>H.</forename><surname>Corot</surname></author>
+                        <imprint>
+                            <pubPlace>Dijon</pubPlace>
+                            <date>1886</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Plancher1739"
+                    corresp="http://zotero.org/groups/2223903/items/24JFSFHH">
+                    <monogr>
+                        <title level="m">Histoire générale et particulière de la Bourgogne, avec des
+                            notes, des dissertations et les preuves justificatives</title>
+                        <author><forename>Urbain</forename><surname>Plancher</surname></author>
+                        <imprint>
+                            <pubPlace>Dijon</pubPlace>
+                            <publisher>A. de Fay</publisher>
+                            <date>1739</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Bouchard1987"
+                    corresp="http://zotero.org/groups/2223903/items/MRXZRLDJ">
+                    <monogr>
+                        <title level="m">Sword, miter and cloister : nobility and the church in
+                            Burgundy, 980-1198</title>
+                        <idno type="ISBN">0-8014-1974-3</idno>
+                        <author><forename>Constance
+                            B.</forename><surname>Bouchard</surname></author>
+                        <imprint>
+                            <pubPlace>Ithaca</pubPlace>
+                            <publisher>Cornell University Press</publisher>
+                            <date>1987</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Chifflet1660"
+                    corresp="http://zotero.org/groups/2223903/items/7RX9RERN">
+                    <monogr>
+                        <title level="m">S. Bernardi Clarevallensis abbatis genus illustre
+                            assertum</title>
+                        <author><forename>Pierre-François</forename><surname>Chifflet</surname></author>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>Chavance</publisher>
+                            <date>1660</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="book" xml:id="Omont1889"
+                    corresp="http://zotero.org/groups/2223903/items/W3D4WJL2">
+                    <monogr>
+                        <title level="m">Catalogue général des manuscrits des bibliothèques
+                            publiques de France: Départements, Tome V: Dijon</title>
+                        <editor><forename>Henri</forename><surname>Omont</surname></editor>
+                        <editor><forename>Auguste</forename><surname>Molinier</surname></editor>
+                        <imprint>
+                            <pubPlace>Paris</pubPlace>
+                            <publisher>Librairie E. Plon, Nourrit et Cie</publisher>
+                            <date>1889</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <biblStruct type="bookSection" xml:id="Stutzmann2022"
+                    corresp="http://zotero.org/groups/2223903/items/KQX7ET6T">
+                    <analytic>
+                        <title level="a">La seconde pancarte de Fontenay en contexte. Reconstitution
+                            de l’original perdu et interprétation des modèles diplomatiques</title>
+                        <title type="short">La seconde pancarte de Fontenay</title>
+                        <author><forename>Dominique</forename><surname>Stutzmann</surname></author>
+                    </analytic>
+                    <monogr>
+                        <title level="m">Productions et pratiques sociales de l’écrit médiéval en
+                            Bourgogne</title>
+                        <editor><forename>Eliana</forename><surname>Magnani</surname></editor>
+                        <imprint>
+                            <pubPlace>Rennes</pubPlace>
+                            <biblScope unit="page">133-152</biblScope>
+                            <publisher>Presses Universitaires de Rennes</publisher>
+                            <date>2022</date>
+                        </imprint>
+                    </monogr>
+                    <series><title level="s">Art &amp; société</title></series>
+                </biblStruct>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

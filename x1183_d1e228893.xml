@@ -11,17 +11,15 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu.</witness>
-                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 7<hi rend="superscript">v</hi>-9<hi rend="superscript">v</hi> (Papes, A) : « <hi rend="italic">Restat sigillum</hi> »</witness>
-                        <witness n="a">a. <bibl sameAs="#Wiederhold1985"><biblScope>t. I,
+                        <witness n="B">ADCO 15 H 13* (cart. 204), fol. 7<hi rend="superscript">v</hi>-9<hi rend="superscript">v</hi> (Papes, A) : « <hi rend="italic">Restat sigillum</hi> »</witness>
+                        <witness n="a"><bibl sameAs="#Wiederhold1985"><biblScope>t. I,
                                     p. 226-227, édition partielle d’après
                             B</biblScope></bibl></witness>
 
                     </listWit>
                     <listBibl>
-                        <bibl>
-                            <hi rend="smallcaps" xml:space="preserve">Inventaire </hi> : ADCO
-                            15 H 1, fol. III<hi rend="superscript">r</hi> (Papes, A)</bibl>
-                        <bibl>15 H 4, p. 433 (XXIII. 02. 05) : « … une bulle en grand parchemin …et
+                        <bibl>ADCO 15 H 1, fol. III<hi rend="superscript">r</hi> (Papes, A)</bibl>
+                        <bibl>ADCO 15 H 4, p. 433 (XXIII. 02. 05) : « … une bulle en grand parchemin …et
                             scellé d’un sceau de plomb à lacs de soye jaune pendant ».</bibl>
                     </listBibl>
                 </sourceDesc>

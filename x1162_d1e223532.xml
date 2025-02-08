@@ -11,22 +11,18 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. Cartulaire 1, fol. 49<hi rend="superscript">v-</hi>50<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 36) ;
+                        <witness n="B">Cartulaire 1, fol. 49<hi rend="superscript">v-</hi>50<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 36) ;
                             table mutilée</witness>
                         <witness n="C">Cartulaire 2, fol. 110<hi rend="superscript">v</hi> (<hi rend="italic">Flaciacum</hi>, 36) ; table mutilée</witness>
                         <witness n="D">Paris, BnF, coll. Baluze, ms. 143, fol. 261<hi rend="superscript">r</hi> (« ex tabulario Fontenetensi »).</witness>
                         <witness n="E">Dijon, Arch. dép. Côte d’Or, 1 F 423, fol. 19-20. — Papier.
                             Copie par E. Petit d’après B.</witness>
-                        <witness n="a">a. Pierre-François Chifflet, <hi rend="italic">S. Bernardi
-                                Clarevallensis abbatis genus illustre assertum</hi>, Dijon, 1660,
-                            p. 552-553, Probationes diatribae, n° 112 (« ex tabulario
-                            Fontenetensi »).</witness>
-                        <witness n="b">b. Petit, t. II, p. 263, n° 346.</witness>
+                        <witness n="a"><bibl sameAs="#Chifflet1660"><biblScope>p. 552-553, Probationes diatribae, n° 112 (« ex tabulario
+                                    Fontenetensi »)</biblScope></bibl></witness>
+                        <witness n="b"><bibl sameAs="#Petit1885"><biblScope>t. II, p. 263, n° 346</biblScope></bibl></witness>
                     </listWit>
                     <listBibl>
-                        <bibl>
-                            <hi rend="smallcaps">Indiqué</hi> : Dijon, Arch. dép. Côte d’Or, 1 F
-                            423, fol. 34 et 35, d’après C (papiers d’E. Petit, diffère de E)</bibl>
+                        <bibl>ADCO 1 F 423, fol. 34 et 35, d’après C (papiers d’E. Petit, diffère de E)</bibl>
                     </listBibl>
                 </sourceDesc>
             </fileDesc>

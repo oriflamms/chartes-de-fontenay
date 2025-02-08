@@ -11,37 +11,38 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. Cartulaire 1, fol. 23<hi rend="superscript">r-v</hi> (<hi rend="italic">Abbatia</hi>, 6) ; table : « <hi rend="italic">Carta
-                                abbatis Mollismensis de dono domni Martini</hi> »</witness>
+                        <witness n="B">Cartulaire 1, fol. 23<hi rend="superscript">r-v</hi> (<hi
+                            rend="italic">Abbatia</hi>, 6) ; table : « <hi rend="italic">Carta
+                            abbatis Mollismensis de dono domni Martini</hi> »</witness>
                         <witness n="C">Paris, Bibl. nat. de France, ms. Collection Bourgogne 74,
                                 fol. 175<hi rend="superscript">v</hi>. —
-                            Papier.<hi rend="background(red)" xml:space="preserve"> non collationné</hi>,
-                            d’après A (« <hi rend="italic">Ex chartario Fonteneti</hi> ») et renvoi
+                            Papier. Non collationné.
+                            D’après A (« <hi rend="italic">Ex chartario Fonteneti</hi> ») et renvoi
                             à B (« Cartulaire de l’abbaïe de Fontenay »).</witness>
                         <witness n="D">Dijon, Arch. dép. Côte d’Or, 1 F 216, fol. 39-40, d’après
                             a.</witness>
                         <witness n="E">Dijon, Arch. dép. Côte d’Or, 1 F 423, fol. 2-4. — Papier.
                             Copie par E. Petit d’après a.</witness>
-                        <witness n="a">
-                            <bibl sameAs="#Plancher1739">
-                                <biblScope>t. I, preuve p. xxxvii, n° L</biblScope>
-                                <note>D’après C</note>
-                            </bibl>
-                        </witness>
+                        <witness n="a" source="#C">
+                        <bibl sameAs="#Plancher1739">
+                            <biblScope>t. I, preuve p. xxxvii, n° L</biblScope>
+                            <note>D’après C</note>
+                        </bibl>
+                    </witness>
                         <witness n="b">
-                            <bibl sameAs="#Laurent1907">
-                                <note>b. Fragment réimprimé d’après a : </note>
-                            </bibl>
-                        </witness>
+                        <bibl sameAs="#Laurent1907">
+                            <note>Fragment réimprimé d’après a</note>
+                        </bibl>
+                    </witness>
                     </listWit>
                     <listBibl>
                         <bibl>Paris, Bibl. nat. de France, Ms. Baluze 143,
-                            fol. 276<hi rend="superscript" xml:space="preserve">v </hi>(notes de
-                            P.-F. Chifflet, « ex duobus tabulariis »)</bibl>
-                        <bibl sameAs="#Chifflet1660">Chifflet<biblScope>p. 563 : « Stephano Eduensi
-                                episcopi, G. Molismensis abbas concedit locum, in quo frater
-                                Martinus eremita morabatur, ut ibi fiat abbatia fratrum regularium,
-                                juxta institutionem S. Benedicti viventium »</biblScope></bibl>
+                            fol. 276<hi rend="superscript" xml:space="preserve">v </hi><note>Notes
+                            de P.-F. Chifflet, « ex duobus tabulariis »)</note></bibl>
+                        <bibl sameAs="#Chifflet1660"><biblScope>p. 563 : « Stephano Eduensi
+                            episcopi, G. Molismensis abbas concedit locum, in quo frater Martinus
+                            eremita morabatur, ut ibi fiat abbatia fratrum regularium, juxta
+                            institutionem S. Benedicti viventium »</biblScope></bibl>
                         <bibl sameAs="#Petit1885">
                             <biblScope>t. I, p. 461, n° 171</biblScope>
                         </bibl>

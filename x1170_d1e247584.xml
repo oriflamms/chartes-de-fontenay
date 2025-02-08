@@ -11,13 +11,13 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. Copie perdue dans Cartulaire 1</witness>
+                        <witness n="B">Copie perdue dans Cartulaire 1</witness>
                         <witness n="C">Cartulaire 2, fol. 105<hi rend="superscript">v</hi>-106<hi rend="superscript">r</hi> (<hi rend="italic">Flaciacum</hi>, 25) ;
                             table mutilée</witness>
                         <witness n="D">ADCO 15 H 11* (cart. 202), fol. 190<hi rend="superscript">v</hi>-191<hi rend="superscript">r</hi> (Grignon. GGG) : « <hi rend="italic">Restat corrigia</hi> » ; non collationné.</witness>
                         <witness n="E">Dijon, Arch. dép. Côte d’Or, 1 F 423, fol. 23. — Papier.
                             Copie par E. Petit d’après C.</witness>
-                        <witness n="a">a. Petit, t. II, p. 264-265, n° 349.</witness>
+                        <witness n="a"><bibl sameAs="#Petit1885"><biblScope>t. II, p. 264-265, n° 349</biblScope></bibl></witness>
 
                     </listWit>
                     <listBibl>

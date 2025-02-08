@@ -11,15 +11,15 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 19<hi rend="superscript">r</hi> (Papes, GGG) : « <hi rend="italic">Restat sigillum
+                        <witness n="B">ADCO 15 H 13* (cart. 204), fol. 19<hi rend="superscript">r</hi> (Papes, GGG) : « <hi rend="italic">Restat sigillum
                                 plumbeum.</hi> »</witness>
-                        <witness n="a">a. <bibl sameAs="#Wiederhold1985"><biblScope>t. I,
+                        <witness n="a"><bibl sameAs="#Wiederhold1985"><biblScope>t. I,
                                     p. 231-232, d’après B</biblScope></bibl></witness>
 
                     </listWit>
                     <listBibl>
                         <bibl>
-                            <hi rend="smallcaps" xml:space="preserve">Inventaire </hi> : ADCO
+                            ADCO
                             15 H 1, fol. VII<hi rend="superscript">r</hi> (Papes, GGG)</bibl>
                         <bibl>ADCO 15 H 4, p. (XXIII. 01.03) : « Bulle de Lucius III, scellé d’un
                             sceau de plomb à lacs de soye jaune pendant. Nota : est jointe à cette

@@ -11,15 +11,12 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. Cartulaire 1, fol. 59<hi rend="superscript">v</hi>-60<hi rend="superscript">r</hi> (<hi rend="italic">Estormer</hi>,
+                        <witness n="B">Cartulaire 1, fol. 59<hi rend="superscript">v</hi>-60<hi rend="superscript">r</hi> (<hi rend="italic">Estormer</hi>,
                             41)</witness>
 
                     </listWit>
                     <listBibl>
-                        <bibl>
-                            <hi rend="smallcaps background(lightGray)">Inventaire  </hi>
-                            <hi rend="smallcaps" xml:space="preserve">: </hi>
-                        </bibl>
+                        <bibl/>
                     </listBibl>
                 </sourceDesc>
             </fileDesc>

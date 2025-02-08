@@ -17,33 +17,23 @@
                             l’annotation « <hi rend="italic">Ista littera est in prima magna
                                 carta</hi> ».</witness>
                         <witness n="D">Paris, Bibl. nat. de France, ms. Collection Bourgogne 74,
-                                fol. 175<hi rend="superscript">v</hi>. — Papier. Copie partielle,
-                                <hi rend="background(red)">non collationné</hi>e, d’après A (« <hi rend="italic">ex chartario Fonteneti</hi> ») et renvoi à B ou C
-                            (« meme cartulaire »).</witness>
-                        <witness n="E">Dijon, ADCO, 1 F 216, fol. 51. — Copie d’après Plancher ;
+                            fol. 175<hi rend="superscript">v</hi><desc>Papier. Copie partielle, <hi
+                                rend="background(red)">non collationné</hi>e, d’après A (« <hi
+                                rend="italic">ex chartario Fonteneti</hi> ») et renvoi à B ou C
+                            (« meme cartulaire »).</desc></witness>
+                        <witness n="E">ADCO 1 F 216, fol. 51. <desc>Copie d’après Plancher ;
                             rapproche ce texte des souscriptions du § 34 de la première pancarte
-                            (cf. ibid. fol. 21)</witness>
-                        <witness n="b">
-                            <hi rend="italic background(yellow)">b</hi>
-                            <hi rend="background(yellow)">. Dom Urbain</hi>
-                            <hi rend="smallcaps background(yellow)" xml:space="preserve"> Plancher</hi>
-                            <hi rend="background(yellow)" xml:space="preserve">, </hi>
-                            <hi rend="italic background(yellow)">Histoire générale et particulière
-                                de la Bourgogne</hi>
-                            <hi rend="background(yellow)">, t. I, preuves p. XL, n° LIX.</hi>
-                        </witness>
-                        <witness n="b">
+                            (cf. ibid. fol. 21)</desc></witness>
+                        <witness n="b"><bibl sameAs="#Plancher1739"><biblScope>t. I, preuves p. XL, n° LIX</biblScope></bibl>
+                            </witness>
+                       <!-- <witness n="b">
                             <hi rend="background(red)">A COLLATIONNER</hi>
-                        </witness>
+                        </witness>-->
 
                     </listWit>
                     <listBibl>
-                        <bibl>ADCO 15 H 1, fol.
-                            @<hi rend="superscript" xml:space="preserve">@ </hi>(@@. @)</bibl>
-                        <bibl>ADCO 15 H 2, fol.
-                            @<hi rend="superscript" xml:space="preserve">@ </hi>(@@. @)</bibl>
-                        <bibl>ADCO 15 H @, p. @ (@. @. @).</bibl>
-                    </listBibl>
+                    <bibl/>
+                </listBibl>
                 </sourceDesc>
             </fileDesc>
             <profileDesc>

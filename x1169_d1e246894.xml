@@ -11,13 +11,13 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. Cartulaire 1, fol. 24<hi rend="superscript">r-v</hi> (<hi rend="italic">Abbatia</hi>, 8) ; table : « <hi rend="italic">VIII.
+                        <witness n="B">Cartulaire 1, fol. 24<hi rend="superscript">r-v</hi> (<hi rend="italic">Abbatia</hi>, 8) ; table : « <hi rend="italic">VIII.
                                 Carta Richardi de Corrabo</hi> »</witness>
                         <witness n="C">ADCO 15 H 11* (cart. 202), fol. 71<hi rend="superscript">r-v</hi> (Fain. A) : « <hi rend="italic">Restat sigillum
                                 episcopi</hi> » ; non collationné.</witness>
                         <witness n="E">Dijon, Arch. dép. Côte d’Or, 1 F 423, fol. 26-27. — Papier.
                             Copie par E. Petit d’après B.</witness>
-                        <witness n="a">a. Petit, t. II, p. 265-266, n° 351.</witness>
+                        <witness n="a"><bibl sameAs="#Petit1885"><biblScope>t. II, p. 265-266, n° 351</biblScope></bibl></witness>
 
 
                     </listWit>
@@ -26,8 +26,7 @@
                         <bibl>ADCO 15 H 2, fol. 55<hi rend="superscript">r</hi> (Fain. A)</bibl>
                         <bibl>ADCO 15 H 4, p. 97 (IX. 5. 2) : « sceau qui y étoit
                             autrefois ».</bibl>
-                        <bibl>
-                            <hi rend="smallcaps">Indiqué</hi> : Dijon, Arch. dép. Côte d’Or, 1 F
+                        <bibl>ADCO 1 F
                             423, fol. 40-41.</bibl>
                     </listBibl>
                 </sourceDesc>

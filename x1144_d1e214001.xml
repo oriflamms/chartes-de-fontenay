@@ -11,15 +11,15 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 16<hi rend="superscript">r</hi>-17<hi rend="superscript">r</hi> (Papes, DDD) : « Restat
+                        <witness n="B">ADCO 15 H 13* (cart. 204), fol. 16<hi rend="superscript">r</hi>-17<hi rend="superscript">r</hi> (Papes, DDD) : « Restat
                             sigillum plumbeum. ». </witness>
-                        <witness n="a">a. <bibl sameAs="#Wiederhold1985"><biblScope>t. I, p.
+                        <witness n="a"><bibl sameAs="#Wiederhold1985"><biblScope>t. I, p.
                                     175-177, d’après B</biblScope></bibl></witness>
 
                     </listWit>
                     <listBibl>
                         <bibl>
-                            <hi rend="smallcaps">Inventaire</hi> : ADCO 15 H 1, fol. VI<hi rend="superscript">v</hi> (Papes, DDD)</bibl>
+                            ADCO 15 H 1, fol. VI<hi rend="superscript">v</hi> (Papes, DDD)</bibl>
                     </listBibl>
                 </sourceDesc>
             </fileDesc>

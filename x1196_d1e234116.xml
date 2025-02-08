@@ -11,15 +11,11 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. Copie mutilée dans Cartulaire 1, fol. 53<hi rend="superscript">v</hi>-54<hi rend="superscript">r</hi> (<hi rend="italic">Estormer</hi>, 27)</witness>
+                        <witness n="B">Copie mutilée dans Cartulaire 1, fol. 53<hi rend="superscript">v</hi>-54<hi rend="superscript">r</hi> (<hi rend="italic">Estormer</hi>, 27)</witness>
 
                     </listWit>
                     <listBibl>
-                        <bibl>
-                            <hi rend="smallcaps background(lightGray)">Inventaire  </hi>
-                            <hi rend="smallcaps" xml:space="preserve">: </hi>
-                            <hi rend="smallcaps background(red)">@@@@@@@@@</hi>
-                        </bibl>
+                        <bibl/>
                     </listBibl>
                 </sourceDesc>
             </fileDesc>

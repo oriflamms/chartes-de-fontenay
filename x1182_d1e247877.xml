@@ -11,8 +11,8 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 36<hi rend="superscript">v</hi>-37<hi rend="superscript">r</hi> (Papes, II) : « <hi rend="italic">Restat sigillum plumbeum.</hi> »</witness>
-                        <witness n="a">a. <bibl sameAs="#Wiederhold1985"><biblScope>t. I, p. 10,
+                        <witness n="B">ADCO 15 H 13* (cart. 204), fol. 36<hi rend="superscript">v</hi>-37<hi rend="superscript">r</hi> (Papes, II) : « <hi rend="italic">Restat sigillum plumbeum.</hi> »</witness>
+                        <witness n="a"><bibl sameAs="#Wiederhold1985"><biblScope>t. I, p. 10,
                                     note 1, édition partielle d’après B</biblScope></bibl></witness>
                         <witness n="a">
                             <hi rend="background(red)" xml:space="preserve">autres éditions à trouver </hi>
@@ -24,7 +24,7 @@
                     </listWit>
                     <listBibl>
                         <bibl>
-                            <hi rend="smallcaps" xml:space="preserve">Inventaire </hi> : ADCO
+                            ADCO
                             15 H 1, fol. V<hi rend="superscript">r</hi> (Papes, II) : « Bulle de
                             Lucius troisiesme, l’an neuviesme de son pontificat »</bibl>
                         <bibl>ADCO 15 H 2, fol. 127<hi rend="superscript">r</hi> (Papes, II)</bibl>

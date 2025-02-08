@@ -11,16 +11,16 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. Cartulaire 1, fol. 31<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 18 ; acte précédé de « <hi rend="italic">Privilegium</hi> ») ; table : « Carta de chasamentis domini Rubei
+                        <witness n="B">Cartulaire 1, fol. 31<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 18 ; acte précédé de « <hi rend="italic">Privilegium</hi> ») ; table : « Carta de chasamentis domini Rubei
                             Monte » (titre barré) ; annotation d’une main moderne
                             « 1148 ».</witness>
-                        <witness n="a">a. <bibl sameAs="#Wiederhold1985"><biblScope>t. I, p. 186,
+                        <witness n="a"><bibl sameAs="#Wiederhold1985"><biblScope>t. I, p. 186,
                                     d’après B</biblScope></bibl></witness>
 
                     </listWit>
                     <listBibl>
                         <bibl>
-                            <hi rend="smallcaps">Inventaire</hi> : ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (Papes, <hi rend="background(red)">@</hi>)</bibl>
+                            ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (Papes, <hi rend="background(red)">@</hi>)</bibl>
                         <bibl>ADCO 15 H 4, p. <hi rend="background(red)">@@</hi> (<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>.<hi rend="background(red)">@</hi>).</bibl>
                     </listBibl>
                 </sourceDesc>

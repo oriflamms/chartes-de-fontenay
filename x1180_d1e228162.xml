@@ -13,17 +13,16 @@
                         <witness n="A">Original perdu. — Une bulle de même teneur envoyée aux
                             religieux de Saint-Martin d’Autun, elle aussi perdue (copiée dans le
                             Cartulaire de Saint-Martin d’Autun = ms. Paris, Bibl. nat. de France,
-                            lat. 5422, fol. 1, cf. <bibl sameAs="#Wiederhold1985">Wiederhold
-                                    <biblScope>t. I, p. 215-216</biblScope></bibl></witness>
-                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 38<hi rend="superscript">r-v</hi> (Papes, NN) : « <hi rend="italic">Restat sigillum
+                            lat. 5422, fol. 1, cf. <bibl sameAs="#Wiederhold1985"><biblScope>t. I, p. 215-216</biblScope></bibl></witness>
+                        <witness n="B">ADCO 15 H 13* (cart. 204), fol. 38<hi rend="superscript">r-v</hi> (Papes, NN) : « <hi rend="italic">Restat sigillum
                                 plumbeum.</hi> »</witness>
-                        <witness n="a">a. <bibl sameAs="#Wiederhold1985"><biblScope>t. I,
+                        <witness n="a"><bibl sameAs="#Wiederhold1985"><biblScope>t. I,
                                     p. 214-215, d’après B</biblScope></bibl></witness>
 
                     </listWit>
                     <listBibl>
                         <bibl>
-                            <hi rend="smallcaps" xml:space="preserve">Inventaire </hi> : ADCO
+                            ADCO
                             15 H 1, fol. V<hi rend="superscript">v</hi> (Papes, NN)</bibl>
                         <bibl>ADCO 15 H 4, p. 432 (XXIII. 02. 03) : « en date du 3 janvier 1160 …
                             scellé d’un sceau de plomb à lacs de soye rouge et jaune

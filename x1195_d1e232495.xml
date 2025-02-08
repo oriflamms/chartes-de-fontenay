@@ -10,12 +10,12 @@
                 </publicationStmt>
                 <sourceDesc>
                     <listWit>
-                        <witness n="A">A. Original perdu</witness>
-                        <witness n="B">B. Cartulaire 1, fol. 37<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 39) ; table : « <hi rend="italic">Carta
+                        <witness n="A">Original perdu</witness>
+                        <witness n="B">Cartulaire 1, fol. 37<hi rend="superscript">r</hi> (<hi rend="italic">Abbatia</hi>, 39) ; table : « <hi rend="italic">Carta
                                 Tecelini de Nogent</hi> » (<hi rend="background(yellow)">item ajouté
                                 postérieurement</hi>)</witness>
                         <witness n="C">ADCO 15 H 11* (cart. 202), fol. 97<hi rend="superscript">v</hi> (Fain. OO).</witness>
-                        <witness n="a">a. <bibl sameAs="#Chomton1891"><biblScope>t. II,
+                        <witness n="a"><bibl sameAs="#Chomton1891"><biblScope>t. II,
                                     p. 100</biblScope></bibl></witness>
 
                     </listWit>

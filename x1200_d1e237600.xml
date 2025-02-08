@@ -11,15 +11,14 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. Copie partielle : ADCO 15 H 13* (cart. 204), fol. 28<hi rend="superscript">v</hi>-29<hi rend="superscript">r</hi> (Papes,
+                        <witness n="B">Copie partielle : ADCO 15 H 13* (cart. 204), fol. 28<hi rend="superscript">v</hi>-29<hi rend="superscript">r</hi> (Papes,
                             B) : « <hi rend="italic">Hoc instrumentum sine bulla eadem continet ac
                                 ea quae notata est littera A, ex adverso folii septimi. Restat etiam
                                 sigillum plumbeum.</hi> »</witness>
 
                     </listWit>
                     <listBibl>
-                        <bibl>
-                            <hi rend="smallcaps" xml:space="preserve">Inventaire </hi> : ADCO
+                        <bibl>ADCO
                             15 H 1, fol. III<hi rend="superscript">r</hi> (Papes, B) : « Bulle du
                             pape Innocent, concernant la mesme chose que dessus, avec a permission
                             aux abbés de pouvroir faire touttes les bénédictions et de prendre
@@ -30,9 +29,8 @@
                             priviléges accordés par les papes ses prédécesseurs, ainsi que toutes
                             les donnations faites à l’Eglise de de Fontenet, donnant permission aux
                             abbés de lad. Eglise de prendre gratis le Saint Chrême chez les évêques
-                            les plus voisins, etc. et scellé d’un sceau qui y étoit autrefois. » <hi rend="background(red)">(la perte de la bulle explique l’erreur)</hi>
-                            <hi rend="bold background(red)" xml:space="preserve">[Acte 47] </hi>
-                            <hi rend="background(red)">B.</hi>
+                            les plus voisins, etc. et scellé d’un sceau qui y étoit autrefois. » <note>(la perte de la bulle explique l’erreur)</note>
+                            
                         </bibl>
                     </listBibl>
                 </sourceDesc>

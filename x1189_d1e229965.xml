@@ -11,14 +11,14 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu.</witness>
-                        <witness n="a">a. <bibl sameAs="#Charmasse1880"><biblScope>p. 257, d’après
+                        <witness n="a"><bibl sameAs="#Charmasse1880"><biblScope>p. 257, d’après
                                     A</biblScope></bibl></witness>
                     </listWit>
                     <listBibl>
                         <bibl>ADCO 15 H 1, fol. <hi rend="background(red)">@</hi> (Autun. A)</bibl>
                         <bibl>ADCO 15 H 2, fol. 13<hi rend="superscript">r</hi> (Autun. A)</bibl>
                         <bibl>ADCO 15 H <hi rend="background(red)">3</hi>, p. <hi rend="background(red)">@</hi> (<hi rend="background(red)">@@</hi>).</bibl>
-                        <bibl sameAs="#Bouchard1987">Bouchard<biblScope>p. 185, d’après
+                        <bibl sameAs="#Bouchard1987"><biblScope>p. 185, d’après
                                 Charmasse</biblScope></bibl>
                     </listBibl>
                 </sourceDesc>

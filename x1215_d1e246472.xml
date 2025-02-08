@@ -13,7 +13,7 @@
                         <witness n="A">Original perdu.</witness>
                         <witness n="B">Paris, BnF, ms. Baluze 143, fol. 275<hi rend="superscript">v</hi>
                         </witness>
-                        <witness n="a">a. <bibl sameAs="#Chifflet1660"><biblScope>p. 561-562,
+                        <witness n="a"><bibl sameAs="#Chifflet1660"><biblScope>p. 561-562,
                                     n° 120</biblScope></bibl></witness>
 
                     </listWit>

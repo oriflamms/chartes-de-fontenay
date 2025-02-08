@@ -11,7 +11,7 @@
                 <sourceDesc>
                     <listWit>
                         <witness n="A">Original perdu</witness>
-                        <witness n="B">B. ADCO 15 H 13* (cart. 204), fol. 9<hi rend="superscript">v</hi>-10<hi rend="superscript">r</hi> (Papes, C) : « <hi rend="italic">Restat sigillum plumbeum.</hi> »</witness>
+                        <witness n="B">ADCO 15 H 13* (cart. 204), fol. 9<hi rend="superscript">v</hi>-10<hi rend="superscript">r</hi> (Papes, C) : « <hi rend="italic">Restat sigillum plumbeum.</hi> »</witness>
 
                         <witness n="L">
                             <hi rend="background(red)">L’attribution à Innocent</hi> III faite
@@ -20,7 +20,7 @@
                     </listWit>
                     <listBibl>
                         <bibl>
-                            <hi rend="smallcaps">Inventaire</hi> : <hi rend="background(red)">l’analyse ‘Papes, C’ dans ADCO 15 H 1, fol. III</hi>
+                            <hi rend="background(red)">l’analyse ‘Papes, C’ dans ADCO 15 H 1, fol. III</hi>
                             <hi rend="superscript background(red)">r</hi>
                             <hi rend="background(red)" xml:space="preserve"> ne concerne pas cet acte !</hi>
                         </bibl>
