@@ -92,6 +92,7 @@
                     1125-1136, d’après la présence parmi les témoins de l’évêque de Langres Guillenc
                     [d'Aigremont]</p>
                 </abstract>
+                <textClass></textClass>
             </profileDesc>
         </teiHeader>
         <text>
@@ -212,14 +213,16 @@
                         >Turre</placeName>
                 </persName> cum sua <persName key="stutzmann_himanis#325529"
                     corresp="Hodierne, épouse d'Humbaud de la Tour">uxore Hodierna</persName> et
-                    <persName key="d1e15482" xml:id="d1e142735">Lebaudus de <placeName
-                        key="stutzmann_himanis#324459" corresp="Grignon (Côte-d'Or, Montbard)">
+                    <persName key="stutzmann_himanis#325531" corresp="Lebaud de Grignon">Lebaudus de
+                        <placeName key="stutzmann_himanis#324459"
+                        corresp="Grignon (Côte-d'Or, Montbard)">
                         <app>
                             <lem>Grinione</lem>
                             <rdg wit="#a">Grinnione</rdg>
                         </app>
                     </placeName>
-                </persName> et <persName key="d1e15488" xml:id="d1e142744">
+                </persName> et <persName key="stutzmann_himanis#325533"
+                    corresp="Marie, épouse de Lebaud de Grignon">
                     <app>
                         <lem>ejus uxor</lem>
                         <rdg wit="#a">uxor ejus </rdg>
@@ -260,8 +263,9 @@
                     <lem>dumtaxat</lem>
                     <rdg wit="#b">duntaxat</rdg>
                 </app> exartum quod magis ipsis quam sibi dicebat profuturum. Hujus rei testes sunt
-                    <persName key="notidentified">Rainaudus decanus</persName>, <persName
-                    key="stutzmann_himanis#325539"
+                    <persName key="stutzmann_himanis#325998"
+                    corresp="Renaud, doyen (de Montbard) (fl. 1136)">Rainaudus decanus</persName>,
+                    <persName key="stutzmann_himanis#325539"
                     corresp="Hugues, fils de Hugues de Planay (fl. 1136)">Hugo filius <persName
                         key="stutzmann_himanis#325537"
                         corresp="Hugues de Planay (fl. 1136), père de Hugues">Hugonis de <placeName
@@ -270,8 +274,8 @@
                     </persName>
                 </persName> et <persName key="stutzmann_himanis#325544"
                     corresp="Nariod, nepos de Hugues de Planay (fl. 1136)">Nariodus nepos
-                    ejus</persName>, <persName key="d1e30979" xml:id="d1e142811">Tebertus
-                    prepositus</persName>.<app>
+                    ejus</persName>, <persName key="stutzmann_himanis#325999"
+                    corresp="Tebertus, prévôt (fl. 1136)">Tebertus prepositus</persName>.<app>
                     <lem wit="#C #b">
                         <witDetail wit="#b">preuve LVIII</witDetail>
                         <witEnd/>
@@ -324,7 +328,8 @@
                         >Campinola</placeName>
                 </persName>, <persName key="stutzmann_himanis#325546"
                     corresp="Bernard, seigneur de Montbard (fl. 1136)">Bernardus dominus <placeName
-                        key="notidentified">Montis Barri</placeName>
+                        key="stutzmann_himanis#324487"
+                        >Montis Barri</placeName>
                 </persName>, <persName key="stutzmann_himanis#325551"
                     corresp="André, avunculus de Bernard seigneur de Montbard (fl. 1136)">Andreas
                     avunculus ejus</persName>, <persName key="stutzmann_himanis#325562"
@@ -380,7 +385,8 @@
                         <witDetail wit="#D #a">sub donatione Hugonis dapiferi</witDetail>
                     </rdg>
                 </app>
-                <supplied><persName key="">Hugo dapifer</persName> dedit <gap/>
+                <supplied><persName key="stutzmann_himanis#326000"
+                        corresp="Hugues, sénéchal (fl. 1136)">Hugo dapifer</persName> dedit <gap/>
                 </supplied>Hoc donum factum est apud <placeName key="stutzmann_himanis#324421"
                     xml:id="d1e142952">
                     <foreign>Bussi</foreign>
@@ -625,7 +631,8 @@
                 </persName>, <persName key="stutzmann_himanis#325598"
                     corresp="Hugues de Corabœuf (fl. 1136)">Hugo de <placeName
                         key="stutzmann_himanis#325251" xml:id="d1e143298">Corabodio</placeName>
-                </persName>, <persName key="d1e15907" xml:id="d1e143301">Bartholomeus de <placeName
+                </persName>, <persName key="stutzmann_himanis#325863"
+                    corresp="Barthélemy de Fresnes (fl. 1136)">Bartholomeus de <placeName
                         key="stutzmann_himanis#324455" xml:id="d1e143303">Fraxino</placeName>
                 </persName>, <persName key="stutzmann_himanis#325613"
                     corresp="Robert, major de Touillon (fl. 1136)">Robertus major de <placeName
@@ -770,8 +777,10 @@
                 Unde sunt testes <persName key="stutzmann_himanis#325845"
                     corresp="Josbert, prêtre (fl. 1136)">Josbertus presbiter</persName> et <persName
                     key="stutzmann_himanis#325844" corresp="Pierre, prêtre (fl. 1136)">Petrus
-                    presbiter</persName> et <persName key="d1e16228" xml:id="d1e143535">Galterius
-                    filius <persName key="d1e16234" xml:id="d1e143537">Paredi</persName>
+                    presbiter</persName> et <persName key="stutzmann_himanis#325866"
+                    corresp="Gauthier, fils de Paredus (fl. 1136)">Galterius filius <persName
+                        key="stutzmann_himanis#325865" corresp="Paredus (fl. 1136)"
+                        >Paredi</persName>
                 </persName>.    Hoc etiam donum laudavit <persName key="stutzmann_himanis#325842"
                     corresp="Raoul, cognatus de Foucher de Velbrey (fl. 1136)">Radulphus prefati
                         <persName key="stutzmann_himanis#325652"
@@ -794,95 +803,116 @@
                 <p n="39">
                 <hi rend="red">
                     <num>xxxix</num>.</hi>
-                <persName key="d1e16284" xml:id="d1e143569">Vuillelmus, filius Humbaudi</persName>,
-                et <persName key="d1e16290" xml:id="d1e143572">Osmundus, ejus germanus
+                <persName key="stutzmann_himanis#325869"
+                    corresp="Guillaume, fils de Humbaud (fl. 1136)">Vuillelmus, filius <persName
+                        key="stutzmann_himanis#325868" corresp="Humbaud (fl. ante 1136)"
+                        >Humbaudi</persName></persName>, et <persName key="stutzmann_himanis#325871"
+                    corresp="Osmond, fils de Humbaud (fl. 1136)">Osmundus, ejus germanus
                     frater</persName>, laudaverunt et concesserunt ecclesie sancte Marie de <orgName
                     key="stutzmann_himanis#282689" xml:id="d1e143575">Fonteneto</orgName> quicquid
                 pater eorum et mater dederant eidem ecclesie. Hoc factum est apud <placeName
                     key="stutzmann_himanis#324355" xml:id="d1e143578">Rubeum Montem</placeName> in
                 die sanctorum Innocentium in <placeName key="stutzmann_himanis#325078"
                     xml:id="d1e143581">camera turri adherenti juxta caminatam parvam que in muro
-                    turris erat</placeName>.    Hujus rei testes sunt <persName key="d1e16296"
-                    xml:id="d1e143585">Rainaldus vicecomes</persName>, <persName key="d1e16302"
-                    xml:id="d1e143588">Rainaudus infans</persName>, <persName
+                    turris erat</placeName>.    Hujus rei testes sunt <persName
+                    key="stutzmann_himanis#326001"
+                    corresp="Renaud de Nevers, vicomte de Tonnerre (1148)">Rainaldus
+                    vicecomes</persName>, <persName key="stutzmann_himanis#326004"
+                    corresp="Renaud (Rainaudus infans)">Rainaudus infans</persName>, <persName
                     key="stutzmann_himanis#325598" corresp="Hugues de Corabœuf (fl. 1136)">Hugo de
                         <placeName key="stutzmann_himanis#325251" xml:id="d1e143593"
                         >Corrabodio</placeName>
-                </persName>, <persName key="d1e16314" xml:id="d1e143596">Rainaudus
-                    Caldaria</persName>, <persName key="d1e16321" xml:id="d1e143599">Bartholomeus de
-                        <placeName key="stutzmann_himanis#324455" xml:id="d1e143601"
+                </persName>, <persName key="stutzmann_himanis#326005"
+                    corresp="Rainaudus Caldaria (fl. 1136)">Rainaudus Caldaria</persName>, <persName
+                    key="stutzmann_himanis#325863" corresp="Barthélemy de Fresnes (fl. 1136)"
+                    >Bartholomeus de <placeName key="stutzmann_himanis#324455" xml:id="d1e143601"
                         >Fraxino</placeName>
-                </persName>, <persName key="d1e16327" xml:id="d1e143604">Wido de <placeName
+                </persName>, <persName key="stutzmann_himanis#326006"
+                    corresp="Gui de la Porte,Wido de Porta">Wido de <placeName
                         key="stutzmann_himanis#324985" xml:id="d1e143606">Porta</placeName>
-                </persName>, <persName key="d1e16333" xml:id="d1e143610">Henricus de <placeName
+                </persName>, <persName key="stutzmann_himanis#325874"
+                    corresp="Henri de Montbard (fl. 1136)">Henricus de <placeName
                         key="stutzmann_himanis#324487" xml:id="d1e143612">Monte Barro</placeName>
                 </persName>.</p>
                 <p n="40">
                 <hi rend="red">
                     <num>xl</num>.</hi>
-                <persName key="d1e16339" xml:id="d1e143620">Gislebertus de <placeName
-                        key="stutzmann_himanis#324433" xml:id="d1e143622">
+                <persName key="stutzmann_himanis#326008" corresp="Gilbert de Coulmier (fl. 1136)"
+                    >Gislebertus de <placeName key="stutzmann_himanis#324433" xml:id="d1e143622">
                         <foreign>Columbiers</foreign>
                     </placeName>
-                </persName> et <persName key="d1e16345" xml:id="d1e143626">uxor ejus
+                </persName> et <persName key="stutzmann_himanis#326010"
+                    corresp="Agnes, épouse de Gilbert de Coulmier (fl. 1136)">uxor ejus
                     Agnes</persName> dederunt ecclesie sancte Marie de <orgName
                     key="stutzmann_himanis#282689" xml:id="d1e143629">Fonteneto</orgName> partem
-                suam de terra quam habebant cum <persName key="d1e16351" xml:id="d1e143632">Oberto
-                    Villano</persName> in <placeName key="stutzmann_himanis#325283"
-                    xml:id="d1e143635">altera valle</placeName> in costa ex parte <placeName
-                    key="stutzmann_himanis#324455" xml:id="d1e143639">Fraxini</placeName> et
-                guirpiverunt calumpnias quas habebant in terris quas <persName
-                    key="stutzmann_himanis#325598" corresp="Hugues de Corabœuf (fl. 1136)">Hugo de
-                        <placeName key="stutzmann_himanis#325251" xml:id="d1e143644"
+                suam de terra quam habebant cum <persName key="stutzmann_himanis#325648"
+                    corresp="Obert Villain, miles">Oberto Villano</persName> in <placeName
+                    key="stutzmann_himanis#325283" xml:id="d1e143635">altera valle</placeName> in
+                costa ex parte <placeName key="stutzmann_himanis#324455" xml:id="d1e143639"
+                    >Fraxini</placeName> et guirpiverunt calumpnias quas habebant in terris quas
+                    <persName key="stutzmann_himanis#325598" corresp="Hugues de Corabœuf (fl. 1136)"
+                    >Hugo de <placeName key="stutzmann_himanis#325251" xml:id="d1e143644"
                         >Corrabodio</placeName>
                 </persName> dederat monachis in illa valle et in <placeName
                     key="stutzmann_himanis#325168" xml:id="d1e143647">prato <foreign>Belet</foreign>
-                </placeName>.  Hoc laudavit <persName key="d1e16364" xml:id="d1e143652">Hyldegarius
-                    filius eorum</persName> et <persName key="d1e16370" xml:id="d1e143655">filia
-                    nomine Letuidis</persName>. Testes sunt <persName key="d1e16376"
-                    xml:id="d1e143658">Teobaudus presbiter</persName> et <persName key="d1e16382"
-                    xml:id="d1e143662">Rainaudus de <placeName key="stutzmann_himanis#324433"
-                        xml:id="d1e143664">
+                </placeName>.  Hoc laudavit <persName key="stutzmann_himanis#326012"
+                    corresp="Hildegard, fils de Gilbert de Coulmier et Agnes">Hyldegarius filius
+                    eorum</persName> et <persName key="stutzmann_himanis#326015"
+                    corresp="Letuidis, fille de Gilbert de Coulmier et Agnès (fl. 1136)">filia
+                    nomine Letuidis</persName>. Testes sunt <persName key="stutzmann_himanis#325570"
+                    corresp="Thibaud, prêtre de Fresnes (fl. 1136)">Teobaudus presbiter</persName>
+                et <persName key="stutzmann_himanis#326018" corresp="Renaud de Coulmier">Rainaudus
+                    de <placeName key="stutzmann_himanis#324433" xml:id="d1e143664">
                         <foreign>Columbers</foreign>
                     </placeName>
-                </persName> et <persName key="d1e16388" xml:id="d1e143668">Huldreus de <placeName
+                </persName> et <persName key="stutzmann_himanis#325814"
+                    corresp="Huldreus de Lucenay (fl. 1136)">Huldreus de <placeName
                         key="stutzmann_himanis#324470" xml:id="d1e143670">Lucenaco</placeName>
                 </persName>.    Hoc donum fecit eodem modo de sua parte <persName
                     key="stutzmann_himanis#325648" corresp="Obert Villain, miles">Obertus cognomento
-                    Villanus</persName> et <persName key="d1e16401" xml:id="d1e143676">uxor ejus
-                    nomine vulgari <foreign>Mirelluns</foreign>
-                </persName>, laudante filia eorum <persName key="d1e16407" xml:id="d1e143681"
-                    >Hulduide</persName>. Testes sunt <persName key="d1e16413" xml:id="d1e143684"
-                    >Osmundus de <placeName key="stutzmann_himanis#324468" xml:id="d1e143686"
-                        >Argentolio</placeName>
-                </persName>, <persName key="d1e16419" xml:id="d1e143690">Thomas</persName> et
-                    <persName key="d1e16425" xml:id="d1e143693">Arvinus milites fratres de
-                        <placeName key="stutzmann_himanis#324974" xml:id="d1e143695">
+                    Villanus</persName> et <persName key="stutzmann_himanis#326020"
+                    corresp="Mireille, épouse d'Obert Villain (fl. 1136)">uxor ejus nomine vulgari
+                        <foreign>Mirelluns</foreign>
+                </persName>, laudante filia eorum <persName key="stutzmann_himanis#326022"
+                    corresp="Hulduidis, fille d'Obert Villain et Mireille (fl. 1136)"
+                    >Hulduide</persName>. Testes sunt <persName key="stutzmann_himanis#326025"
+                    corresp="Osmond d'Argenteuil (fl. 1136)">Osmundus de <placeName
+                        key="stutzmann_himanis#324468" xml:id="d1e143686">Argentolio</placeName>
+                </persName>, <persName key="stutzmann_himanis#326031"
+                    corresp="Thomas de Payns, miles (fl. 1136)">Thomas</persName> et <persName
+                    key="stutzmann_himanis#326033" corresp="Arvinus de Payns, miles (fl. 1136)"
+                    >Arvinus milites fratres de <placeName key="stutzmann_himanis#324974"
+                        xml:id="d1e143695">
                         <foreign>Paiens</foreign>
                     </placeName>
-                </persName>, <persName key="d1e16432" xml:id="d1e143699">Symon</persName> et
-                    <persName key="d1e16438" xml:id="d1e143702">Arnulphus de <placeName
-                        key="stutzmann_himanis#324468" xml:id="d1e143704">Argentolio</placeName>
-                </persName>. Pro hac re habuit <persName key="d1e16444" xml:id="d1e143707"
-                    >Gislebertus</persName>
+                </persName>, <persName key="stutzmann_himanis#326029"
+                    corresp="Simon d'Argenteuil (fl. 1136)">Symon</persName> et <persName
+                    key="stutzmann_himanis#326027" corresp="Arnoul d'Argenteuil (fl. 1136)"
+                    >Arnulphus de <placeName key="stutzmann_himanis#324468" xml:id="d1e143704"
+                        >Argentolio</placeName>
+                </persName>. Pro hac re habuit <persName key="stutzmann_himanis#326008"
+                    corresp="Gilbert de Coulmier (fl. 1136)">Gislebertus</persName>
                 <num>xx</num>
-                <hi rend="superscript">ti</hi> solidos et <persName key="d1e16450"
-                    xml:id="d1e143715">Otbertus</persName>
+                <hi rend="superscript">ti</hi> solidos et <persName key="stutzmann_himanis#325648"
+                    corresp="Obert Villain, miles">Otbertus</persName>
                 <num>xx</num>
                 <hi rend="superscript">ti</hi>.</p>
                 <p n="41">
                 <hi rend="red">
                     <num>xli</num>.</hi>
-                <persName key="d1e16456" xml:id="d1e143727">Evrardus de <placeName
-                        key="stutzmann_himanis#325060" xml:id="d1e143729">Villenis</placeName>
-                </persName>, homo <persName key="d1e16462" xml:id="d1e143732">Nariodi de <placeName
+                <persName key="stutzmann_himanis#326037" corresp="Evrard de Villaines (fl. 1136)"
+                    >Evrardus de <placeName key="stutzmann_himanis#325060" xml:id="d1e143729"
+                        >Villenis</placeName>
+                </persName>, homo <persName key="stutzmann_himanis#325517"
+                    corresp="Nariod, miles de Montbard (fl. 1136)">Nariodi de <placeName
                         key="stutzmann_himanis#324487" xml:id="d1e143734">Monte Barro</placeName>
                 </persName>, dedit ecclesie sancte Marie de <orgName key="stutzmann_himanis#282689"
                     xml:id="d1e143737">Fonteneto</orgName> terram in <placeName
                     key="stutzmann_himanis#325283" xml:id="d1e143740">altera valle</placeName> et
                 partem prati et guerpivit quicquid illic calumpniabatur. Testes sunt <persName
-                    key="d1e16469" xml:id="d1e143743">Evrardus major de <placeName
-                        key="stutzmann_himanis#325060" xml:id="d1e143745">Villenis</placeName>
+                    key="stutzmann_himanis#326041" corresp="Evrard, maire de Villaines (fl. 1136)"
+                    >Evrardus major de <placeName key="stutzmann_himanis#325060" xml:id="d1e143745"
+                        >Villenis</placeName>
                 </persName>, <persName key="stutzmann_himanis#325652"
                     corresp="Foucher de Velbrey (fl. 1136)">Fulcherius de <placeName
                         key="stutzmann_himanis#325650"
@@ -892,8 +922,9 @@
                 </persName>, <persName key="stutzmann_himanis#325654"
                     corresp="Martin de Seigny (fl. 1136)">Martinus de <placeName
                         key="stutzmann_himanis#324356" xml:id="d1e143757">Saigniaco</placeName>
-                </persName>. Pro hac habuit <persName key="d1e16487" xml:id="d1e143760"
-                    >Evrardus</persName> qui hoc donum fecit <num>xv</num> solidos.</p>
+                </persName>. Pro hac habuit <persName key="stutzmann_himanis#326037"
+                    corresp="Evrard de Villaines (fl. 1136)">Evrardus</persName> qui hoc donum fecit
+                    <num>xv</num> solidos.</p>
                 <p n="42">
                 <app>
                     <lem>

@@ -44,8 +44,18 @@
                     <date type="documentCreation" when="1142-12-31">1142</date>
                 </creation>
                 <abstract>
-                    <p>[Lettre de] Herbert, abbé de Saint-Seine, à Guillaume, abbé de Fontenay,
-                    portant donation des dîmes à Poiseul et de terres contre une rente.</p>
+                    <p>[Lettre de] <persName key="stutzmann_himanis#326064"
+                        corresp="Herbert, abbé de Saint-Seine (fl. 1142)">Herbert, abbé de <orgName
+                            key="stutzmann_himanis#281211" corresp="abbaye de Saint-Seine (534 -)"
+                            >Saint-Seine</orgName></persName>, à <persName
+                        key="stutzmann_himanis#324659"
+                        corresp="Guillaume I d’Epiry, abbé de Fontenay (1126-1154)">Guillaume, abbé
+                        de <orgName key="stutzmann_himanis#282689"
+                            corresp="abbaye Notre-Dame de Fontenay (1119 -)"
+                        >Fontenay</orgName></persName>, portant donation des dîmes à <placeName
+                        key="stutzmann_himanis#324343"
+                        corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Poiseul</placeName> et
+                    de terres contre une rente.</p>
                 </abstract>
                 </profileDesc>
         </teiHeader>

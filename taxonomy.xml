@@ -1,0 +1,62 @@
+<encodingDesc xmlns="http://www.tei-c.org/ns/1.0" >
+            <classDecl>
+                <!--  -->
+                <taxonomy xml:id="nature_document">
+                    <category xml:id="lettre"><catDesc>Lettre</catDesc></category>
+                    <category xml:id="charte"><catDesc>Charte</catDesc></category>
+                    <category xml:id="notice"><catDesc>Notice</catDesc></category>
+                </taxonomy>
+                <!-- Taxonomie des actions juridiques -->
+                <taxonomy xml:id="action_juridique">
+                    <desc>Classification des types d'actions juridiques.</desc>
+                    <category xml:id="don">
+                        <catDesc>Don</catDesc>
+                        <category xml:id="don_terre"><catDesc>Don - Terre</catDesc></category>
+                        <category xml:id="don_dime"><catDesc>Don - Dîme</catDesc></category>
+                        <category xml:id="don_autres_droits"><catDesc>Don - Autres droits</catDesc></category>
+                    </category>
+                    <category xml:id="vente"><catDesc>Vente</catDesc></category>
+                    <category xml:id="confirmation"><catDesc>Confirmation</catDesc></category>
+                    <category xml:id="compromis_pacification"><catDesc>Pacification</catDesc></category>
+                    <category xml:id="pret"><catDesc>Prêt</catDesc></category>
+                    <category xml:id="exemption"><catDesc>Exemption</catDesc></category>
+                </taxonomy>
+                <taxonomy xml:id="genre">
+                    <category xml:id="male"><catDesc>Homme</catDesc></category>
+                    <category xml:id="female"><catDesc>Femme</catDesc></category>
+                </taxonomy>
+                
+               <taxonomy xml:id="statut">
+                    <desc>Classification des auteurs des actes.</desc>
+                    
+                    <category xml:id="clerge">
+                        <catDesc>Clergé</catDesc>
+                        <category xml:id="eveque"><catDesc>Évêque</catDesc></category>
+                        <category xml:id="archeveque"><catDesc>Archevêque</catDesc></category>
+                        <category xml:id="abbe"><catDesc>Abbé ou abbesse</catDesc></category>
+                        <category xml:id="archipretre"><catDesc>Archiprêtre</catDesc></category>
+                        <category xml:id="doyen_chretiente"><catDesc>Doyen de chrétienté (doyen rural)</catDesc></category>
+                        <category xml:id="doyen_chapitre"><catDesc>Doyen de chapitre</catDesc></category>
+                        <category xml:id="doyen_indetermine"><catDesc>Doyen</catDesc></category>
+                        <category xml:id="archidiacre"><catDesc>Archidiacre</catDesc></category>
+                        <category xml:id="chapitre"><catDesc>Chapitre collégial</catDesc></category>
+                        <category xml:id="vicaire"><catDesc>Vicaire</catDesc></category>
+                    </category>
+                    <category xml:id="noblesse">
+                        <catDesc>Noblesse</catDesc>
+                        <category xml:id="duc"><catDesc>Duc</catDesc></category>
+                        <category xml:id="comte"><catDesc>Comte</catDesc></category>
+                        <category xml:id="noble_laic"><catDesc>Noble laïc</catDesc></category>
+                    </category>
+                    <category xml:id="autres_autorites">
+                        <catDesc>Autres autorités</catDesc>
+                        <category xml:id="maire"><catDesc>Maire</catDesc></category>
+                        <category xml:id="prevot"><catDesc>Prévôt</catDesc></category>
+                        <category xml:id="procureur"><catDesc>Procureur</catDesc></category>
+                    </category>
+                </taxonomy>
+                
+            </classDecl>
+        </encodingDesc>
+            
+         

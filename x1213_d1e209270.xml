@@ -64,26 +64,35 @@
                         <bibl/>
                     </listBibl>
                 </sourceDesc>
+           
             </fileDesc>
+            <xi:include href="taxonomy.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
             <profileDesc>
                 <creation>
-                    <date type="documentCreation" notAfter="1213-12-31">[avant 1214 ?]<note>Servius est attesté comme
+                    <date type="documentCreation" notBefore="1178" notAfter="1213-12-31">[avant 1214 ?]<note>Servius est attesté comme
                             moine à Quincy en 1178 (<ptr target="http://www.cn-telma.fr/chartae-galliae/charte202298/"/>) et
-                            comme prieur en 1180 (<ptr target="http://www.cn-telma.fr/chartae-galliae/charte262147/"/>)<note>Milon, abbé de Quincy, attesté en 1186, cf. Quantin,
-                                Cartulaire de l'Yonne ; J.-M. Canivez, 'BOURAS', in Dictionnaire
+                            comme prieur en 1180 (CEMA 7395, <ptr target="http://www.cn-telma.fr/chartae-galliae/charte262147/"/>). Un Milon est attesté comme abbé de Quincy
+                            en 1186 (cf. CEMA 14176 et CEMA 89190), en 1191 (cf. CEMA 79233), 1192 (cf. CEMA 88920) ; il n'y a pas de nécessité de l'identifier comme celui qui est dit "ancien abbé de Bourras". 
+                            Néanmoins la liste d'abbés de Bouras publiée dans J.-M. Canivez, 'BOURAS', in Dictionnaire
                                 d'histoire et de géographie ecclésiastiques. Paris: Letouzey et Ané,
-                                1938, vol. 10, cols 112-113, in Brepolis Encyclopaedias ) ne connaît
-                                pas de Milon dans la liste des abbés <q>Liste des abbés. — 1.
+                                1938, vol. 10, cols 112-113) ne connaît
+                                pas de Milon <note><q>Liste des abbés. — 1.
                                     Godefroid Ier, 1119-1134. — 2. Pierre Ier, 1146-1152. — 3.
                                     Humbert, 1158. — 4. Rainard, 1162-1164. — 5. Guillaume Ier,
                                     1169-1178. — 6. Godefroid II, 1178. — 7. Gérard, 1184. — 8. Guy
                                     Ier. — 9. Pierre II, 1198. — 10. Guillaume II, 1205-1227. — 11.
                                     Bernard Ier, 1227-1231. — 12. Pierre III, 1238. — 13. Guy II,
                                     1252. — 14. Bernard II, 1269-1278 (le Gallia le confond avec
-                                    l’abbé de Chalivoy déposé). — </q>
-                            </note></note>
+                                    l’abbé de Chalivoy déposé). — </q></note>
+                            </note>
                     </date>
                 </creation>
+                <textClass>
+                    <catRef corresp="#actes_juridiques" target="#compromis"/>
+                    <catRef corresp="#nature_document" target="#charte"/>
+                    <catRef corresp="auteur" target="#abbe #abbe_pontigny"/>
+                    
+                </textClass>
                 <abstract>
                     <p/>
                 </abstract>

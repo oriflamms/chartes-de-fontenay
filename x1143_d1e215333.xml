@@ -91,60 +91,81 @@
         <text>
             <body>
                 <p n="1">
-                    <note> La copie de B est précédée de la table suivante, écrite à l’encre noire
-                        avec initiales rouges, sur deux colonnes : <hi rend="red">Incipiunt capitula
-                            secunde magne cartis</hi>.
-                        <hi rend="smallcaps" xml:space="preserve">i. </hi>Donum Roberti de Sarmasia
-                        et Milonis. — <num>ii.</num> De dono Willermi de Duismo. — <num>iii</num>.
-                        De dono Galonis Flaviniacensis fratris ejus. — <num>iiii</num>. De dono
-                        Humberti Bracet. — <num>v</num>. De dono Hugonis de Valle Abonis. —
-                            <num>vi</num>. De dono Hugonis de Turre. — <num>vii</num>. De dono
-                        Henrici de Liri. — <num>viii</num>. De dono Teobaudi de Salvia. —
-                            <num>ix</num>. De dono Hugonis ducis Burgundie. — <num>x</num>. De dono
-                        Petri Mairels. — <num>xi</num>. De dono Angerberti de Fraxino. —
-                            <num>xii</num>. De dono Garnerii de Sinemuro. — <num>xiii</num>. De dono
-                        Girardi de Eschaloio. — <num>xiiii</num>. De dono Petri de Eschaloio qui
-                        dicebatur Garlandeis. — <num>xv</num>. De dono Hugonis militis de
-                        Merleniaco. — <num>xvi</num>. Carta Teobaudi domni de Grisineto. —
-                            <num>xvii</num>. Carta <hi rend="background(cyan)">C</hi>alonis domini
-                        de Lucenaco. — <num>xviii</num>. Carta Gisleberti de Columberio de alodio
-                        Flaciaci. — <num>xix</num>. Carta Oberti Villani super alodium Flaciaci. —
-                            <num>xx</num>. Carta Girardi de Duismo. — <num>xxi</num>. Carta
-                        supradicti Oberti Villani. — <num>xxii</num>. Carta Gisleberti de Columberio
-                        de ascensia Flaci. — <num>xxiii</num>. Carta Evradi de Villenis. —
-                            <num>xxiv</num>. Carta Galonis filii Nariodi de Monte Barro. —
-                            <num>xxv</num>. Carta ejusdem Nariodi. — <num>xxvi</num>. Carta Haymonis
-                        filii Pontii Gygantis de Marmania. — <num>xxvii</num>. Carta ejusdem. —
-                            <num>xxviii</num>. Carta Beraudi Cornuti. — <num>xxix</num>. Carta
-                        Malvallet de Monte Barro. — <num>xxx</num>. Privilegium Humberti Eduensis
-                        episcopi. — <num>xxxi</num>. Carta Richardi de <hi rend="italic">Espire</hi>. — <num>xxxii</num>. Carta Odonis de Sarneio. —
-                            <num>xxxiii</num>. Carta Fillun de Fanio. — <num>xxxiv</num>. Carta
-                        Lamberti de Fanio. — <num>xxxv</num>. Carta Gisleberti de Marmania de dono
-                        chasamenti Eduensis episcopi. — <num>xxxvi</num>. Carta ejusdem de terra
-                        juxta vadii sancti Hylerii. — <num>xxxvii</num>. Carta Helysabeth uxoris
-                        ejusdem. — <num>xxxviii</num>. Carta Haymonis militis de Marmania. —
-                            <num>xxxix</num>. Carta Bartholomei de Fraxino. — <hi rend="smallcaps">xl</hi>. Carta Gothefridi de Castellione. — <hi rend="smallcaps">xli</hi>. Carta Hugonis de Corrabodio. — <hi rend="smallcaps">xlii</hi>. Carta Oliverii de Frollesio de prato presbiteri. — <hi rend="smallcaps">xliii</hi>. Carta ejusdem de terre Flaciaci. — <hi rend="smallcaps">xliv</hi>. Carta Gisleberti de Tilio. — <hi rend="smallcaps">xlv</hi>. Carta Gothefridi de Saigniaco de prato
-                        Pontii. — <hi rend="smallcaps">xlvi</hi>. Carta Girardi de Castellione de
-                        omnibus que habebat apud Puteolum. — <hi rend="smallcaps">xlvii</hi>.
-                        Privilegium Gothefridi Lingonensis episcopi.</note>
-                    <hi rend="red">
-                        <num>i</num>
-                    </hi>
-                    <supplied>Donum Roberti de Sarmasia et Milonis</supplied>. <persName key="d1e17289" xml:id="d1e146218">Robertus de <placeName key="stutzmann_himanis#325025" xml:id="d1e146220">Sarmasia</placeName>
-                    </persName> et <persName key="d1e17295" xml:id="d1e146223">Milo frater
-                        ejus</persName>, laudante <persName key="d1e17301" xml:id="d1e146226">Ermengarde ejusdem <persName key="d1e17307" xml:id="d1e146228">Roberti</persName> uxore</persName>, dederunt ecclesie sancte Marie de
-                        <orgName key="stutzmann_himanis#282689" xml:id="d1e146232">Fonteneto</orgName>
-                    quicquid habebant apud <placeName key="stutzmann_himanis#324343" xml:id="d1e146236">Puteolum Francum</placeName> et nichil inibi retinuerunt. Hujus doni testes
-                    sunt <persName key="d1e17313" xml:id="d1e146239">Odo miles de <placeName key="stutzmann_himanis#324452" xml:id="d1e146241">Fontanis</placeName>, sororius
-                        predicti Roberti</persName>, <persName key="d1e17320" xml:id="d1e146245">Robertus major Tullionis</persName> et de eadem villa <persName key="d1e17326" xml:id="d1e146248">Arbertus</persName>, <persName key="d1e17332" xml:id="d1e146251">Petrus</persName>, <persName key="d1e17338" xml:id="d1e146254">Rainardus</persName>, <persName key="d1e17344" xml:id="d1e146258">Tecelinus de <placeName key="stutzmann_himanis#324452" xml:id="d1e146260">Fontanis</placeName>
-                    </persName>, <persName key="d1e17350" xml:id="d1e146263">Rainardus anglicus
-                        scriptor</persName>, <persName key="d1e17357" xml:id="d1e146266">Jocelinus</persName>, <persName key="d1e17363" xml:id="d1e146269">Seguinus</persName>. Actum est hoc <placeName key="stutzmann_himanis#324453" xml:id="d1e146272">ante portam Fonteneti</placeName> in manu <persName key="d1e17369" xml:id="d1e146275">abbatis Willermi</persName>. Habuit de
-                    beneficio predicte ecclesie jamdictus <persName key="d1e17375" xml:id="d1e146279">Robertus</persName>
-                    <num>viii</num>
-                    <hi rend="superscript">o</hi> libras proviniensis monete et <persName key="d1e17381" xml:id="d1e146286">Milo</persName> frater ejus
-                        <num>iiii</num>
-                    <hi rend="superscript">or</hi> libras. Magna quippe ecclesie dederant ideoque
-                    justum fuit etiam in hoc seculo aliquid consolationis accipere. </p>
+                <note> La copie de B est précédée de la table suivante, écrite à l’encre noire avec
+                    initiales rouges, sur deux colonnes : <hi rend="red">Incipiunt capitula secunde
+                        magne cartis</hi>. <hi rend="smallcaps" xml:space="preserve">i. </hi>Donum
+                    Roberti de Sarmasia et Milonis. — <num>ii.</num> De dono Willermi de Duismo. —
+                        <num>iii</num>. De dono Galonis Flaviniacensis fratris ejus. —
+                        <num>iiii</num>. De dono Humberti Bracet. — <num>v</num>. De dono Hugonis de
+                    Valle Abonis. — <num>vi</num>. De dono Hugonis de Turre. — <num>vii</num>. De
+                    dono Henrici de Liri. — <num>viii</num>. De dono Teobaudi de Salvia. —
+                        <num>ix</num>. De dono Hugonis ducis Burgundie. — <num>x</num>. De dono
+                    Petri Mairels. — <num>xi</num>. De dono Angerberti de Fraxino. — <num>xii</num>.
+                    De dono Garnerii de Sinemuro. — <num>xiii</num>. De dono Girardi de Eschaloio. —
+                        <num>xiiii</num>. De dono Petri de Eschaloio qui dicebatur Garlandeis. —
+                        <num>xv</num>. De dono Hugonis militis de Merleniaco. — <num>xvi</num>.
+                    Carta Teobaudi domni de Grisineto. — <num>xvii</num>. Carta <hi
+                        rend="background(cyan)">C</hi>alonis domini de Lucenaco. — <num>xviii</num>.
+                    Carta Gisleberti de Columberio de alodio Flaciaci. — <num>xix</num>. Carta
+                    Oberti Villani super alodium Flaciaci. — <num>xx</num>. Carta Girardi de Duismo.
+                    — <num>xxi</num>. Carta supradicti Oberti Villani. — <num>xxii</num>. Carta
+                    Gisleberti de Columberio de ascensia Flaci. — <num>xxiii</num>. Carta Evradi de
+                    Villenis. — <num>xxiv</num>. Carta Galonis filii Nariodi de Monte Barro. —
+                        <num>xxv</num>. Carta ejusdem Nariodi. — <num>xxvi</num>. Carta Haymonis
+                    filii Pontii Gygantis de Marmania. — <num>xxvii</num>. Carta ejusdem. —
+                        <num>xxviii</num>. Carta Beraudi Cornuti. — <num>xxix</num>. Carta Malvallet
+                    de Monte Barro. — <num>xxx</num>. Privilegium Humberti Eduensis episcopi. —
+                        <num>xxxi</num>. Carta Richardi de <hi rend="italic">Espire</hi>. —
+                        <num>xxxii</num>. Carta Odonis de Sarneio. — <num>xxxiii</num>. Carta Fillun
+                    de Fanio. — <num>xxxiv</num>. Carta Lamberti de Fanio. — <num>xxxv</num>. Carta
+                    Gisleberti de Marmania de dono chasamenti Eduensis episcopi. — <num>xxxvi</num>.
+                    Carta ejusdem de terra juxta vadii sancti Hylerii. — <num>xxxvii</num>. Carta
+                    Helysabeth uxoris ejusdem. — <num>xxxviii</num>. Carta Haymonis militis de
+                    Marmania. — <num>xxxix</num>. Carta Bartholomei de Fraxino. — <hi
+                        rend="smallcaps">xl</hi>. Carta Gothefridi de Castellione. — <hi
+                        rend="smallcaps">xli</hi>. Carta Hugonis de Corrabodio. — <hi
+                        rend="smallcaps">xlii</hi>. Carta Oliverii de Frollesio de prato presbiteri.
+                    — <hi rend="smallcaps">xliii</hi>. Carta ejusdem de terre Flaciaci. — <hi
+                        rend="smallcaps">xliv</hi>. Carta Gisleberti de Tilio. — <hi
+                        rend="smallcaps">xlv</hi>. Carta Gothefridi de Saigniaco de prato Pontii. —
+                        <hi rend="smallcaps">xlvi</hi>. Carta Girardi de Castellione de omnibus que
+                    habebat apud Puteolum. — <hi rend="smallcaps">xlvii</hi>. Privilegium Gothefridi
+                    Lingonensis episcopi.</note>
+                <hi rend="red">
+                    <num>i</num>
+                </hi>
+                <supplied>Donum Roberti de Sarmasia et Milonis</supplied>. <persName
+                    key="notidentified">Robertus de <placeName key="stutzmann_himanis#325025"
+                        xml:id="d1e146220">Sarmasia</placeName>
+                </persName> et <persName key="d1e17295" xml:id="d1e146223">Milo frater
+                    ejus</persName>, laudante <persName key="d1e17301" xml:id="d1e146226">Ermengarde
+                    ejusdem <persName key="d1e17307" xml:id="d1e146228">Roberti</persName>
+                    uxore</persName>, dederunt ecclesie sancte Marie de <orgName
+                    key="stutzmann_himanis#282689" xml:id="d1e146232">Fonteneto</orgName> quicquid
+                habebant apud <placeName key="stutzmann_himanis#324343" xml:id="d1e146236">Puteolum
+                    Francum</placeName> et nichil inibi retinuerunt. Hujus doni testes sunt
+                    <persName key="d1e17313" xml:id="d1e146239">Odo miles de <placeName
+                        key="stutzmann_himanis#324452" xml:id="d1e146241">Fontanis</placeName>,
+                    sororius predicti Roberti</persName>, <persName key="d1e17320"
+                    xml:id="d1e146245">Robertus major Tullionis</persName> et de eadem villa
+                    <persName key="d1e17326" xml:id="d1e146248">Arbertus</persName>, <persName
+                    key="d1e17332" xml:id="d1e146251">Petrus</persName>, <persName key="d1e17338"
+                    xml:id="d1e146254">Rainardus</persName>, <persName key="d1e17344"
+                    xml:id="d1e146258">Tecelinus de <placeName key="stutzmann_himanis#324452"
+                        xml:id="d1e146260">Fontanis</placeName>
+                </persName>, <persName key="d1e17350" xml:id="d1e146263">Rainardus anglicus
+                    scriptor</persName>, <persName key="d1e17357" xml:id="d1e146266"
+                    >Jocelinus</persName>, <persName key="d1e17363" xml:id="d1e146269"
+                    >Seguinus</persName>. Actum est hoc <placeName key="stutzmann_himanis#324453"
+                    xml:id="d1e146272">ante portam Fonteneti</placeName> in manu <persName
+                    key="d1e17369" xml:id="d1e146275">abbatis Willermi</persName>. Habuit de
+                beneficio predicte ecclesie jamdictus <persName key="d1e17375" xml:id="d1e146279"
+                    >Robertus</persName>
+                <num>viii</num>
+                <hi rend="superscript">o</hi> libras proviniensis monete et <persName key="d1e17381"
+                    xml:id="d1e146286">Milo</persName> frater ejus <num>iiii</num>
+                <hi rend="superscript">or</hi> libras. Magna quippe ecclesie dederant ideoque justum
+                fuit etiam in hoc seculo aliquid consolationis accipere. </p>
                 <p n="2">
                     <hi rend="red">
                         <num>ii</num>
