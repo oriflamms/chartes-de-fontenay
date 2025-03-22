@@ -102,7 +102,8 @@
                     De dono Garnerii de Sinemuro. — <num>xiii</num>. De dono Girardi de Eschaloio. —
                         <num>xiiii</num>. De dono Petri de Eschaloio qui dicebatur Garlandeis. —
                         <num>xv</num>. De dono Hugonis militis de Merleniaco. — <num>xvi</num>.
-                    Carta Teobaudi domni de Grisineto. — <num>xvii</num>. Carta <hi rend="background(cyan)">C</hi>alonis domini de Lucenaco. — <num>xviii</num>.
+                    Carta Teobaudi domni de Grisineto. — <num>xvii</num>. Carta <hi
+                        rend="background(cyan)">C</hi>alonis domini de Lucenaco. — <num>xviii</num>.
                     Carta Gisleberti de Columberio de alodio Flaciaci. — <num>xix</num>. Carta
                     Oberti Villani super alodium Flaciaci. — <num>xx</num>. Carta Girardi de Duismo.
                     — <num>xxi</num>. Carta supradicti Oberti Villani. — <num>xxii</num>. Carta
@@ -118,77 +119,170 @@
                     Gisleberti de Marmania de dono chasamenti Eduensis episcopi. — <num>xxxvi</num>.
                     Carta ejusdem de terra juxta vadii sancti Hylerii. — <num>xxxvii</num>. Carta
                     Helysabeth uxoris ejusdem. — <num>xxxviii</num>. Carta Haymonis militis de
-                    Marmania. — <num>xxxix</num>. Carta Bartholomei de Fraxino. — <hi rend="smallcaps">xl</hi>. Carta Gothefridi de Castellione. — <hi rend="smallcaps">xli</hi>. Carta Hugonis de Corrabodio. — <hi rend="smallcaps">xlii</hi>. Carta Oliverii de Frollesio de prato presbiteri.
-                    — <hi rend="smallcaps">xliii</hi>. Carta ejusdem de terre Flaciaci. — <hi rend="smallcaps">xliv</hi>. Carta Gisleberti de Tilio. — <hi rend="smallcaps">xlv</hi>. Carta Gothefridi de Saigniaco de prato Pontii. —
+                    Marmania. — <num>xxxix</num>. Carta Bartholomei de Fraxino. — <hi
+                        rend="smallcaps">xl</hi>. Carta Gothefridi de Castellione. — <hi
+                        rend="smallcaps">xli</hi>. Carta Hugonis de Corrabodio. — <hi
+                        rend="smallcaps">xlii</hi>. Carta Oliverii de Frollesio de prato presbiteri.
+                    — <hi rend="smallcaps">xliii</hi>. Carta ejusdem de terre Flaciaci. — <hi
+                        rend="smallcaps">xliv</hi>. Carta Gisleberti de Tilio. — <hi
+                        rend="smallcaps">xlv</hi>. Carta Gothefridi de Saigniaco de prato Pontii. —
                         <hi rend="smallcaps">xlvi</hi>. Carta Girardi de Castellione de omnibus que
                     habebat apud Puteolum. — <hi rend="smallcaps">xlvii</hi>. Privilegium Gothefridi
                     Lingonensis episcopi.</note>
                 <hi rend="red">
                     <num>i</num>
                 </hi>
-                <supplied>Donum Roberti de Sarmasia et Milonis</supplied>. <persName key="stutzmann_himanis#326066" corresp="Robert de Salmaise (fl. 1143)">Robertus
-                    de <placeName key="stutzmann_himanis#325025" xml:id="d1e146220">Sarmasia</placeName>
-                </persName> et <persName key="stutzmann_himanis#326068" corresp="Milon, frère de Robert de Salmaise (fl. 1143)">Milo frater
-                    ejus</persName>, laudante <persName key="stutzmann_himanis#326070" corresp="Ermengarde, épouse de Robert de Salmaise (fl. 1143)">Ermengarde ejusdem
-                        <persName key="stutzmann_himanis#326066" corresp="Robert de Salmaise (fl. 1143)">Roberti</persName> uxore</persName>,
-                dederunt ecclesie sancte Marie de <orgName key="stutzmann_himanis#282689" xml:id="d1e146232" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> quicquid habebant apud <placeName key="stutzmann_himanis#324343" xml:id="d1e146236" corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteolum Francum</placeName>
-                et nichil inibi retinuerunt. Hujus doni testes sunt <persName key="d1e17313" xml:id="d1e146239">Odo miles de <placeName key="stutzmann_himanis#324452" xml:id="d1e146241" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanis</placeName>, sororius predicti
-                    Roberti</persName>, <persName key="d1e17320" xml:id="d1e146245">Robertus major
-                    Tullionis</persName> et de eadem villa <persName key="d1e17326" xml:id="d1e146248">Arbertus</persName>, <persName key="d1e17332" xml:id="d1e146251">Petrus</persName>, <persName key="d1e17338" xml:id="d1e146254">Rainardus</persName>, <persName key="d1e17344" xml:id="d1e146258">Tecelinus de <placeName key="stutzmann_himanis#324452" xml:id="d1e146260" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanis</placeName>
-                </persName>, <persName key="d1e17350" xml:id="d1e146263">Rainardus anglicus
-                    scriptor</persName>, <persName key="d1e17357" xml:id="d1e146266">Jocelinus</persName>, <persName key="d1e17363" xml:id="d1e146269">Seguinus</persName>. Actum est hoc <placeName key="stutzmann_himanis#324453" xml:id="d1e146272" corresp="Fontenay (Côte-d'Or, Montbard)">ante portam Fonteneti</placeName> in manu <persName key="stutzmann_himanis#324659" corresp="Guillaume I d’Epiry, abbé de Fontenay (1126-1154)">abbatis
-                    Willermi</persName>. Habuit de beneficio predicte ecclesie jamdictus <persName key="stutzmann_himanis#326066" corresp="Robert de Salmaise (fl. 1143)">Robertus</persName>
+                <supplied>Donum Roberti de Sarmasia et Milonis</supplied>. <persName
+                    key="stutzmann_himanis#326066" corresp="Robert de Salmaise (fl. 1143)">Robertus
+                    de <placeName key="stutzmann_himanis#325025" xml:id="d1e146220"
+                        >Sarmasia</placeName>
+                </persName> et <persName key="stutzmann_himanis#326068"
+                    corresp="Milon, frère de Robert de Salmaise (fl. 1143)">Milo frater
+                    ejus</persName>, laudante <persName key="stutzmann_himanis#326070"
+                    corresp="Ermengarde, épouse de Robert de Salmaise (fl. 1143)">Ermengarde ejusdem
+                        <persName key="stutzmann_himanis#326066"
+                        corresp="Robert de Salmaise (fl. 1143)">Roberti</persName> uxore</persName>,
+                dederunt ecclesie sancte Marie de <orgName key="stutzmann_himanis#282689"
+                    xml:id="d1e146232" corresp="abbaye Notre-Dame de Fontenay (1119 -)"
+                    >Fonteneto</orgName> quicquid habebant apud <placeName
+                    key="stutzmann_himanis#324343" xml:id="d1e146236"
+                    corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteolum
+                    Francum</placeName> et nichil inibi retinuerunt. Hujus doni testes sunt
+                    <persName key="stutzmann_himanis#325688" corresp="Eudes de Fontaines (fl. 1136)"
+                    >Odo miles de <placeName key="stutzmann_himanis#324452" xml:id="d1e146241"
+                        corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)"
+                        >Fontanis</placeName>, <roleName>sororius predicti <persName
+                            key="stutzmann_himanis#326066" corresp="Robert de Salmaise (fl. 1143)"
+                            >Roberti</persName></roleName></persName>, <persName
+                    key="stutzmann_himanis#325613" corresp="Robert, major de Touillon (fl. 1136)"
+                    >Robertus major Tullionis</persName> et de eadem villa <persName
+                    key="stutzmann_himanis#327613"
+                    corresp="Arbertus, habitant de Touillon (fl. ante 1143)">Arbertus</persName>,
+                    <persName key="stutzmann_himanis#327615"
+                    corresp="Pierre, habitant de Touillon (fl. ante 1143)">Petrus</persName>,
+                    <persName key="stutzmann_himanis#327617"
+                    corresp="Renard, habitant de Touillon (fl. ante 1143)">Rainardus</persName>,
+                    <persName key="stutzmann_himanis#327610"
+                    corresp="Tecelin de Fontaines (fl. 1143)">Tecelinus de <placeName
+                        key="stutzmann_himanis#324452" xml:id="d1e146260"
+                        corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)"
+                        >Fontanis</placeName>
+                </persName>, <persName key="stutzmann_himanis#327619"
+                    corresp="Renard, scribe anglais (fl. ante 1143)">Rainardus anglicus
+                    scriptor</persName>, <persName key="stutzmann_himanis#327621"
+                    corresp="Jocelin, habitant de Touillon (?) (fl. ante 1143)"
+                >Jocelinus</persName>, <persName key="stutzmann_himanis#325825"
+                    corresp="Seguin de Touillon (fl. 1136)">Seguinus</persName>. Actum est hoc
+                    <placeName key="stutzmann_himanis#324453" xml:id="d1e146272"
+                    corresp="Fontenay (Côte-d'Or, Montbard)">ante portam Fonteneti</placeName> in
+                manu <persName key="stutzmann_himanis#324659"
+                    corresp="Guillaume I d’Epiry, abbé de Fontenay (1126-1154)">abbatis
+                    Willermi</persName>. Habuit de beneficio predicte ecclesie jamdictus <persName
+                    key="stutzmann_himanis#326066" corresp="Robert de Salmaise (fl. 1143)"
+                    >Robertus</persName>
                 <num>viii</num>
-                <hi rend="superscript">o</hi> libras proviniensis monete et <persName key="stutzmann_himanis#326068" corresp="Milon, frère de Robert de Salmaise (fl. 1143)">Milo</persName> frater
+                <hi rend="superscript">o</hi> libras proviniensis monete et <persName
+                    key="stutzmann_himanis#326068"
+                    corresp="Milon, frère de Robert de Salmaise (fl. 1143)">Milo</persName> frater
                 ejus <num>iiii</num>
                 <hi rend="superscript">or</hi> libras. Magna quippe ecclesie dederant ideoque justum
                 fuit etiam in hoc seculo aliquid consolationis accipere. </p>
                 <p n="2">
-                    <hi rend="red">
-                        <num>ii</num>
-                    </hi>. <supplied>De dono Willermi de Duismo</supplied>
-                    <persName key="d1e17387" xml:id="d1e146301">Villermus de <placeName key="stutzmann_himanis#324442" xml:id="d1e146303" corresp="Duesme (Côte-d'Or, Châtillon-sur-Seine)">Duismo</placeName>
-                    </persName>, <add place="above">laudante</add>
-                    <persName key="d1e17394" xml:id="d1e146308">Aganone fratre suo</persName> et
-                        <persName key="d1e17400" xml:id="d1e146311">Rainerio nepote suo</persName>
-                    dedit in elemosinam ecclesie de <orgName key="stutzmann_himanis#282689" xml:id="d1e146314" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> siquid proprium habebat apud <placeName key="stutzmann_himanis#324343" xml:id="d1e146318" corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteolum Francum</placeName> et
-                    quicquid ab eo inibi a quolibet tenebatur si adquirere possent similiter dedit
-                    et concessit. Hujus rei testes sunt <persName key="d1e17406" xml:id="d1e146321">Josbertus frater supradicti Willermi</persName>, <persName key="d1e17412" xml:id="d1e146324">Haimo martolius</persName>, <persName key="d1e17418" xml:id="d1e146327">Ascoldus de <placeName key="stutzmann_himanis#325187" xml:id="d1e146329" corresp="Castello">Castello</placeName>
-                    </persName>, <persName key="d1e17424" xml:id="d1e146332">Henricus
-                        Ordeum</persName>, <persName key="d1e17431" xml:id="d1e146335">Girardus
-                        parvus</persName>, <persName key="d1e17437" xml:id="d1e146339">Vibertus
-                        filius <persName key="d1e17443" xml:id="d1e146341">Radulphi
-                            Barbati</persName>
-                    </persName>.</p>
+                <hi rend="red">
+                    <num>ii</num>
+                </hi>. <supplied>De dono Willermi de Duismo</supplied>
+                <persName key="stutzmann_himanis#327605" corresp="Guillaume de Duesme (fl. 1136)"
+                    >Villermus de <placeName key="stutzmann_himanis#324442" xml:id="d1e146303"
+                        corresp="Duesme (Côte-d'Or, Châtillon-sur-Seine)">Duismo</placeName>
+                </persName>, <add place="above">laudante</add>
+                <persName key="stutzmann_himanis#327623"
+                    corresp="Aimon, frère de Guillaume de Duesme (fl. ante 1143)">Aganone fratre
+                    suo</persName> et <persName key="stutzmann_himanis#327625"
+                    corresp="Renier, nepos de Guillaume de Duesme (fl. ante 1143)">Rainerio nepote
+                    suo</persName> dedit in elemosinam ecclesie de <orgName
+                    key="stutzmann_himanis#282689" xml:id="d1e146314"
+                    corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> siquid
+                proprium habebat apud <placeName key="stutzmann_himanis#324343" xml:id="d1e146318"
+                    corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteolum
+                    Francum</placeName> et quicquid ab eo inibi a quolibet tenebatur si adquirere
+                possent similiter dedit et concessit. Hujus rei testes sunt <persName
+                    key="stutzmann_himanis#327627"
+                    corresp="Josbert, frère de Guillaume de Duesme (fl. ante 1143)">Josbertus frater
+                    supradicti Willermi</persName>, <persName key="stutzmann_himanis#327629"
+                    corresp="Aimon Martolius (fl. ante 1143)">Haimo martolius</persName>, <persName
+                    key="stutzmann_himanis#327630" xml:id="d1e146327"
+                    corresp="Ascoldus de Castello (fl. ante 1143)">Ascoldus de <placeName
+                        key="stutzmann_himanis#325187" xml:id="d1e146329" corresp="Castello"
+                        >Castello</placeName>
+                </persName>, <persName key="stutzmann_himanis#327631" xml:id="d1e146332"
+                    corresp="Henri Ordeum (fl. 1143)">Henricus Ordeum</persName>, <persName
+                    key="stutzmann_himanis#327632" xml:id="d1e146335"
+                    corresp="Gerard Parvus (fl. 1143)">Girardus parvus</persName>, <persName
+                    key="stutzmann_himanis#327633" xml:id="d1e146339"
+                    corresp="Gibert, fils de Raoul Barbatus (fl. 1143)">Vibertus filius <persName
+                        key="stutzmann_himanis#327634" xml:id="d1e146341"
+                        corresp="Raoul Barbatus (fl. ante 1143)">Radulphi Barbati</persName>
+                </persName>.</p>
                 <p n="3">
                 <hi rend="red">
                     <num>iii</num>
                 </hi>.<supplied>De dono Galonis Flaviniacensis fratris ejus</supplied>
-                <persName key="d1e17449" xml:id="d1e146351">Galo <placeName key="stutzmann_himanis#322865" xml:id="d1e146353" corresp="Flavigny-sur-Ozerain (Côte-d'Or, Venarey,Montbard)">Flaviniacensis</placeName>
+                <persName key="stutzmann_himanis#327636" xml:id="d1e146351"
+                    corresp="Galon de Flavigny (fl. 1143)">Galo <placeName
+                        key="stutzmann_himanis#322865" xml:id="d1e146353"
+                        corresp="Flavigny-sur-Ozerain (Côte-d'Or, Venarey,Montbard)"
+                        >Flaviniacensis</placeName>
                 </persName> et <persName key="d1e17455" xml:id="d1e146356">uxor ejus
-                    Aalidis</persName>, laudante <persName key="d1e17461" xml:id="d1e146359">Haymone</persName> filio eorum, dederunt ecclesie sancte Marie de <orgName key="stutzmann_himanis#282689" xml:id="d1e146362" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> quicquid
-                habebant apud <placeName key="stutzmann_himanis#324343" xml:id="d1e146366" corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteolum
-                    Francum</placeName>.    Hujus rei testes sunt <persName key="d1e17468" xml:id="d1e146369">Humbertus de <placeName key="stutzmann_himanis#324380" xml:id="d1e146371" corresp="Villon (Yonne, Tonnerrois)">
+                    Aalidis</persName>, laudante <persName key="d1e17461" xml:id="d1e146359"
+                    >Haymone</persName> filio eorum, dederunt ecclesie sancte Marie de <orgName
+                    key="stutzmann_himanis#282689" xml:id="d1e146362"
+                    corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> quicquid
+                habebant apud <placeName key="stutzmann_himanis#324343" xml:id="d1e146366"
+                    corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteolum
+                    Francum</placeName>.    Hujus rei testes sunt <persName key="d1e17468"
+                    xml:id="d1e146369">Humbertus de <placeName key="stutzmann_himanis#324380"
+                        xml:id="d1e146371" corresp="Villon (Yonne, Tonnerrois)">
                         <sic>Vulle</sic>
                     </placeName>
                 </persName>, <persName key="d1e17474" xml:id="d1e146375">Willermus mala
                     pars</persName>, <persName key="d1e17480" xml:id="d1e146378">Rolandus de
-                        <placeName key="stutzmann_himanis#323218" xml:id="d1e146380" corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frolesio</placeName>
-                </persName>, <persName key="d1e17486" xml:id="d1e146383">Petrus de <placeName key="stutzmann_himanis#324457" xml:id="d1e146385" corresp="Darbois (Côte-d'Or, Châtillon-sur-Seine)">
+                        <placeName key="stutzmann_himanis#323218" xml:id="d1e146380"
+                        corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frolesio</placeName>
+                </persName>, <persName key="d1e17486" xml:id="d1e146383">Petrus de <placeName
+                        key="stutzmann_himanis#324457" xml:id="d1e146385"
+                        corresp="Darbois (Côte-d'Or, Châtillon-sur-Seine)">
                         <foreign>Arbois</foreign>
                     </placeName>
-                </persName>, <persName key="stutzmann_himanis#326058" corresp="Arnaud, doyen du chapitre de Saulieu (fl. 1142)">Arnoldus
-                    archipresbiter postea <placeName key="stutzmann_himanis#324366" xml:id="d1e146391" corresp="Saulieu (Côte-d'Or, Semur-en-Auxois)">Sedeloci</placeName> decanus</persName>, <persName key="notidentified">Wido presbiter</persName>.    Habuit tunc temporis hujus
-                doni occasione predictus <persName key="d1e17505" xml:id="d1e146399">Galo</persName>
-                cum conjuge sua quadraginta solidos de beneficio <orgName key="stutzmann_himanis#282689" xml:id="d1e146402" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>.    Alia
-                quoque <persName key="d1e17511" xml:id="d1e146405">soror predictorum <persName key="stutzmann_himanis#326068" corresp="Milon, frère de Robert de Salmaise (fl. 1143)">Milonis</persName>
-                    et <persName key="stutzmann_himanis#326066" corresp="Robert de Salmaise (fl. 1143)">Roberti</persName>, uxor scilicet
-                        <persName key="d1e17529" xml:id="d1e146413">Hugonis de <placeName key="stutzmann_himanis#324371" xml:id="d1e146415" corresp="Turcey (Côte-d'Or, Fontaine-lès-Dijon)">Turciaco</placeName>
+                </persName>, <persName key="stutzmann_himanis#326058"
+                    corresp="Arnaud, doyen du chapitre de Saulieu (fl. 1142)">Arnoldus
+                    archipresbiter postea <placeName key="stutzmann_himanis#324366"
+                        xml:id="d1e146391" corresp="Saulieu (Côte-d'Or, Semur-en-Auxois)"
+                        >Sedeloci</placeName> decanus</persName>, <persName key="notidentified">Wido
+                    presbiter</persName>.    Habuit tunc temporis hujus doni occasione predictus
+                    <persName key="d1e17505" xml:id="d1e146399">Galo</persName> cum conjuge sua
+                quadraginta solidos de beneficio <orgName key="stutzmann_himanis#282689"
+                    xml:id="d1e146402" corresp="abbaye Notre-Dame de Fontenay (1119 -)"
+                    >Fonteneti</orgName>.    Alia quoque <persName key="d1e17511" xml:id="d1e146405"
+                    >soror predictorum <persName key="stutzmann_himanis#326068"
+                        corresp="Milon, frère de Robert de Salmaise (fl. 1143)">Milonis</persName>
+                    et <persName key="stutzmann_himanis#326066"
+                        corresp="Robert de Salmaise (fl. 1143)">Roberti</persName>, uxor scilicet
+                        <persName key="d1e17529" xml:id="d1e146413">Hugonis de <placeName
+                            key="stutzmann_himanis#324371" xml:id="d1e146415"
+                            corresp="Turcey (Côte-d'Or, Fontaine-lès-Dijon)">Turciaco</placeName>
                     </persName>
-                </persName> dedit ecclesie sancte Marie de <orgName key="stutzmann_himanis#282689" xml:id="d1e146418" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName>, laudante eodem viro suo, quicquid
-                habebat apud <placeName key="stutzmann_himanis#324343" xml:id="d1e146421" corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteolum
-                    Francum</placeName>.    Testes sunt <persName key="d1e17535" xml:id="d1e146425">Gualo ejusdem domine sororius</persName> et predictus <persName key="d1e17542" xml:id="d1e146428">Milo frater ejus</persName> et <persName key="d1e17548" xml:id="d1e146431">Robertus tunc domine illius bubulcus</persName>. Habuit et
-                hec cum viro suo pro hoc dono de beneficio <orgName key="stutzmann_himanis#282689" xml:id="d1e146434" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                </persName> dedit ecclesie sancte Marie de <orgName key="stutzmann_himanis#282689"
+                    xml:id="d1e146418" corresp="abbaye Notre-Dame de Fontenay (1119 -)"
+                    >Fonteneto</orgName>, laudante eodem viro suo, quicquid habebat apud <placeName
+                    key="stutzmann_himanis#324343" xml:id="d1e146421"
+                    corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteolum
+                    Francum</placeName>.    Testes sunt <persName key="d1e17535" xml:id="d1e146425"
+                    >Gualo ejusdem domine sororius</persName> et predictus <persName key="d1e17542"
+                    xml:id="d1e146428">Milo frater ejus</persName> et <persName key="d1e17548"
+                    xml:id="d1e146431">Robertus tunc domine illius bubulcus</persName>. Habuit et
+                hec cum viro suo pro hoc dono de beneficio <orgName key="stutzmann_himanis#282689"
+                    xml:id="d1e146434" corresp="abbaye Notre-Dame de Fontenay (1119 -)"
+                    >Fonteneti</orgName>
                 <num>xv</num> solidos.</p>
                 <p n="4">
                 <hi rend="red">
