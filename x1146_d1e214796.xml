@@ -66,20 +66,23 @@
                     episcopus</persName> inter vos et canonicos <orgName
                     key="stutzmann_himanis#283960" xml:id="d1e145632"
                     corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)"
-                    >Hungiacenses</orgName> de finibus <placeName key="stutzmann_himanis#324990"
-                    xml:id="d1e145635" corresp="Puteoli">Puteoli</placeName> et <placeName
-                    key="stutzmann_himanis#325115" xml:id="d1e145638" corresp="desertum Casseneti"
-                    >Casseneti</placeName>, de <placeName key="stutzmann_himanis#325121"
-                    xml:id="d1e145642" corresp="faiso Sanctae Reginae">faiso Sanctae
-                    Reginae</placeName> et <placeName key="stutzmann_himanis#325124"
-                    xml:id="d1e145645" corresp="foresta Hileranni">foresta Hileranni</placeName> et
-                de <placeName key="stutzmann_himanis#325287" xml:id="d1e145648" corresp="Frimasio"
-                    >Frimasio</placeName>, pacis intuitu rationabiliter fecit et scripto suo
-                firmavit, nos presentis decreti pagina confirmamus et ratam manere censemus. Si quis
-                autem hujus nostrae confirmationis paginam sciens contra eam temere venire
-                presumpserit, indignationem omnipotentis Dei et beatorum Petri et Pauli apostolorum
-                ejus incurrat. Datum <placeName key="stutzmann_himanis#102106" xml:id="d1e145651"
-                    corresp="Viterbe">Viterbi</placeName>
+                    >Hungiacenses</orgName> de finibus <placeName key="stutzmann_himanis#324343"
+                    xml:id="d1e145635" corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)"
+                    >Puteoli</placeName><note>Il pourrait s'agir aussi de Poiseul-la-Ville, mais la
+                    grange de Poiseul-la-Grange est une cause plus probable de conflit avec
+                    Oigny.</note> et <placeName key="stutzmann_himanis#325115" xml:id="d1e145638"
+                    corresp="desertum Casseneti">Casseneti</placeName>, de <placeName
+                    key="stutzmann_himanis#325121" xml:id="d1e145642"
+                    corresp="faiso Sanctae Reginae">faiso Sanctae Reginae</placeName> et <placeName
+                    key="stutzmann_himanis#325124" xml:id="d1e145645" corresp="foresta Hileranni"
+                    >foresta Hileranni</placeName> et de <placeName key="stutzmann_himanis#325287"
+                    xml:id="d1e145648" corresp="Frimasio">Frimasio</placeName>, pacis intuitu
+                rationabiliter fecit et scripto suo firmavit, nos presentis decreti pagina
+                confirmamus et ratam manere censemus. Si quis autem hujus nostrae confirmationis
+                paginam sciens contra eam temere venire presumpserit, indignationem omnipotentis Dei
+                et beatorum Petri et Pauli apostolorum ejus incurrat. Datum <placeName
+                    key="stutzmann_himanis#102106" xml:id="d1e145651" corresp="Viterbe"
+                    >Viterbi</placeName>
                 <app>
                     <lem wit="#B">undecimo</lem>
                     <rdg wit="#a">VI°</rdg>

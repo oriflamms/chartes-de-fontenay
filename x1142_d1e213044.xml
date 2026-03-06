@@ -54,13 +54,18 @@
         <text>
             <body>
                 <p>
-                <persName key="stutzmann_himanis#324654" xml:id="d1e144465" corresp="Humbert de Baugé, évêque d'Autun (1140 -1148)">Humbertus, Dei gratia
-                        <placeName key="stutzmann_himanis#319548" xml:id="d1e144467" corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName> episcopus</persName>, dilecto sibi in Christo fratri
-                    <persName key="stutzmann_himanis#324659" corresp="Guillaume I d’Epiry, abbé de Fontenay (1126-1154)">
+                <persName key="stutzmann_himanis#324654" xml:id="d1e144465"
+                    corresp="Humbert de Baugé, évêque d'Autun (1140 -1148)">Humbertus, Dei gratia
+                        <placeName key="stutzmann_himanis#319548" xml:id="d1e144467"
+                        corresp="Autun (Saône-et-Loire, Autun)">Eduensis</placeName>
+                    episcopus</persName>, dilecto sibi in Christo fratri <persName
+                    key="stutzmann_himanis#324659"
+                    corresp="Guillaume I d’Epiry, abbé de Fontenay (1126-1154)">
                     <app>
                         <lem>Willermo</lem>
                         <rdg wit="#D">Guillelmo</rdg>
-                    </app> abbati <orgName key="stutzmann_himanis#282689" xml:id="d1e144478" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                    </app> abbati <orgName key="stutzmann_himanis#282689" xml:id="d1e144478"
+                        corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                 </persName> ejusque successoribus in perpetuum regulariter substituendis. Postulasti
                 dilecte in Domino frater totaque <app>
                     <lem>
@@ -68,7 +73,7 @@
                             <lem>per</lem>
                             <rdg wit="#D">pro</rdg>
                         </app> te cui prees</lem>
-                    <rdg type="omis" wit="#a" />
+                    <rdg type="omis" wit="#a"/>
                 </app> congregatio <app>
                     <lem>quatinus</lem>
                     <rdg wit="#D #a">quatenus</rdg>
@@ -86,7 +91,8 @@
                     <lem>domnum</lem>
                     <rdg wit="#D #a">dominum</rdg>
                 </app>
-                <persName key="stutzmann_himanis#324643" xml:id="d1e144519" corresp="Étienne Ier de Baugé, évêque d'Autun (1112 -1139)">Stephanum
+                <persName key="stutzmann_himanis#324643" xml:id="d1e144519"
+                    corresp="Étienne Ier de Baugé, évêque d'Autun (1112 -1139)">Stephanum
                     episcopum</persName> fecisse cognovimus, nos quoque <app>
                     <lem>sub</lem>
                     <rdg wit="#D">subter</rdg>
@@ -98,7 +104,7 @@
                 episcopatu possidet sive in futurum possessurum est, firma ei illibataque in
                 perpetuum permaneant. <app>
                     <lem>
-                        <witEnd wit="#a" />
+                        <witEnd wit="#a"/>
                         <witDetail wit="#a">Suite jusqu'à "Amen" remplacée par "(on détaille les
                             biens confirmés)"</witDetail>
                     </lem>
@@ -108,20 +114,26 @@
                     <rdg wit="#D">Nominati</rdg>
                 </app> prefati predecessoris nostri dona et Eduensis capituli assensum et
                 concessionem illorum donorum predicto monasterio confirmamus, dona scilicet vallis
-                in qua jamdictum monasterium sedet, donum loci <persName key="stutzmann_himanis#325467" corresp="Martinus heremita (ca. 1117)">
+                in qua jamdictum monasterium sedet, donum loci <persName
+                    key="stutzmann_himanis#325467" corresp="Martinus heremita (ca. 1117)">
                     <app>
                         <lem>domni</lem>
                         <rdg wit="#D">domini</rdg>
                     </app> Martini heremite</persName> cum omnibus appenditiis suis, donum grangie
-                    <placeName key="stutzmann_himanis#324911" xml:id="d1e144556" corresp="Grand-Jailly (Côte-d'Or, Montbard)">
+                    <placeName key="stutzmann_himanis#324393" xml:id="d1e144556"
+                    corresp="Le-Petit-Jailly (Côte-d'Or, Montbard)">
                     <app>
                         <lem>Jailiaci</lem>
                         <rdg wit="#D">Jaliaci</rdg>
                     </app>
-                </placeName> seu <placeName key="stutzmann_himanis#325165" xml:id="d1e144563" corresp="Carmeti">Carmeti</placeName> cum omnibus appenditiis suis, donum <app>
+                </placeName> seu <placeName key="stutzmann_himanis#324393" xml:id="d1e144563"
+                    corresp="Le-Petit-Jailly (Côte-d'Or, Montbard)">Carmeti</placeName> cum omnibus
+                appenditiis suis, donum <app>
                     <lem>terrarum</lem>
                     <rdg wit="#D">tertiarum</rdg>
-                </app> grangie <placeName key="stutzmann_himanis#324451" xml:id="d1e144572" corresp="Flacey (Côte-d'Or, Montbard)">Flaciaci</placeName>, donum aasentiarum de <app>
+                </app> grangie <placeName key="stutzmann_himanis#324451" xml:id="d1e144572"
+                    corresp="Flacey (Côte-d'Or, Montbard)">Flaciaci</placeName>, donum aasentiarum
+                de <app>
                     <lem>terris</lem>
                     <rdg wit="#D">tertiis</rdg>
                 </app> nostris, ut in carta inde scripta et confirmata habetur, donum <app>
@@ -142,31 +154,42 @@
                     <lem>jus</lem>
                     <rdg wit="#D">vis</rdg>
                 </app> antea pertinuerit. Expressiusque de presentibus possessionibus loquentes
-                nominamus et confirmamus ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e144611" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> totam decimam grangie <placeName key="stutzmann_himanis#324479" xml:id="d1e144615" corresp="Éringes (Côte-d'Or, Montbard)">
+                nominamus et confirmamus ecclesie <orgName key="stutzmann_himanis#282689"
+                    xml:id="d1e144611" corresp="abbaye Notre-Dame de Fontenay (1119 -)"
+                    >Fonteneti</orgName> totam decimam grangie <placeName
+                    key="stutzmann_himanis#324479" xml:id="d1e144615"
+                    corresp="Éringes (Côte-d'Or, Montbard)">
                     <app>
                         <lem>Aringiarum</lem>
                         <rdg wit="#D">Aringiarium</rdg>
                     </app>
                 </placeName>, in quocumque sit, sive in nutrimento sive in annona seu in vino sive
-                in alio quod decimari soleat, totam similiter decimam grangie <placeName key="stutzmann_himanis#324911" xml:id="d1e144622" corresp="Grand-Jailly (Côte-d'Or, Montbard)">
+                in alio quod decimari soleat, totam similiter decimam grangie <placeName
+                    key="stutzmann_himanis#324393" xml:id="d1e144622"
+                    corresp="Le-Petit-Jailly (Côte-d'Or, Montbard)">
                     <app>
                         <lem>Jailliaci</lem>
                         <rdg wit="#D">Jaliaci</rdg>
                     </app>
-                </placeName> seu <placeName key="stutzmann_himanis#325165" xml:id="d1e144629" corresp="Carmeti">Carmeti</placeName>, totam decimam vallis in qua abbatia sedet, totam decimam
-                grangie <placeName key="stutzmann_himanis#325010" xml:id="d1e144632" corresp="Saint-Agnan (Nièvre, Montsauche)">Sancti
-                    Aniani</placeName>, totam decimam grangie <placeName key="stutzmann_himanis#324451" xml:id="d1e144635" corresp="Flacey (Côte-d'Or, Montbard)">Flaciaci</placeName>,
-                similiter <app>
+                </placeName> seu <placeName key="stutzmann_himanis#324393" xml:id="d1e144629"
+                    corresp="Le-Petit-Jailly (Côte-d'Or, Montbard)">Carmeti</placeName>, totam
+                decimam vallis in qua abbatia sedet, totam decimam grangie <placeName
+                    key="stutzmann_himanis#325010" xml:id="d1e144632"
+                    corresp="Saint-Agnan (Nièvre, Montsauche)">Sancti Aniani</placeName>, totam
+                decimam grangie <placeName key="stutzmann_himanis#324451" xml:id="d1e144635"
+                    corresp="Flacey (Côte-d'Or, Montbard)">Flaciaci</placeName>, similiter <app>
                     <lem>ubicumque</lem>
                     <rdg wit="#D">in quocumque</rdg>
                 </app> sit. Pro cujus <app>
                     <lem>tamen</lem>
                     <rdg wit="#D">tam</rdg>
-                </app> grangie decima quia <persName key="stutzmann_himanis#326056" corresp="Gérard, prêtre de Seigny (fl. 1142)">Girardus quidam <app>
+                </app> grangie decima quia <persName key="stutzmann_himanis#326056"
+                    corresp="Gérard, prêtre de Seigny (fl. 1142)">Girardus quidam <app>
                         <lem>tunc</lem>
                         <rdg wit="#D">te</rdg>
                     </app>
-                    <placeName key="stutzmann_himanis#324356" xml:id="d1e144658" corresp="Seigny (Côte-d'Or, Montbard)">
+                    <placeName key="stutzmann_himanis#324356" xml:id="d1e144658"
+                        corresp="Seigny (Côte-d'Or, Montbard)">
                         <app>
                             <lem>Saigniaci</lem>
                             <rdg wit="#D">Sanhiaci</rdg>
@@ -182,23 +205,35 @@
                 </app> pars territorii grangie <app>
                     <lem>est</lem>
                     <rdg wit="#D">e</rdg>
-                </app>, querelam licet injuste commoverat — nam <orgName key="stutzmann_himanis#282689" xml:id="d1e144682" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensis</orgName>
+                </app>, querelam licet injuste commoverat — nam <orgName
+                    key="stutzmann_himanis#282689" xml:id="d1e144682"
+                    corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensis</orgName>
                 ecclesia habet de omni decima sua privilegium et domini pape Innocentii cum universo
-                    <orgName key="stutzmann_himanis#281483" xml:id="d1e144685" corresp="ordre des cisterciens">ordine
-                    Cisterciensi</orgName> et sepedicti predecessoris nostri cum laude et assensu
-                conventus <orgName key="stutzmann_himanis#281272" xml:id="d1e144689" corresp="évêché d'Autun">Eduensium
-                    canonicorum</orgName> — nos tamen providentes utriusque ecclesie perpetue paci <app>
+                    <orgName key="stutzmann_himanis#281483" xml:id="d1e144685"
+                    corresp="ordre des cisterciens">ordine Cisterciensi</orgName> et sepedicti
+                predecessoris nostri cum laude et assensu conventus <orgName
+                    key="stutzmann_himanis#281272" xml:id="d1e144689" corresp="évêché d'Autun"
+                    >Eduensium canonicorum</orgName> — nos tamen providentes utriusque ecclesie
+                perpetue paci <app>
                     <lem>quia</lem>
                     <rdg wit="#D">cum</rdg>
                 </app> utraque ecclesia nostra <app>
                     <lem>est</lem>
                     <rdg wit="#D">ea</rdg>
-                </app>, acceptum missale a <orgName key="stutzmann_himanis#282689" xml:id="d1e144704" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fontenetensi</orgName> ecclesia dedimus ecclesie <placeName key="stutzmann_himanis#324356" xml:id="d1e144707" corresp="Seigny (Côte-d'Or, Montbard)">
+                </app>, acceptum missale a <orgName key="stutzmann_himanis#282689"
+                    xml:id="d1e144704" corresp="abbaye Notre-Dame de Fontenay (1119 -)"
+                    >Fontenetensi</orgName> ecclesia dedimus ecclesie <placeName
+                    key="stutzmann_himanis#324356" xml:id="d1e144707"
+                    corresp="Seigny (Côte-d'Or, Montbard)">
                     <app>
                         <lem>Saigniaci</lem>
                         <rdg wit="#D">Sanhiaci</rdg>
                     </app>
-                </placeName> et decimam jamdictam, laudante predicto <persName key="stutzmann_himanis#326056" corresp="Gérard, prêtre de Seigny (fl. 1142)">Girardo</persName> confirmavimus ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e144718" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>. </p>
+                </placeName> et decimam jamdictam, laudante predicto <persName
+                    key="stutzmann_himanis#326056" corresp="Gérard, prêtre de Seigny (fl. 1142)"
+                    >Girardo</persName> confirmavimus ecclesie <orgName
+                    key="stutzmann_himanis#282689" xml:id="d1e144718"
+                    corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>. </p>
                 <p>Affuerunt rei huic<app>
                     <lem type="nihil" />
                     <rdg wit="#D">rei</rdg>
