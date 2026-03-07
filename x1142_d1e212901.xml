@@ -13,9 +13,11 @@
                     <listWit>
                         <witness n="A">Original perdu</witness>
                         <witness n="B">Copie mutilée dans Cartulaire 1,
-                                fol. 74<hi rend="superscript" xml:space="preserve">v </hi>(<hi rend="italic">Puteolum</hi>, 6) ; table :
-                            « <hi rend="italic" xml:space="preserve">Carta de concordia de </hi>Fromais
-                                <hi rend="italic">e[t] aliis pluribus</hi> »</witness>
+                            fol. 74<hi rend="superscript" xml:space="preserve">v </hi>(<hi
+                            rend="italic">Puteolum</hi>, 6) ; table : « Carta de concordia de
+                            <placeName key="stutzmann_himanis#325114" xml:id=""
+                            corresp="Fromais (Côte d'Or)">Fromais</placeName> e[t] aliis
+                        pluribus »</witness>
 
                     </listWit>
                     <listBibl>
