@@ -348,7 +348,7 @@
                         corresp="Banajardis, soeur de Legardis (fl. ante 1143)">Banajardi</persName>
                     filius</persName><note>Il s'agit peut-être de Gérard de Duesme, attesté dans la
                     pancarte de 1136</note>. Unde sunt testes <persName
-                    key="stutzmann_himanis#327627" xml:id=""
+                    key="stutzmann_himanis#327627" 
                     corresp="Josbert, frère de Guillaume de Duesme (fl. ante 1143)">Josbertus
                     prepositus, <persName key="stutzmann_himanis#366973" xml:id="d1e146504"
                         corresp="Renier de Duesme">Rainerii</persName> filius</persName>, <persName
@@ -381,7 +381,7 @@
                     corresp="Dodo, mari d'Adeline, fille de Hugues de Vaulebon (fl. ante 1143)"
                     >Dodo</persName> et <persName key="stutzmann_himanis#366987" xml:id="d1e146545"
                     corresp="Adeline, fille de Hugues de Vaulebon (fl. ante 1143)">Adelina, predicti
-                        <persName key="stutzmann_himanis#366983" xml:id=""
+                        <persName key="stutzmann_himanis#366983" 
                         corresp="Eudes, fils de Hugues de Vaulebon (fl. ante 1143)"
                         >Hugonis</persName> filia</persName>.   Testes sunt <persName
                     key="stutzmann_himanis#325844" xml:id="d1e146548"
@@ -390,7 +390,7 @@
                     corresp="Matthieu, prêtre (fl. ante 1143)">Matheus presbiteri</persName>,
                     <persName key="stutzmann_himanis#327627" xml:id="d1e146555"
                     corresp="Josbert, frère de Guillaume de Duesme (fl. ante 1143)">Josbertus filius
-                        <persName key="stutzmann_himanis#366973" xml:id=""
+                        <persName key="stutzmann_himanis#366973" 
                         corresp="Renier de Duesme">Rainerii</persName></persName>, <persName
                     key="stutzmann_himanis#327631" xml:id="d1e146558"
                     corresp="Henri Ordeum (fl. 1143)">Henricus Ordeum qui et miles</persName>,
@@ -435,7 +435,7 @@
                 </persName> et presente <persName key="stutzmann_himanis#366980" xml:id="d1e146606"
                     corresp="Hugues de Vaulebon (fl. ante 1143), Hugo de Valle Abonis"
                     >Hugone</persName> qui donum fecerat jam facto converso.    Hujus rei testes
-                sunt <persName key="stutzmann_himanis#366998" xml:id=""
+                sunt <persName key="stutzmann_himanis#366998" 
                     corresp="Gerard, chanoine d'Oigny (fl. ante 1143)">Gerardus canonicus <orgName
                         key="stutzmann_himanis#283960" xml:id="d1e146611"
                         corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)"
@@ -467,9 +467,11 @@
                 <hi rend="red">
                     <num>vi</num>
                 </hi>
-                <supplied>De dono Hugonis de Turre</supplied>. <persName key="d1e17801"
-                    xml:id="d1e146650">Hugo de <placeName key="stutzmann_himanis#325036"
-                        xml:id="d1e146652" corresp="La Tour de Rougemont">Turre</placeName>
+                <supplied>De dono Hugonis de Turre</supplied>. <persName
+                    key="stutzmann_himanis#367014" xml:id="d1e146650"
+                    corresp="Hugues de la Tour (de Rougemont) (fl. ante 1143), Hugo de Turre">Hugo
+                    de <placeName key="stutzmann_himanis#325036" xml:id="d1e146652"
+                        corresp="La Tour de Rougemont">Turre</placeName>
                 </persName> pro anima sua et animabus antecessorum suorum dedit ecclesie sancte
                 Marie de <orgName key="stutzmann_himanis#282689" xml:id="d1e146655"
                     corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName>
@@ -478,24 +480,38 @@
                     <placeName key="stutzmann_himanis#324343" xml:id="d1e146660"
                     corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteolum
                     Francum</placeName> cum omnibus appenditiis suis.    Hujus rei testes sunt
-                dominus <persName key="d1e17807" xml:id="d1e146663">Willermus <placeName
+                dominus <persName key="stutzmann_himanis#367016" xml:id="d1e146663"
+                    corresp="Guillaume II, comte de Nevers (1097-1147)">Willermus <placeName
                         key="stutzmann_himanis#99026" xml:id="d1e146665"
                         corresp="Nevers (Nièvre, Nevers)">Nivernensis</placeName> comes</persName>,
-                    <persName key="d1e17813" xml:id="d1e146670">Hugo de <placeName
-                        key="stutzmann_himanis#325034" xml:id="d1e146672">Tilio</placeName>,
-                    predicti Hugonis avunculus</persName>, cujus etiam precibus et consilio hanc
-                elemosinam fecit, <persName key="d1e17819" xml:id="d1e146676">Rainaldus</persName>,
-                    <persName key="d1e17825" xml:id="d1e146679">Helyas</persName>, <persName
-                    key="d1e17831" xml:id="d1e146682">Ivo <placeName key="stutzmann_himanis#324473"
-                        xml:id="d1e146684" corresp="Mailly-le-Château (Yonne, Joux-la-Ville)"
-                        >Malliaci Castri</placeName> tunc presbiter</persName>, <persName
-                    key="d1e17838" xml:id="d1e146688">Galterius</persName>, <persName key="d1e17844"
-                    xml:id="d1e146691">Giphardus</persName>, <persName key="d1e17850"
-                    xml:id="d1e146695">Jocelinus de <placeName key="stutzmann_himanis#324395"
-                        xml:id="d1e146697" corresp="Avallon (Yonne, Avallon)">Avalone</placeName>
-                </persName>, <persName key="d1e17856" xml:id="d1e146700">Hugo</persName>, <persName
-                    key="d1e17862" xml:id="d1e146703">Landricus</persName>.    Actum est hoc apud
-                    <placeName key="stutzmann_himanis#324473" xml:id="d1e146706"
+                    <persName key="stutzmann_himanis#367018" xml:id="d1e146670"
+                    corresp="Hugues de Til-(Châtel) (fl. ante 1143), Hugo de Tilio">Hugo de
+                        <placeName key="stutzmann_himanis#325034" xml:id="d1e146672"
+                        >Tilio</placeName>, predicti <persName key="stutzmann_himanis#367014"
+                        corresp="Hugues de la Tour (de Rougemont) (fl. ante 1143), Hugo de Turre"
+                        >Hugonis</persName> avunculus</persName>, cujus etiam precibus et consilio
+                hanc elemosinam fecit, <persName key="stutzmann_himanis#367023" xml:id="d1e146676"
+                    corresp="Renaud (fl. ante 1143), Rainaldus">Rainaldus</persName>, <persName
+                    key="stutzmann_himanis#367024" xml:id="d1e146679"
+                    corresp="Helias (fl. ante 1143)">Helyas</persName>, <persName
+                    key="stutzmann_himanis#367020" xml:id="d1e146682"
+                    corresp="Yves, prêtre de Mailly-le-Château (fl. ante 1143)">Ivo <placeName
+                        key="stutzmann_himanis#324473" xml:id="d1e146684"
+                        corresp="Mailly-le-Château (Yonne, Joux-la-Ville)">Malliaci
+                        Castri</placeName> tunc presbiter</persName>, <persName
+                    key="stutzmann_himanis#367025" xml:id="d1e146688"
+                    corresp="Gauthier (fl. ante 1143), Galterius">Galterius</persName>, <persName
+                    key="stutzmann_himanis#367026" xml:id="d1e146691"
+                    corresp="Giffard (fl. ante 1143), Giphardus">Giphardus</persName>, <persName
+                    key="stutzmann_himanis#367027" xml:id="d1e146695"
+                    corresp="Jocelin d'Avalon (fl. ante 1143), Jocelinus de Avalone">Jocelinus de
+                        <placeName key="stutzmann_himanis#324395" xml:id="d1e146697"
+                        corresp="Avallon (Yonne, Avallon)">Avalone</placeName>
+                </persName>, <persName key="stutzmann_himanis#367028" xml:id="d1e146700"
+                    corresp="Hugues (fl. ante 1143)">Hugo</persName>, <persName
+                    key="stutzmann_himanis#367029" xml:id="d1e146703"
+                    corresp="Landry (fl. ante 1143), Landricus">Landricus</persName>.    Actum est
+                hoc apud <placeName key="stutzmann_himanis#324473" xml:id="d1e146706"
                     corresp="Mailly-le-Château (Yonne, Joux-la-Ville)">Malliacum castrum</placeName>
                 in presentia domini <persName key="stutzmann_himanis#324671" xml:id="d1e146709"
                     corresp="Étienne de Toucy, abbé de Reigny (1128-1162)">Stephani <orgName
@@ -507,167 +523,297 @@
                         corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                     Willermi</persName> presentibus supradictis testibus et multis aliis. </p>
                 <p n="7">
-                    <hi rend="red">
-                        <num>vii</num>
-                    </hi>
-                    <supplied>De dono Henrici de Liri</supplied>. <persName key="d1e17875" xml:id="d1e146728">Henricus de <placeName key="stutzmann_himanis#324469" xml:id="d1e146730" corresp="Léry (Côte-d'Or, Is-sur-Tille)">
-                            <foreign>Liri</foreign>
-                        </placeName>
-                    </persName> dedit ecclesie sancte Marie de <orgName key="stutzmann_himanis#282689" xml:id="d1e146734" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName>, laudante <persName key="d1e17881" xml:id="d1e146737">Doa uxore sua</persName> et <persName key="d1e17887" xml:id="d1e146740">filiabus suis Aoide</persName> et <persName key="d1e17893" xml:id="d1e146744">Maria</persName>, quicquid habebat in
-                    territorio <placeName key="stutzmann_himanis#324343" xml:id="d1e146747" corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteoli
-                        Franci</placeName>. Hujus rei testes sunt <persName key="d1e17899" xml:id="d1e146750">Martinus</persName> et <persName key="d1e17905" xml:id="d1e146753">Rainaldus de <placeName key="stutzmann_himanis#324469" xml:id="d1e146755" corresp="Léry (Côte-d'Or, Is-sur-Tille)">
-                            <foreign>Liri</foreign>
-                        </placeName>
-                    </persName>, <persName key="d1e17912" xml:id="d1e146759">Rainaldus filius
-                            <persName key="d1e17918" xml:id="d1e146761">Roberti</persName>
-                    </persName>, <persName key="d1e17924" xml:id="d1e146764">Girardus canonicus,
-                        ejusdem <persName key="d1e17930" xml:id="d1e146766">Henrici</persName>
-                        sororius</persName>.    Hoc donum laudavit <persName key="d1e17936" xml:id="d1e146771">Radulphus filius eorum</persName>, <persName key="d1e17942" xml:id="d1e146774">Henrici</persName> videlicet et <persName key="d1e17949" xml:id="d1e146777">Doe</persName>.    Unde sunt testes
-                        <persName key="d1e17955" xml:id="d1e146780">
-                        <unclear>Henricus</unclear> de <placeName key="stutzmann_himanis#324444" xml:id="d1e146784" corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">Eschaloio</placeName>
-                    </persName>, <persName key="d1e17961" xml:id="d1e146787">Robertus</persName> et
-                    Hugo frater ejus et Lambertus.    Receperunt autem monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e146790" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> predictum
-                    Henricum et usque ad mortem eum procuraverunt. Sed et uxori ejus Doe quamdiu
-                    mansit Eschaloii sive Liri aliqua bona in victu et vestitu fecerunt. <hi rend="background(green)">Postea</hi> autem apud Tullionem ex toto eam
-                    procuraverunt.</p>
+                <hi rend="red">
+                    <num>vii</num>
+                </hi>
+                <supplied>De dono Henrici de Liri</supplied>. <persName
+                    key="stutzmann_himanis#367030" xml:id="d1e146728"
+                    corresp="Henri de Léry (fl. ante 1143), Henricus de Liri">Henricus de <placeName
+                        key="stutzmann_himanis#324469" xml:id="d1e146730"
+                        corresp="Léry (Côte-d'Or, Is-sur-Tille)">
+                        <foreign>Liri</foreign>
+                    </placeName>
+                </persName> dedit ecclesie sancte Marie de <orgName key="stutzmann_himanis#282689"
+                    xml:id="d1e146734" corresp="abbaye Notre-Dame de Fontenay (1119 -)"
+                    >Fonteneto</orgName>, laudante <persName key="stutzmann_himanis#367032"
+                    xml:id="d1e146737" corresp="Doa, épouse de Henri de Léry (fl. ante 1143)">Doa
+                    uxore sua</persName> et <persName key="stutzmann_himanis#367034"
+                    xml:id="d1e146740" corresp="Aoidis, fille de Henri de Léry (fl. ante 1143)"
+                    >filiabus suis Aoide</persName> et <persName key="stutzmann_himanis#367036"
+                    xml:id="d1e146744" corresp="Marie, fille de Henri de Léry (fl. ante 1143)"
+                    >Maria</persName>, quicquid habebat in territorio <placeName
+                    key="stutzmann_himanis#324343" xml:id="d1e146747"
+                    corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteoli
+                Franci</placeName>. Hujus rei testes sunt <persName key="stutzmann_himanis#367038"
+                    xml:id="d1e146750" corresp="Martin de Léry (fl. ante 1143)">Martinus</persName>
+                et <persName key="stutzmann_himanis#367040" xml:id="d1e146753"
+                    corresp="Renaud de Léry (fl. ante 1143), Rainaldus de Liri">Rainaldus de
+                        <placeName key="stutzmann_himanis#324469" xml:id="d1e146755"
+                        corresp="Léry (Côte-d'Or, Is-sur-Tille)">
+                        <foreign>Liri</foreign>
+                    </placeName>
+                </persName>, <persName key="stutzmann_himanis#367049" xml:id="d1e146759"
+                    corresp="Renaud, fils de Robert (fl. ante 1143)">Rainaldus filius <persName
+                        key="stutzmann_himanis#367048" xml:id="d1e146761"
+                        corresp="Robert (fl. ante 1143)">Roberti</persName>
+                </persName><note>Peut-être identifuqe avec Renaud fils de Robert, major de
+                    Touillon</note>, <persName key="stutzmann_himanis#366998" xml:id="d1e146764"
+                    corresp="Gerard, chanoine d'Oigny (fl. ante 1143)">Girardus canonicus, ejusdem
+                        <persName key="stutzmann_himanis#367030" xml:id="d1e146766"
+                        corresp="Henri de Léry (fl. ante 1143), Henricus de Liri">Henrici</persName>
+                    sororius</persName>.    Hoc donum laudavit <persName
+                    key="stutzmann_himanis#367045" xml:id="d1e146771"
+                    corresp="Raoul, fils de Henri de Léry et de Doa (fl. ante 1143)">Radulphus
+                    filius eorum</persName>, <persName key="stutzmann_himanis#367030"
+                    xml:id="d1e146774" corresp="Henri de Léry (fl. ante 1143), Henricus de Liri"
+                    >Henrici</persName> videlicet et <persName key="stutzmann_himanis#367032"
+                    xml:id="d1e146777" corresp="Doa, épouse de Henri de Léry (fl. ante 1143)"
+                    >Doe</persName>.    Unde sunt testes <persName key="stutzmann_himanis#367052"
+                    xml:id="d1e146780" corresp="Hervé d'Echalot (fl. ante 1143)">
+                    <choice>
+                        <unclear>Herveus</unclear>
+                        <unclear/>
+                    </choice> de <placeName key="stutzmann_himanis#324444" xml:id="d1e146784"
+                        corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">Eschaloio</placeName>
+                </persName>, <persName key="stutzmann_himanis#367054" xml:id="d1e146787"
+                    corresp="Robert, frère de Hugues (fl. ante 1143)">Robertus</persName> et
+                    <persName key="stutzmann_himanis#367055" 
+                    corresp="Hugues, frère de Robert (fl. ante 1143)">Hugo frater ejus</persName> et
+                    <persName key="stutzmann_himanis#367058" 
+                    corresp="Lambert (fl. ante 1143)">Lambertus</persName>.    Receperunt autem
+                monachi <orgName key="stutzmann_himanis#282689" xml:id="d1e146790"
+                    corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> predictum
+                    <persName key="stutzmann_himanis#367030" 
+                    corresp="Henri de Léry (fl. ante 1143), Henricus de Liri">Henricum</persName> et
+                usque ad mortem eum procuraverunt. Sed et uxori ejus <persName
+                    key="stutzmann_himanis#367032" 
+                    corresp="Doa, épouse de Henri de Léry (fl. ante 1143)">Doe</persName> quamdiu
+                mansit <placeName key="stutzmann_himanis#324444" 
+                    corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">Eschaloii</placeName> sive
+                    <placeName key="stutzmann_himanis#324469" 
+                    corresp="Léry (Côte-d'Or, Is-sur-Tille)">Liri</placeName> aliqua bona in victu
+                et vestitu fecerunt. <hi rend="background(green)">Postea</hi> autem apud <placeName
+                    key="stutzmann_himanis#324370"
+                    corresp="Touillon (Côte-d'Or, Montbard)">Tullionem</placeName> ex toto eam
+                procuraverunt.</p>
                 <p n="8">
-                    <hi rend="red">
-                        <num>viii</num>
-                    </hi>
-                    <supplied>De dono Teobaudi de Salvia</supplied>. <app>
-                        <lem>
-                            <witStart wit="#D #a" />
-                            <witDetail wit="#D">fol. 278v</witDetail>
-                            <witDetail wit="#a">p. 546, n° 104</witDetail>
-                        </lem>
+                <hi rend="red">
+                    <num>viii</num>
+                </hi>
+                <supplied>De dono Teobaudi de Salvia</supplied>. <app>
+                    <lem>
+                        <witStart wit="#D #a"/>
+                        <witDetail wit="#D">fol. 278v</witDetail>
+                        <witDetail wit="#a">p. 546, n° 104</witDetail>
+                    </lem>
+                </app>
+                <persName key="stutzmann_himanis#367060" xml:id="d1e146811"
+                    corresp="Thibaud de Salives (fl. ante 1143), Teobaudus de Saliva">Teobaudus de
+                        <placeName key="stutzmann_himanis#324357" xml:id="d1e146813"
+                        corresp="Salives (Côte-d'Or, Is-sur-Tille)">Saliva</placeName>
+                </persName> dedit ecclesie sancte Marie de <orgName key="stutzmann_himanis#282689"
+                    xml:id="d1e146816" corresp="abbaye Notre-Dame de Fontenay (1119 -)"
+                    >Fonteneto</orgName> in <app>
+                    <lem>elemosinam</lem>
+                    <rdg wit="#D #a">eleemosynam</rdg>
+                </app> quicquid habebat infra terminos <placeName key="stutzmann_himanis#324343"
+                    xml:id="d1e146825" corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteoli
+                    Franci</placeName> et <app>
+                    <lem>
+                        <witEnd wit="#D #a"/>
+                        <witDetail wit="#D #a">Suite supprimée et remplacée par "etc."</witDetail>
+                    </lem>
+                </app> siquid ad eum ibidem ab aliquo sive heritario jure sive alio modo excideret.
+                Terminos autem concessit sicut <persName key="stutzmann_himanis#366980"
+                    xml:id="d1e146835"
+                    corresp="Hugues de Vaulebon (fl. ante 1143), Hugo de Valle Abonis">frater Hugo
+                    de <placeName key="stutzmann_himanis#325040" xml:id="d1e146837"
+                        corresp="Vaulebon (Côte d'Or)">Vale Abonis</placeName>
+                </persName> eos per obedientiam <persName key="stutzmann_himanis#324659"
+                    xml:id="d1e146840" corresp="Guillaume I d’Epiry, abbé de Fontenay (1126-1154)"
+                    >abbatis Willermi</persName> et concessione ejusdem <persName
+                    key="stutzmann_himanis#367060" xml:id="d1e146843"
+                    corresp="Thibaud de Salives (fl. ante 1143), Teobaudus de Saliva"
+                    >Teobaudi</persName> divisit nichil penitus infra terminos retinuit. Insuper
+                monachis predicte ecclesie omnem de propria eorum terra guirpivit decimam quod
+                nunquam scilicet ab eis decimam acciperet nisi forte alienam terram excolerent, que
+                ad jus decime ejus pertinere videretur. Pactus est etiam quod liberos suos tam
+                filios quam filias cum ad legitimam etatem venirent hoc totum laudare et concedere
+                faceret et nisi hoc faceret duci concessit et monachis ut chasamentum quod ab eo
+                tenebat donec concederent dux ipse haberet. <app>
+                    <lem>
+                        <witStart wit="#D #a"/>
+                    </lem>
+                </app>Hujus doni testes sunt ipse <persName key="stutzmann_himanis#324644"
+                    xml:id="d1e146850" corresp="Hugues II, duc de Bourgogne (1103-1143)">dux
+                    Hugo</persName>, in cujus presentia <hi rend="background(green)">hoc totum
+                    factum est inter</hi>
+                <placeName key="stutzmann_himanis#323218" xml:id="d1e146856"
+                    corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frollesium</placeName> et
+                    <placeName key="stutzmann_himanis#324372" xml:id="d1e146859"
+                    corresp="Oigny (Côte-d'Or, Châtillon-sur-Seine)">Ungiacum</placeName>, <persName
+                    key="stutzmann_himanis#367042" xml:id="d1e146862"
+                    corresp="Hugues de Bourgogne (1122-1171), le Roux, seigneur du Châtelet-Chalon et de Meursault"
+                    >Hugo ejusdem ducis filius</persName>, <persName key="d1e17986"
+                    xml:id="d1e146865">Garnerius de <placeName key="stutzmann_himanis#324369"
+                        xml:id="d1e146867" corresp="Sombernon (Côte-d'Or, Talant)">
+                        <foreign>Sumbernun</foreign>
+                    </placeName>
+                </persName>, <persName key="d1e17992" xml:id="d1e146871">Rainerius de <placeName
+                        key="stutzmann_himanis#324353" xml:id="d1e146873"
+                        corresp="La Roche-Vanneau (Côte-d'Or, Montbard)">Rochia</placeName>
+                </persName>, <persName key="d1e17998" xml:id="d1e146877">Johannes de <placeName
+                        key="stutzmann_himanis#324349" xml:id="d1e146879"
+                        corresp="Quincy-le-Vicomte (Côte-d'Or, Montbard)">Quintiaco</placeName>
+                </persName>, <persName key="d1e18004" xml:id="d1e146882">Gerardus de <placeName
+                        key="stutzmann_himanis#324426" xml:id="d1e146884"
+                        corresp="Châtillon-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)"
+                        >Castellione</placeName>
+                </persName> qui predicti <persName key="stutzmann_himanis#367060" xml:id="d1e146887"
+                    corresp="Thibaud de Salives (fl. ante 1143), Teobaudus de Saliva"
+                    >Teobaudi</persName> fuerat sororius, <persName key="d1e18016"
+                    xml:id="d1e146890">Rainaldus <placeName key="stutzmann_himanis#82732"
+                        xml:id="d1e146892" corresp="Grancey (Côte-d'Or, Dijon, Is-sur-Tille)"
+                        >Grancei castri</placeName> dominus</persName>. Hoc donum laudavit et
+                concessit <persName key="d1e18023" xml:id="d1e146896">uxor sepedicti<note> saep- <hi
+                            rend="italic">D</hi>, sęp- <hi rend="italic">a</hi>.</note> Teobaldi
+                    Gundrea nomine sed in palam vocata <app>
+                        <lem>Sibilla</lem>
+                        <rdg wit="#D #a">Sibylla</rdg>
                     </app>
-                    <persName key="d1e17967" xml:id="d1e146811">Teobaudus de <placeName key="stutzmann_himanis#324357" xml:id="d1e146813" corresp="Salives (Côte-d'Or, Is-sur-Tille)">Saliva</placeName>
-                    </persName> dedit ecclesie sancte Marie de <orgName key="stutzmann_himanis#282689" xml:id="d1e146816" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> in <app>
-                        <lem>elemosinam</lem>
-                        <rdg wit="#D #a">eleemosynam</rdg>
-                    </app> quicquid habebat infra terminos <placeName key="stutzmann_himanis#324343" xml:id="d1e146825" corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteoli Franci</placeName> et <app>
-                        <lem>
-                            <witEnd wit="#D #a" />
-                            <witDetail wit="#D #a">Suite supprimée et remplacée par
-                                "etc."</witDetail>
-                        </lem>
-                    </app> siquid ad eum ibidem ab aliquo sive heritario jure sive alio modo
-                    excideret. Terminos autem concessit sicut <persName key="d1e17973" xml:id="d1e146835">frater Hugo de <placeName key="stutzmann_himanis#325040" xml:id="d1e146837" corresp="Vale Abonis">Vale Abonis</placeName>
-                    </persName> eos per obedientiam <persName key="d1e17979" xml:id="d1e146840">abbatis Willermi</persName> et concessione ejusdem <persName key="d1e30985" xml:id="d1e146843">Teobaudi</persName> divisit nichil penitus infra terminos
-                    retinuit. Insuper monachis predicte ecclesie omnem de propria eorum terra
-                    guirpivit decimam quod nunquam scilicet ab eis decimam acciperet nisi forte
-                    alienam terram excolerent, que ad jus decime ejus pertinere videretur. Pactus
-                    est etiam quod liberos suos tam filios quam filias cum ad legitimam etatem
-                    venirent hoc totum laudare et concedere faceret et nisi hoc faceret duci
-                    concessit et monachis ut chasamentum quod ab eo tenebat donec concederent dux
-                    ipse haberet. <app>
-                        <lem>
-                            <witStart wit="#D #a" />
-                        </lem>
-                    </app>Hujus doni testes sunt ipse <persName key="stutzmann_himanis#324644" xml:id="d1e146850" corresp="Hugues II, duc de Bourgogne (1103-1143)">dux Hugo</persName>, in cujus presentia <hi rend="background(green)">hoc totum factum est inter</hi>
-                    <placeName key="stutzmann_himanis#323218" xml:id="d1e146856" corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frollesium</placeName> et
-                        <placeName key="stutzmann_himanis#324372" xml:id="d1e146859" corresp="Oigny (Côte-d'Or, Châtillon-sur-Seine)">Ungiacum</placeName>,
-                        <persName key="d1e64" xml:id="d1e146862">Hugo ejusdem ducis
-                        filius</persName>, <persName key="d1e17986" xml:id="d1e146865">Garnerius de
-                            <placeName key="stutzmann_himanis#324369" xml:id="d1e146867" corresp="Sombernon (Côte-d'Or, Talant)">
-                            <foreign>Sumbernun</foreign>
-                        </placeName>
-                    </persName>, <persName key="d1e17992" xml:id="d1e146871">Rainerius de <placeName key="stutzmann_himanis#324353" xml:id="d1e146873" corresp="La Roche-Vanneau (Côte-d'Or, Montbard)">Rochia</placeName>
-                    </persName>, <persName key="d1e17998" xml:id="d1e146877">Johannes de <placeName key="stutzmann_himanis#324349" xml:id="d1e146879" corresp="Quincy-le-Vicomte (Côte-d'Or, Montbard)">Quintiaco</placeName>
-                    </persName>, <persName key="d1e18004" xml:id="d1e146882">Gerardus de <placeName key="stutzmann_himanis#324426" xml:id="d1e146884" corresp="Châtillon-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)">Castellione</placeName>
-                    </persName> qui predicti <persName key="d1e18010" xml:id="d1e146887">Teobaudi</persName> fuerat sororius, <persName key="d1e18016" xml:id="d1e146890">Rainaldus <placeName key="stutzmann_himanis#82732" xml:id="d1e146892" corresp="Grancey (Côte-d'Or, Dijon, Is-sur-Tille)">Grancei castri</placeName> dominus</persName>. Hoc
-                    donum laudavit et concessit <persName key="d1e18023" xml:id="d1e146896">uxor
-                            sepedicti<note> saep- <hi rend="italic">D</hi>, sęp- <hi rend="italic">a</hi>.</note> Teobaldi Gundrea nomine sed in palam vocata <app>
-                            <lem>Sibilla</lem>
-                            <rdg wit="#D #a">Sibylla</rdg>
-                        </app>
-                    </persName>. Unde sunt testes <sic>domnus</sic>
-                    <persName key="d1e18029" xml:id="d1e146916">Constantinus <orgName key="stutzmann_himanis#283960" xml:id="d1e146918" corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)">Ungiaci</orgName>
-                        abbas</persName> et <persName key="d1e18035" xml:id="d1e146922">Girardus
-                        canonicus</persName>, <persName key="d1e18041" xml:id="d1e146925">Robertus
-                        de <placeName key="stutzmann_himanis#324361" xml:id="d1e146927" corresp="Saint-Beury (Côte-d'Or, Semur-en-Auxois)">Sancto
-                            Burri</placeName> ejusdem domine<note> Dominae <hi rend="italic">D</hi>,
-                            Dominę <hi rend="italic">a</hi>.</note> frater</persName>
-                    <app>
-                        <lem>
-                            <witEnd wit="#D #a" />
-                            <witDetail wit="#D #a">Suite remplacée par "etc."</witDetail>
-                        </lem>
-                    </app>. <hi rend="background(green)">Alia quoque vice</hi> eadem <persName key="d1e18047" xml:id="d1e146948">uxor Teobaldi</persName> et eorum
-                        <persName key="d1e18053" xml:id="d1e146952">filia Luca</persName> nomine
-                    laudaverunt et concesserunt predictum donum. Unde sunt testes <app>
-                        <lem>
-                            <witStart wit="#D #a" />
-                        </lem>
-                    </app>
-                    <persName key="d1e18060" xml:id="d1e146958">Hebalus comes <placeName key="stutzmann_himanis#101083" xml:id="d1e146960" corresp="Saulx-le-Duc (Côte-d'Or, Is-sur-Tille)">Salci castri</placeName>
-                    </persName>, <persName key="d1e18066" xml:id="d1e146963">Rainerus de <placeName key="stutzmann_himanis#323218" xml:id="d1e146965" corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frolesio</placeName>
-                    </persName>, <persName key="d1e18072" xml:id="d1e146968">Bertalphus</persName>
-                    et <persName key="d1e18078" xml:id="d1e146971">Herlebaldus de <placeName key="stutzmann_himanis#82732" xml:id="d1e146973" corresp="Grancey (Côte-d'Or, Dijon, Is-sur-Tille)">Granceio</placeName>
-                    </persName>, <persName key="d1e18084" xml:id="d1e146977">Hugo de <placeName key="stutzmann_himanis#325052" xml:id="d1e146979" corresp="Vileflor">
-                            <foreign>Vileflor</foreign>
-                        </placeName>
-                    </persName>, <persName key="d1e18090" xml:id="d1e146983">Haimo de <placeName key="stutzmann_himanis#324357" xml:id="d1e146985" corresp="Salives (Côte-d'Or, Is-sur-Tille)">Saliva</placeName>
-                    </persName>
-                    <app>
-                        <lem>
-                            <witEnd wit="#a" />
-                            <witDetail wit="#a">Suite remplacée par "etc."</witDetail>
-                        </lem>
-                    </app>, <persName key="d1e18097" xml:id="d1e146993">Hulduinus de <placeName key="stutzmann_himanis#323218" xml:id="d1e146995" corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frolesio</placeName>
-                    </persName>. Habuerunt autem pro hoc dono de beneficio <orgName key="stutzmann_himanis#282689" xml:id="d1e146998" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
-                    <persName key="d1e18103" xml:id="d1e147000">Teobaldus</persName> decem libras et
-                        <persName key="d1e18109" xml:id="d1e147003">uxor ejus</persName>
-                    <hi rend="smallcaps">xl</hi>
-                    <hi rend="superscript">a</hi> solidos et sex oves cum totidem agnis, et
-                        <persName key="d1e18115" xml:id="d1e147011">Robertus de <placeName key="stutzmann_himanis#324361" xml:id="d1e147013" corresp="Saint-Beury (Côte-d'Or, Semur-en-Auxois)">Sancto Burri</placeName>
-                    </persName>
-                    <hi rend="smallcaps">lxx</hi>
-                    <hi rend="superscript">a</hi> solidos et <persName key="d1e18121" xml:id="d1e147020">Odo <foreign>Bolguerels</foreign>
-                    </persName>
-                    <num>xx</num>
-                    <hi rend="superscript">ti</hi> solidos.</p>
+                </persName>. Unde sunt testes <sic>domnus</sic>
+                <persName key="stutzmann_himanis#325478" xml:id="d1e146916"
+                    corresp="Constantin, abbé d'Oigny (fl. 1142)">Constantinus <orgName
+                        key="stutzmann_himanis#283960" xml:id="d1e146918"
+                        corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)"
+                        >Ungiaci</orgName> abbas</persName> et <persName
+                    key="stutzmann_himanis#366998" xml:id="d1e146922"
+                    corresp="Gerard, chanoine d'Oigny (fl. ante 1143)">Girardus
+                canonicus</persName>, <persName key="d1e18041" xml:id="d1e146925">Robertus de
+                        <placeName key="stutzmann_himanis#324361" xml:id="d1e146927"
+                        corresp="Saint-Beury (Côte-d'Or, Semur-en-Auxois)">Sancto Burri</placeName>
+                    ejusdem domine<note> Dominae <hi rend="italic">D</hi>, Dominę <hi rend="italic"
+                            >a</hi>.</note> frater</persName>
+                <app>
+                    <lem>
+                        <witEnd wit="#D #a"/>
+                        <witDetail wit="#D #a">Suite remplacée par "etc."</witDetail>
+                    </lem>
+                </app>. <hi rend="background(green)">Alia quoque vice</hi> eadem <persName
+                    key="d1e18047" xml:id="d1e146948">uxor Teobaldi</persName> et eorum <persName
+                    key="d1e18053" xml:id="d1e146952">filia Luca</persName> nomine laudaverunt et
+                concesserunt predictum donum. Unde sunt testes <app>
+                    <lem>
+                        <witStart wit="#D #a"/>
+                    </lem>
+                </app>
+                <persName key="d1e18060" xml:id="d1e146958">Hebalus comes <placeName
+                        key="stutzmann_himanis#101083" xml:id="d1e146960"
+                        corresp="Saulx-le-Duc (Côte-d'Or, Is-sur-Tille)">Salci castri</placeName>
+                </persName>, <persName key="d1e18066" xml:id="d1e146963">Rainerus de <placeName
+                        key="stutzmann_himanis#323218" xml:id="d1e146965"
+                        corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frolesio</placeName>
+                </persName>, <persName key="d1e18072" xml:id="d1e146968">Bertalphus</persName> et
+                    <persName key="d1e18078" xml:id="d1e146971">Herlebaldus de <placeName
+                        key="stutzmann_himanis#82732" xml:id="d1e146973"
+                        corresp="Grancey (Côte-d'Or, Dijon, Is-sur-Tille)">Granceio</placeName>
+                </persName>, <persName key="d1e18084" xml:id="d1e146977">Hugo de <placeName
+                        key="stutzmann_himanis#325052" xml:id="d1e146979" corresp="Vileflor">
+                        <foreign>Vileflor</foreign>
+                    </placeName>
+                </persName>, <persName key="d1e18090" xml:id="d1e146983">Haimo de <placeName
+                        key="stutzmann_himanis#324357" xml:id="d1e146985"
+                        corresp="Salives (Côte-d'Or, Is-sur-Tille)">Saliva</placeName>
+                </persName>
+                <app>
+                    <lem>
+                        <witEnd wit="#a"/>
+                        <witDetail wit="#a">Suite remplacée par "etc."</witDetail>
+                    </lem>
+                </app>, <persName key="d1e18097" xml:id="d1e146993">Hulduinus de <placeName
+                        key="stutzmann_himanis#323218" xml:id="d1e146995"
+                        corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frolesio</placeName>
+                </persName>. Habuerunt autem pro hoc dono de beneficio <orgName
+                    key="stutzmann_himanis#282689" xml:id="d1e146998"
+                    corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
+                <persName key="stutzmann_himanis#367060" xml:id="d1e147000"
+                    corresp="Thibaud de Salives (fl. ante 1143), Teobaudus de Saliva"
+                    >Teobaldus</persName> decem libras et <persName key="d1e18109"
+                    xml:id="d1e147003">uxor ejus</persName>
+                <hi rend="smallcaps">xl</hi>
+                <hi rend="superscript">a</hi> solidos et sex oves cum totidem agnis, et <persName
+                    key="d1e18115" xml:id="d1e147011">Robertus de <placeName
+                        key="stutzmann_himanis#324361" xml:id="d1e147013"
+                        corresp="Saint-Beury (Côte-d'Or, Semur-en-Auxois)">Sancto Burri</placeName>
+                </persName>
+                <hi rend="smallcaps">lxx</hi>
+                <hi rend="superscript">a</hi> solidos et <persName key="d1e18121" xml:id="d1e147020"
+                    >Odo <foreign>Bolguerels</foreign>
+                </persName>
+                <num>xx</num>
+                <hi rend="superscript">ti</hi> solidos.</p>
                 <p n="9">
-                    <hi rend="red">
-                        <num>ix</num>
-                    </hi>
-                    <supplied>De dono Hugonis ducis Burgundie</supplied>. <app>
-                        <lem>
-                            <witStart wit="&quot;D #a" />
-                            <witDetail wit="#D">fol. 278v</witDetail>
-                            <witDetail wit="#a">p. 547, n° 105</witDetail>
-                        </lem>
+                <hi rend="red">
+                    <num>ix</num>
+                </hi>
+                <supplied>De dono Hugonis ducis Burgundie</supplied>. <app>
+                    <lem>
+                        <witStart wit="&quot;D #a"/>
+                        <witDetail wit="#D">fol. 278v</witDetail>
+                        <witDetail wit="#a">p. 547, n° 105</witDetail>
+                    </lem>
+                </app>
+                <persName key="stutzmann_himanis#324644" xml:id="d1e147043"
+                    corresp="Hugues II, duc de Bourgogne (1103-1143)">Hugo dux <placeName
+                        key="stutzmann_himanis#325098" xml:id="d1e147045" corresp="Bourgogne"
+                        >Burgundie</placeName>
+                </persName>, laudante ducissa <persName key="d1e18127" xml:id="d1e147048">Matilde
+                    uxore sua</persName>, dedit in <app>
+                    <lem>elemosinam</lem>
+                    <rdg wit="#a">eleemosynam</rdg>
+                </app> ecclesie sancte Marie de <orgName key="stutzmann_himanis#282689"
+                    xml:id="d1e147057" corresp="abbaye Notre-Dame de Fontenay (1119 -)"
+                    >Fonteneto</orgName> quicquid habebat apud <placeName
+                    key="stutzmann_himanis#324343" xml:id="d1e147061"
+                    corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteolum
+                    Francum</placeName>. Descendebat autem idem locus de dominio <placeName
+                    key="stutzmann_himanis#324459" xml:id="d1e147064"
+                    corresp="Grignon (Côte-d'Or, Montbard)">Grinonis castri</placeName> cujus
+                    <persName key="stutzmann_himanis#324644" xml:id="d1e147067"
+                    corresp="Hugues II, duc de Bourgogne (1103-1143)">ipse dux</persName> erat
+                dominus.     Hujus doni testes sunt <persName key="d1e18134" xml:id="d1e147070"
+                    >Tecelinus <app>
+                        <lem>archipresbiter</lem>
+                        <rdg wit="#a">archipresbyter</rdg>
                     </app>
-                    <persName key="stutzmann_himanis#324644" xml:id="d1e147043" corresp="Hugues II, duc de Bourgogne (1103-1143)">Hugo dux <placeName key="stutzmann_himanis#325098" xml:id="d1e147045" corresp="Bourgogne">Burgundie</placeName>
-                    </persName>, laudante ducissa <persName key="d1e18127" xml:id="d1e147048">Matilde uxore sua</persName>, dedit in <app>
-                        <lem>elemosinam</lem>
-                        <rdg wit="#a">eleemosynam</rdg>
-                    </app> ecclesie sancte Marie de <orgName key="stutzmann_himanis#282689" xml:id="d1e147057" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> quicquid habebat apud <placeName key="stutzmann_himanis#324343" xml:id="d1e147061" corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteolum Francum</placeName>. Descendebat autem idem
-                    locus de dominio <placeName key="stutzmann_himanis#324459" xml:id="d1e147064" corresp="Grignon (Côte-d'Or, Montbard)">Grinonis
-                        castri</placeName> cujus <persName key="stutzmann_himanis#324644" xml:id="d1e147067" corresp="Hugues II, duc de Bourgogne (1103-1143)">ipse dux</persName> erat dominus.     Hujus doni testes sunt <persName key="d1e18134" xml:id="d1e147070">Tecelinus <app>
-                            <lem>archipresbiter</lem>
-                            <rdg wit="#a">archipresbyter</rdg>
+                    <placeName key="stutzmann_himanis#325250" xml:id="d1e147079" corresp="Ajennaci"
+                        >Ajennaci</placeName>
+                </persName>, ubi et hoc actum est, <persName key="d1e18140" xml:id="d1e147083">Hugo
+                    Cavalgeia</persName>, <persName key="d1e18146" xml:id="d1e147087">Bartholomeus
+                    de <placeName key="stutzmann_himanis#324369" xml:id="d1e147089"
+                        corresp="Sombernon (Côte-d'Or, Talant)">
+                        <foreign>Sumbernun</foreign>
+                    </placeName>
+                </persName>, <persName key="d1e18152" xml:id="d1e147093">Petrus de <placeName
+                        key="stutzmann_himanis#324444" xml:id="d1e147095"
+                        corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">
+                        <app>
+                            <lem>Eschaloio</lem>
+                            <rdg wit="#a">Escaloio</rdg>
                         </app>
-                        <placeName key="stutzmann_himanis#325250" xml:id="d1e147079" corresp="Ajennaci">Ajennaci</placeName>
-                    </persName>, ubi et hoc actum est, <persName key="d1e18140" xml:id="d1e147083">Hugo Cavalgeia</persName>, <persName key="d1e18146" xml:id="d1e147087">Bartholomeus de <placeName key="stutzmann_himanis#324369" xml:id="d1e147089" corresp="Sombernon (Côte-d'Or, Talant)">
-                            <foreign>Sumbernun</foreign>
-                        </placeName>
-                    </persName>, <persName key="d1e18152" xml:id="d1e147093">Petrus de <placeName key="stutzmann_himanis#324444" xml:id="d1e147095" corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">
-                            <app>
-                                <lem>Eschaloio</lem>
-                                <rdg wit="#a">Escaloio</rdg>
-                            </app>
-                        </placeName> major</persName>, <persName key="d1e18158" xml:id="d1e147103">Constantius <app>
-                            <lem>prepositus</lem>
-                            <rdg wit="#a">prępositus</rdg>
-                        </app>
-                        <placeName key="stutzmann_himanis#324480" xml:id="d1e147110" corresp="Mauvilly (Côte-d'Or, Châtillon-sur-Seine)">Maveli</placeName>
-                    </persName>
-                    <app>
-                        <lem>
-                            <witEnd wit="#D #a" />
-                        </lem>
-                    </app>.</p>
+                    </placeName> major</persName>, <persName key="d1e18158" xml:id="d1e147103"
+                    >Constantius <app>
+                        <lem>prepositus</lem>
+                        <rdg wit="#a">prępositus</rdg>
+                    </app>
+                    <placeName key="stutzmann_himanis#324480" xml:id="d1e147110"
+                        corresp="Mauvilly (Côte-d'Or, Châtillon-sur-Seine)">Maveli</placeName>
+                </persName>
+                <app>
+                    <lem>
+                        <witEnd wit="#D #a"/>
+                    </lem>
+                </app>.</p>
                 <p n="10">
                     <hi rend="red">
                         <num>x</num>
