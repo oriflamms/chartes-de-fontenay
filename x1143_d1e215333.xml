@@ -654,30 +654,39 @@
                     corresp="Oigny (Côte-d'Or, Châtillon-sur-Seine)">Ungiacum</placeName>, <persName
                     key="stutzmann_himanis#367042" xml:id="d1e146862"
                     corresp="Hugues de Bourgogne (1122-1171), le Roux, seigneur du Châtelet-Chalon et de Meursault"
-                    >Hugo ejusdem ducis filius</persName>, <persName key="d1e17986"
-                    xml:id="d1e146865">Garnerius de <placeName key="stutzmann_himanis#324369"
-                        xml:id="d1e146867" corresp="Sombernon (Côte-d'Or, Talant)">
+                    >Hugo ejusdem ducis filius</persName>, <persName key="stutzmann_himanis#367062"
+                    xml:id="d1e146865" corresp="Garnier de Sombernon (fl. ante 1143)">Garnerius de
+                        <placeName key="stutzmann_himanis#324369" xml:id="d1e146867"
+                        corresp="Sombernon (Côte-d'Or, Talant)">
                         <foreign>Sumbernun</foreign>
                     </placeName>
-                </persName>, <persName key="d1e17992" xml:id="d1e146871">Rainerius de <placeName
+                </persName>, <persName key="stutzmann_himanis#325560" xml:id="d1e146871"
+                    corresp="Renier de la Roche (fl. 1136)">Rainerius de <placeName
                         key="stutzmann_himanis#324353" xml:id="d1e146873"
                         corresp="La Roche-Vanneau (Côte-d'Or, Montbard)">Rochia</placeName>
-                </persName>, <persName key="d1e17998" xml:id="d1e146877">Johannes de <placeName
-                        key="stutzmann_himanis#324349" xml:id="d1e146879"
+                </persName>, <persName key="stutzmann_himanis#367064" xml:id="d1e146877"
+                    corresp="Jean de Quincy (-le-Vicomte) (fl. ante 1143), Johannes de Quintiaco"
+                    >Johannes de <placeName key="stutzmann_himanis#324349" xml:id="d1e146879"
                         corresp="Quincy-le-Vicomte (Côte-d'Or, Montbard)">Quintiaco</placeName>
-                </persName>, <persName key="d1e18004" xml:id="d1e146882">Gerardus de <placeName
-                        key="stutzmann_himanis#324426" xml:id="d1e146884"
+                </persName>, <persName key="stutzmann_himanis#367066" xml:id="d1e146882"
+                    corresp="Gerard de Châtillon (-sur-Seine) (fl. ante 1143), Gerardus de Castellione"
+                    >Gerardus de <placeName key="stutzmann_himanis#324426" xml:id="d1e146884"
                         corresp="Châtillon-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)"
                         >Castellione</placeName>
                 </persName> qui predicti <persName key="stutzmann_himanis#367060" xml:id="d1e146887"
                     corresp="Thibaud de Salives (fl. ante 1143), Teobaudus de Saliva"
-                    >Teobaudi</persName> fuerat sororius, <persName key="d1e18016"
-                    xml:id="d1e146890">Rainaldus <placeName key="stutzmann_himanis#82732"
-                        xml:id="d1e146892" corresp="Grancey (Côte-d'Or, Dijon, Is-sur-Tille)"
-                        >Grancei castri</placeName> dominus</persName>. Hoc donum laudavit et
-                concessit <persName key="d1e18023" xml:id="d1e146896">uxor sepedicti<note> saep- <hi
-                            rend="italic">D</hi>, sęp- <hi rend="italic">a</hi>.</note> Teobaldi
-                    Gundrea nomine sed in palam vocata <app>
+                    >Teobaudi</persName> fuerat sororius, <persName key="stutzmann_himanis#367069"
+                    xml:id="d1e146890" corresp="Renaud, seigneur de Grancey (fl. ante 1143)"
+                    >Rainaldus <placeName key="stutzmann_himanis#82732" xml:id="d1e146892"
+                        corresp="Grancey (Côte-d'Or, Dijon, Is-sur-Tille)">Grancei
+                        castri</placeName> dominus</persName>. Hoc donum laudavit et concessit
+                    <persName key="stutzmann_himanis#367071" xml:id="d1e146896"
+                    corresp="Gundrea, dite Sibylle, épouse de Thibaud de Salives (fl. ante 1143), Gundrea, dicta Sibilla"
+                    >uxor <persName key="stutzmann_himanis#367060" xml:id=""
+                        corresp="Thibaud de Salives (fl. ante 1143), Teobaudus de Saliva"
+                            >sepedicti<note> saep- <hi rend="italic">D</hi>, sęp- <hi rend="italic"
+                                >a</hi>.</note> Teobaldi</persName> Gundrea nomine sed in palam
+                    vocata <app>
                         <lem>Sibilla</lem>
                         <rdg wit="#D #a">Sibylla</rdg>
                     </app>
@@ -689,8 +698,9 @@
                         >Ungiaci</orgName> abbas</persName> et <persName
                     key="stutzmann_himanis#366998" xml:id="d1e146922"
                     corresp="Gerard, chanoine d'Oigny (fl. ante 1143)">Girardus
-                canonicus</persName>, <persName key="d1e18041" xml:id="d1e146925">Robertus de
-                        <placeName key="stutzmann_himanis#324361" xml:id="d1e146927"
+                canonicus</persName>, <persName key="stutzmann_himanis#367073" xml:id="d1e146925"
+                    corresp="Robert de Saint-Beury (fl. ante 1143), Robertus de Sancto Burri"
+                    >Robertus de <placeName key="stutzmann_himanis#324361" xml:id="d1e146927"
                         corresp="Saint-Beury (Côte-d'Or, Semur-en-Auxois)">Sancto Burri</placeName>
                     ejusdem domine<note> Dominae <hi rend="italic">D</hi>, Dominę <hi rend="italic"
                             >a</hi>.</note> frater</persName>
@@ -700,18 +710,24 @@
                         <witDetail wit="#D #a">Suite remplacée par "etc."</witDetail>
                     </lem>
                 </app>. <hi rend="background(green)">Alia quoque vice</hi> eadem <persName
-                    key="d1e18047" xml:id="d1e146948">uxor Teobaldi</persName> et eorum <persName
-                    key="d1e18053" xml:id="d1e146952">filia Luca</persName> nomine laudaverunt et
-                concesserunt predictum donum. Unde sunt testes <app>
+                    key="stutzmann_himanis#367071" xml:id="d1e146948"
+                    corresp="Gundrea, dite Sibylle, épouse de Thibaud de Salives (fl. ante 1143), Gundrea, dicta Sibilla"
+                    >uxor Teobaldi</persName> et eorum <persName key="stutzmann_himanis#367075"
+                    xml:id="d1e146952"
+                    corresp="Luce, fille de Thibaud de Salives et de Gundrea (fl. ante 1143)">filia
+                    Luca</persName> nomine laudaverunt et concesserunt predictum donum. Unde sunt
+                testes <app>
                     <lem>
                         <witStart wit="#D #a"/>
                     </lem>
                 </app>
-                <persName key="d1e18060" xml:id="d1e146958">Hebalus comes <placeName
-                        key="stutzmann_himanis#101083" xml:id="d1e146960"
+                <persName key="stutzmann_himanis#367080" xml:id="d1e146958"
+                    corresp="Ebles de Saulx (c. 1070 - c. 1140), Hebalus comes Salci Castri">Hebalus
+                    comes <placeName key="stutzmann_himanis#101083" xml:id="d1e146960"
                         corresp="Saulx-le-Duc (Côte-d'Or, Is-sur-Tille)">Salci castri</placeName>
-                </persName>, <persName key="d1e18066" xml:id="d1e146963">Rainerus de <placeName
-                        key="stutzmann_himanis#323218" xml:id="d1e146965"
+                </persName>, <persName key="stutzmann_himanis#367078" xml:id="d1e146963"
+                    corresp="Renier de Frôlois (fl. 1143), Rainerus de Frolesio">Rainerus de
+                        <placeName key="stutzmann_himanis#323218" xml:id="d1e146965"
                         corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frolesio</placeName>
                 </persName>, <persName key="d1e18072" xml:id="d1e146968">Bertalphus</persName> et
                     <persName key="d1e18078" xml:id="d1e146971">Herlebaldus de <placeName
@@ -738,12 +754,15 @@
                     corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
                 <persName key="stutzmann_himanis#367060" xml:id="d1e147000"
                     corresp="Thibaud de Salives (fl. ante 1143), Teobaudus de Saliva"
-                    >Teobaldus</persName> decem libras et <persName key="d1e18109"
-                    xml:id="d1e147003">uxor ejus</persName>
+                    >Teobaldus</persName> decem libras et <persName key="stutzmann_himanis#367071"
+                    xml:id="d1e147003"
+                    corresp="Gundrea, dite Sibylle, épouse de Thibaud de Salives (fl. ante 1143), Gundrea, dicta Sibilla"
+                    >uxor ejus</persName>
                 <hi rend="smallcaps">xl</hi>
                 <hi rend="superscript">a</hi> solidos et sex oves cum totidem agnis, et <persName
-                    key="d1e18115" xml:id="d1e147011">Robertus de <placeName
-                        key="stutzmann_himanis#324361" xml:id="d1e147013"
+                    key="stutzmann_himanis#367073" xml:id="d1e147011"
+                    corresp="Robert de Saint-Beury (fl. ante 1143), Robertus de Sancto Burri"
+                    >Robertus de <placeName key="stutzmann_himanis#324361" xml:id="d1e147013"
                         corresp="Saint-Beury (Côte-d'Or, Semur-en-Auxois)">Sancto Burri</placeName>
                 </persName>
                 <hi rend="smallcaps">lxx</hi>
