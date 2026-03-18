@@ -682,7 +682,7 @@
                         castri</placeName> dominus</persName>. Hoc donum laudavit et concessit
                     <persName key="stutzmann_himanis#367071" xml:id="d1e146896"
                     corresp="Gundrea, dite Sibylle, épouse de Thibaud de Salives (fl. ante 1143), Gundrea, dicta Sibilla"
-                    >uxor <persName key="stutzmann_himanis#367060" xml:id=""
+                    >uxor <persName key="stutzmann_himanis#367060"
                         corresp="Thibaud de Salives (fl. ante 1143), Teobaudus de Saliva"
                             >sepedicti<note> saep- <hi rend="italic">D</hi>, sęp- <hi rend="italic"
                                 >a</hi>.</note> Teobaldi</persName> Gundrea nomine sed in palam
@@ -834,53 +834,134 @@
                     </lem>
                 </app>.</p>
                 <p n="10">
-                    <hi rend="red">
-                        <num>x</num>
-                    </hi>
-                    <supplied>De dono Petri Mairels</supplied>. <persName key="d1e18164" xml:id="d1e147123">Petrus <foreign>Mairels</foreign>
-                    </persName> dedit ecclesie sancte Marie de <orgName key="stutzmann_himanis#282689" xml:id="d1e147128" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneto</orgName> quicquid habebat apud <placeName key="stutzmann_himanis#324343" xml:id="d1e147131" corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteolum Francum</placeName> et
-                    nichil penitus inibi retinuit. Promisit autem <hi rend="background(green)">sub
-                        jurejurando quod super altari <orgName key="stutzmann_himanis#283960" xml:id="d1e147136" corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)">Ungiaci</orgName>
-                    </hi> fecit quod nunquam aliquid ibidem amplius calumpniaretur vel haberet.
-                    Hujus rei testes sunt abbates <persName key="stutzmann_himanis#324676" xml:id="d1e147140" corresp="Ainon, abbé de Flavigny (av. 1142-1149)">Agano <orgName key="stutzmann_himanis#284217" xml:id="d1e147142" corresp="abbaye Saint-Pierre et Saint-Prix de Flavigny">Flaviniacensis</orgName>
-                    </persName>, <persName key="d1e18171" xml:id="d1e147145">Constantinus <orgName key="stutzmann_himanis#283960" xml:id="d1e147147" corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)">Ungiacensis</orgName>
-                    </persName>, <persName key="stutzmann_himanis#324644" xml:id="d1e147150" corresp="Hugues II, duc de Bourgogne (1103-1143)">Hugo dux
-                            <placeName key="stutzmann_himanis#325098" xml:id="d1e147152" corresp="Bourgogne">Burgundie</placeName>
-                    </persName> cujus ille homo erat et per quam hoc factum est, <persName key="d1e18177" xml:id="d1e147155">Pontius de <placeName key="stutzmann_himanis#323218" xml:id="d1e147157" corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frollesio</placeName>
-                    </persName>, <persName key="d1e18183" xml:id="d1e147160">Girardus de <placeName key="stutzmann_himanis#324426" xml:id="d1e147162" corresp="Châtillon-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)">Castellione</placeName>
-                    </persName>, <persName key="d1e18189" xml:id="d1e147165">Odo
-                            <foreign>Boguerels</foreign>
-                    </persName>, <persName key="d1e18195" xml:id="d1e147171">Galterius frater
-                        ejus</persName>, <persName key="d1e18201" xml:id="d1e147174">Oliverius de
-                            <placeName key="stutzmann_himanis#323218" xml:id="d1e147176" corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frolesio</placeName>
-                    </persName>, <persName key="d1e18208" xml:id="d1e147179">Odo de <placeName key="stutzmann_himanis#324452" xml:id="d1e147181" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanis</placeName>
-                    </persName>.   <hi rend="background(green)">Ad juramentum</hi> fuerunt <persName key="d1e18214" xml:id="d1e147187">Girardus de <placeName key="stutzmann_himanis#324426" xml:id="d1e147189" corresp="Châtillon-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)">Castellione</placeName>
-                    </persName>, <persName key="d1e18220" xml:id="d1e147192">Pontius de <placeName key="stutzmann_himanis#323218" xml:id="d1e147194" corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frolesio</placeName>
-                    </persName>, <persName key="d1e18226" xml:id="d1e147198">Odo
-                            <foreign>Boguerels</foreign>
-                    </persName>, <persName key="d1e18232" xml:id="d1e147203">Odo de <placeName key="stutzmann_himanis#324452" xml:id="d1e147205" corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)">Fontanis</placeName>
-                    </persName>. Pro hac re habuit de rebus <orgName key="stutzmann_himanis#282689" xml:id="d1e147208" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> predictus <persName key="d1e18238" xml:id="d1e147211">Petrus</persName>
-                    <hi rend="smallcaps">lx</hi>
-                    <hi rend="superscript">a</hi> solidos.    Hoc donum laudavit <persName key="d1e18245" xml:id="d1e147218">uxor ejus Petronilla</persName>. Unde sunt
-                    testes <persName key="d1e18251" xml:id="d1e147222">Girardus de <placeName key="stutzmann_himanis#324426" xml:id="d1e147224" corresp="Châtillon-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)">Castellione</placeName>
-                    </persName>, <persName key="d1e18257" xml:id="d1e147227">Rocelinus de <placeName key="stutzmann_himanis#324442" xml:id="d1e147229" corresp="Duesme (Côte-d'Or, Châtillon-sur-Seine)">Duismo</placeName>
-                    </persName>, <persName key="d1e18263" xml:id="d1e147232">Galterius prepositus
-                            <placeName key="stutzmann_himanis#324426" xml:id="d1e147234" corresp="Châtillon-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)">Castellionis</placeName>
-                    </persName>, <persName key="d1e18269" xml:id="d1e147237">Petrus de <placeName key="stutzmann_himanis#324444" xml:id="d1e147239" corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">Eschaloio</placeName>
-                    </persName> et <persName key="d1e18275" xml:id="d1e147242">Humbertus filius
-                        ejus</persName>.</p>
+                <hi rend="red">
+                    <num>x</num>
+                </hi>
+                <supplied>De dono Petri Mairels</supplied>. <persName key="stutzmann_himanis#367000"
+                    xml:id="d1e147123" corresp="Pierre Mairels, Petrus Maireldus">Petrus
+                        <foreign>Mairels</foreign>
+                </persName> dedit ecclesie sancte Marie de <orgName key="stutzmann_himanis#282689"
+                    xml:id="d1e147128" corresp="abbaye Notre-Dame de Fontenay (1119 -)"
+                    >Fonteneto</orgName> quicquid habebat apud <placeName
+                    key="stutzmann_himanis#324343" xml:id="d1e147131"
+                    corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteolum
+                    Francum</placeName> et nichil penitus inibi retinuit. Promisit autem <hi
+                    rend="background(green)">sub jurejurando quod super altari <orgName
+                        key="stutzmann_himanis#283960" xml:id="d1e147136"
+                        corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)"
+                        >Ungiaci</orgName>
+                </hi> fecit quod nunquam aliquid ibidem amplius calumpniaretur vel haberet. Hujus
+                rei testes sunt abbates <persName key="stutzmann_himanis#324676" xml:id="d1e147140"
+                    corresp="Ainon, abbé de Flavigny (av. 1142-1149)">Agano <orgName
+                        key="stutzmann_himanis#284217" xml:id="d1e147142"
+                        corresp="abbaye Saint-Pierre et Saint-Prix de Flavigny"
+                        >Flaviniacensis</orgName>
+                </persName>, <persName key="stutzmann_himanis#325478" xml:id="d1e147145"
+                    corresp="Constantin, abbé d'Oigny (fl. 1142)">Constantinus <orgName
+                        key="stutzmann_himanis#283960" xml:id="d1e147147"
+                        corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)"
+                        >Ungiacensis</orgName>
+                </persName>, <persName key="stutzmann_himanis#324644" xml:id="d1e147150"
+                    corresp="Hugues II, duc de Bourgogne (1103-1143)">Hugo dux <placeName
+                        key="stutzmann_himanis#325098" xml:id="d1e147152" corresp="Bourgogne"
+                        >Burgundie</placeName>
+                </persName> cujus ille homo erat et per quam hoc factum est, <persName
+                    key="stutzmann_himanis#367082" xml:id="d1e147155"
+                    corresp="Ponce de Frôlois (fl. ante 1143), Pontius de Frollesio">Pontius de
+                        <placeName key="stutzmann_himanis#323218" xml:id="d1e147157"
+                        corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frollesio</placeName>
+                </persName>, <persName key="stutzmann_himanis#367066" xml:id="d1e147160"
+                    corresp="Gerard de Châtillon (-sur-Seine) (fl. ante 1143), Gerardus de Castellione"
+                    >Girardus de <placeName key="stutzmann_himanis#324426" xml:id="d1e147162"
+                        corresp="Châtillon-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)"
+                        >Castellione</placeName>
+                </persName>, <persName key="stutzmann_himanis#367084" xml:id="d1e147165"
+                    corresp="Eudes Boguerels, Odo Boguerels">Odo <foreign>Boguerels</foreign>
+                </persName>, <persName key="stutzmann_himanis#367085" xml:id="d1e147171"
+                    corresp="Gauthier, frère d'Eudes Boguerels">Galterius frater ejus</persName>,
+                    <persName key="stutzmann_himanis#367087" xml:id="d1e147174"
+                    corresp="Olivier de Frôlois, Oliverius de Frolesio">Oliverius de <placeName
+                        key="stutzmann_himanis#323218" xml:id="d1e147176"
+                        corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frolesio</placeName>
+                </persName>, <persName key="stutzmann_himanis#325688" xml:id="d1e147179"
+                    corresp="Eudes de Fontaines (fl. 1136)">Odo de <placeName
+                        key="stutzmann_himanis#324452" xml:id="d1e147181"
+                        corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)"
+                        >Fontanis</placeName>
+                </persName>.   <hi rend="background(green)">Ad juramentum</hi> fuerunt <persName
+                    key="stutzmann_himanis#367066" xml:id="d1e147187"
+                    corresp="Gerard de Châtillon (-sur-Seine) (fl. ante 1143), Gerardus de Castellione"
+                    >Girardus de <placeName key="stutzmann_himanis#324426" xml:id="d1e147189"
+                        corresp="Châtillon-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)"
+                        >Castellione</placeName>
+                </persName>, <persName key="stutzmann_himanis#367082" xml:id="d1e147192"
+                    corresp="Ponce de Frôlois (fl. ante 1143), Pontius de Frollesio">Pontius de
+                        <placeName key="stutzmann_himanis#323218" xml:id="d1e147194"
+                        corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frolesio</placeName>
+                </persName>, <persName key="stutzmann_himanis#367084" xml:id="d1e147198"
+                    corresp="Eudes Boguerels, Odo Boguerels">Odo <foreign>Boguerels</foreign>
+                </persName>, <persName key="stutzmann_himanis#325688" xml:id="d1e147203"
+                    corresp="Eudes de Fontaines (fl. 1136)">Odo de <placeName
+                        key="stutzmann_himanis#324452" xml:id="d1e147205"
+                        corresp="Fontaines-en-Duesmois (Côte-d'Or, Châtillon-sur-Seine)"
+                        >Fontanis</placeName>
+                </persName>. Pro hac re habuit de rebus <orgName key="stutzmann_himanis#282689"
+                    xml:id="d1e147208" corresp="abbaye Notre-Dame de Fontenay (1119 -)"
+                    >Fonteneti</orgName> predictus <persName key="stutzmann_himanis#367000"
+                    xml:id="d1e147211" corresp="Pierre Mairels, Petrus Maireldus">Petrus</persName>
+                <hi rend="smallcaps">lx</hi>
+                <hi rend="superscript">a</hi> solidos.    Hoc donum laudavit <persName
+                    key="stutzmann_himanis#367089" xml:id="d1e147218"
+                    corresp="Pétronille, épouse de Pierre Mairels, Petronilla uxor Petri Maireldi"
+                    >uxor ejus Petronilla</persName>. Unde sunt testes <persName
+                    key="stutzmann_himanis#367066" xml:id="d1e147222"
+                    corresp="Gerard de Châtillon (-sur-Seine) (fl. ante 1143), Gerardus de Castellione"
+                    >Girardus de <placeName key="stutzmann_himanis#324426" xml:id="d1e147224"
+                        corresp="Châtillon-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)"
+                        >Castellione</placeName>
+                </persName>, <persName key="stutzmann_himanis#367091" xml:id="d1e147227"
+                    corresp="Rocelin de Duesme (fl. ante 1143), Rocelinus de Duismo">Rocelinus de
+                        <placeName key="stutzmann_himanis#324442" xml:id="d1e147229"
+                        corresp="Duesme (Côte-d'Or, Châtillon-sur-Seine)">Duismo</placeName>
+                </persName>, <persName key="stutzmann_himanis#367066" xml:id="d1e147232"
+                    corresp="Gerard de Châtillon (-sur-Seine) (fl. ante 1143), Gerardus de Castellione"
+                    >Galterius prepositus <placeName key="stutzmann_himanis#324426"
+                        xml:id="d1e147234"
+                        corresp="Châtillon-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)"
+                        >Castellionis</placeName>
+                </persName><note>L'ordre des témoins permet de supposer que <q>Galterius prepositus
+                        Castellionis</q> est le frère Gauthier de Rocelin de Duesme.</note>,
+                    <persName key="stutzmann_himanis#367001" xml:id="d1e147237"
+                    corresp="Pierre d'Echalot, Petrus de Eschaloio">Petrus de <placeName
+                        key="stutzmann_himanis#324444" xml:id="d1e147239"
+                        corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">Eschaloio</placeName>
+                </persName> et <persName key="stutzmann_himanis#367095" xml:id="d1e147242"
+                    corresp="Humbert, fils de Pierre d'Echallot (fl. ante 1143), Humbertus filius Petri de Eschaloio"
+                    >Humbertus filius ejus</persName>.</p>
                 <p n="11">
-                    <hi rend="red">
-                        <num>xi</num>
-                    </hi>
-                    <supplied>De dono Angerberti de Fraxino</supplied>. <persName key="d1e18282" xml:id="d1e147252">Emgebertus de <placeName key="stutzmann_himanis#324455" xml:id="d1e147254" corresp="Fresnes (Côte-d'Or, Montbard)">Fraxineto</placeName>
-                    </persName> dedit se ipsum et quicquid habebat apud <placeName key="stutzmann_himanis#324343" xml:id="d1e147257" corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteolum Francum</placeName>
-                    ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e147260" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>,
-                    laudante <persName key="d1e18288" xml:id="d1e147263">filio ejus
-                        Bricio</persName> et eadem ecclesia suscepit eum et procuravit usque ad
-                    mortem. De dono ejus et laude filii sunt testes <persName key="d1e18294" xml:id="d1e147267">Constantius presbiter</persName>, <persName key="d1e18300" xml:id="d1e147270">Henricus de <placeName key="stutzmann_himanis#324444" xml:id="d1e147272" corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">Eschaloio</placeName>
-                    </persName>, <persName key="d1e18306" xml:id="d1e147275">Teobaudus gener ejusdem
-                        Emgerberti</persName>.</p>
+                <hi rend="red">
+                    <num>xi</num>
+                </hi>
+                <supplied>De dono Angerberti de Fraxino</supplied>. <persName
+                    key="stutzmann_himanis#367097" xml:id="d1e147252"
+                    corresp="Emgerbert de Fresnes (fl. ante 1143), Angerberti de Fraxino, Emgebertus de Fraxineto, Emgerbertus"
+                    >Emgebertus de <placeName key="stutzmann_himanis#324455" xml:id="d1e147254"
+                        corresp="Fresnes (Côte-d'Or, Montbard)">Fraxineto</placeName>
+                </persName> dedit se ipsum et quicquid habebat apud <placeName
+                    key="stutzmann_himanis#324343" xml:id="d1e147257"
+                    corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteolum
+                    Francum</placeName> ecclesie <orgName key="stutzmann_himanis#282689"
+                    xml:id="d1e147260" corresp="abbaye Notre-Dame de Fontenay (1119 -)"
+                    >Fonteneti</orgName>, laudante <persName key="stutzmann_himanis#367099"
+                    xml:id="d1e147263"
+                    corresp="Brice, fils d'Emgerbert de Fresnes (fl. ante 1143), Bricius">filio ejus
+                    Bricio</persName> et eadem ecclesia suscepit eum et procuravit usque ad mortem.
+                De dono ejus et laude filii sunt testes <persName xml:id="d1e147267">Constantius
+                    presbiter</persName>, <persName key="notidentified" xml:id="d1e147270">Henricus
+                    de <placeName key="stutzmann_himanis#324444" xml:id="d1e147272"
+                        corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">Eschaloio</placeName>
+                </persName>, <persName key="d1e18306" xml:id="d1e147275">Teobaudus gener ejusdem
+                    Emgerberti</persName>.</p>
                 <p n="12">
                     <hi rend="red">
                         <num>xii</num>
@@ -892,58 +973,92 @@
                     </persName>, <persName key="d1e18331" xml:id="d1e147308">Amicus
                         clericus</persName>.</p>
                 <p n="13">
-                    <hi rend="red">
-                        <num>xiii</num>
-                    </hi>
-                    <supplied>De dono Girardi de Eschaloio</supplied>. <app>
-                        <lem>
-                            <witStart wit="#D #a" />
-                            <witDetail wit="#D">fol. 276r</witDetail>
-                            <witDetail wit="#a">p. 562 n° 121</witDetail>
-                        </lem>
-                    </app>
-                    <persName key="d1e18337" xml:id="d1e147325">Girardus de <placeName key="stutzmann_himanis#324444" xml:id="d1e147327" corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">Eschaloio</placeName>, sororius
-                            <persName key="d1e18343" xml:id="d1e147330">Girardi canonici</persName>
-                    </persName>, laudante <persName key="d1e18349" xml:id="d1e147333">uxore sua
-                        Rotrude</persName>, dedit ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e147336" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> quicquid habebat apud <placeName key="stutzmann_himanis#324343" xml:id="d1e147339" corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteolum Francum</placeName> et apud
-                        <placeName key="stutzmann_himanis#325040" xml:id="d1e147343" corresp="Vale Abonis">Vallem Abonis</placeName>
-                    <app>
-                        <lem>
-                            <witEnd wit="#D #a" />
-                            <witDetail wit="#D">fol. 276r</witDetail>
-                            <witDetail wit="#a">p. 562 n° 121</witDetail>
-                        </lem>
-                    </app>. Sed hoc ei monachi ejusdem ecclesie concesserunt ut si in nemore illo
-                    examen apum inveniret totum ejus esset. Pasturam quoque ejus propriis animalibus
-                    exceptis porcis, sed et ligna ad calefaciendum et edificandum domos
-                    concesserunt, ita tamen ut absque concessione <hi rend="background(green)">magistri grangie Puteoli</hi> materiam ad edificandum operari non
-                    presumeret, ne forte si inveniretur et nesciretur cujus esset concideretur.   
-                    Hujus doni testes sunt <persName key="d1e18356" xml:id="d1e147356">Petrus de
-                            <placeName key="stutzmann_himanis#324444" xml:id="d1e147358" corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">
-                            <sic>Eschalo</sic>
-                        </placeName>
-                    </persName>, <persName key="d1e18362" xml:id="d1e147362">Henricus</persName>,
-                        <persName key="d1e18368" xml:id="d1e147365">Hugo</persName> et <persName key="d1e18374" xml:id="d1e147369">Robertus</persName>. <hi rend="background(yellow)">Alia quoque vice fecit hoc donum</hi> presente
-                        <persName key="d1e18380" xml:id="d1e147375">abbate <orgName key="stutzmann_himanis#283960" xml:id="d1e147377" corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)">Ungiaci</orgName>
-                        Constantino</persName> et domino <persName key="d1e18386" xml:id="d1e147381">Girardo de <placeName key="stutzmann_himanis#324426" xml:id="d1e147383" corresp="Châtillon-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)">Castellione</placeName>
-                    </persName>, <persName key="d1e18393" xml:id="d1e147386">Henrico</persName> et
-                        <persName key="d1e18399" xml:id="d1e147389">Petro de <placeName key="stutzmann_himanis#324444" xml:id="d1e147391" corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">Eschaleio</placeName>
-                    </persName> et habuit de beneficio ecclesie pro hac re equam et alia quedam
-                    prius habuerat.</p>
+                <hi rend="red">
+                    <num>xiii</num>
+                </hi>
+                <supplied>De dono Girardi de Eschaloio</supplied>. <app>
+                    <lem>
+                        <witStart wit="#D #a"/>
+                        <witDetail wit="#D">fol. 276r</witDetail>
+                        <witDetail wit="#a">p. 562 n° 121</witDetail>
+                    </lem>
+                </app>
+                <persName key="d1e18337" xml:id="d1e147325">Girardus de <placeName
+                        key="stutzmann_himanis#324444" xml:id="d1e147327"
+                        corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">Eschaloio</placeName>,
+                    sororius <persName key="d1e18343" xml:id="d1e147330">Girardi canonici</persName>
+                </persName>, laudante <persName key="d1e18349" xml:id="d1e147333">uxore sua
+                    Rotrude</persName>, dedit ecclesie <orgName key="stutzmann_himanis#282689"
+                    xml:id="d1e147336" corresp="abbaye Notre-Dame de Fontenay (1119 -)"
+                    >Fonteneti</orgName> quicquid habebat apud <placeName
+                    key="stutzmann_himanis#324343" xml:id="d1e147339"
+                    corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteolum
+                    Francum</placeName> et apud <placeName key="stutzmann_himanis#325040"
+                    xml:id="d1e147343" corresp="Vaulebon (Côte d'Or)">Vallem Abonis</placeName>
+                <app>
+                    <lem>
+                        <witEnd wit="#D #a"/>
+                        <witDetail wit="#D">fol. 276r</witDetail>
+                        <witDetail wit="#a">p. 562 n° 121</witDetail>
+                    </lem>
+                </app>. Sed hoc ei monachi ejusdem ecclesie concesserunt ut si in nemore illo examen
+                apum inveniret totum ejus esset. Pasturam quoque ejus propriis animalibus exceptis
+                porcis, sed et ligna ad calefaciendum et edificandum domos concesserunt, ita tamen
+                ut absque concessione <hi rend="background(green)">magistri grangie Puteoli</hi>
+                materiam ad edificandum operari non presumeret, ne forte si inveniretur et
+                nesciretur cujus esset concideretur.    Hujus doni testes sunt <persName
+                    key="stutzmann_himanis#367001" xml:id="d1e147356"
+                    corresp="Pierre d'Echalot, Petrus de Eschaloio">Petrus de <placeName
+                        key="stutzmann_himanis#324444" xml:id="d1e147358"
+                        corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">
+                        <sic>Eschalo</sic>
+                    </placeName>
+                </persName>, <persName key="d1e18362" xml:id="d1e147362">Henricus</persName>,
+                    <persName key="d1e18368" xml:id="d1e147365">Hugo</persName> et <persName
+                    key="d1e18374" xml:id="d1e147369">Robertus</persName>. <hi
+                    rend="background(yellow)">Alia quoque vice fecit hoc donum</hi> presente
+                    <persName key="stutzmann_himanis#325478" xml:id="d1e147375"
+                    corresp="Constantin, abbé d'Oigny (fl. 1142)">abbate <orgName
+                        key="stutzmann_himanis#283960" xml:id="d1e147377"
+                        corresp="abbaye Notre-Dame, Saint-Laurent et Saint-Nicolas d'Oigny (1106 -)"
+                        >Ungiaci</orgName> Constantino</persName> et domino <persName key="d1e18386"
+                    xml:id="d1e147381">Girardo de <placeName key="stutzmann_himanis#324426"
+                        xml:id="d1e147383"
+                        corresp="Châtillon-sur-Seine (Côte-d'Or, Châtillon-sur-Seine)"
+                        >Castellione</placeName>
+                </persName>, <persName key="d1e18393" xml:id="d1e147386">Henrico</persName> et
+                    <persName key="stutzmann_himanis#367001" xml:id="d1e147389"
+                    corresp="Pierre d'Echalot, Petrus de Eschaloio">Petro de <placeName
+                        key="stutzmann_himanis#324444" xml:id="d1e147391"
+                        corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">Eschaleio</placeName>
+                </persName> et habuit de beneficio ecclesie pro hac re equam et alia quedam prius
+                habuerat.</p>
                 <p n="14">
-                    <hi rend="red">
-                        <num>xiiii</num>
-                    </hi>. <supplied>De dono Petri de Eschaloio qui dicebatur Garlandeis</supplied>
-                    <persName key="d1e18405" xml:id="d1e147401">Petrus de <placeName key="stutzmann_himanis#324444" xml:id="d1e147403" corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">Eschaloio</placeName> qui
-                        dicebatur <addName>
-                            <foreign>Garlandeis</foreign>
-                        </addName>
-                    </persName> dedit ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e147412" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> quicquid habebat apud <placeName key="stutzmann_himanis#324343" xml:id="d1e147415" corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteolum Francum</placeName> et se ipsum eidem ecclesie
-                    in conversione reddidit.    De dono ejus sunt testes <persName key="d1e18411" xml:id="d1e147418">Johannes carpentarius de <placeName key="stutzmann_himanis#324370" xml:id="d1e147420" corresp="Touillon (Côte-d'Or, Montbard)">Tullione</placeName>
-                    </persName>, <persName key="d1e18417" xml:id="d1e147424">Bartholomeus</persName>
-                    et <persName key="d1e18423" xml:id="d1e147427">Bencelinus de <placeName key="stutzmann_himanis#324475" xml:id="d1e147429" corresp="Marmagne (Côte-d'Or, Montbard)">Marmania</placeName>
-                    </persName> et <persName key="d1e18430" xml:id="d1e147432">Garnerius
-                        carpentarius</persName>.</p>
+                <hi rend="red">
+                    <num>xiiii</num>
+                </hi>. <supplied>De dono Petri de Eschaloio qui dicebatur Garlandeis</supplied>
+                <persName key="stutzmann_himanis#367095" xml:id="d1e147401"
+                    corresp="Humbert, fils de Pierre d'Echalot (fl. ante 1143), Humbertus filius Petri de Eschaloio"
+                    >Petrus de <placeName key="stutzmann_himanis#324444" xml:id="d1e147403"
+                        corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">Eschaloio</placeName> qui
+                    dicebatur <addName>
+                        <foreign>Garlandeis</foreign>
+                    </addName>
+                </persName> dedit ecclesie <orgName key="stutzmann_himanis#282689"
+                    xml:id="d1e147412" corresp="abbaye Notre-Dame de Fontenay (1119 -)"
+                    >Fonteneti</orgName> quicquid habebat apud <placeName
+                    key="stutzmann_himanis#324343" xml:id="d1e147415"
+                    corresp="Poiseul-la-Grange (Côte-d'Or, Is-sur-Tille)">Puteolum
+                    Francum</placeName> et se ipsum eidem ecclesie in conversione reddidit.    De
+                dono ejus sunt testes <persName key="d1e18411" xml:id="d1e147418">Johannes
+                    carpentarius de <placeName key="stutzmann_himanis#324370" xml:id="d1e147420"
+                        corresp="Touillon (Côte-d'Or, Montbard)">Tullione</placeName>
+                </persName>, <persName key="d1e18417" xml:id="d1e147424">Bartholomeus</persName> et
+                    <persName key="d1e18423" xml:id="d1e147427">Bencelinus de <placeName
+                        key="stutzmann_himanis#324475" xml:id="d1e147429"
+                        corresp="Marmagne (Côte-d'Or, Montbard)">Marmania</placeName>
+                </persName> et <persName key="d1e18430" xml:id="d1e147432">Garnerius
+                    carpentarius</persName>.</p>
                 <p n="15">
                     <hi rend="red">
                         <num>xv</num>
@@ -1175,8 +1290,7 @@
                     </persName>, <persName key="d1e19194" xml:id="d1e148141">Hugo de <placeName key="stutzmann_himanis#324362" xml:id="d1e148143" corresp="Aisy-sous-Thil (Côte-d'Or, Semur-en-Auxois)">
                             <foreign>Asi</foreign>
                         </placeName>
-                    </persName> et duo clientes, <persName key="d1e19200" xml:id="d1e148148">Gislebertus molendinarius et <hi rend="background(red)">saselinus</hi>
-                    </persName>.     Hoc sicut <persName key="d1e19207" xml:id="d1e148153">Girardus</persName> et <persName key="d1e19213" xml:id="d1e148156">uxor
+                    </persName> et duo clientes, <persName key="d1e19200" xml:id="d1e148148">Gislebertus molendinarius</persName> et <persName>Saselinus</persName>.     Hoc sicut <persName key="d1e19207" xml:id="d1e148153">Girardus</persName> et <persName key="d1e19213" xml:id="d1e148156">uxor
                         ejus</persName> fecerunt, concesserunt et laudaverunt fratres ejusdem domine
                         <persName key="d1e19219" xml:id="d1e148159">Galerannus</persName>, <persName key="d1e19225" xml:id="d1e148162">Milo</persName> et <persName key="d1e19231" xml:id="d1e148165">Bernardus</persName>, sed et mater eorum
                     que et predicte <persName key="d1e19237" xml:id="d1e148169">Letuidis</persName>
@@ -1200,36 +1314,60 @@
                         <num>xx</num>
                     <hi rend="superscript" xml:space="preserve">ti </hi>solidos provinienses.</p>
                 <p n="21">
-                    <hi rend="red">
-                        <num>xxi</num>
-                    </hi>
-                    <supplied>Carta supradicti Oberti Villani</supplied>. <persName key="d1e25299" xml:id="d1e148251">Obertus miles qui dicebatur Villanus</persName> acensivit
-                    ecclesie <orgName key="stutzmann_himanis#282689" xml:id="d1e148254" corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName>
-                    quicquid habebat a <placeName key="stutzmann_himanis#324396" xml:id="d1e148257" corresp="Flacière (La) (Côte-d'Or, Fontaine-lès-Dijon)">rivo
-                        Flaciaci</placeName> usque <placeName key="stutzmann_himanis#324356" xml:id="d1e148260" corresp="Seigny (Côte-d'Or, Montbard)">Saigniacum</placeName> et in <placeName key="stutzmann_himanis#325283" xml:id="d1e148264" corresp="Altera vallis">Altera vale</placeName> et in
-                        <placeName key="stutzmann_himanis#325158" xml:id="d1e148268" corresp="monte super Flaciacum">monte super
-                        Flaciacum</placeName>, totum scilicet quod parciebatur cum <persName key="d1e19330" xml:id="d1e148271">Girardo de <placeName key="stutzmann_himanis#324442" xml:id="d1e148273" corresp="Duesme (Côte-d'Or, Châtillon-sur-Seine)">Duismo</placeName>
-                    </persName> et cum <persName key="d1e19336" xml:id="d1e148276">Gisleberto de
-                            <placeName key="stutzmann_himanis#324433" xml:id="d1e148278" corresp="Coulmier-le-Sec (Côte-d'Or, Châtillon-sur-Seine)">Columberio</placeName>
-                    </persName> in predictis locis et quartum partem tenementi <persName key="d1e19342" xml:id="d1e148281">Radulphi de <placeName key="stutzmann_himanis#324356" xml:id="d1e148283" corresp="Seigny (Côte-d'Or, Montbard)">
-                            <foreign>Saigni</foreign>
-                        </placeName>
-                    </persName>, que ad eum jure provenerat post mortem <persName key="d1e19348" xml:id="d1e148287">avunculi ejusdem Radulphi nomine David</persName> sine
-                    herede uxoris mortui, excepto siquid de capitibus suis inibi habebant homines
-                    ejus, hoc non acensivit. Concessit tamen id ipsum predicte ecclesie si ab
-                    hominibus illis adquirere possent. Census autem est quinque solidi proviniensis
-                    monete vel illius que sine scambio apud <placeName key="stutzmann_himanis#324355" xml:id="d1e148291" corresp="Rougemont (Côte-d'Or, Montbard)">Rubeum Montem</placeName> curret et in adventu ante
-                    natale Domini reddetur.    Pepigit autem idem <persName key="d1e19355" xml:id="d1e148294">Robertus</persName> quod contra omnes garantiam ecclesie
-                    inde portaret et de hoc dedit responsorem <persName key="d1e19361" xml:id="d1e148297">Rainardum vicecomitem</persName>.    De introitu autem
-                    acensus habuit <num>xxxv</num> solidos proviniensis monete et sex novalia
-                    terre.    Testes sunt <persName key="d1e19367" xml:id="d1e148303">Rainaldus
-                        vicecomes</persName>, <persName key="d1e19373" xml:id="d1e148306">Rainaldus
-                        Caldaria</persName>, <persName key="d1e19379" xml:id="d1e148310">Helyas de
-                            <placeName key="stutzmann_himanis#324355" xml:id="d1e148312" corresp="Rougemont (Côte-d'Or, Montbard)">Rubeo
-                            Monte</placeName>
-                    </persName>.     Hoc sicut <persName key="d1e19385" xml:id="d1e148315">Obertus</persName> fecit laudavit et concessit <persName key="d1e25321" xml:id="d1e148318">uxor ejus vulgo vocata <hi rend="italic">Merillums</hi>
-                    </persName> et <persName key="d1e19392" xml:id="d1e148323">filia eorum
-                        Hulduidis</persName>. Unde sunt testes <persName key="d1e19398" xml:id="d1e148326">Andreas</persName> et <persName key="d1e19404" xml:id="d1e148329">Lambertus</persName>, filii <persName key="d1e19410" xml:id="d1e148333">Astute</persName>, et <persName key="d1e19416" xml:id="d1e148336">Johannes</persName>.</p>
+                <hi rend="red">
+                    <num>xxi</num>
+                </hi>
+                <supplied>Carta supradicti Oberti Villani</supplied>. <persName
+                    key="stutzmann_himanis#325648" xml:id="d1e148251" corresp="Obert Villain, miles"
+                    >Obertus miles qui dicebatur Villanus</persName> acensivit ecclesie <orgName
+                    key="stutzmann_himanis#282689" xml:id="d1e148254"
+                    corresp="abbaye Notre-Dame de Fontenay (1119 -)">Fonteneti</orgName> quicquid
+                habebat a <placeName key="stutzmann_himanis#324396" xml:id="d1e148257"
+                    corresp="Flacière (La) (Côte-d'Or, Fontaine-lès-Dijon)">rivo
+                    Flaciaci</placeName> usque <placeName key="stutzmann_himanis#324356"
+                    xml:id="d1e148260" corresp="Seigny (Côte-d'Or, Montbard)">Saigniacum</placeName>
+                et in <placeName key="stutzmann_himanis#325283" xml:id="d1e148264"
+                    corresp="Altera vallis">Altera vale</placeName> et in <placeName
+                    key="stutzmann_himanis#325158" xml:id="d1e148268"
+                    corresp="monte super Flaciacum">monte super Flaciacum</placeName>, totum
+                scilicet quod parciebatur cum <persName key="d1e19330" xml:id="d1e148271">Girardo de
+                        <placeName key="stutzmann_himanis#324442" xml:id="d1e148273"
+                        corresp="Duesme (Côte-d'Or, Châtillon-sur-Seine)">Duismo</placeName>
+                </persName> et cum <persName key="d1e19336" xml:id="d1e148276">Gisleberto de
+                        <placeName key="stutzmann_himanis#324433" xml:id="d1e148278"
+                        corresp="Coulmier-le-Sec (Côte-d'Or, Châtillon-sur-Seine)"
+                        >Columberio</placeName>
+                </persName> in predictis locis et quartum partem tenementi <persName key="d1e19342"
+                    xml:id="d1e148281">Radulphi de <placeName key="stutzmann_himanis#324356"
+                        xml:id="d1e148283" corresp="Seigny (Côte-d'Or, Montbard)">
+                        <foreign>Saigni</foreign>
+                    </placeName>
+                </persName>, que ad eum jure provenerat post mortem <persName key="d1e19348"
+                    xml:id="d1e148287">avunculi ejusdem Radulphi nomine David</persName> sine herede
+                uxoris mortui, excepto siquid de capitibus suis inibi habebant homines ejus, hoc non
+                acensivit. Concessit tamen id ipsum predicte ecclesie si ab hominibus illis
+                adquirere possent. Census autem est quinque solidi proviniensis monete vel illius
+                que sine scambio apud <placeName key="stutzmann_himanis#324355" xml:id="d1e148291"
+                    corresp="Rougemont (Côte-d'Or, Montbard)">Rubeum Montem</placeName> curret et in
+                adventu ante natale Domini reddetur.    Pepigit autem idem <persName key="d1e19355"
+                    xml:id="d1e148294">Robertus</persName> quod contra omnes garantiam ecclesie inde
+                portaret et de hoc dedit responsorem <persName key="d1e19361" xml:id="d1e148297"
+                    >Rainardum vicecomitem</persName>.    De introitu autem acensus habuit
+                    <num>xxxv</num> solidos proviniensis monete et sex novalia terre.    Testes sunt
+                    <persName key="d1e19367" xml:id="d1e148303">Rainaldus vicecomes</persName>,
+                    <persName key="d1e19373" xml:id="d1e148306">Rainaldus Caldaria</persName>,
+                    <persName key="d1e19379" xml:id="d1e148310">Helyas de <placeName
+                        key="stutzmann_himanis#324355" xml:id="d1e148312"
+                        corresp="Rougemont (Côte-d'Or, Montbard)">Rubeo Monte</placeName>
+                </persName>.     Hoc sicut <persName key="d1e19385" xml:id="d1e148315"
+                    >Obertus</persName> fecit laudavit et concessit <persName key="d1e25321"
+                    xml:id="d1e148318">uxor ejus vulgo vocata <hi rend="italic">Merillums</hi>
+                </persName> et <persName key="d1e19392" xml:id="d1e148323">filia eorum
+                    Hulduidis</persName>. Unde sunt testes <persName key="d1e19398"
+                    xml:id="d1e148326">Andreas</persName> et <persName key="d1e19404"
+                    xml:id="d1e148329">Lambertus</persName>, filii <persName key="d1e19410"
+                    xml:id="d1e148333">Astute</persName>, et <persName key="d1e19416"
+                    xml:id="d1e148336">Johannes</persName>.</p>
                 <p n="22">
                     <hi rend="red">
                         <num>xxii</num>
