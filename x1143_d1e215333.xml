@@ -729,15 +729,19 @@
                     corresp="Renier de Frôlois (fl. 1143), Rainerus de Frolesio">Rainerus de
                         <placeName key="stutzmann_himanis#323218" xml:id="d1e146965"
                         corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frolesio</placeName>
-                </persName>, <persName key="d1e18072" xml:id="d1e146968">Bertalphus</persName> et
-                    <persName key="d1e18078" xml:id="d1e146971">Herlebaldus de <placeName
-                        key="stutzmann_himanis#82732" xml:id="d1e146973"
+                </persName>, <persName key="stutzmann_himanis#367103" xml:id="d1e146968"
+                    corresp="Bertalphus de Grancey, Bertalphus de Granceio">Bertalphus</persName> et
+                    <persName key="stutzmann_himanis#367105" xml:id="d1e146971"
+                    corresp="Herlebaldus de Grancey, Herlebaldus de Granceio">Herlebaldus de
+                        <placeName key="stutzmann_himanis#82732" xml:id="d1e146973"
                         corresp="Grancey (Côte-d'Or, Dijon, Is-sur-Tille)">Granceio</placeName>
-                </persName>, <persName key="d1e18084" xml:id="d1e146977">Hugo de <placeName
+                </persName>, <persName key="stutzmann_himanis#367111" xml:id="d1e146977"
+                    corresp="Hugues de Vileflor, Hugo de Vileflor">Hugo de <placeName
                         key="stutzmann_himanis#325052" xml:id="d1e146979" corresp="Vileflor">
                         <foreign>Vileflor</foreign>
                     </placeName>
-                </persName>, <persName key="d1e18090" xml:id="d1e146983">Haimo de <placeName
+                </persName>, <persName key="stutzmann_himanis#367109" xml:id="d1e146983"
+                    corresp="Aimon de Salives, Haimo de Saliva">Haimo de <placeName
                         key="stutzmann_himanis#324357" xml:id="d1e146985"
                         corresp="Salives (Côte-d'Or, Is-sur-Tille)">Saliva</placeName>
                 </persName>
@@ -746,8 +750,9 @@
                         <witEnd wit="#a"/>
                         <witDetail wit="#a">Suite remplacée par "etc."</witDetail>
                     </lem>
-                </app>, <persName key="d1e18097" xml:id="d1e146993">Hulduinus de <placeName
-                        key="stutzmann_himanis#323218" xml:id="d1e146995"
+                </app>, <persName key="stutzmann_himanis#367107" xml:id="d1e146993"
+                    corresp="Hilduin de Frôlois (fl. ante 1143), Hulduinus de Frolesio">Hulduinus de
+                        <placeName key="stutzmann_himanis#323218" xml:id="d1e146995"
                         corresp="Frôlois (Côte-d'Or, Venarey,Montbard)">Frolesio</placeName>
                 </persName>. Habuerunt autem pro hoc dono de beneficio <orgName
                     key="stutzmann_himanis#282689" xml:id="d1e146998"
@@ -766,8 +771,9 @@
                         corresp="Saint-Beury (Côte-d'Or, Semur-en-Auxois)">Sancto Burri</placeName>
                 </persName>
                 <hi rend="smallcaps">lxx</hi>
-                <hi rend="superscript">a</hi> solidos et <persName key="d1e18121" xml:id="d1e147020"
-                    >Odo <foreign>Bolguerels</foreign>
+                <hi rend="superscript">a</hi> solidos et <persName key="stutzmann_himanis#367084"
+                    xml:id="d1e147020" corresp="Eudes Boguerels, Odo Boguerels">Odo
+                        <foreign>Bolguerels</foreign>
                 </persName>
                 <num>xx</num>
                 <hi rend="superscript">ti</hi> solidos.</p>
@@ -786,7 +792,9 @@
                     corresp="Hugues II, duc de Bourgogne (1103-1143)">Hugo dux <placeName
                         key="stutzmann_himanis#325098" xml:id="d1e147045" corresp="Bourgogne"
                         >Burgundie</placeName>
-                </persName>, laudante ducissa <persName key="d1e18127" xml:id="d1e147048">Matilde
+                </persName>, laudante ducissa <persName key="stutzmann_himanis#367113"
+                    xml:id="d1e147048"
+                    corresp="Mathilde de Mayenne, épouse de Hugues II, duc de Bourgogne">Matilde
                     uxore sua</persName>, dedit in <app>
                     <lem>elemosinam</lem>
                     <rdg wit="#a">eleemosynam</rdg>
@@ -800,27 +808,37 @@
                     corresp="Grignon (Côte-d'Or, Montbard)">Grinonis castri</placeName> cujus
                     <persName key="stutzmann_himanis#324644" xml:id="d1e147067"
                     corresp="Hugues II, duc de Bourgogne (1103-1143)">ipse dux</persName> erat
-                dominus.     Hujus doni testes sunt <persName key="d1e18134" xml:id="d1e147070"
+                dominus.     Hujus doni testes sunt <persName key="stutzmann_himanis#367116"
+                    xml:id="d1e147070"
+                    corresp="Tecelin archiprêtre d'Aignay (fl. ante 1143), Tecelinus archipresbiter Ajennaci"
                     >Tecelinus <app>
                         <lem>archipresbiter</lem>
                         <rdg wit="#a">archipresbyter</rdg>
                     </app>
-                    <placeName key="stutzmann_himanis#325250" xml:id="d1e147079" corresp="Ajennaci"
+                    <placeName key="stutzmann_himanis#324328" xml:id="d1e147079"
+                        corresp="Aignay-le-Duc (Côte-d'Or, Châtillon-sur-Seine)"
                         >Ajennaci</placeName>
-                </persName>, ubi et hoc actum est, <persName key="d1e18140" xml:id="d1e147083">Hugo
-                    Cavalgeia</persName>, <persName key="d1e18146" xml:id="d1e147087">Bartholomeus
-                    de <placeName key="stutzmann_himanis#324369" xml:id="d1e147089"
+                </persName>, ubi et hoc actum est, <persName key="stutzmann_himanis#367118"
+                    xml:id="d1e147083" corresp="Hugues Cavalgeia, Hugo Cavalgeia">Hugo
+                    Cavalgeia</persName>, <persName key="stutzmann_himanis#367119"
+                    xml:id="d1e147087"
+                    corresp="Barthelemy de Sombernon (fl. ante 1143), Bartholomeus de Sumbernun"
+                    >Bartholomeus de <placeName key="stutzmann_himanis#324369" xml:id="d1e147089"
                         corresp="Sombernon (Côte-d'Or, Talant)">
                         <foreign>Sumbernun</foreign>
                     </placeName>
-                </persName>, <persName key="d1e18152" xml:id="d1e147093">Petrus de <placeName
-                        key="stutzmann_himanis#324444" xml:id="d1e147095"
+                </persName>, <persName key="stutzmann_himanis#367001" xml:id="d1e147093"
+                    corresp="Pierre d'Echalot, dit Garlandeis (fl. ante 1143), Petrus de Eschaloio, dictus Garlandeis"
+                    >Petrus de <placeName key="stutzmann_himanis#324444" xml:id="d1e147095"
                         corresp="Échalot (Côte-d'Or, Châtillon-sur-Seine)">
                         <app>
                             <lem>Eschaloio</lem>
                             <rdg wit="#a">Escaloio</rdg>
                         </app>
-                    </placeName> major</persName>, <persName key="d1e18158" xml:id="d1e147103"
+                    </placeName> major</persName><note>Identification proposée avec Pierre d'Echalot
+                    dit Garlandeis, mais l'adjectif "major" invite à la prudence.</note>, <persName
+                    key="stutzmann_himanis#367121" xml:id="d1e147103"
+                    corresp="Constantin, prévôt de Mauvilly (fl. ante 1143), Constantinus praepositus Maveli"
                     >Constantius <app>
                         <lem>prepositus</lem>
                         <rdg wit="#a">prępositus</rdg>
