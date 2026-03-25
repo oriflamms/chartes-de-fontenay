@@ -1129,8 +1129,7 @@
                     <w xml:id="w_Fontenay_411">L<choice>
                             <expan ana="ori:align-no">am</expan>
                             <abbr>ã</abbr>
-                        </choice>
-                        <choice>
+                        </choice><choice>
                             <expan ana="ori:align-no">ber</expan>
                             <abbr>b̃</abbr>
                         </choice>t<choice>
